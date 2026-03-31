@@ -130,6 +130,12 @@ def print_leaderboard(results, top_n):
 
 
 def save_results(ranked, output_path):
+    # Rotate previous results before overwriting
+    prev_path = output_path.replace('.csv', '_prev.csv')
+    if os.path.exists(output_path):
+        import shutil
+        shutil.copy2(output_path, prev_path)
+
     rows = []
     for r in ranked:
         rows.append({
@@ -142,6 +148,8 @@ def save_results(ranked, output_path):
     df = pd.DataFrame(rows)
     df.to_csv(output_path, index=False)
     print(f"Full results saved: {output_path}")
+    if os.path.exists(prev_path):
+        print(f"Previous results preserved: {prev_path}")
 
 
 def main():

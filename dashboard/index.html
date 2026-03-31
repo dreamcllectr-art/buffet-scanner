@@ -195,12 +195,35 @@
     padding: 14px 20px;
   }
 
+  .rank-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
   .rank {
     font-family: var(--mono);
     font-size: 11px;
     color: var(--cream-dim);
   }
   .rank.top3 { color: var(--gold); font-weight: 500; }
+  .rank-delta {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.02em;
+  }
+  .rd-up   { color: #5A9E7A; }
+  .rd-down { color: #9E5A5A; }
+  .rd-new  { color: var(--gold); }
+  .rd-flat { color: var(--border2); }
+
+  .score-delta {
+    font-family: var(--mono);
+    font-size: 10px;
+    margin-left: 6px;
+    line-height: 1;
+  }
+  .sd-up   { color: #5A9E7A; }
+  .sd-down { color: #9E5A5A; }
 
   .ticker {
     font-family: var(--mono);
@@ -653,20 +676,37 @@ function DetailPanel({ ticker }) {
 }
 
 // ── Stock row ────────────────────────────────────────────────────────────────
-function StockRow({ stock, rank, animDelay }) {
+function RankDelta({ d }) {
+  if (d === null) return <span className="rank-delta rd-new">NEW</span>;
+  if (d === 0)    return <span className="rank-delta rd-flat">―</span>;
+  if (d > 0)      return <span className="rank-delta rd-up">▲{d}</span>;
+  return              <span className="rank-delta rd-down">▼{Math.abs(d)}</span>;
+}
+
+function ScoreDelta({ d }) {
+  if (d === null || d === 0) return null;
+  const cls = d > 0 ? 'sd-up' : 'sd-down';
+  return <span className={`score-delta ${cls}`}>{d > 0 ? '+' : ''}{d.toFixed(1)}</span>;
+}
+
+function StockRow({ stock, rank, animDelay, rankDelta, scoreDelta }) {
   const [open, setOpen] = useState(false);
   const barPct = (stock.buffett_score / 10) * 100;
 
   return (
     <div className={`row ${open ? 'expanded' : ''}`} onClick={() => setOpen(o => !o)}>
       <div className="row-main">
-        <div className={`rank ${rank <= 3 ? 'top3' : ''}`}>{rank}</div>
+        <div className="rank-wrap">
+          <span className={`rank ${rank <= 3 ? 'top3' : ''}`}>{rank}</span>
+          <RankDelta d={rankDelta} />
+        </div>
         <div className="ticker">{stock.ticker}</div>
         <div className="score-cell">
           <div className="score-bar-wrap">
             <span className="score-num" style={{color: scoreColor(stock.buffett_score)}}>
               {stock.buffett_score.toFixed(1)}
             </span>
+            <ScoreDelta d={scoreDelta} />
             <div className="score-bar-track">
               <div
                 className={`score-bar-fill ${barClass(stock.verdict)}`}
@@ -700,14 +740,32 @@ function StockRow({ stock, rank, animDelay }) {
 // ── Main App ─────────────────────────────────────────────────────────────────
 function App() {
   const [stocks, setStocks] = useState([]);
+  const [deltas, setDeltas] = useState({});  // ticker → {rank, score}
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('ALL');
 
   useEffect(() => {
-    fetch('/scan_results.csv')
-      .then(r => r.text())
-      .then(text => { setStocks(parseCSV(text)); setLoading(false); })
-      .catch(e => { console.error(e); setLoading(false); });
+    const curr = fetch('/scan_results.csv').then(r => r.text()).then(parseCSV);
+    const prev = fetch('/scan_results_prev.csv').then(r => r.ok ? r.text() : null).then(t => t ? parseCSV(t) : null).catch(() => null);
+
+    Promise.all([curr, prev]).then(([current, previous]) => {
+      setStocks(current);
+
+      if (previous) {
+        const prevRank = {}, prevScore = {};
+        previous.forEach((s, i) => { prevRank[s.ticker] = i + 1; prevScore[s.ticker] = s.buffett_score; });
+        const d = {};
+        current.forEach((s, i) => {
+          const rank = i + 1;
+          d[s.ticker] = {
+            rank:  s.ticker in prevRank  ? prevRank[s.ticker] - rank  : null,  // positive = moved up
+            score: s.ticker in prevScore ? +(s.buffett_score - prevScore[s.ticker]).toFixed(1) : null,
+          };
+        });
+        setDeltas(d);
+      }
+      setLoading(false);
+    }).catch(e => { console.error(e); setLoading(false); });
   }, []);
 
   const filters = ['ALL', 'Own Forever', 'Watchlist', 'Pass', 'Avoid'];
@@ -804,7 +862,11 @@ function App() {
           <div className="th right">Verdict</div>
         </div>
         {filtered.map((s, i) => (
-          <StockRow key={s.ticker} stock={s} rank={i + 1} animDelay={i * 30} />
+          <StockRow
+            key={s.ticker} stock={s} rank={i + 1} animDelay={i * 30}
+            rankDelta={deltas[s.ticker]?.rank ?? null}
+            scoreDelta={deltas[s.ticker]?.score ?? null}
+          />
         ))}
       </div>
 

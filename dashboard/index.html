@@ -164,7 +164,7 @@
   }
   .table-head {
     display: grid;
-    grid-template-columns: 40px 90px 1fr 180px 100px 110px;
+    grid-template-columns: 40px 90px 1fr 180px 110px;
     padding: 10px 20px;
     background: var(--surface);
     border-bottom: 1px solid var(--border);
@@ -190,7 +190,7 @@
   .row.expanded { background: var(--surface2); }
   .row-main {
     display: grid;
-    grid-template-columns: 40px 90px 1fr 180px 100px 110px;
+    grid-template-columns: 40px 90px 1fr 180px 110px;
     align-items: center;
     padding: 14px 20px;
   }
@@ -721,11 +721,7 @@ function StockRow({ stock, rank, animDelay, rankDelta, scoreDelta }) {
         <div className="conviction-cell">
           <span className={`conviction ${convClass(stock.conviction)}`}>{stock.conviction}</span>
         </div>
-        <div className="alpha-cell">
-          <span className={`alpha ${stock.alpha_adj > 0 ? 'pos' : stock.alpha_adj < 0 ? 'neg' : 'zero'}`}>
-            {stock.alpha_adj > 0 ? '+' : ''}{stock.alpha_adj.toFixed(2)}
-          </span>
-        </div>
+
         <div className="verdict-cell">
           <span className={`verdict ${verdictClass(stock.verdict)}`}>
             {stock.verdict}<span className="chevron">▾</span>
@@ -858,7 +854,6 @@ function App() {
           <div className="th">Ticker</div>
           <div className="th">Score</div>
           <div className="th center">Conviction</div>
-          <div className="th right">Alpha Adj</div>
           <div className="th right">Verdict</div>
         </div>
         {filtered.map((s, i) => (

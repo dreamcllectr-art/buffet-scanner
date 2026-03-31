@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: DDOG
+*Generated: 2026-03-31 10:49 | Price: $115.81 | Mkt Cap: $41B*
+
+## Circle of Competence: IN
+In circle (Technology/Software - Application)
+
+---
+
+## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 169.9x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 1.8% (4y); Earnings std: 242.3% (highly volatile); FCF/NI: 449% (strong); Gross margin: 80% (pricing power) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% — strong pricing power; Operating margin 1% — thin; Rev growth 29% — demand pull | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 43.8x — expensive; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+
+## Buffett Score: 4.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Technology/Software - Application)
+- **Margin of Safety**: -96% — ABSENT ($116 > IV $5 at 15x for -3% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
+
+## Lollapalooza Check
+No (2 forces only: strong moat, secular growth)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

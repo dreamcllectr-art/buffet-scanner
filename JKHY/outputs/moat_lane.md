@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: JKHY
+*Generated: 2026-03-31 10:49 | Price: $156.43 | Mkt Cap: $11B*
+
+## Circle of Competence: IN
+In circle (Technology/Information Technology Services)
+
+---
+
+## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Information Technology Services | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 22.0% (4y); Earnings std: 9.8% (predictable); FCF/NI: 78%; Gross margin: 44% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat; Operating margin 26% | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.5x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
+## Conviction: MODERATE
+## Verdict: Watchlist
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Technology/Information Technology Services)
+- **Margin of Safety**: 12% — thin (IV $174 at 25x)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
+
+## Lollapalooza Check
+No (0 forces only: none)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.14 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
+```

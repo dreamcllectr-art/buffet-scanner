@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEP
-*Generated: 2026-03-30 18:35 | Price: $157.54 | Mkt Cap: $215B*
+*Generated: 2026-03-31 10:49 | Price: $156.82 | Mkt Cap: $214B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Non-Alcoholic)
@@ -7,6 +7,8 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings std: 8.5% (predictable); FCF/NI: 80%; Gross margin: 54% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat; Operating margin 14% — thin | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 68%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 67%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +38,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Beverages - Non-Alcoholic)
-- **Margin of Safety**: -5% — ABSENT ($158 > IV $150 at 25x for 68% growth)
+- **Margin of Safety**: -4% — ABSENT ($157 > IV $150 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: PH
+*Generated: 2026-03-31 10:49 | Price: $861.48 | Mkt Cap: $109B*
+
+## Circle of Competence: IN
+In circle (Industrials/Specialty Industrial Machinery)
+
+---
+
+## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 12.1% (4y); Earnings std: 24.4% (volatile); FCF/NI: 123% (strong); Gross margin: 37% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — weak pricing power; Operating margin 22% | Weak pricing |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 68%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+
+## Buffett Score: 4.4 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
+- **Margin of Safety**: -52% — ABSENT ($861 > IV $411 at 15x for -9% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+No (0 forces only: none)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

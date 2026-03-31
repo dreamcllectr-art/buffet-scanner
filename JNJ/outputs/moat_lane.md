@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-03-30 18:34 | Price: $242.06 | Mkt Cap: $583B*
+*Generated: 2026-03-31 10:49 | Price: $242.49 | Mkt Cap: $584B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -7,6 +7,8 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.8% (4y); Earnings std: 75.3% (highly volatile); FCF/NI: 87% (strong); Gross margin: 68% (pricing power) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% — strong pricing power; Operating margin 24% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.3x — fair price; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

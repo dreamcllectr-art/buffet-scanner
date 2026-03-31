@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-03-30 18:35 | Price: $261.74 | Mkt Cap: $70B*
+*Generated: 2026-03-31 10:49 | Price: $258.08 | Mkt Cap: $69B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -7,6 +7,8 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 | Quality | 1.6/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings std: 59.0% (highly volatile); FCF/NI: 177% (strong); Gross margin: 9% (commodity-like) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — weak pricing power; Operating margin 4% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 14.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 14.2% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +38,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
-- **Margin of Safety**: 27% — thin (IV $333 at 15x)
+- **Margin of Safety**: 29% — thin (IV $333 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLK
-*Generated: 2026-03-30 18:35 | Price: $951.96 | Mkt Cap: $148B*
+*Generated: 2026-03-31 10:49 | Price: $934.06 | Mkt Cap: $145B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -7,6 +7,8 @@ In circle (Financial Services/Asset Management)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ In circle (Financial Services/Asset Management)
 | Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.3% (4y); Earnings std: 14.5%; FCF/NI: 73%; Gross margin: 47% | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 47% — moderate moat; Operating margin 37% — durable; Rev growth 23% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 40%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 36%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +38,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: -44% — ABSENT ($952 > IV $530 at 15x for -32% growth)
+- **Margin of Safety**: -43% — ABSENT ($934 > IV $530 at 15x for -32% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
 - **Mr. Market**: Neutral

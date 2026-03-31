@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-03-30 18:35 | Price: $67.04 | Mkt Cap: $113B*
+*Generated: 2026-03-31 10:49 | Price: $67.02 | Mkt Cap: $113B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Tobacco)
@@ -7,6 +7,8 @@ In circle (Consumer Defensive/Tobacco)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|

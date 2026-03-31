@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-03-30 18:34 | Price: $286.94 | Mkt Cap: $774B*
+*Generated: 2026-03-31 10:49 | Price: $283.77 | Mkt Cap: $765B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Diversified)
@@ -7,6 +7,8 @@ In circle (Financial Services/Banks - Diversified)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -21,9 +23,9 @@ In circle (Financial Services/Banks - Diversified)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 16.1%; Earnings std: 17.1%; FCF/NI: -5% (weak conversion); Gross margin: 0% (commodity-like) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.1B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.2B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 41% — durable | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 63% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 60% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10
@@ -36,7 +38,7 @@ In circle (Financial Services/Banks - Diversified)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Banks - Diversified)
-- **Margin of Safety**: 5% — thin (IV $300 at 15x)
+- **Margin of Safety**: 6% — thin (IV $300 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

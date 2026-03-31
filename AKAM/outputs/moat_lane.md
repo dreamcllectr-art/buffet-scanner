@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: AKAM
+*Generated: 2026-03-31 10:49 | Price: $110.22 | Mkt Cap: $16B*
+
+## Circle of Competence: IN
+In circle (Technology/Software - Infrastructure)
+
+---
+
+## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 2.0%; key-man / succession risk | 15% | -20% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings std: 8.0% (predictable); FCF/NI: 147% (strong); Gross margin: 59% (pricing power) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 59% — moderate moat; Operating margin 14% — thin | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 80%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
+## Conviction: MODERATE
+## Verdict: Watchlist
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
+- **Margin of Safety**: -58% — ABSENT ($110 > IV $46 at 15x for -37% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+No (1 forces only: attractive valuation)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.11 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
+```

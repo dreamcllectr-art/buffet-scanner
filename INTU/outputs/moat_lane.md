@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-03-30 18:35 | Price: $426.71 | Mkt Cap: $119B*
+*Generated: 2026-03-31 10:49 | Price: $429.03 | Mkt Cap: $119B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -7,6 +7,8 @@ In circle (Technology/Software - Application)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ In circle (Technology/Software - Application)
 | Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 11.9% (4y); Earnings std: 13.3%; FCF/NI: 173% (strong); Gross margin: 81% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 81% — strong pricing power; Operating margin 16%; Rev growth 41% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.1x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +38,7 @@ In circle (Technology/Software - Application)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -46% — ABSENT ($427 > IV $231 at 15x for -18% growth)
+- **Margin of Safety**: -46% — ABSENT ($429 > IV $230 at 15x for -18% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

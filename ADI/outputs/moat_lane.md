@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADI
-*Generated: 2026-03-30 18:35 | Price: $304.125 | Mkt Cap: $148B*
+*Generated: 2026-03-31 10:49 | Price: $303.1 | Mkt Cap: $148B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -7,6 +7,8 @@ In circle (Technology/Semiconductors)
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -36,7 +38,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -55% — ABSENT ($304 > IV $137 at 25x for 117% growth)
+- **Margin of Safety**: -55% — ABSENT ($303 > IV $136 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

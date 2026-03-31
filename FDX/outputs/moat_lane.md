@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-03-30 18:35 | Price: $345.87 | Mkt Cap: $83B*
+*Generated: 2026-03-31 10:49 | Price: $341.76 | Mkt Cap: $82B*
+
+> ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.8% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Industrials/Integrated Freight & Logistics)
@@ -8,11 +10,13 @@ In circle (Industrials/Integrated Freight & Logistics)
 
 ## Inversion First: What Could Kill This?
 
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 7.4%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,12 +25,12 @@ In circle (Industrials/Integrated Freight & Logistics)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 10.3% (4y); Earnings std: 6.1% (predictable); FCF/NI: 73%; Gross margin: 28% (commodity-like) | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.4%; Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 28% — weak pricing power; Operating margin 8% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.5x — fair price; 52w range position: 76%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 74%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +40,13 @@ In circle (Industrials/Integrated Freight & Logistics)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Integrated Freight & Logistics)
-- **Margin of Safety**: -19% — ABSENT ($346 > IV $281 at 15x for -13% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Aligned — 7.4% insider ownership
+- **Margin of Safety**: -18% — ABSENT ($342 > IV $281 at 15x for -13% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 

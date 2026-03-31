@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: PKG
+*Generated: 2026-03-31 10:49 | Price: $209.04 | Mkt Cap: $19B*
+
+## Circle of Competence: IN
+In circle (Consumer Cyclical/Packaging & Containers)
+
+---
+
+## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 3.4/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings std: 13.6%; FCF/NI: 84% (strong); Gross margin: 22% (commodity-like) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 14% — thin | Weak pricing |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 47%; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+
+## Buffett Score: 5.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Consumer Cyclical/Packaging & Containers)
+- **Margin of Safety**: -39% — ABSENT ($209 > IV $129 at 15x for -56% growth)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+No (2 forces only: attractive valuation, no material killers)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

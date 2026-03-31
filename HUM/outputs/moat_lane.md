@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-03-30 18:35 | Price: $167.995 | Mkt Cap: $20B*
+*Generated: 2026-03-31 10:49 | Price: $166.0 | Mkt Cap: $20B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -7,6 +7,8 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
+
+*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -23,7 +25,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings std: 26.5% (volatile); FCF/NI: 118% (strong); Gross margin: 15% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — weak pricing power; Operating margin -2% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +38,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
-- **Margin of Safety**: 17% — thin (IV $197 at 20x)
+- **Margin of Safety**: 19% — thin (IV $197 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

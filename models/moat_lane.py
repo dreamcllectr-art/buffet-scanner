@@ -680,7 +680,6 @@ def generate_report(ticker, info, score, alpha, conviction, verdict,
         f"{circle_note}\n",
         "---\n",
         "## Inversion First: What Could Kill This?\n",
-        "*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*\n",
         "| # | Killer | Description | Prob | Impact on FV | Material? |",
         "|---|--------|-------------|------|-------------|-----------|",
     ]

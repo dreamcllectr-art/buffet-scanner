@@ -421,7 +421,10 @@ def apply_mental_models(info, quality_score, moat_score, val_score, killers):
     # Margin of Safety (growth-adjusted: use PEG-implied fair multiple)
     price = info.get('currentPrice', 0)
     eps = info.get('trailingEps', 0) or 0
-    earnings_growth = info.get('earningsGrowth', 0) or info.get('revenueGrowth', 0) or 0
+    # earningsGrowth from yfinance is TTM quarterly YoY — one hot quarter can read 60-100%+.
+    # Cap at 25% for multiple selection to avoid inflated IV from a single blowout quarter.
+    raw_growth = info.get('earningsGrowth', 0) or info.get('revenueGrowth', 0) or 0
+    earnings_growth = min(raw_growth, 0.25)
     if eps > 0:
         # Growth-adjusted multiple: 15x for 0% growth, up to 25x for >20% growth
         # This is Peter Lynch's PEG-inspired approach — Buffett pays more for growth
@@ -513,6 +516,26 @@ def run_moat_lane(ticker_sym):
     try:
         insider_df = t.insider_transactions
     except:
+        pass
+
+    # --- Detect yfinance insider misclassification ---
+    # yfinance sometimes counts a large institutional holder (e.g. Berkshire Hathaway)
+    # as "insiders" when their pct held ≈ heldPercentInsiders. Correct before scoring.
+    try:
+        inst_holders = t.institutional_holders
+        if inst_holders is not None and len(inst_holders):
+            top_inst_pct = float(inst_holders.iloc[0]['pctHeld'])
+            reported_insider_pct = info.get('heldPercentInsiders', 0) or 0
+            if reported_insider_pct > 0.05 and abs(top_inst_pct - reported_insider_pct) < 0.025:
+                top_name = inst_holders.iloc[0]['Holder']
+                print(f"WARNING: heldPercentInsiders ({reported_insider_pct:.1%}) matches top institutional "
+                      f"holder {top_name} ({top_inst_pct:.1%}) — likely misclassification. Resetting to 0.")
+                info = dict(info)  # make mutable copy
+                info['heldPercentInsiders'] = 0.0
+                info['_insider_misclassification_note'] = (
+                    f"yfinance misclassified {top_name} ({top_inst_pct:.1%} inst.) as insider"
+                )
+    except Exception as e:
         pass
 
     # Peer data
@@ -640,13 +663,24 @@ def generate_report(ticker, info, score, alpha, conviction, verdict,
     mc = info.get('marketCap', 0)
     mc_str = f"${mc/1e9:.0f}B" if mc else 'N/A'
 
+    misclass_note = info.get('_insider_misclassification_note', '')
+    data_warnings = []
+    if misclass_note:
+        data_warnings.append(f"⚠ DATA: {misclass_note}")
+
     lines = [
         f"# Buffett/Munger Moat Lane: {ticker}",
         f"*Generated: {now} | Price: ${price} | Mkt Cap: {mc_str}*\n",
+    ]
+    if data_warnings:
+        for w in data_warnings:
+            lines.append(f"> {w}\n")
+    lines += [
         f"## Circle of Competence: {'IN' if in_circle else 'OUTSIDE'}",
         f"{circle_note}\n",
         "---\n",
         "## Inversion First: What Could Kill This?\n",
+        "*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*\n",
         "| # | Killer | Description | Prob | Impact on FV | Material? |",
         "|---|--------|-------------|------|-------------|-----------|",
     ]

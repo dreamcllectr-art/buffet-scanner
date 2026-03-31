@@ -3,10 +3,12 @@ Buffett/Munger Universe Scanner
 Runs moat_lane scoring across a ticker universe, ranks by Buffett score.
 
 Usage:
-  python3 scanner.py                  # S&P 100 universe
-  python3 scanner.py --top 20         # show top 20
-  python3 scanner.py --tickers AAPL MSFT NVDA   # custom list
-  python3 scanner.py --workers 10     # parallel workers
+  python3 scanner.py                      # S&P 500 + Russell 1000 (default)
+  python3 scanner.py --universe sp100     # S&P 100 only
+  python3 scanner.py --universe sp500     # S&P 500 only
+  python3 scanner.py --universe russell   # Russell 1000 only
+  python3 scanner.py --tickers AAPL MSFT  # custom list
+  python3 scanner.py --top 20 --workers 12
 """
 
 import sys
@@ -21,7 +23,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from models.moat_lane import run_moat_lane
 
 # ---------------------------------------------------------------------------
-# Universe
+# Universe fetchers
 # ---------------------------------------------------------------------------
 SP100 = [
     "AAPL", "MSFT", "NVDA", "AMZN", "GOOGL", "META", "TSLA", "BRK-B", "JPM", "LLY",
@@ -35,6 +37,53 @@ SP100 = [
     "SO", "CME", "CI", "ISRG", "TJX", "DUK", "NOC", "AON", "PNC", "USB",
     "ITW", "EOG", "HUM", "MMM", "SHW", "MCO", "F", "GM", "FDX", "KHC",
 ]
+
+
+def fetch_sp500():
+    """Pull current S&P 500 constituents from Wikipedia."""
+    try:
+        import requests, io
+        headers = {'User-Agent': 'Mozilla/5.0 (compatible; buffet-scanner/1.0)'}
+        html = requests.get(
+            'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies',
+            headers=headers, timeout=15
+        ).text
+        tables = pd.read_html(io.StringIO(html))
+        tickers = tables[0]['Symbol'].tolist()
+        return [t.replace('.', '-') for t in tickers]
+    except Exception as e:
+        print(f"Warning: could not fetch S&P 500 from Wikipedia ({e}), falling back to SP100")
+        return SP100
+
+
+def fetch_russell1000():
+    """Pull Russell 1000 constituents from iShares IWB holdings CSV (updated monthly)."""
+    try:
+        url = 'https://www.ishares.com/us/products/239707/ishares-russell-1000-etf/1467271812596.ajax?fileType=csv&fileName=IWB_holdings&dataType=fund'
+        df = pd.read_csv(url, skiprows=9)
+        df.columns = df.columns.str.strip()
+        # Keep equity rows only (exclude cash, futures)
+        tickers = df[df['Asset Class'] == 'Equity']['Ticker'].dropna().tolist()
+        tickers = [str(t).strip().replace('.', '-') for t in tickers if str(t).strip() not in ('', '-', 'nan')]
+        return tickers
+    except Exception as e:
+        print(f"Warning: could not fetch Russell 1000 from iShares ({e}), falling back to SP500")
+        return fetch_sp500()
+
+
+def get_universe(name):
+    if name == 'sp100':
+        return SP100
+    if name == 'sp500':
+        return fetch_sp500()
+    if name == 'russell':
+        return fetch_russell1000()
+    # Default: S&P 500 + Russell 1000 deduplicated
+    sp500 = fetch_sp500()
+    russell = fetch_russell1000()
+    combined = list(dict.fromkeys(sp500 + russell))  # preserve order, dedupe
+    print(f"Universe: {len(sp500)} S&P 500 + {len(russell)} Russell 1000 = {len(combined)} unique tickers")
+    return combined
 
 
 def scan_ticker(sym):
@@ -155,13 +204,15 @@ def save_results(ranked, output_path):
 def main():
     parser = argparse.ArgumentParser(description='Buffett/Munger Universe Scanner')
     parser.add_argument('--tickers', nargs='+', help='Custom ticker list')
-    parser.add_argument('--top', type=int, default=15, help='Show top N results (default: 15)')
+    parser.add_argument('--universe', default='all', choices=['all', 'sp100', 'sp500', 'russell'],
+                        help='Universe to scan (default: sp500+russell1000)')
+    parser.add_argument('--top', type=int, default=20, help='Show top N results (default: 20)')
     parser.add_argument('--workers', type=int, default=8, help='Parallel workers (default: 8)')
     parser.add_argument('--verbose', action='store_true', help='Show full moat_lane output per ticker')
     parser.add_argument('--output', default='scan_results.csv', help='Output CSV path')
     args = parser.parse_args()
 
-    tickers = args.tickers if args.tickers else SP100
+    tickers = args.tickers if args.tickers else get_universe(args.universe)
 
     results, errors = run_scan(tickers, workers=args.workers, verbose=args.verbose)
 

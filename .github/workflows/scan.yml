@@ -17,10 +17,10 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install -q yfinance pandas numpy google-generativeai
+        run: pip install -q yfinance pandas numpy lxml google-generativeai
 
       - name: Run scanner
-        run: python3 scanner.py --top 20 --workers 8 --output scan_results.csv
+        run: python3 scanner.py --universe all --top 25 --workers 12 --output scan_results.csv
 
       - name: Generate leaderboard with Gemini
         env:

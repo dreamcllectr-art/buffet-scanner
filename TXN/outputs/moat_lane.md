@@ -1,0 +1,54 @@
+# Buffett/Munger Moat Lane: TXN
+*Generated: 2026-03-30 18:35 | Price: $187.7373 | Mkt Cap: $171B*
+
+## Circle of Competence: IN
+In circle (Technology/Semiconductors)
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings std: 16.3%; FCF/NI: 43% (weak conversion); Gross margin: 57% (pricing power) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat; Operating margin 34% — durable | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.7x — growth premium; 52w range position: 52%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+
+## Buffett Score: 5.6 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Technology/Semiconductors)
+- **Margin of Safety**: -57% — ABSENT ($188 > IV $82 at 15x for -3% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+No (0 forces only: none)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

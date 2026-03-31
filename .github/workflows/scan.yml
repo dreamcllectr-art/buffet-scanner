@@ -1,0 +1,85 @@
+name: Daily Buffett Scanner
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 7am Helsinki (UTC+3)
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -q yfinance pandas numpy google-generativeai
+
+      - name: Run scanner
+        run: python3 scanner.py --top 20 --workers 8 --output scan_results.csv
+
+      - name: Generate leaderboard with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 - <<'PYEOF'
+          import google.generativeai as genai
+          import os, csv, glob, datetime
+
+          genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+          model = genai.GenerativeModel("gemini-2.0-flash")
+
+          # Read scores
+          with open("scan_results.csv") as f:
+              rows = list(csv.DictReader(f))
+
+          # Build ranked table
+          table = "| # | Ticker | Score | Conviction | Alpha Adj | Verdict |\n"
+          table += "|---|--------|-------|------------|-----------|--------|\n"
+          for i, r in enumerate(rows, 1):
+              table += f"| {i} | {r['ticker']} | {r['buffett_score']} | {r['conviction']} | {r['alpha_adj']} | {r['verdict']} |\n"
+
+          # Read top-5 detail files
+          details = ""
+          for r in rows[:5]:
+              path = f"{r['ticker']}/outputs/moat_lane.md"
+              if os.path.exists(path):
+                  with open(path) as f:
+                      details += f"\n\n---\n{f.read()}"
+
+          prompt = f"""You are a Buffett/Munger analyst. Today is {datetime.date.today()}.
+
+          Here are today's scores across the S&P 100 universe:
+
+          {table}
+
+          Top-5 detail reports:
+          {details[:8000]}
+
+          Write a leaderboard.md with these exact sections:
+          1. Header with today's date and a one-line summary of market conditions implied by the scores
+          2. Full ranked table (copy it verbatim from above)
+          3. ## Top 5 Deep Dives — for each: 2-3 sentences on inversion killers and verdict rationale. Be specific, cite numbers.
+          4. ## Munger Inversion Alert — flag any name in the top 20 with 2+ material inversion killers. If none, say so.
+          5. ## Bottom Line — one sentence conviction call on the single best risk-adjusted name today.
+
+          Rules: no hedging language, cite specific numbers, directional language only."""
+
+          result = model.generate_content(prompt)
+          with open("leaderboard.md", "w") as f:
+              f.write(result.text)
+          print("leaderboard.md written")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.email "scanner@buffet-scanner.ai"
+          git config user.name "Buffett Scanner"
+          git add scan_results.csv scan_results_prev.csv leaderboard.md || true
+          TOP=$(head -2 scan_results.csv | tail -1 | cut -d, -f1)
+          git commit -m "Daily scan $(date +%Y-%m-%d): $TOP leads" || echo "Nothing to commit"
+          git push origin main

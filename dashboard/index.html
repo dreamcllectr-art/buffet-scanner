@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Buffett/Munger Moat Lane</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Cormorant:wght@700&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0B0A08;
+    --surface:   #131210;
+    --surface2:  #1A1916;
+    --border:    #2A2720;
+    --border2:   #3A3630;
+    --gold:      #C9A055;
+    --gold-dim:  #7A5E2A;
+    --cream:     #F0E8D5;
+    --cream-dim: #9A9080;
+    --green:     #5A9E7A;
+    --amber:     #C9A055;
+    --red:       #9E5A5A;
+    --mono: 'IBM Plex Mono', monospace;
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --serif-bold: 'Cormorant', Georgia, serif;
+  }
+
+  html { font-size: 16px; }
+  body {
+    background: var(--bg);
+    color: var(--cream);
+    font-family: var(--serif);
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Grain overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 1000;
+    opacity: 0.6;
+  }
+
+  /* ── Layout ── */
+  .shell {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 32px 80px;
+  }
+
+  /* ── Masthead ── */
+  .masthead {
+    padding: 48px 0 32px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 40px;
+  }
+  .masthead-rule {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .masthead h1 {
+    font-family: var(--serif-bold);
+    font-size: clamp(36px, 5vw, 64px);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--cream);
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .masthead h1 em {
+    color: var(--gold);
+    font-style: italic;
+  }
+  .masthead-sub {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--cream-dim);
+    letter-spacing: 0.1em;
+  }
+
+  /* ── Stats row ── */
+  .stats {
+    display: flex;
+    gap: 2px;
+    margin-bottom: 40px;
+  }
+  .stat {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 16px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .stat:first-child { border-radius: 3px 0 0 3px; }
+  .stat:last-child  { border-radius: 0 3px 3px 0; }
+  .stat-value {
+    font-family: var(--mono);
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--cream);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .stat-value.gold { color: var(--gold); }
+  .stat-value.green { color: var(--green); }
+  .stat-label {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+  }
+  .stat::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--border2);
+  }
+  .stat.gold-bar::after { background: var(--gold); }
+  .stat.green-bar::after { background: var(--green); }
+
+  /* ── Section header ── */
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .section-head h2 {
+    font-family: var(--serif);
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+  }
+  .section-head-line {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ── Table ── */
+  .table-wrap {
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 48px;
+  }
+  .table-head {
+    display: grid;
+    grid-template-columns: 40px 90px 1fr 180px 100px 110px;
+    padding: 10px 20px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+  }
+  .th {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+  }
+  .th.right { text-align: right; }
+  .th.center { text-align: center; }
+
+  /* ── Row ── */
+  .row {
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .row:last-child { border-bottom: none; }
+  .row:hover { background: var(--surface2); }
+  .row.expanded { background: var(--surface2); }
+  .row-main {
+    display: grid;
+    grid-template-columns: 40px 90px 1fr 180px 100px 110px;
+    align-items: center;
+    padding: 14px 20px;
+  }
+
+  .rank {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--cream-dim);
+  }
+  .rank.top3 { color: var(--gold); font-weight: 500; }
+
+  .ticker {
+    font-family: var(--mono);
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--cream);
+    letter-spacing: 0.05em;
+  }
+
+  /* Score bar */
+  .score-cell { padding-right: 24px; }
+  .score-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .score-num {
+    font-family: var(--mono);
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cream);
+    min-width: 36px;
+  }
+  .score-bar-track {
+    flex: 1;
+    height: 3px;
+    background: var(--border2);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .score-bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    animation: barGrow 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+  @keyframes barGrow {
+    from { width: 0 !important; }
+  }
+  .bar-own { background: linear-gradient(90deg, var(--gold-dim), var(--gold)); }
+  .bar-watch { background: linear-gradient(90deg, #4A6A7A, #6A9AB0); }
+  .bar-pass { background: var(--border2); }
+  .bar-avoid { background: linear-gradient(90deg, #5A2A2A, var(--red)); }
+
+  /* Alpha */
+  .alpha-cell { text-align: right; }
+  .alpha {
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 400;
+  }
+  .alpha.pos { color: var(--green); }
+  .alpha.neg { color: var(--red); }
+  .alpha.zero { color: var(--cream-dim); }
+
+  /* Conviction */
+  .conviction-cell { text-align: center; }
+  .conviction {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 2px;
+  }
+  .conv-high    { color: var(--gold);     border: 1px solid var(--gold-dim);  background: rgba(201,160,85,0.06); }
+  .conv-mod     { color: #6A9AB0;         border: 1px solid #2A4A5A;          background: rgba(106,154,176,0.06); }
+  .conv-low     { color: var(--cream-dim);border: 1px solid var(--border2);   background: transparent; }
+  .conv-avoid   { color: var(--red);      border: 1px solid #5A2A2A;          background: rgba(158,90,90,0.06); }
+
+  /* Verdict */
+  .verdict-cell { text-align: right; }
+  .verdict {
+    font-family: var(--serif);
+    font-size: 13px;
+    font-style: italic;
+    color: var(--cream-dim);
+  }
+  .verdict.own { color: var(--gold); }
+  .verdict.avoid-v { color: var(--red); }
+
+  /* Expand chevron */
+  .chevron {
+    display: inline-block;
+    margin-left: 6px;
+    font-size: 10px;
+    color: var(--cream-dim);
+    transition: transform 0.2s;
+  }
+  .expanded .chevron { transform: rotate(180deg); }
+
+  /* ── Detail panel ── */
+  .detail {
+    border-top: 1px solid var(--border);
+    padding: 24px 20px 24px 150px;
+    background: var(--bg);
+    animation: fadeIn 0.2s ease both;
+  }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(-4px); } }
+
+  .detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .detail-section h4 {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .pillar-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .pillar-row:last-child { border-bottom: none; }
+  .pillar-name {
+    font-family: var(--serif);
+    font-size: 14px;
+    color: var(--cream-dim);
+  }
+  .pillar-score {
+    font-family: var(--mono);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--cream);
+  }
+  .pillar-note {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--cream-dim);
+    margin-top: 2px;
+    line-height: 1.5;
+  }
+
+  .killer-row {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .killer-row:last-child { border-bottom: none; }
+  .killer-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+  }
+  .killer-name {
+    font-family: var(--serif);
+    font-size: 14px;
+    color: var(--cream);
+  }
+  .killer-prob {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--cream-dim);
+  }
+  .killer-prob.material { color: var(--red); font-weight: 500; }
+  .killer-desc {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--cream-dim);
+  }
+
+  .mental-row {
+    padding: 7px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .mental-row:last-child { border-bottom: none; }
+  .mental-name {
+    font-family: var(--serif);
+    font-size: 13px;
+    color: var(--cream-dim);
+    font-style: italic;
+  }
+  .mental-val {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--cream);
+    margin-top: 2px;
+    line-height: 1.5;
+  }
+
+  .loading-detail {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--cream-dim);
+    padding: 12px 0;
+    letter-spacing: 0.1em;
+  }
+
+  /* ── Munger alert ── */
+  .alert-section {
+    margin-top: 12px;
+  }
+  .alert-box {
+    border: 1px solid var(--red);
+    background: rgba(158,90,90,0.04);
+    border-radius: 3px;
+    padding: 20px 24px;
+    margin-top: 12px;
+  }
+  .alert-head {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-bottom: 10px;
+  }
+  .alert-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .alert-item {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--cream-dim);
+  }
+  .alert-item strong {
+    color: var(--cream);
+    font-weight: 500;
+    margin-right: 4px;
+  }
+
+  /* ── Footer ── */
+  .footer {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer-left {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--cream-dim);
+    letter-spacing: 0.1em;
+  }
+  .footer-right {
+    font-family: var(--serif);
+    font-size: 12px;
+    font-style: italic;
+    color: var(--cream-dim);
+  }
+
+  /* ── Loading state ── */
+  .loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+  }
+  .loading-text {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.3em;
+    color: var(--cream-dim);
+    text-transform: uppercase;
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:0.4} 50%{opacity:1} }
+
+  /* ── Scrollbar ── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+const { useState, useEffect, useCallback } = React;
+
+// ── CSV parser ──────────────────────────────────────────────────────────────
+function parseCSV(text) {
+  const [headerLine, ...lines] = text.trim().split('\n');
+  const headers = headerLine.split(',').map(h => h.trim());
+  return lines.filter(l => l.trim()).map(line => {
+    const vals = line.split(',').map(v => v.trim());
+    const obj = {};
+    headers.forEach((h, i) => obj[h] = vals[i] || '');
+    obj.buffett_score = parseFloat(obj.buffett_score) || 0;
+    obj.alpha_adj = parseFloat(obj.alpha_adj) || 0;
+    return obj;
+  });
+}
+
+// ── Moat Lane MD parser ──────────────────────────────────────────────────────
+function parseMD(md) {
+  const result = { pillars: [], killers: [], models: [], price: '', mktCap: '', lolla: '' };
+
+  // Header info
+  const headerMatch = md.match(/Price: \$([0-9.,]+).*Mkt Cap: ([^\*]+)/);
+  if (headerMatch) { result.price = headerMatch[1]; result.mktCap = headerMatch[2].trim(); }
+
+  // Inversion table — find the block between "Inversion First" and next "---"
+  const invBlock = md.match(/## Inversion First[\s\S]*?\n\|(.*)\n\|(.*\|\n)([\s\S]*?)(?=\n---)/);
+  if (invBlock) {
+    const rows = invBlock[0].split('\n').filter(l => l.startsWith('|') && !l.includes('---') && !l.includes('Killer'));
+    rows.forEach(row => {
+      const cells = row.split('|').map(c => c.trim()).filter(Boolean);
+      if (cells.length >= 6) {
+        result.killers.push({
+          name: cells[1],
+          desc: cells[2],
+          prob: cells[3],
+          impact: cells[4],
+          material: cells[5] === 'YES',
+        });
+      }
+    });
+  }
+
+  // Four-pillar table
+  const pillarBlock = md.match(/## Four-Pillar Score[\s\S]*?(?=## Buffett Score)/);
+  if (pillarBlock) {
+    const rows = pillarBlock[0].split('\n').filter(l => l.startsWith('|') && !l.includes('---') && !l.includes('Pillar') && !l.includes('TOTAL'));
+    rows.forEach(row => {
+      const cells = row.split('|').map(c => c.trim()).filter(Boolean);
+      if (cells.length >= 5) {
+        result.pillars.push({ name: cells[0], score: cells[1], weight: cells[2], rationale: cells[4] });
+      }
+    });
+  }
+
+  // Mental models
+  const modelBlock = md.match(/## Mental Models Applied([\s\S]*?)(?=## Lollapalooza)/);
+  if (modelBlock) {
+    const lines = modelBlock[1].split('\n').filter(l => l.startsWith('-'));
+    lines.forEach(line => {
+      const m = line.match(/\*\*(.+?)\*\*: (.+)/);
+      if (m) result.models.push({ name: m[1], val: m[2] });
+    });
+  }
+
+  // Lollapalooza
+  const lollaMatch = md.match(/## Lollapalooza Check\n(.+)/);
+  if (lollaMatch) result.lolla = lollaMatch[1].trim();
+
+  return result;
+}
+
+// ── Color helpers ────────────────────────────────────────────────────────────
+function verdictClass(v) {
+  if (v === 'Own Forever') return 'own';
+  if (v === 'Avoid') return 'avoid-v';
+  return '';
+}
+function convClass(c) {
+  const m = { HIGH: 'conv-high', MODERATE: 'conv-mod', LOW: 'conv-low', AVOID: 'conv-avoid' };
+  return m[c] || 'conv-low';
+}
+function barClass(v) {
+  if (v === 'Own Forever') return 'bar-own';
+  if (v === 'Avoid') return 'bar-avoid';
+  if (v === 'Watchlist') return 'bar-watch';
+  return 'bar-pass';
+}
+function scoreColor(s) {
+  if (s >= 8.5) return '#C9A055';
+  if (s >= 7.0) return '#6A9AB0';
+  if (s >= 5.0) return '#9A9080';
+  return '#9E5A5A';
+}
+
+// ── Detail panel ─────────────────────────────────────────────────────────────
+function DetailPanel({ ticker }) {
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch(`../${ticker}/outputs/moat_lane.md`)
+      .then(r => r.text())
+      .then(text => { setData(parseMD(text)); setLoading(false); })
+      .catch(() => setLoading(false));
+  }, [ticker]);
+
+  if (loading) return <div className="detail"><p className="loading-detail">Loading analysis…</p></div>;
+  if (!data || !data.pillars.length) return <div className="detail"><p className="loading-detail">No detail file available — run scanner first.</p></div>;
+
+  return (
+    <div className="detail">
+      {data.price && (
+        <div style={{fontFamily:'var(--mono)',fontSize:'10px',color:'var(--cream-dim)',marginBottom:'20px',letterSpacing:'0.1em'}}>
+          PRICE ${data.price} · MKT CAP {data.mktCap}
+          {data.lolla && <span style={{marginLeft:'24px',color: data.lolla.startsWith('YES') ? 'var(--gold)' : 'var(--cream-dim)'}}>
+            ◆ LOLLAPALOOZA: {data.lolla.startsWith('YES') ? data.lolla.replace('YES — ','') : 'No'}
+          </span>}
+        </div>
+      )}
+      <div className="detail-grid">
+        {/* Four pillars */}
+        <div className="detail-section">
+          <h4>Four-Pillar Breakdown</h4>
+          {data.pillars.map((p, i) => (
+            <div className="pillar-row" key={i}>
+              <div>
+                <div className="pillar-name">{p.name}</div>
+                <div className="pillar-note">{p.rationale?.replace(/\|.*$/, '').substring(0, 80)}</div>
+              </div>
+              <div className="pillar-score">{p.score}</div>
+            </div>
+          ))}
+        </div>
+
+        {/* Inversion killers */}
+        <div className="detail-section">
+          <h4>Munger Inversion</h4>
+          {data.killers.map((k, i) => (
+            <div className="killer-row" key={i}>
+              <div className="killer-head">
+                <span className="killer-name">{k.name}</span>
+                <span className={`killer-prob ${k.material ? 'material' : ''}`}>
+                  {k.prob} · {k.impact} FV {k.material ? '⚠ MATERIAL' : ''}
+                </span>
+              </div>
+              <div className="killer-desc">{k.desc}</div>
+            </div>
+          ))}
+        </div>
+
+        {/* Mental models */}
+        {data.models.length > 0 && (
+          <div className="detail-section" style={{gridColumn:'1/-1'}}>
+            <h4>Mental Models</h4>
+            <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'0 24px'}}>
+              {data.models.map((m, i) => (
+                <div className="mental-row" key={i}>
+                  <div className="mental-name">{m.name}</div>
+                  <div className="mental-val">{m.val}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+// ── Stock row ────────────────────────────────────────────────────────────────
+function StockRow({ stock, rank, animDelay }) {
+  const [open, setOpen] = useState(false);
+  const barPct = (stock.buffett_score / 10) * 100;
+
+  return (
+    <div className={`row ${open ? 'expanded' : ''}`} onClick={() => setOpen(o => !o)}>
+      <div className="row-main">
+        <div className={`rank ${rank <= 3 ? 'top3' : ''}`}>{rank}</div>
+        <div className="ticker">{stock.ticker}</div>
+        <div className="score-cell">
+          <div className="score-bar-wrap">
+            <span className="score-num" style={{color: scoreColor(stock.buffett_score)}}>
+              {stock.buffett_score.toFixed(1)}
+            </span>
+            <div className="score-bar-track">
+              <div
+                className={`score-bar-fill ${barClass(stock.verdict)}`}
+                style={{
+                  width: `${barPct}%`,
+                  animationDelay: `${animDelay}ms`
+                }}
+              />
+            </div>
+          </div>
+        </div>
+        <div className="conviction-cell">
+          <span className={`conviction ${convClass(stock.conviction)}`}>{stock.conviction}</span>
+        </div>
+        <div className="alpha-cell">
+          <span className={`alpha ${stock.alpha_adj > 0 ? 'pos' : stock.alpha_adj < 0 ? 'neg' : 'zero'}`}>
+            {stock.alpha_adj > 0 ? '+' : ''}{stock.alpha_adj.toFixed(2)}
+          </span>
+        </div>
+        <div className="verdict-cell">
+          <span className={`verdict ${verdictClass(stock.verdict)}`}>
+            {stock.verdict}<span className="chevron">▾</span>
+          </span>
+        </div>
+      </div>
+      {open && <DetailPanel ticker={stock.ticker} />}
+    </div>
+  );
+}
+
+// ── Main App ─────────────────────────────────────────────────────────────────
+function App() {
+  const [stocks, setStocks] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [filter, setFilter] = useState('ALL');
+
+  useEffect(() => {
+    fetch('../scan_results.csv')
+      .then(r => r.text())
+      .then(text => { setStocks(parseCSV(text)); setLoading(false); })
+      .catch(e => { console.error(e); setLoading(false); });
+  }, []);
+
+  const filters = ['ALL', 'Own Forever', 'Watchlist', 'Pass', 'Avoid'];
+  const filtered = filter === 'ALL' ? stocks : stocks.filter(s => s.verdict === filter);
+
+  const ownForever = stocks.filter(s => s.verdict === 'Own Forever');
+  const watchlist  = stocks.filter(s => s.verdict === 'Watchlist');
+  const mungerAlert = stocks.filter(s => {
+    // We flag names scored >= 7.5 — we'd need detail data to check killers
+    // Use conviction HIGH as proxy for "model loves it"
+    return s.buffett_score >= 7.5 && s.conviction === 'HIGH';
+  });
+  const avgScore = stocks.length ? (stocks.reduce((a,s) => a + s.buffett_score, 0) / stocks.length).toFixed(1) : '—';
+  const topName = stocks[0];
+
+  if (loading) return (
+    <div className="shell loading">
+      <p className="loading-text">Scanning universe…</p>
+    </div>
+  );
+
+  return (
+    <div className="shell">
+      {/* Masthead */}
+      <div className="masthead">
+        <div className="masthead-rule">Berkshire Framework · Moat Lane Scoring System</div>
+        <h1>The <em>Oracle's</em> Ledger</h1>
+        <div className="masthead-sub">
+          {new Date().toLocaleDateString('en-US', {weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase()}
+          {' · '}S&P 100 UNIVERSE · {stocks.length} NAMES SCORED
+        </div>
+      </div>
+
+      {/* Stats */}
+      <div className="stats">
+        <div className="stat gold-bar">
+          <div className="stat-value gold">{topName?.ticker || '—'}</div>
+          <div className="stat-label">Top Conviction</div>
+        </div>
+        <div className="stat gold-bar">
+          <div className="stat-value gold">{topName?.buffett_score.toFixed(1) || '—'}</div>
+          <div className="stat-label">Highest Score</div>
+        </div>
+        <div className="stat green-bar">
+          <div className="stat-value green">{ownForever.length}</div>
+          <div className="stat-label">Own Forever</div>
+        </div>
+        <div className="stat">
+          <div className="stat-value">{watchlist.length}</div>
+          <div className="stat-label">Watchlist</div>
+        </div>
+        <div className="stat">
+          <div className="stat-value">{avgScore}</div>
+          <div className="stat-label">Universe Avg</div>
+        </div>
+        <div className="stat">
+          <div className="stat-value">{stocks.filter(s => s.verdict === 'Avoid').length}</div>
+          <div className="stat-label">Avoid</div>
+        </div>
+      </div>
+
+      {/* Filter tabs */}
+      <div style={{display:'flex',gap:'2px',marginBottom:'20px'}}>
+        {filters.map(f => (
+          <button key={f} onClick={() => setFilter(f)} style={{
+            fontFamily:'var(--mono)',fontSize:'9px',letterSpacing:'0.2em',textTransform:'uppercase',
+            padding:'7px 14px',border:'1px solid',cursor:'pointer',borderRadius:'2px',
+            background: filter === f ? 'var(--gold)' : 'transparent',
+            color: filter === f ? 'var(--bg)' : 'var(--cream-dim)',
+            borderColor: filter === f ? 'var(--gold)' : 'var(--border2)',
+            transition: 'all 0.15s',
+          }}>
+            {f} {f !== 'ALL' && <span style={{opacity:0.6}}>({stocks.filter(s => f === 'ALL' || s.verdict === f).length})</span>}
+          </button>
+        ))}
+      </div>
+
+      {/* Table */}
+      <div className="section-head">
+        <h2>Leaderboard</h2>
+        <div className="section-head-line" />
+        <span style={{fontFamily:'var(--mono)',fontSize:'9px',color:'var(--cream-dim)',letterSpacing:'0.1em'}}>
+          CLICK ROW TO EXPAND
+        </span>
+      </div>
+
+      <div className="table-wrap">
+        <div className="table-head">
+          <div className="th">#</div>
+          <div className="th">Ticker</div>
+          <div className="th">Score</div>
+          <div className="th center">Conviction</div>
+          <div className="th right">Alpha Adj</div>
+          <div className="th right">Verdict</div>
+        </div>
+        {filtered.map((s, i) => (
+          <StockRow key={s.ticker} stock={s} rank={i + 1} animDelay={i * 30} />
+        ))}
+      </div>
+
+      {/* Munger Alert */}
+      {mungerAlert.length > 0 && (
+        <div className="alert-section">
+          <div className="section-head">
+            <h2>Munger Inversion Alert</h2>
+            <div className="section-head-line" />
+          </div>
+          <div className="alert-box">
+            <div className="alert-head">⚠ High conviction scores — expand to verify inversion killers before initiating position</div>
+            <div className="alert-items">
+              {mungerAlert.map(s => (
+                <span className="alert-item" key={s.ticker}>
+                  <strong>{s.ticker}</strong>{s.buffett_score.toFixed(1)} / High — review killers
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Footer */}
+      <div className="footer">
+        <div className="footer-left">
+          Buffett/Munger Moat Lane · 4-Pillar Scoring · Built by Claude Code
+        </div>
+        <div className="footer-right">
+          "The best investment you can make is in yourself." — W.B.
+        </div>
+      </div>
+    </div>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+</script>
+</body>
+</html>

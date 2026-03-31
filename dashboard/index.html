@@ -583,7 +583,7 @@ function DetailPanel({ ticker }) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`../${ticker}/outputs/moat_lane.md`)
+    fetch(`/${ticker}/outputs/moat_lane.md`)
       .then(r => r.text())
       .then(text => { setData(parseMD(text)); setLoading(false); })
       .catch(() => setLoading(false));
@@ -704,7 +704,7 @@ function App() {
   const [filter, setFilter] = useState('ALL');
 
   useEffect(() => {
-    fetch('../scan_results.csv')
+    fetch('/scan_results.csv')
       .then(r => r.text())
       .then(text => { setStocks(parseCSV(text)); setLoading(false); })
       .catch(e => { console.error(e); setLoading(false); });

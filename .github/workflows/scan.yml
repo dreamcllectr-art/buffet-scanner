@@ -79,7 +79,7 @@ jobs:
         run: |
           git config user.email "scanner@buffet-scanner.ai"
           git config user.name "Buffett Scanner"
-          git add scan_results.csv scan_results_prev.csv leaderboard.md || true
+          git add scan_results.csv scan_results_prev.csv leaderboard.md */outputs/moat_lane.md || true
           TOP=$(head -2 scan_results.csv | tail -1 | cut -d, -f1)
           git commit -m "Daily scan $(date +%Y-%m-%d): $TOP leads" || echo "Nothing to commit"
           git push origin main

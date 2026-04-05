@@ -5,6 +5,9 @@ on:
     - cron: '0 4 * * *'   # 7am Helsinki (UTC+3)
   workflow_dispatch:       # allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest

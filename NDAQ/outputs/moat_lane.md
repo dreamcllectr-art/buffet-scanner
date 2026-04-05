@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-03-31 10:49 | Price: $83.52 | Mkt Cap: $48B*
+*Generated: 2026-04-05 06:16 | Price: $86.65 | Mkt Cap: $49B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.5% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -24,10 +22,10 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings std: 30.5% (volatile); FCF/NI: 137% (strong); Gross margin: 100% (pricing power) | - |
+| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings std: 35.3% (volatile); FCF/NI: 137% (strong); Gross margin: 100% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 100% — strong pricing power; Operating margin 48% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 51%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.7x — fair price; 52w range position: 59%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -40,7 +38,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
-- **Margin of Safety**: -8% — ABSENT ($84 > IV $77 at 25x for 25% growth)
+- **Margin of Safety**: -11% — ABSENT ($87 > IV $77 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

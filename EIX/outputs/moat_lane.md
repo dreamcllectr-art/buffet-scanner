@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-03-31 10:49 | Price: $71.84 | Mkt Cap: $28B*
+*Generated: 2026-04-05 06:15 | Price: $73.46 | Mkt Cap: $28B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.0% (4y); Earnings std: 94.0% (highly volatile); FCF/NI: -129% (weak conversion); Gross margin: 58% (pricing power) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.0% (4y); Earnings std: 99.3% (highly volatile); FCF/NI: -129% (weak conversion); Gross margin: 58% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 58% — moderate moat; Operating margin 36% — durable; Rev growth 31% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.0x — deep value; Near 52w high (87% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.3x — deep value; Near 52w high (93% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -38,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
-- **Margin of Safety**: 302% — PRESENT (IV $289 vs $72 at 25x)
+- **Margin of Safety**: 293% — PRESENT (IV $289 vs $73 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

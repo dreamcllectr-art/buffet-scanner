@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAS
-*Generated: 2026-03-31 10:49 | Price: $89.39 | Mkt Cap: $13B*
+*Generated: 2026-04-05 06:15 | Price: $90.16 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Leisure)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Leisure)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Leisure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (4y); Earnings std: 372.3% (highly volatile); FCF/NI: 4% (weak conversion); Gross margin: 64% (pricing power) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (4y); Earnings std: 392.0% (highly volatile); FCF/NI: 4% (weak conversion); Gross margin: 64% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 64% — strong pricing power; Operating margin 21%; Rev growth 31% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 70%; Owner earnings yield: 3.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 71%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-03-31 10:49 | Price: $369.08 | Mkt Cap: $15B*
+*Generated: 2026-04-05 06:15 | Price: $396.62 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -7,8 +7,6 @@ In circle (Industrials/Aerospace & Defense)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings std: 15.9%; FCF/NI: 80%; Gross margin: 13% (commodity-like) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings std: 19.5%; FCF/NI: 80%; Gross margin: 13% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.2x — fair price; 52w range position: 68%; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 78%; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -38,7 +36,7 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: 4% — thin (IV $385 at 25x)
+- **Margin of Safety**: -3% — ABSENT ($397 > IV $385 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

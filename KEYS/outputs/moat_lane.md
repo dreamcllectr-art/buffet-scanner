@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-03-31 10:49 | Price: $269.41 | Mkt Cap: $46B*
+*Generated: 2026-04-05 06:16 | Price: $291.24 | Mkt Cap: $50B*
 
 ## Circle of Competence: IN
 In circle (Technology/Scientific & Technical Instruments)
@@ -7,8 +7,6 @@ In circle (Technology/Scientific & Technical Instruments)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,10 +23,10 @@ In circle (Technology/Scientific & Technical Instruments)
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings std: 40.2% (volatile); FCF/NI: 124% (strong); Gross margin: 62% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 62% — strong pricing power; Operating margin 16%; Rev growth 23% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 76%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.4x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +36,10 @@ In circle (Technology/Scientific & Technical Instruments)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Scientific & Technical Instruments)
-- **Margin of Safety**: -47% — ABSENT ($269 > IV $142 at 25x for 25% growth)
+- **Margin of Safety**: -51% — ABSENT ($291 > IV $142 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

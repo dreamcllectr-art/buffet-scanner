@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQIX
-*Generated: 2026-03-31 10:49 | Price: $964.05 | Mkt Cap: $95B*
+*Generated: 2026-04-05 06:15 | Price: $1000.37 | Mkt Cap: $98B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -7,8 +7,6 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.3% (4y); Earnings std: 36.8% (volatile); FCF/NI: 34% (weak conversion); Gross margin: 51% (pricing power) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.3% (4y); Earnings std: 41.4% (volatile); FCF/NI: 34% (weak conversion); Gross margin: 51% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 51% — moderate moat; Operating margin 22% | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 55.9x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 58.0x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10
@@ -38,7 +36,7 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Specialty) — flag for review.
-- **Margin of Safety**: -76% — ABSENT ($964 > IV $234 at 17x for 8% growth)
+- **Margin of Safety**: -77% — ABSENT ($1000 > IV $235 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

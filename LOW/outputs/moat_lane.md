@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOW
-*Generated: 2026-03-31 10:49 | Price: $232.58 | Mkt Cap: $130B*
+*Generated: 2026-04-05 06:16 | Price: $231.03 | Mkt Cap: $130B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Home Improvement Retail)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Home Improvement Retail)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Home Improvement Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 43.1% (4y); Earnings std: 22.4% (volatile); FCF/NI: 98% (strong); Gross margin: 33% | - |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 37.9% (4y); Earnings std: 15.9%; FCF/NI: 103% (strong); Gross margin: 33% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 30%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -38,10 +36,10 @@ In circle (Consumer Cyclical/Home Improvement Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Home Improvement Retail)
-- **Margin of Safety**: -24% — ABSENT ($233 > IV $178 at 15x for -11% growth)
+- **Margin of Safety**: -23% — ABSENT ($231 > IV $178 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

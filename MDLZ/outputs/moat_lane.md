@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLZ
-*Generated: 2026-03-31 10:49 | Price: $58.25 | Mkt Cap: $75B*
+*Generated: 2026-04-05 06:16 | Price: $57.54 | Mkt Cap: $74B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Confectioners)
@@ -7,8 +7,6 @@ In circle (Consumer Defensive/Confectioners)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Defensive/Confectioners)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings std: 54.3% (highly volatile); FCF/NI: 98% (strong); Gross margin: 28% (commodity-like) | - |
+| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings std: 66.3% (highly volatile); FCF/NI: 98% (strong); Gross margin: 28% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 28% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.3x — fair price; 52w range position: 35%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.1x — fair price; 52w range position: 32%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10

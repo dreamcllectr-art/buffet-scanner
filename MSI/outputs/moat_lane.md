@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-03-31 10:49 | Price: $426.78 | Mkt Cap: $71B*
+*Generated: 2026-04-05 06:16 | Price: $438.96 | Mkt Cap: $73B*
 
 ## Circle of Competence: IN
 In circle (Technology/Communication Equipment)
@@ -7,8 +7,6 @@ In circle (Technology/Communication Equipment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Technology/Communication Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings std: 20.9% (volatile); FCF/NI: 119% (strong); Gross margin: 52% (pricing power) | - |
+| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings std: 23.0% (volatile); FCF/NI: 119% (strong); Gross margin: 52% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 28% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.4x — growth premium; 52w range position: 51%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.1x — growth premium; 52w range position: 60%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -38,7 +36,7 @@ In circle (Technology/Communication Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Communication Equipment)
-- **Margin of Safety**: -49% — ABSENT ($427 > IV $217 at 17x for 9% growth)
+- **Margin of Safety**: -51% — ABSENT ($439 > IV $216 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

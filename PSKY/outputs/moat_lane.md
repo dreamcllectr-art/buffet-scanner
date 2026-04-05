@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSKY
-*Generated: 2026-03-31 10:49 | Price: $8.92 | Mkt Cap: $10B*
+*Generated: 2026-04-05 06:16 | Price: $9.52 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -7,8 +7,6 @@ In circle (Communication Services/Entertainment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Communication Services/Entertainment)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -3.3% (3y); Earnings std: 598.0% (highly volatile); FCF/NI: -8% (weak conversion); Gross margin: 32% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 15.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — weak pricing power; Operating margin -1% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 159.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 149.7% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -38,7 +36,7 @@ In circle (Communication Services/Entertainment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Entertainment)
-- **Margin of Safety**: -95% — ABSENT ($9 > IV $0 at 15x for 2% growth)
+- **Margin of Safety**: -95% — ABSENT ($10 > IV $0 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEP
-*Generated: 2026-03-31 10:49 | Price: $156.82 | Mkt Cap: $214B*
+*Generated: 2026-04-05 06:16 | Price: $157.01 | Mkt Cap: $215B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Non-Alcoholic)
@@ -7,8 +7,6 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings std: 8.5% (predictable); FCF/NI: 80%; Gross margin: 54% (pricing power) | ROIC declining |
+| Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings std: 10.4%; FCF/NI: 80%; Gross margin: 54% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 54% — moderate moat; Operating margin 14% — thin | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 67%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-03-31 10:49 | Price: $67.98 | Mkt Cap: $25B*
+*Generated: 2026-04-05 06:15 | Price: $69.12 | Mkt Cap: $25B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -7,8 +7,6 @@ In circle (Consumer Defensive/Household & Personal Products)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings std: 191.1% (highly volatile); FCF/NI: 60%; Gross margin: 74% (pricing power) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 74% — strong pricing power; Operating margin 14% — thin | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 22.4x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 6.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 22.8x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

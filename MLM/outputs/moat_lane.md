@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLM
-*Generated: 2026-03-31 10:49 | Price: $573.57 | Mkt Cap: $35B*
+*Generated: 2026-04-05 06:16 | Price: $597.18 | Mkt Cap: $36B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,14 +20,14 @@ OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 9.5% (4y); Earnings std: 48.6% (volatile); FCF/NI: 63%; Gross margin: 31% | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 9.5% (4y); Earnings std: 58.1% (highly volatile); FCF/NI: 63%; Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 31% — weak pricing power; Operating margin 23% | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.2x — growth premium; 52w range position: 49%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.2x — growth premium; 52w range position: 58%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,7 +36,7 @@ OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.
-- **Margin of Safety**: -57% — ABSENT ($574 > IV $245 at 15x for -4% growth)
+- **Margin of Safety**: -59% — ABSENT ($597 > IV $245 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral
@@ -50,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

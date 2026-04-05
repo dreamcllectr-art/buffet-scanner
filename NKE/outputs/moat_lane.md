@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-03-31 10:49 | Price: $51.24 | Mkt Cap: $76B*
+*Generated: 2026-04-05 06:16 | Price: $44.19 | Mkt Cap: $65B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Footwear & Accessories)
@@ -8,12 +8,10 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 
 ## Inversion First: What Could Kill This?
 
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
-
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 19.2% (4y); Earnings std: 24.2% (volatile); FCF/NI: 97% (strong); Gross margin: 41% | ROIC declining |
+| Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 19.2% (4y); Earnings std: 28.0% (volatile); FCF/NI: 97% (strong); Gross margin: 41% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 41% — moderate moat; Operating margin 8% — thin | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.9x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 41% — moderate moat; Operating margin 7% — thin | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.6x — growth premium; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -38,7 +36,7 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Footwear & Accessories)
-- **Margin of Safety**: -50% — ABSENT ($51 > IV $26 at 15x for -32% growth)
+- **Margin of Safety**: -48% — ABSENT ($44 > IV $23 at 15x for -35% growth)
 - **Lollapalooza Effect**: No (1 forces only: no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

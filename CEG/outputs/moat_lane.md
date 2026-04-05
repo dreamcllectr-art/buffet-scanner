@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-03-31 10:49 | Price: $298.61 | Mkt Cap: $108B*
+*Generated: 2026-04-05 06:15 | Price: $272.82 | Mkt Cap: $99B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,35 +20,35 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 10.4% (4y); Earnings std: 577.2% (highly volatile); FCF/NI: 493% (strong); Gross margin: 18% (commodity-like) | - |
+| Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 10.4% (4y); Earnings std: 675.5% (highly volatile); FCF/NI: 493% (strong); Gross margin: 18% (commodity-like) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.2x — growth premium; 52w range position: 55%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.6x — fair price; 52w range position: 44%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
-- **Margin of Safety**: -63% — ABSENT ($299 > IV $111 at 15x for -49% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -59% — ABSENT ($273 > IV $111 at 15x for -49% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

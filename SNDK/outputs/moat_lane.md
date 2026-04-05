@@ -1,0 +1,54 @@
+# Buffett/Munger Moat Lane: SNDK
+*Generated: 2026-04-05 06:16 | Price: $701.59 | Mkt Cap: $104B*
+
+## Circle of Competence: IN
+In circle (Technology/Computer Hardware)
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 5.5%; key-man / succession risk | 8% | -15% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -6.6% (2y); Earnings std: 150.5% (highly volatile); FCF/NI: 40% (weak conversion); Gross margin: 35% | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.5%; Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
+| Moat | 5.5/10 | 25% | 1.4 | Gross margin 35% — weak pricing power; Operating margin 36% — durable; Rev growth 61% — demand pull | Weak pricing |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.0x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.2% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+
+## Buffett Score: 5.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: In circle (Technology/Computer Hardware)
+- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Incentive-Caused Bias**: Aligned — 5.5% insider ownership
+- **Mr. Market**: Greedy — exercise caution
+
+## Lollapalooza Check
+No (2 forces only: attractive valuation, secular growth)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

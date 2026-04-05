@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DD
-*Generated: 2026-03-31 10:49 | Price: $44.22 | Mkt Cap: $19B*
+*Generated: 2026-04-05 06:15 | Price: $45.48 | Mkt Cap: $19B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings std: 120.2% (highly volatile); FCF/NI: -69% (weak conversion); Gross margin: 35% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings std: 139.0% (highly volatile); FCF/NI: -69% (weak conversion); Gross margin: 35% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 35% — weak pricing power; Operating margin 35% — durable | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.4x — fair price; 52w range position: 72%; Owner earnings yield: 72.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.9x — fair price; 52w range position: 76%; Owner earnings yield: 70.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +36,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
-- **Margin of Safety**: -93% — ABSENT ($44 > IV $3 at 15x for 0% growth)
+- **Margin of Safety**: -93% — ABSENT ($45 > IV $3 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

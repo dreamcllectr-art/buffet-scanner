@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPC
-*Generated: 2026-03-31 10:49 | Price: $104.35 | Mkt Cap: $15B*
+*Generated: 2026-04-05 06:15 | Price: $103.47 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Auto Parts)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Consumer Cyclical/Auto Parts)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 12.2% (4y); Earnings std: 46.6% (volatile); FCF/NI: 220% (strong); Gross margin: 37% | ROIC declining |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.2% (4y); Earnings std: 52.3% (highly volatile); FCF/NI: 220% (strong); Gross margin: 37% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 4.7% | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 4.7% | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ In circle (Consumer Cyclical/Auto Parts)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Auto Parts)
-- **Margin of Safety**: -93% — ABSENT ($104 > IV $7 at 15x for 4% growth)
+- **Margin of Safety**: -93% — ABSENT ($103 > IV $7 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-03-31 10:49 | Price: $63.91 | Mkt Cap: $13B*
+*Generated: 2026-04-05 06:15 | Price: $64.5 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Specialty Retail)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,26 +20,26 @@ In circle (Consumer Cyclical/Specialty Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 37.9% (4y); Earnings std: 14.9%; FCF/NI: 93% (strong); Gross margin: 22% (commodity-like) | ROIC declining |
+| Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings std: 20.8% (volatile); FCF/NI: 96% (strong); Gross margin: 22% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.6%; Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%) | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 32%; Owner earnings yield: 6.2% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Specialty Retail)
-- **Margin of Safety**: 97% — PRESENT (IV $126 vs $64 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $126 vs $64 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 7.6% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, no material killers)
@@ -50,7 +48,7 @@ No (2 forces only: attractive valuation, no material killers)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

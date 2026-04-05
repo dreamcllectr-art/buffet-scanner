@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-03-31 10:49 | Price: $654.79 | Mkt Cap: $47B*
+*Generated: 2026-04-05 06:16 | Price: $826.88 | Mkt Cap: $59B*
 
 ## Circle of Competence: IN
 In circle (Technology/Communication Equipment)
@@ -7,8 +7,6 @@ In circle (Technology/Communication Equipment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,14 +20,14 @@ In circle (Technology/Communication Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -1.6% (4y); Earnings std: 214.1% (highly volatile); FCF/NI: -59% (weak conversion); Gross margin: 37% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -1.6% (4y); Earnings std: 262.0% (highly volatile); FCF/NI: -59% (weak conversion); Gross margin: 37% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — weak pricing power; Operating margin 11% — thin; Rev growth 66% — demand pull | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 43.7x — expensive; 52w range position: 80%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.7/10** | **100%** | **2.7** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 55.2x — extreme premium; Near 52w high (100% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.1/10** | **100%** | **2.1** | | |
 
-## Buffett Score: 2.7 / 10
-## Alpha Adjustment: -0.30
+## Buffett Score: 2.1 / 10
+## Alpha Adjustment: -0.34
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,10 +36,10 @@ In circle (Technology/Communication Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Communication Equipment)
-- **Margin of Safety**: -87% — ABSENT ($655 > IV $87 at 25x for 25% growth)
+- **Margin of Safety**: -90% — ABSENT ($827 > IV $87 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -50,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.30 applied to composite alpha score
+Buffett Premium: -0.34 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

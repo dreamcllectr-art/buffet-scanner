@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-03-31 10:49 | Price: $156.42 | Mkt Cap: $24B*
+*Generated: 2026-04-05 06:15 | Price: $158.41 | Mkt Cap: $25B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Property & Casualty)
@@ -7,8 +7,6 @@ In circle (Financial Services/Insurance - Property & Casualty)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Financial Services/Insurance - Property & Casualty)
 | Quality | 0.6/10 | 30% | 0.2 | Avg ROIC: 9.9% (4y); Earnings std: 284.7% (highly volatile); FCF/NI: -16% (weak conversion); Gross margin: 25% (commodity-like) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 25% — weak pricing power; Operating margin 28%; Rev growth 22% — demand pull | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.0x — fair price; 52w range position: 65%; Owner earnings yield: 25.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.2x — fair price; 52w range position: 69%; Owner earnings yield: 24.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -38,7 +36,7 @@ In circle (Financial Services/Insurance - Property & Casualty)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Property & Casualty)
-- **Margin of Safety**: 142% — PRESENT (IV $379 vs $156 at 25x)
+- **Margin of Safety**: 140% — PRESENT (IV $380 vs $158 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral

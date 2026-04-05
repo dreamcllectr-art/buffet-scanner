@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-03-31 10:49 | Price: $92.96 | Mkt Cap: $59B*
+*Generated: 2026-04-05 06:16 | Price: $88.3 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 23.7% (volatile); FCF/NI: 93% (strong); Gross margin: 30% | ROIC declining |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 24.0% (volatile); FCF/NI: 93% (strong); Gross margin: 30% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — weak pricing power; Operating margin 17%; Rev growth 30% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 79%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; 52w range position: 78%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
-- **Margin of Safety**: -13% — ABSENT ($93 > IV $81 at 15x for -2% growth)
+- **Margin of Safety**: -8% — ABSENT ($88 > IV $81 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

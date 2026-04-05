@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-03-31 10:49 | Price: $19.05 | Mkt Cap: $17B*
+*Generated: 2026-04-05 06:15 | Price: $19.51 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -7,8 +7,6 @@ In circle (Technology/Computer Hardware)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Technology/Computer Hardware)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings std: 8.6% (predictable); FCF/NI: 108% (strong); Gross margin: 20% (commodity-like) | ROIC declining |
+| Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings std: 9.8% (predictable); FCF/NI: 108% (strong); Gross margin: 20% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 16.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 15.8% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +36,7 @@ In circle (Technology/Computer Hardware)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Computer Hardware)
-- **Margin of Safety**: 108% — PRESENT (IV $40 vs $19 at 15x)
+- **Margin of Safety**: 103% — PRESENT (IV $40 vs $20 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

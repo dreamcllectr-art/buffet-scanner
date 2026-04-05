@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARE
-*Generated: 2026-03-31 10:49 | Price: $46.29 | Mkt Cap: $8B*
+*Generated: 2026-04-05 06:15 | Price: $43.23 | Mkt Cap: $7B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Office) — flag for review.
@@ -7,8 +7,6 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 0.5% (4y); Earnings std: 318.0% (highly volatile); FCF/NI: 547% (strong); Gross margin: 69% (pricing power) | ROIC declining |
+| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 0.5% (4y); Earnings std: 380.3% (highly volatile); FCF/NI: 547% (strong); Gross margin: 69% (pricing power) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 69% — strong pricing power; Operating margin 23% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -578.6x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 16.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -540.4x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 18.0% (>5%) | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

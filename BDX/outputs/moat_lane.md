@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-03-31 10:49 | Price: $154.69 | Mkt Cap: $56B*
+*Generated: 2026-04-05 06:15 | Price: $154.51 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,7 +20,7 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 4.2% (4y); Earnings std: 12.9%; FCF/NI: 144% (strong); Gross margin: 47% | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 4.2% (4y); Earnings std: 15.7%; FCF/NI: 144% (strong); Gross margin: 47% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat; Operating margin 13% — thin | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 45%; Owner earnings yield: 5.5% (>5%) | - |

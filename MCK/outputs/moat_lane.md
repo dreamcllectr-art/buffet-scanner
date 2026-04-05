@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCK
-*Generated: 2026-03-31 10:49 | Price: $860.19 | Mkt Cap: $106B*
+*Generated: 2026-04-05 06:16 | Price: $884.28 | Mkt Cap: $109B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 84.6% (4y); Earnings std: 129.1% (highly volatile); FCF/NI: 190% (strong); Gross margin: 3% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 3% — weak pricing power; Operating margin 2% — thin | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.4x — fair price; 52w range position: 62%; Owner earnings yield: 8.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 20.0x — fair price; 52w range position: 68%; Owner earnings yield: 8.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -38,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
-- **Margin of Safety**: 1% — thin (IV $867 at 25x)
+- **Margin of Safety**: -2% — ABSENT ($884 > IV $866 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

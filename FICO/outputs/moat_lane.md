@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-03-31 10:49 | Price: $1047.94 | Mkt Cap: $25B*
+*Generated: 2026-04-05 06:15 | Price: $1089.76 | Mkt Cap: $26B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -7,8 +7,6 @@ In circle (Technology/Software - Application)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,10 +23,10 @@ In circle (Technology/Software - Application)
 | Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 47.0% (4y); Earnings std: 6.2% (predictable); FCF/NI: 119% (strong); Gross margin: 83% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 83% — strong pricing power; Operating margin 46% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.7x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.6/10** | **100%** | **8.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.5x — growth premium; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
-## Buffett Score: 8.6 / 10
+## Buffett Score: 8.1 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -38,13 +36,13 @@ In circle (Technology/Software - Application)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -56% — ABSENT ($1048 > IV $460 at 17x for 8% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Margin of Safety**: -58% — ABSENT ($1090 > IV $460 at 17x for 8% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, strong moat)
 
 ---
 

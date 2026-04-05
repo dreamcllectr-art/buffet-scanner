@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-03-31 10:49 | Price: $90.33 | Mkt Cap: $18B*
+*Generated: 2026-04-05 06:15 | Price: $95.93 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -7,8 +7,6 @@ In circle (Healthcare/Biotechnology)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 13.8% (4y); Earnings std: 1926.9% (highly volatile); FCF/NI: 290% (strong); Gross margin: 53% (pricing power) | - |
+| Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 13.8% (4y); Earnings std: 2227.0% (highly volatile); FCF/NI: 290% (strong); Gross margin: 53% (pricing power) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.1% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 53% — moderate moat; Operating margin 26%; Rev growth 28% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 63%; Owner earnings yield: 3.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 72%; Owner earnings yield: 3.2% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +36,7 @@ In circle (Healthcare/Biotechnology)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Healthcare/Biotechnology)
-- **Margin of Safety**: 77% — PRESENT (IV $160 vs $90 at 25x)
+- **Margin of Safety**: 67% — PRESENT (IV $160 vs $96 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

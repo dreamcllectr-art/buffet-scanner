@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-03-31 10:49 | Price: $22.32 | Mkt Cap: $15B*
+*Generated: 2026-04-05 06:16 | Price: $22.6 | Mkt Cap: $15B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Retail) — flag for review.
@@ -7,8 +7,6 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.9% (4y); Earnings std: 211.3% (highly volatile); FCF/NI: 321% (strong); Gross margin: 69% (pricing power) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.9% (4y); Earnings std: 243.9% (highly volatile); FCF/NI: 321% (strong); Gross margin: 69% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% — strong pricing power; Operating margin 33% — durable | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 25.7x — growth premium; 52w range position: 73%; Owner earnings yield: 5.6% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.0x — growth premium; 52w range position: 78%; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +36,7 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Retail) — flag for review.
-- **Margin of Safety**: -45% — ABSENT ($22 > IV $12 at 15x for -7% growth)
+- **Margin of Safety**: -46% — ABSENT ($23 > IV $12 at 15x for -7% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-03-31 10:49 | Price: $38.11 | Mkt Cap: $18B*
+*Generated: 2026-04-05 06:15 | Price: $39.93 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Packaging & Containers)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings std: 28.9% (volatile); FCF/NI: 117% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
+| Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings std: 34.8% (volatile); FCF/NI: 117% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — weak pricing power; Operating margin 8% — thin; Rev growth 68% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 2.4% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +36,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Packaging & Containers)
-- **Margin of Safety**: -48% — ABSENT ($38 > IV $20 at 15x for -32% growth)
+- **Margin of Safety**: -50% — ABSENT ($40 > IV $20 at 15x for -32% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

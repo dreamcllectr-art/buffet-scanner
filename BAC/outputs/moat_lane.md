@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAC
-*Generated: 2026-03-31 10:49 | Price: $47.23 | Mkt Cap: $339B*
+*Generated: 2026-04-05 06:15 | Price: $49.38 | Mkt Cap: $354B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.1% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Financial Services/Banks - Diversified)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -24,10 +22,10 @@ In circle (Financial Services/Banks - Diversified)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Fallback ROE: 10.2%; Earnings std: 7.5% (predictable); FCF/NI: 39% (weak conversion); Gross margin: 0% (commodity-like) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Fallback ROE: 10.2%; Earnings std: 8.8% (predictable); FCF/NI: 39% (weak conversion); Gross margin: 0% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 42% — durable | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 58% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 67% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -40,7 +38,7 @@ In circle (Financial Services/Banks - Diversified)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Banks - Diversified)
-- **Margin of Safety**: 102% — PRESENT (IV $95 vs $47 at 25x)
+- **Margin of Safety**: 93% — PRESENT (IV $95 vs $49 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

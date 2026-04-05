@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ON
-*Generated: 2026-03-31 10:49 | Price: $55.66 | Mkt Cap: $22B*
+*Generated: 2026-04-05 06:16 | Price: $62.19 | Mkt Cap: $25B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -7,8 +7,6 @@ In circle (Technology/Semiconductors)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.9/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings std: 47.4% (volatile); FCF/NI: 338% (strong); Gross margin: 38% | ROIC declining |
+| Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings std: 53.9% (highly volatile); FCF/NI: 338% (strong); Gross margin: 38% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — weak pricing power; Operating margin 19% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 58%; Owner earnings yield: 7.0% (>5%) | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.4x — fair price; 52w range position: 73%; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -92% — ABSENT ($56 > IV $4 at 15x for -49% growth)
+- **Margin of Safety**: -93% — ABSENT ($62 > IV $4 at 15x for -49% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-03-31 10:49 | Price: $206.31 | Mkt Cap: $49B*
+*Generated: 2026-04-05 06:15 | Price: $214.05 | Mkt Cap: $50B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 26.9% (4y); Earnings std: 125.7% (highly volatile); FCF/NI: 230% (strong); Gross margin: 4% (commodity-like) | - |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 26.9% (4y); Earnings std: 152.4% (highly volatile); FCF/NI: 230% (strong); Gross margin: 4% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — weak pricing power; Operating margin 1% — thin | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.8x — fair price; 52w range position: 76%; Owner earnings yield: 11.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.5x — fair price; 52w range position: 83%; Owner earnings yield: 10.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -38,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
-- **Margin of Safety**: -33% — ABSENT ($206 > IV $139 at 20x for 19% growth)
+- **Margin of Safety**: -35% — ABSENT ($214 > IV $139 at 20x for 19% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

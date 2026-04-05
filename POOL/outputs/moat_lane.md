@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-03-31 10:49 | Price: $200.49 | Mkt Cap: $7B*
+*Generated: 2026-04-05 06:16 | Price: $202.93 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.7% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Industrials/Industrial Distribution)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -24,10 +22,10 @@ In circle (Industrials/Industrial Distribution)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.4/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings std: 13.2%; FCF/NI: 108% (strong); Gross margin: 30% (commodity-like) | ROIC declining |
+| Quality | 5.4/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings std: 11.9%; FCF/NI: 108% (strong); Gross margin: 30% (commodity-like) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.1x — fair price; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -40,7 +38,7 @@ In circle (Industrials/Industrial Distribution)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Industrial Distribution)
-- **Margin of Safety**: -19% — ABSENT ($200 > IV $163 at 15x for -13% growth)
+- **Margin of Safety**: -20% — ABSENT ($203 > IV $163 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

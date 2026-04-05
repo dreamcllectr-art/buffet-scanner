@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-03-31 10:49 | Price: $189.75 | Mkt Cap: $40B*
+*Generated: 2026-04-05 06:16 | Price: $198.0 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.0% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Industrials/Trucking)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -27,7 +25,7 @@ In circle (Industrials/Trucking)
 | Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 30.5% (4y); Earnings std: 4.7% (predictable); FCF/NI: 75%; Gross margin: 39% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 39% — weak pricing power; Operating margin 23% | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.4x — expensive; 52w range position: 67%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.8x — expensive; 52w range position: 75%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -40,7 +38,7 @@ In circle (Industrials/Trucking)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Trucking)
-- **Margin of Safety**: -62% — ABSENT ($190 > IV $73 at 15x for -10% growth)
+- **Margin of Safety**: -63% — ABSENT ($198 > IV $72 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

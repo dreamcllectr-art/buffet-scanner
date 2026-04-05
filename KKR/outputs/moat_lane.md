@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-03-31 10:49 | Price: $90.36 | Mkt Cap: $84B*
+*Generated: 2026-04-05 06:16 | Price: $91.23 | Mkt Cap: $84B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -7,8 +7,6 @@ In circle (Financial Services/Asset Management)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 8.0% (4y); Earnings std: 401.1% (highly volatile); FCF/NI: 303% (strong); Gross margin: 57% (pricing power) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 8.0% (4y); Earnings std: 459.1% (highly volatile); FCF/NI: 303% (strong); Gross margin: 57% (pricing power) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% — moderate moat; Operating margin 33% — durable; Rev growth 76% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (11% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w low (12% of range) — Mr. Market fearful | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -38,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: -61% — ABSENT ($90 > IV $35 at 15x for -2% growth)
+- **Margin of Safety**: -62% — ABSENT ($91 > IV $35 at 15x for -2% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Aligned — 23.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-03-31 10:49 | Price: $273.14 | Mkt Cap: $3304B*
+*Generated: 2026-04-05 06:15 | Price: $294.46 | Mkt Cap: $3562B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.7% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Communication Services/Internet Content & Information)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -24,14 +22,14 @@ In circle (Communication Services/Internet Content & Information)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 24.9% (4y); Earnings std: 16.0%; FCF/NI: 81% (strong); Gross margin: 60% (pricing power) | - |
+| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 24.9% (4y); Earnings std: 6.5% (predictable); FCF/NI: 81% (strong); Gross margin: 60% (pricing power) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -99.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 60% — moderate moat; Operating margin 32% — durable | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 63%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.9x — growth premium; 52w range position: 73%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -40,7 +38,7 @@ In circle (Communication Services/Internet Content & Information)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Internet Content & Information)
-- **Margin of Safety**: -1% — ABSENT ($273 > IV $270 at 25x for 25% growth)
+- **Margin of Safety**: -8% — ABSENT ($294 > IV $270 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
@@ -52,7 +50,7 @@ No (1 forces only: high quality)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

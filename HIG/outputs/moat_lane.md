@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HIG
-*Generated: 2026-03-31 10:49 | Price: $134.44 | Mkt Cap: $37B*
+*Generated: 2026-04-05 06:15 | Price: $136.19 | Mkt Cap: $38B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -7,8 +7,6 @@ In circle (Financial Services/Insurance - Diversified)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Financial Services/Insurance - Diversified)
 | Quality | 7.2/10 | 30% | 2.2 | Avg ROIC: 14.3% (4y); Earnings std: 8.0% (predictable); FCF/NI: 176% (strong); Gross margin: 37% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — weak pricing power; Operating margin 20% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 73%; Owner earnings yield: 15.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 78%; Owner earnings yield: 15.3% (>5%) | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -38,7 +36,7 @@ In circle (Financial Services/Insurance - Diversified)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Diversified)
-- **Margin of Safety**: 148% — PRESENT (IV $333 vs $134 at 25x)
+- **Margin of Safety**: 145% — PRESENT (IV $333 vs $136 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

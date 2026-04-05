@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-03-31 10:49 | Price: $60.06 | Mkt Cap: $33B*
+*Generated: 2026-04-05 06:16 | Price: $65.6 | Mkt Cap: $35B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -7,8 +7,6 @@ In circle (Technology/Semiconductors)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Technology/Semiconductors)
 | Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings std: 87.1% (highly volatile); FCF/NI: -38488% (weak conversion); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat; Operating margin 13% — thin | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.6x — growth premium; 52w range position: 53%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.7x — growth premium; 52w range position: 64%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-03-31 10:49 | Price: $242.49 | Mkt Cap: $584B*
+*Generated: 2026-04-05 06:15 | Price: $243.04 | Mkt Cap: $586B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,7 +20,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.8% (4y); Earnings std: 75.3% (highly volatile); FCF/NI: 87% (strong); Gross margin: 68% (pricing power) | - |
+| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.8% (4y); Earnings std: 88.5% (highly volatile); FCF/NI: 87% (strong); Gross margin: 68% (pricing power) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% — strong pricing power; Operating margin 24% | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.3x — fair price; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
@@ -38,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: 14% — thin (IV $276 at 25x)
+- **Margin of Safety**: 13% — thin (IV $276 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

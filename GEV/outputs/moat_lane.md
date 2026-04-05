@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEV
-*Generated: 2026-03-31 10:49 | Price: $817.35 | Mkt Cap: $222B*
+*Generated: 2026-04-05 06:15 | Price: $898.57 | Mkt Cap: $244B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -7,8 +7,6 @@ In circle (Industrials/Specialty Industrial Machinery)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,14 +20,14 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.9% (4y); Earnings std: 278.9% (highly volatile); FCF/NI: 27% (weak conversion); Gross margin: 20% (commodity-like) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.9% (4y); Earnings std: 335.2% (highly volatile); FCF/NI: 27% (weak conversion); Gross margin: 20% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.6x — expensive; 52w range position: 81%; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 39.0x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.4/10** | **100%** | **2.4** | | |
 
-## Buffett Score: 2.6 / 10
-## Alpha Adjustment: -0.30
+## Buffett Score: 2.4 / 10
+## Alpha Adjustment: -0.32
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -38,10 +36,10 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -46% — ABSENT ($817 > IV $441 at 25x for 25% growth)
+- **Margin of Safety**: -51% — ABSENT ($899 > IV $442 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -50,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.30 applied to composite alpha score
+Buffett Premium: -0.32 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

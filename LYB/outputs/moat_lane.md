@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-03-31 10:49 | Price: $82.38 | Mkt Cap: $27B*
+*Generated: 2026-04-05 06:16 | Price: $79.6 | Mkt Cap: $26B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings std: 66.1% (highly volatile); FCF/NI: 91% (strong); Gross margin: 9% (commodity-like) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — weak pricing power; Operating margin -1% — thin | Weak pricing |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.2x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.3x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

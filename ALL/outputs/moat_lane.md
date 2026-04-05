@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALL
-*Generated: 2026-03-31 10:49 | Price: $207.27 | Mkt Cap: $54B*
+*Generated: 2026-04-05 06:15 | Price: $207.03 | Mkt Cap: $54B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Property & Casualty)
@@ -7,8 +7,6 @@ In circle (Financial Services/Insurance - Property & Casualty)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.4/10 | 30% | 0.4 | Avg ROIC: 10.6% (4y); Earnings std: 1299.8% (highly volatile); FCF/NI: -547% (weak conversion); Gross margin: 31% | - |
+| Quality | 1.4/10 | 30% | 0.4 | Avg ROIC: 10.6% (4y); Earnings std: 1504.6% (highly volatile); FCF/NI: -547% (weak conversion); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 31% — weak pricing power; Operating margin 29% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; 52w range position: 77%; Owner earnings yield: 16.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; 52w range position: 76%; Owner earnings yield: 16.6% (>5%) | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

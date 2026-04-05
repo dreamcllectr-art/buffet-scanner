@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GNRC
-*Generated: 2026-03-31 10:49 | Price: $185.5 | Mkt Cap: $11B*
+*Generated: 2026-04-05 06:15 | Price: $194.09 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -8,13 +8,11 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 ## Inversion First: What Could Kill This?
 
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
-
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.8%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.7%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -22,10 +20,10 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 9.0% (4y); Earnings std: 50.7% (highly volatile); FCF/NI: 135% (strong); Gross margin: 38% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
+| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 9.0% (4y); Earnings std: 61.7% (highly volatile); FCF/NI: 135% (strong); Gross margin: 38% | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — weak pricing power; Operating margin -1% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.7x — fair price; 52w range position: 61%; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 67%; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -38,9 +36,9 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -78% — ABSENT ($186 > IV $40 at 15x for -12% growth)
+- **Margin of Safety**: -79% — ABSENT ($194 > IV $40 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

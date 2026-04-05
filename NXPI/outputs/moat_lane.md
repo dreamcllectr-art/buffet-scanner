@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXPI
-*Generated: 2026-03-31 10:49 | Price: $187.39 | Mkt Cap: $47B*
+*Generated: 2026-04-05 06:16 | Price: $194.55 | Mkt Cap: $49B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -7,8 +7,6 @@ In circle (Technology/Semiconductors)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 14.0% (4y); Earnings std: 9.5% (predictable); FCF/NI: 94% (strong); Gross margin: 55% (pricing power) | ROIC declining |
+| Quality | 6.1/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 14.0% (4y); Earnings std: 9.9% (predictable); FCF/NI: 94% (strong); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat; Operating margin 26% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 36%; Owner earnings yield: 4.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 43%; Owner earnings yield: 3.8% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +36,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -36% — ABSENT ($187 > IV $119 at 15x for -7% growth)
+- **Margin of Safety**: -39% — ABSENT ($195 > IV $119 at 15x for -7% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

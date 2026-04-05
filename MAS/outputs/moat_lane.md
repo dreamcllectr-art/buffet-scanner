@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAS
-*Generated: 2026-03-31 10:49 | Price: $58.6 | Mkt Cap: $12B*
+*Generated: 2026-04-05 06:16 | Price: $59.12 | Mkt Cap: $12B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -7,8 +7,6 @@ In circle (Industrials/Building Products & Equipment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Industrials/Building Products & Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 37.2% (4y); Earnings std: 6.9% (predictable); FCF/NI: 105% (strong); Gross margin: 36% | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 37.2% (4y); Earnings std: 8.4% (predictable); FCF/NI: 105% (strong); Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 15% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -38,7 +36,7 @@ In circle (Industrials/Building Products & Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
-- **Margin of Safety**: -1% — ABSENT ($59 > IV $58 at 15x for -6% growth)
+- **Margin of Safety**: -2% — ABSENT ($59 > IV $58 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

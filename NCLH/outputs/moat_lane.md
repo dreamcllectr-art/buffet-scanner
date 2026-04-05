@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-03-31 10:49 | Price: $17.65 | Mkt Cap: $8B*
+*Generated: 2026-04-05 06:16 | Price: $18.93 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Travel Services)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Travel Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings std: 254.5% (highly volatile); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings std: 306.1% (highly volatile); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 43% — moderate moat; Operating margin 8% — thin | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (27% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 36% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -38,10 +36,10 @@ In circle (Consumer Cyclical/Travel Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Travel Services)
-- **Margin of Safety**: -11% — ABSENT ($18 > IV $16 at 17x for 6% growth)
+- **Margin of Safety**: -17% — ABSENT ($19 > IV $16 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

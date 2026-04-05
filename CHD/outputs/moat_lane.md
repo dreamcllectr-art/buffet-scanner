@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHD
-*Generated: 2026-03-31 10:49 | Price: $93.91 | Mkt Cap: $22B*
+*Generated: 2026-04-05 06:15 | Price: $92.85 | Mkt Cap: $22B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -7,8 +7,6 @@ In circle (Consumer Defensive/Household & Personal Products)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 | Quality | 3.1/10 | 30% | 0.9 | Avg ROIC: 11.3% (4y); Earnings std: 52.6% (highly volatile); FCF/NI: 148% (strong); Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 19% | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.3x — growth premium; 52w range position: 39%; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.1x — growth premium; 52w range position: 45%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -38,7 +36,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Household & Personal Products)
-- **Margin of Safety**: -52% — ABSENT ($94 > IV $45 at 15x for -21% growth)
+- **Margin of Safety**: -51% — ABSENT ($93 > IV $45 at 15x for -21% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRK
-*Generated: 2026-03-31 10:49 | Price: $118.1 | Mkt Cap: $292B*
+*Generated: 2026-04-05 06:16 | Price: $120.87 | Mkt Cap: $299B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.7% (4y); Earnings std: 2310.4% (highly volatile); FCF/NI: 695% (strong); Gross margin: 77% (pricing power) | - |
+| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.7% (4y); Earnings std: 2676.5% (highly volatile); FCF/NI: 695% (strong); Gross margin: 77% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% — strong pricing power; Operating margin 33% — durable | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.1x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 4.1% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.4x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 4.0% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10
@@ -38,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: -8% — ABSENT ($118 > IV $109 at 15x for -19% growth)
+- **Margin of Safety**: -10% — ABSENT ($121 > IV $109 at 15x for -19% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

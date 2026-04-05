@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-03-31 10:49 | Price: $92.97 | Mkt Cap: $394B*
+*Generated: 2026-04-05 06:16 | Price: $98.66 | Mkt Cap: $419B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -7,8 +7,6 @@ In circle (Communication Services/Entertainment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Communication Services/Entertainment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 19.0% (4y); Earnings std: 25.4% (volatile); FCF/NI: 82% (strong); Gross margin: 48% | - |
+| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 19.0% (4y); Earnings std: 22.0% (volatile); FCF/NI: 82% (strong); Gross margin: 48% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat; Operating margin 25% | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 24.1x — growth premium; 52w range position: 30%; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 25.6x — growth premium; 52w range position: 40%; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ In circle (Communication Services/Entertainment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Entertainment)
-- **Margin of Safety**: -32% — ABSENT ($93 > IV $63 at 25x for 25% growth)
+- **Margin of Safety**: -36% — ABSENT ($99 > IV $63 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

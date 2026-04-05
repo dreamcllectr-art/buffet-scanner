@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KO
-*Generated: 2026-03-31 10:49 | Price: $76.27 | Mkt Cap: $328B*
+*Generated: 2026-04-05 06:15 | Price: $76.72 | Mkt Cap: $330B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (9.3% inst.) as insider
 
@@ -9,8 +9,6 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -24,10 +22,10 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 16.8% (4y); Earnings std: 11.4%; FCF/NI: 69%; Gross margin: 62% (pricing power) | - |
+| Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 16.8% (4y); Earnings std: 12.0%; FCF/NI: 69%; Gross margin: 62% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.0x — growth premium; 52w range position: 66%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.2x — growth premium; 52w range position: 68%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -40,7 +38,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Beverages - Non-Alcoholic)
-- **Margin of Safety**: -40% — ABSENT ($76 > IV $46 at 15x for 4% growth)
+- **Margin of Safety**: -41% — ABSENT ($77 > IV $46 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

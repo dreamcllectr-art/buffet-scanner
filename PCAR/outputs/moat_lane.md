@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-03-31 10:49 | Price: $112.47 | Mkt Cap: $59B*
+*Generated: 2026-04-05 06:16 | Price: $118.32 | Mkt Cap: $62B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Farm & Heavy Construction Machinery)
@@ -7,8 +7,6 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings std: 39.7% (volatile); FCF/NI: 79%; Gross margin: 14% (commodity-like) | ROIC declining |
+| Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings std: 48.6% (volatile); FCF/NI: 79%; Gross margin: 14% (commodity-like) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 14% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; 52w range position: 59%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.5x — fair price; 52w range position: 71%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +36,7 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Farm & Heavy Construction Machinery)
-- **Margin of Safety**: -40% — ABSENT ($112 > IV $68 at 15x for -36% growth)
+- **Margin of Safety**: -43% — ABSENT ($118 > IV $68 at 15x for -36% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

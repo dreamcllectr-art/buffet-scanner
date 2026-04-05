@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAG
-*Generated: 2026-03-31 10:49 | Price: $15.73 | Mkt Cap: $8B*
+*Generated: 2026-04-05 06:15 | Price: $15.72 | Mkt Cap: $8B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Packaged Foods)
@@ -8,12 +8,10 @@ In circle (Consumer Defensive/Packaged Foods)
 
 ## Inversion First: What Could Kill This?
 
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
-
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,10 +20,10 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (4y); Earnings std: 129.6% (highly volatile); FCF/NI: 189% (strong); Gross margin: 25% (commodity-like) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (4y); Earnings std: 155.3% (highly volatile); FCF/NI: 189% (strong); Gross margin: 24% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 25% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 10.5% (>5%) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 24% — weak pricing power; Operating margin 11% — thin | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 9.3% (>5%) | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

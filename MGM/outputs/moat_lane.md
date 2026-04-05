@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MGM
-*Generated: 2026-03-31 10:49 | Price: $35.62 | Mkt Cap: $10B*
+*Generated: 2026-04-05 06:16 | Price: $36.68 | Mkt Cap: $10B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Resorts & Casinos)
@@ -7,8 +7,6 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 10.8% (4y); Earnings std: 30.3% (volatile); FCF/NI: 273% (strong); Gross margin: 44% | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 10.8% (4y); Earnings std: 26.1% (volatile); FCF/NI: 273% (strong); Gross margin: 44% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat; Operating margin 7% — thin | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 69%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.7x — fair price; 52w range position: 77%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -38,7 +36,7 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Resorts & Casinos)
-- **Margin of Safety**: -47% — ABSENT ($36 > IV $19 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($37 > IV $19 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 27.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-03-31 10:49 | Price: $63.19 | Mkt Cap: $41B*
+*Generated: 2026-04-05 06:15 | Price: $66.76 | Mkt Cap: $44B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Airlines)
@@ -7,8 +7,6 @@ In circle (Industrials/Airlines)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Industrials/Airlines)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.9/10 | 30% | 0.6 | Avg ROIC: 13.3% (4y); Earnings std: 124.9% (highly volatile); FCF/NI: 46% (weak conversion); Gross margin: 20% (commodity-like) | - |
+| Quality | 1.9/10 | 30% | 0.6 | Avg ROIC: 13.3% (4y); Earnings std: 142.8% (highly volatile); FCF/NI: 46% (weak conversion); Gross margin: 20% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 68%; Owner earnings yield: 7.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; 52w range position: 77%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -38,7 +36,7 @@ In circle (Industrials/Airlines)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Airlines)
-- **Margin of Safety**: 203% — PRESENT (IV $192 vs $63 at 25x)
+- **Margin of Safety**: 187% — PRESENT (IV $192 vs $67 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

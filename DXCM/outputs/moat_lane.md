@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DXCM
-*Generated: 2026-03-31 10:49 | Price: $61.9 | Mkt Cap: $24B*
+*Generated: 2026-04-05 06:15 | Price: $62.22 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 13.8% (4y); Earnings std: 28.8% (volatile); FCF/NI: 106% (strong); Gross margin: 60% (pricing power) | - |
+| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 13.8% (4y); Earnings std: 27.1% (volatile); FCF/NI: 106% (strong); Gross margin: 60% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% — strong pricing power; Operating margin 26% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.7x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.8x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

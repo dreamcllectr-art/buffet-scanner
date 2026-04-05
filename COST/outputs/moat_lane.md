@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COST
-*Generated: 2026-03-31 10:49 | Price: $996.58 | Mkt Cap: $442B*
+*Generated: 2026-04-05 06:15 | Price: $1014.96 | Mkt Cap: $451B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Discount Stores)
@@ -8,12 +8,10 @@ In circle (Consumer Defensive/Discount Stores)
 
 ## Inversion First: What Could Kill This?
 
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
-
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,13 +20,13 @@ In circle (Consumer Defensive/Discount Stores)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.4/10 | 30% | 2.5 | Avg ROIC: 24.1% (4y); Earnings std: 7.0% (predictable); FCF/NI: 88% (strong); Gross margin: 13% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 4% — thin | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.4x — expensive; 52w range position: 68%; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Quality | 8.4/10 | 30% | 2.5 | Avg ROIC: 24.1% (4y); Earnings std: 4.9% (predictable); FCF/NI: 88% (strong); Gross margin: 13% (commodity-like) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — weak pricing power; Operating margin 4% — thin; Rev growth 22% — demand pull | Weak pricing |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 45.2x — expensive; 52w range position: 77%; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,13 +36,13 @@ In circle (Consumer Defensive/Discount Stores)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Discount Stores)
-- **Margin of Safety**: -61% — ABSENT ($997 > IV $385 at 20x for 14% growth)
-- **Lollapalooza Effect**: No (1 forces only: high quality)
+- **Margin of Safety**: -53% — ABSENT ($1015 > IV $480 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: high quality)
+No (2 forces only: high quality, secular growth)
 
 ---
 

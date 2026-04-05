@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAL
-*Generated: 2026-03-31 10:49 | Price: $39.26 | Mkt Cap: $33B*
+*Generated: 2026-04-05 06:15 | Price: $38.17 | Mkt Cap: $32B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings std: 48.1% (volatile); FCF/NI: 96% (strong); Gross margin: 16% (commodity-like) | ROIC declining |
+| Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings std: 58.9% (highly volatile); FCF/NI: 96% (strong); Gross margin: 16% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — weak pricing power; Operating margin 15% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 6.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 6.7% (>5%) | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
-- **Margin of Safety**: -43% — ABSENT ($39 > IV $22 at 15x for -0% growth)
+- **Margin of Safety**: -41% — ABSENT ($38 > IV $22 at 15x for -0% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

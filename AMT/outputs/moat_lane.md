@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-03-31 10:49 | Price: $170.36 | Mkt Cap: $80B*
+*Generated: 2026-04-05 06:15 | Price: $173.73 | Mkt Cap: $81B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -7,8 +7,6 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,14 +20,14 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.4% (4y); Earnings std: 29.0% (volatile); FCF/NI: 154% (strong); Gross margin: 74% (pricing power) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.4% (4y); Earnings std: 34.2% (volatile); FCF/NI: 154% (strong); Gross margin: 74% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 45% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 24.6x — growth premium; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 5.7% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.1x — growth premium; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,7 +36,7 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Specialty) — flag for review.
-- **Margin of Safety**: -52% — ABSENT ($170 > IV $81 at 15x for -33% growth)
+- **Margin of Safety**: -53% — ABSENT ($174 > IV $81 at 15x for -33% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -50,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.11 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

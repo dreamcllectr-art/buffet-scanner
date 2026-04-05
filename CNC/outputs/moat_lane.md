@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-03-31 10:49 | Price: $31.8 | Mkt Cap: $16B*
+*Generated: 2026-04-05 06:15 | Price: $35.11 | Mkt Cap: $17B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -7,8 +7,6 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings std: 183.7% (highly volatile); FCF/NI: 157% (strong); Gross margin: 10% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings std: 222.8% (highly volatile); FCF/NI: 157% (strong); Gross margin: 10% (commodity-like) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — weak pricing power; Operating margin -2% — thin; Rev growth 23% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 32.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 29.3% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-03-31 10:49 | Price: $148.69 | Mkt Cap: $35B*
+*Generated: 2026-04-05 06:16 | Price: $155.75 | Mkt Cap: $37B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -7,8 +7,6 @@ In circle (Communication Services/Entertainment)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Communication Services/Entertainment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 12.9% (4y); Earnings std: 67.5% (highly volatile); FCF/NI: 224% (strong); Gross margin: 26% (commodity-like) | - |
+| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 12.9% (4y); Earnings std: 78.6% (highly volatile); FCF/NI: 224% (strong); Gross margin: 26% (commodity-like) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 33.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin -1% — thin | Weak pricing |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 65.5x — extreme premium; 52w range position: 57%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 68.7x — extreme premium; 52w range position: 69%; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

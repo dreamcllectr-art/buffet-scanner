@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-03-31 10:49 | Price: $246.63 | Mkt Cap: $3625B*
+*Generated: 2026-04-05 06:15 | Price: $255.92 | Mkt Cap: $3761B*
 
 ## Circle of Competence: IN
 In circle (Technology/Consumer Electronics)
@@ -7,8 +7,6 @@ In circle (Technology/Consumer Electronics)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Technology/Consumer Electronics)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 57.0% (4y); Earnings std: 10.9%; FCF/NI: 105% (strong); Gross margin: 47% | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $59B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 57.0% (4y); Earnings std: 13.0%; FCF/NI: 105% (strong); Gross margin: 47% | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $62B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% — moderate moat; Operating margin 35% — durable | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.5x — growth premium; 52w range position: 65%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.5x — growth premium; 52w range position: 73%; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -38,7 +36,7 @@ In circle (Technology/Consumer Electronics)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Consumer Electronics)
-- **Margin of Safety**: -36% — ABSENT ($247 > IV $158 at 20x for 18% growth)
+- **Margin of Safety**: -38% — ABSENT ($256 > IV $158 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral

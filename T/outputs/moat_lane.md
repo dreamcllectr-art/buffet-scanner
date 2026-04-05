@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: T
-*Generated: 2026-03-31 10:49 | Price: $28.78 | Mkt Cap: $201B*
+*Generated: 2026-04-05 06:15 | Price: $28.33 | Mkt Cap: $198B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Telecom Services)
@@ -7,8 +7,6 @@ In circle (Communication Services/Telecom Services)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.2% (4y); Earnings std: 156.8% (highly volatile); FCF/NI: 64%; Gross margin: 60% (pricing power) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.2% (4y); Earnings std: 188.0% (highly volatile); FCF/NI: 64%; Gross margin: 60% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 60% — moderate moat; Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 6.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 79%; Owner earnings yield: 6.3% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -38,10 +36,10 @@ In circle (Communication Services/Telecom Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Telecom Services)
-- **Margin of Safety**: 58% — PRESENT (IV $46 vs $29 at 15x)
+- **Margin of Safety**: 61% — PRESENT (IV $46 vs $28 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

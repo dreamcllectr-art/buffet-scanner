@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-03-31 10:49 | Price: $262.49 | Mkt Cap: $74B*
+*Generated: 2026-04-05 06:15 | Price: $264.28 | Mkt Cap: $75B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -8,12 +8,10 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 ## Inversion First: What Could Kill This?
 
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
-
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,13 +20,13 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.2% (4y); Earnings std: 26.2% (volatile); FCF/NI: 99% (strong); Gross margin: 45% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 45% — moderate moat; Operating margin 15% — thin | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.1x — growth premium; 52w range position: 47%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.2% (4y); Earnings std: 27.8% (volatile); FCF/NI: 99% (strong); Gross margin: 45% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 19% | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.3x — growth premium; 52w range position: 49%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
-- **Margin of Safety**: -45% — ABSENT ($262 > IV $145 at 20x for 18% growth)
+- **Margin of Safety**: -31% — ABSENT ($264 > IV $182 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

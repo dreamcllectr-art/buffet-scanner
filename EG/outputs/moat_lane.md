@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EG
-*Generated: 2026-03-31 10:49 | Price: $323.33 | Mkt Cap: $13B*
+*Generated: 2026-04-05 06:15 | Price: $327.09 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Reinsurance)
@@ -7,8 +7,6 @@ In circle (Financial Services/Insurance - Reinsurance)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Financial Services/Insurance - Reinsurance)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 7.9% (4y); Earnings std: 167.8% (highly volatile); FCF/NI: 338% (strong); Gross margin: 12% (commodity-like) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 7.9% (4y); Earnings std: 196.6% (highly volatile); FCF/NI: 338% (strong); Gross margin: 12% (commodity-like) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 25.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — weak pricing power; Operating margin 12% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 32% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.3x — deep value; 52w range position: 37% | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -38,7 +36,7 @@ In circle (Financial Services/Insurance - Reinsurance)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Reinsurance)
-- **Margin of Safety**: 75% — PRESENT (IV $567 vs $323 at 15x)
+- **Margin of Safety**: 73% — PRESENT (IV $567 vs $327 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

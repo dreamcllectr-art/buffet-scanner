@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-03-31 10:49 | Price: $48.23 | Mkt Cap: $19B*
+*Generated: 2026-04-05 06:16 | Price: $49.2 | Mkt Cap: $20B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -7,8 +7,6 @@ In circle (Healthcare/Biotechnology)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings std: 71.5% (highly volatile); FCF/NI: 81% (strong); Gross margin: -106% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings std: 77.3% (highly volatile); FCF/NI: 81% (strong); Gross margin: -106% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.3%; Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -106% — weak pricing power; Operating margin -126% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -10.6x — deep value; 52w range position: 70% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -10.6x — deep value; 52w range position: 72% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

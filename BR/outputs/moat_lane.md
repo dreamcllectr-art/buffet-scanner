@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-03-31 10:49 | Price: $163.44 | Mkt Cap: $19B*
+*Generated: 2026-04-05 06:15 | Price: $160.93 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -7,8 +7,6 @@ In circle (Technology/Information Technology Services)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -25,7 +23,7 @@ In circle (Technology/Information Technology Services)
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 13.6% (4y); Earnings std: 4.9% (predictable); FCF/NI: 112% (strong); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 12% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.8x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -38,7 +36,7 @@ In circle (Technology/Information Technology Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Information Technology Services)
-- **Margin of Safety**: 38% — PRESENT (IV $226 vs $163 at 25x)
+- **Margin of Safety**: 40% — PRESENT (IV $226 vs $161 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

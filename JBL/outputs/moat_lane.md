@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-03-31 10:49 | Price: $247.48 | Mkt Cap: $26B*
+*Generated: 2026-04-05 06:15 | Price: $268.55 | Mkt Cap: $29B*
 
 ## Circle of Competence: IN
 In circle (Technology/Electronic Components)
@@ -7,8 +7,6 @@ In circle (Technology/Electronic Components)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Technology/Electronic Components)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 23.1% (4y); Earnings std: 51.5% (highly volatile); FCF/NI: 90% (strong); Gross margin: 9% (commodity-like) | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 23.1% (4y); Earnings std: 63.0% (highly volatile); FCF/NI: 90% (strong); Gross margin: 9% (commodity-like) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 9% — weak pricing power; Operating margin 5% — thin; Rev growth 23% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 79%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.4x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,13 +36,13 @@ In circle (Technology/Electronic Components)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Electronic Components)
-- **Margin of Safety**: -25% — ABSENT ($247 > IV $186 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Margin of Safety**: -31% — ABSENT ($269 > IV $185 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: secular growth)
 
 ---
 

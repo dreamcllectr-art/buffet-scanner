@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LMT
-*Generated: 2026-03-31 10:49 | Price: $598.57 | Mkt Cap: $138B*
+*Generated: 2026-04-05 06:16 | Price: $622.79 | Mkt Cap: $144B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -7,8 +7,6 @@ In circle (Industrials/Aerospace & Defense)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,13 +20,13 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.3/10 | 30% | 2.2 | Avg ROIC: 23.4% (4y); Earnings std: 18.0%; FCF/NI: 108% (strong); Gross margin: 10% (commodity-like) | - |
+| Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 23.4% (4y); Earnings std: 22.0% (volatile); FCF/NI: 108% (strong); Gross margin: 10% (commodity-like) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 10% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 67%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 75%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +36,7 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -10% — ABSENT ($599 > IV $537 at 25x for 25% growth)
+- **Margin of Safety**: -14% — ABSENT ($623 > IV $537 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

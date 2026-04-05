@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CL
-*Generated: 2026-03-31 10:49 | Price: $85.73 | Mkt Cap: $69B*
+*Generated: 2026-04-05 06:15 | Price: $85.14 | Mkt Cap: $68B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -7,8 +7,6 @@ In circle (Consumer Defensive/Household & Personal Products)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Consumer Defensive/Household & Personal Products)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 32.5% (4y); Earnings std: 25.7% (volatile); FCF/NI: 132% (strong); Gross margin: 60% (pricing power) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 32.5% (4y); Earnings std: 30.9% (volatile); FCF/NI: 132% (strong); Gross margin: 60% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 45%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; 52w range position: 43%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +36,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Household & Personal Products)
-- **Margin of Safety**: -48% — ABSENT ($86 > IV $45 at 17x for 6% growth)
+- **Margin of Safety**: -47% — ABSENT ($85 > IV $45 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

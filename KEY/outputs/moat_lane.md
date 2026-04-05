@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEY
-*Generated: 2026-03-31 10:49 | Price: $19.4 | Mkt Cap: $21B*
+*Generated: 2026-04-05 06:16 | Price: $20.47 | Mkt Cap: $22B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Regional)
@@ -7,8 +7,6 @@ In circle (Financial Services/Banks - Regional)
 ---
 
 ## Inversion First: What Could Kill This?
-
-*Note: probabilities are heuristic estimates derived from sector, debt/EBITDA, and ownership thresholds — not empirically calibrated.*
 
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
@@ -22,10 +20,10 @@ In circle (Financial Services/Banks - Regional)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 9.5%; Earnings std: 592.2% (highly volatile); FCF/NI: 64%; Gross margin: 0% (commodity-like) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 9.5%; Earnings std: 666.5% (highly volatile); FCF/NI: 64%; Gross margin: 0% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.2% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 0% — weak pricing power; Operating margin 34% — durable; Rev growth 132% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 63% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 73% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -38,7 +36,7 @@ In circle (Financial Services/Banks - Regional)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Banks - Regional)
-- **Margin of Safety**: 96% — PRESENT (IV $38 vs $19 at 25x)
+- **Margin of Safety**: 86% — PRESENT (IV $38 vs $20 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

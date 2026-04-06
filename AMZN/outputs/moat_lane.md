@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-04-05 06:15 | Price: $209.77 | Mkt Cap: $2252B*
+*Generated: 2026-04-06 06:02 | Price: $209.77 | Mkt Cap: $2252B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.9% inst.) as insider
 

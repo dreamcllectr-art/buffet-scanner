@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-04-05 06:16 | Price: $331.93 | Mkt Cap: $88B*
+*Generated: 2026-04-06 06:03 | Price: $331.93 | Mkt Cap: $88B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Lodging)

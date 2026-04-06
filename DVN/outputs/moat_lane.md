@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-04-05 06:15 | Price: $49.49 | Mkt Cap: $31B*
+*Generated: 2026-04-06 06:03 | Price: $49.49 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.4/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings std: 14.5%; FCF/NI: 51%; Gross margin: 48% | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: nan% (4y); Earnings std: 14.5%; FCF/NI: 51%; Gross margin: 48% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat; Operating margin 23% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 6.9% (>5%) | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

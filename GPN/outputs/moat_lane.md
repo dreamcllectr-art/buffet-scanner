@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-04-05 06:15 | Price: $64.05 | Mkt Cap: $18B*
+*Generated: 2026-04-06 06:03 | Price: $64.05 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Business Services)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSY
-*Generated: 2026-04-05 06:15 | Price: $206.19 | Mkt Cap: $42B*
+*Generated: 2026-04-06 06:03 | Price: $206.19 | Mkt Cap: $42B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Confectioners)

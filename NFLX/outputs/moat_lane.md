@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-04-05 06:16 | Price: $98.66 | Mkt Cap: $419B*
+*Generated: 2026-04-06 06:03 | Price: $98.66 | Mkt Cap: $419B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)

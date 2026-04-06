@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRH
-*Generated: 2026-04-05 06:15 | Price: $104.63 | Mkt Cap: $70B*
+*Generated: 2026-04-06 06:03 | Price: $104.63 | Mkt Cap: $70B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Building Materials. Proceed with caution.

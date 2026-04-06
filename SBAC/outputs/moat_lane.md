@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBAC
-*Generated: 2026-04-05 06:16 | Price: $204.04 | Mkt Cap: $22B*
+*Generated: 2026-04-06 06:04 | Price: $204.04 | Mkt Cap: $22B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -20,13 +20,13 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 12.1% (4y); Earnings std: 21.4% (volatile); FCF/NI: 185% (strong); Gross margin: 74% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 12.1% (4y); Earnings std: 21.4% (volatile); Gross margin: 74% (pricing power) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); No insider transaction data; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 52% — durable | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.8x — growth premium; 52w range position: 50%; Owner earnings yield: 4.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

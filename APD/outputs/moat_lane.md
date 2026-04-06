@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APD
-*Generated: 2026-04-05 06:15 | Price: $293.55 | Mkt Cap: $65B*
+*Generated: 2026-04-06 06:02 | Price: $293.55 | Mkt Cap: $65B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.

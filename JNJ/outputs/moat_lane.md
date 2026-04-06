@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-04-05 06:15 | Price: $243.04 | Mkt Cap: $586B*
+*Generated: 2026-04-06 06:03 | Price: $243.04 | Mkt Cap: $586B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

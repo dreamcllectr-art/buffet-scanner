@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCHW
-*Generated: 2026-04-05 06:15 | Price: $93.77 | Mkt Cap: $167B*
+*Generated: 2026-04-06 06:02 | Price: $93.77 | Mkt Cap: $167B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 

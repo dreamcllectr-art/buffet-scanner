@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-04-05 06:15 | Price: $157.48 | Mkt Cap: $11B*
+*Generated: 2026-04-06 06:03 | Price: $157.48 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)

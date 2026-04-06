@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMAT
-*Generated: 2026-04-05 06:15 | Price: $348.47 | Mkt Cap: $277B*
+*Generated: 2026-04-06 06:02 | Price: $348.47 | Mkt Cap: $277B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductor Equipment & Materials)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-04-05 06:15 | Price: $148.04 | Mkt Cap: $31B*
+*Generated: 2026-04-06 06:03 | Price: $148.04 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.

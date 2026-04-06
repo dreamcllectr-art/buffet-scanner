@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AON
-*Generated: 2026-04-05 06:15 | Price: $323.14 | Mkt Cap: $69B*
+*Generated: 2026-04-06 06:02 | Price: $323.14 | Mkt Cap: $69B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -21,7 +21,7 @@ In circle (Financial Services/Insurance Brokers)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 21.9% (4y); Earnings std: 22.0% (volatile); FCF/NI: 109% (strong); Gross margin: 47% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% — moderate moat; Operating margin 31% — durable | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |

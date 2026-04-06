@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-04-05 06:15 | Price: $27.93 | Mkt Cap: $102B*
+*Generated: 2026-04-06 06:03 | Price: $27.93 | Mkt Cap: $102B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Telecom Services)

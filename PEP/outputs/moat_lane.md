@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEP
-*Generated: 2026-04-05 06:16 | Price: $157.01 | Mkt Cap: $215B*
+*Generated: 2026-04-06 06:03 | Price: $157.01 | Mkt Cap: $215B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Non-Alcoholic)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMY
-*Generated: 2026-04-05 06:15 | Price: $59.6 | Mkt Cap: $122B*
+*Generated: 2026-04-06 06:02 | Price: $59.6 | Mkt Cap: $122B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

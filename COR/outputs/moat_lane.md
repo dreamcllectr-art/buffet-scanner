@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-04-05 06:15 | Price: $324.8 | Mkt Cap: $63B*
+*Generated: 2026-04-06 06:02 | Price: $324.8 | Mkt Cap: $63B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.

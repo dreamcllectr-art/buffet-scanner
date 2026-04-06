@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LII
-*Generated: 2026-04-05 06:16 | Price: $454.64 | Mkt Cap: $16B*
+*Generated: 2026-04-06 06:03 | Price: $454.64 | Mkt Cap: $16B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
 

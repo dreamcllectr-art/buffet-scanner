@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-04-05 06:15 | Price: $174.37 | Mkt Cap: $116B*
+*Generated: 2026-04-06 06:03 | Price: $174.37 | Mkt Cap: $116B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.9% inst.) as insider
 

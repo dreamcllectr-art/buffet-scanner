@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMGN
-*Generated: 2026-04-05 06:15 | Price: $347.94 | Mkt Cap: $188B*
+*Generated: 2026-04-06 06:02 | Price: $347.94 | Mkt Cap: $188B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

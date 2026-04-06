@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-04-05 06:15 | Price: $471.84 | Mkt Cap: $106B*
+*Generated: 2026-04-06 06:03 | Price: $471.84 | Mkt Cap: $106B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.

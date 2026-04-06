@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-04-05 06:16 | Price: $152.69 | Mkt Cap: $32B*
+*Generated: 2026-04-06 06:03 | Price: $152.69 | Mkt Cap: $32B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.

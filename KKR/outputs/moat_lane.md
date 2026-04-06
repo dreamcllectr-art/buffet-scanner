@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-04-05 06:16 | Price: $91.23 | Mkt Cap: $84B*
+*Generated: 2026-04-06 06:03 | Price: $91.23 | Mkt Cap: $84B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)

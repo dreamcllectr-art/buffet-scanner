@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-04-05 06:15 | Price: $173.89 | Mkt Cap: $9B*
+*Generated: 2026-04-06 06:02 | Price: $173.89 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.

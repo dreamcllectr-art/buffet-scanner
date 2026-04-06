@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AOS
-*Generated: 2026-04-05 06:15 | Price: $64.35 | Mkt Cap: $9B*
+*Generated: 2026-04-06 06:02 | Price: $64.35 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)

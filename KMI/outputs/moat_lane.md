@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-04-05 06:16 | Price: $32.97 | Mkt Cap: $73B*
+*Generated: 2026-04-06 06:03 | Price: $32.97 | Mkt Cap: $73B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABNB
-*Generated: 2026-04-05 06:15 | Price: $124.95 | Mkt Cap: $75B*
+*Generated: 2026-04-06 06:02 | Price: $124.95 | Mkt Cap: $75B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)

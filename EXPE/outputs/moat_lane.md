@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPE
-*Generated: 2026-04-05 06:15 | Price: $225.3 | Mkt Cap: $28B*
+*Generated: 2026-04-06 06:03 | Price: $225.3 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)

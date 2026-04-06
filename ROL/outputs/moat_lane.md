@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-04-05 06:16 | Price: $53.93 | Mkt Cap: $26B*
+*Generated: 2026-04-06 06:04 | Price: $53.93 | Mkt Cap: $26B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Personal Services)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-04-05 06:15 | Price: $73.46 | Mkt Cap: $28B*
+*Generated: 2026-04-06 06:03 | Price: $73.46 | Mkt Cap: $28B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.

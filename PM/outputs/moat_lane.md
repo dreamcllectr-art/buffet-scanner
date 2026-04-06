@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PM
-*Generated: 2026-04-05 06:16 | Price: $158.1 | Mkt Cap: $246B*
+*Generated: 2026-04-06 06:03 | Price: $158.1 | Mkt Cap: $246B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Tobacco)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVRG
-*Generated: 2026-04-05 06:15 | Price: $82.84 | Mkt Cap: $19B*
+*Generated: 2026-04-06 06:03 | Price: $82.84 | Mkt Cap: $19B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETR
-*Generated: 2026-04-05 06:15 | Price: $114.9 | Mkt Cap: $53B*
+*Generated: 2026-04-06 06:03 | Price: $114.9 | Mkt Cap: $53B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.

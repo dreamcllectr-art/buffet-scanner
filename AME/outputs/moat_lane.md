@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AME
-*Generated: 2026-04-05 06:15 | Price: $218.29 | Mkt Cap: $50B*
+*Generated: 2026-04-06 06:02 | Price: $218.29 | Mkt Cap: $50B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)

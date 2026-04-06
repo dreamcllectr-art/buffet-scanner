@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-04-05 06:16 | Price: $142.25 | Mkt Cap: $27B*
+*Generated: 2026-04-06 06:03 | Price: $142.25 | Mkt Cap: $27B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)

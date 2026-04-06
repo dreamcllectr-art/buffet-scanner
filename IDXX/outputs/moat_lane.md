@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IDXX
-*Generated: 2026-04-05 06:15 | Price: $569.55 | Mkt Cap: $45B*
+*Generated: 2026-04-06 06:03 | Price: $569.55 | Mkt Cap: $45B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.

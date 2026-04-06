@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDOG
-*Generated: 2026-04-05 06:15 | Price: $120.36 | Mkt Cap: $43B*
+*Generated: 2026-04-06 06:03 | Price: $120.36 | Mkt Cap: $43B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQR
-*Generated: 2026-04-05 06:15 | Price: $60.27 | Mkt Cap: $24B*
+*Generated: 2026-04-06 06:03 | Price: $60.27 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Residential) — flag for review.

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-04-05 06:15 | Price: $60.99 | Mkt Cap: $15B*
+*Generated: 2026-04-06 06:02 | Price: $60.99 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)

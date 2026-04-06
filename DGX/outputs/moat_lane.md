@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DGX
-*Generated: 2026-04-05 06:16 | Price: $198.02 | Mkt Cap: $22B*
+*Generated: 2026-04-06 06:04 | Price: $198.02 | Mkt Cap: $22B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.

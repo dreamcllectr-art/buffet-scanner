@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOC
-*Generated: 2026-04-05 06:16 | Price: $702.5 | Mkt Cap: $100B*
+*Generated: 2026-04-06 06:03 | Price: $702.5 | Mkt Cap: $100B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)

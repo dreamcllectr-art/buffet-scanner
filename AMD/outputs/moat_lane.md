@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-04-05 06:15 | Price: $217.5 | Mkt Cap: $355B*
+*Generated: 2026-04-06 06:02 | Price: $217.5 | Mkt Cap: $355B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)

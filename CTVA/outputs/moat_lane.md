@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-04-05 06:15 | Price: $85.46 | Mkt Cap: $57B*
+*Generated: 2026-04-06 06:03 | Price: $85.46 | Mkt Cap: $57B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.

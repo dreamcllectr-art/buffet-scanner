@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EOG
-*Generated: 2026-04-05 06:15 | Price: $142.64 | Mkt Cap: $77B*
+*Generated: 2026-04-06 06:03 | Price: $142.64 | Mkt Cap: $77B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.

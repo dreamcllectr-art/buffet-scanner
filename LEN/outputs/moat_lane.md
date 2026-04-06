@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-04-05 06:16 | Price: $86.49 | Mkt Cap: $21B*
+*Generated: 2026-04-06 06:03 | Price: $86.49 | Mkt Cap: $21B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-04-05 06:16 | Price: $18.93 | Mkt Cap: $9B*
+*Generated: 2026-04-06 06:03 | Price: $18.93 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)

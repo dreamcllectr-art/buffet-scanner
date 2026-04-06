@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-04-05 06:15 | Price: $107.04 | Mkt Cap: $62B*
+*Generated: 2026-04-06 06:02 | Price: $107.04 | Mkt Cap: $62B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)

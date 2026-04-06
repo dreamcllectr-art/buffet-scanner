@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-04-05 06:15 | Price: $170.6 | Mkt Cap: $12B*
+*Generated: 2026-04-06 06:02 | Price: $170.6 | Mkt Cap: $12B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.

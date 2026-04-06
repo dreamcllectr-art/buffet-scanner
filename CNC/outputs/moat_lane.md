@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-04-05 06:15 | Price: $35.11 | Mkt Cap: $17B*
+*Generated: 2026-04-06 06:02 | Price: $35.11 | Mkt Cap: $17B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.

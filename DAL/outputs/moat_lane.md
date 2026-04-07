@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-04-06 06:03 | Price: $66.76 | Mkt Cap: $44B*
+*Generated: 2026-04-07 05:50 | Price: $66.78 | Mkt Cap: $44B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Airlines)

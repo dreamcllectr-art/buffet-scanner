@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LH
-*Generated: 2026-04-06 06:03 | Price: $273.72 | Mkt Cap: $23B*
+*Generated: 2026-04-07 05:50 | Price: $274.46 | Mkt Cap: $23B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.4% (4y); Earnings std: 73.2% (highly volatile); FCF/NI: 153% (strong); Gross margin: 29% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 76%; Owner earnings yield: 4.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 77%; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

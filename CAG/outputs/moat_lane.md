@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAG
-*Generated: 2026-04-06 06:03 | Price: $15.72 | Mkt Cap: $8B*
+*Generated: 2026-04-07 05:50 | Price: $15.78 | Mkt Cap: $8B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Packaged Foods)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Packaged Foods)
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (4y); Earnings std: 155.3% (highly volatile); FCF/NI: 189% (strong); Gross margin: 24% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 24% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 9.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 9.3% (>5%) | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

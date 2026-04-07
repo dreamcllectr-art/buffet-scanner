@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCG
-*Generated: 2026-04-06 06:03 | Price: $17.77 | Mkt Cap: $39B*
+*Generated: 2026-04-07 05:51 | Price: $17.67 | Mkt Cap: $39B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.9% (4y); Earnings std: 8.8% (predictable); FCF/NI: -187% (weak conversion); Gross margin: 40% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 40% — weak pricing power; Operating margin 21% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 78% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; 52w range position: 76% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
-- **Margin of Safety**: -0% — ABSENT ($18 > IV $18 at 15x for -3% growth)
+- **Margin of Safety**: 0% — thin (IV $18 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

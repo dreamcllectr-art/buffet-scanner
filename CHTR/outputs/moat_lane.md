@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-04-06 06:02 | Price: $219.79 | Mkt Cap: $28B*
+*Generated: 2026-04-07 05:50 | Price: $219.98 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Telecom Services)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-04-06 06:02 | Price: $278.72 | Mkt Cap: $77B*
+*Generated: 2026-04-07 05:50 | Price: $279.39 | Mkt Cap: $77B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -23,7 +23,7 @@ In circle (Technology/Software - Application)
 | Quality | 6.3/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 20.6% (4y); Earnings std: 11.4%; FCF/NI: 125% (strong); Gross margin: 86% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 86% — strong pricing power; Operating margin 33% — durable | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.6x — growth premium; 52w range position: 37%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.7x — growth premium; 52w range position: 35%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

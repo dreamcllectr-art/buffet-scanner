@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EA
-*Generated: 2026-04-06 06:03 | Price: $203.6 | Mkt Cap: $51B*
+*Generated: 2026-04-07 05:50 | Price: $204.16 | Mkt Cap: $51B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Electronic Gaming & Multimedia)
@@ -23,7 +23,7 @@ In circle (Communication Services/Electronic Gaming & Multimedia)
 | Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 12.8% (4y); Earnings std: 37.5% (volatile); FCF/NI: 179% (strong); Gross margin: 78% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.2% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 78% — strong pricing power; Operating margin 9% — thin | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.0x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.1x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

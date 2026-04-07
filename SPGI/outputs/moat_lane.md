@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPGI
-*Generated: 2026-04-06 06:04 | Price: $431.16 | Mkt Cap: $131B*
+*Generated: 2026-04-07 05:51 | Price: $434.11 | Mkt Cap: $130B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Financial Data & Stock Exchanges)
@@ -21,9 +21,9 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 9.2% (4y); Earnings std: 32.9% (volatile); FCF/NI: 120% (strong); Gross margin: 70% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 70% — strong pricing power; Operating margin 38% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.7x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
-- **Margin of Safety**: -15% — ABSENT ($431 > IV $366 at 25x for 25% growth)
+- **Margin of Safety**: -16% — ABSENT ($434 > IV $366 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

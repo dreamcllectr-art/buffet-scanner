@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CL
-*Generated: 2026-04-06 06:03 | Price: $85.14 | Mkt Cap: $68B*
+*Generated: 2026-04-07 05:50 | Price: $84.53 | Mkt Cap: $68B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 32.5% (4y); Earnings std: 30.9% (volatile); FCF/NI: 132% (strong); Gross margin: 60% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; 52w range position: 43%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 40%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

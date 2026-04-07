@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DE
-*Generated: 2026-04-06 06:03 | Price: $575.71 | Mkt Cap: $156B*
+*Generated: 2026-04-07 05:50 | Price: $575.09 | Mkt Cap: $155B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Farm & Heavy Construction Machinery)
@@ -36,7 +36,7 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Farm & Heavy Construction Machinery)
-- **Margin of Safety**: -54% — ABSENT ($576 > IV $266 at 15x for -8% growth)
+- **Margin of Safety**: -54% — ABSENT ($575 > IV $266 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

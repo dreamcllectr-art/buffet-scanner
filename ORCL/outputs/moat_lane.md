@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORCL
-*Generated: 2026-04-06 06:03 | Price: $146.38 | Mkt Cap: $421B*
+*Generated: 2026-04-07 05:51 | Price: $145.54 | Mkt Cap: $419B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -23,7 +23,7 @@ In circle (Technology/Software - Infrastructure)
 | Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 11.9% (4y); Earnings std: 3.9% (predictable); FCF/NI: 71%; Gross margin: 67% (pricing power) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 40.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 40.6% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 67% — strong pricing power; Operating margin 33% — durable; Rev growth 22% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (12% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.3x — fair price; Near 52w low (11% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Software - Infrastructure)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
-- **Margin of Safety**: -5% — ABSENT ($146 > IV $140 at 25x for 24% growth)
+- **Margin of Safety**: -4% — ABSENT ($146 > IV $140 at 25x for 24% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 40.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

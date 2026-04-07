@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-04-06 06:03 | Price: $139.69 | Mkt Cap: $41B*
+*Generated: 2026-04-07 05:50 | Price: $141.72 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Capital World Investors (12.8% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Consumer Cyclical/Residential Construction)
 | Quality | 3.3/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 16.9% (4y); Earnings std: 13.0%; FCF/NI: 57%; Gross margin: 22% (commodity-like) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 39% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 42% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -38,7 +38,7 @@ In circle (Consumer Cyclical/Residential Construction)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
-- **Margin of Safety**: 18% — thin (IV $165 at 15x)
+- **Margin of Safety**: 16% — thin (IV $165 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-04-06 06:02 | Price: $39.93 | Mkt Cap: $18B*
+*Generated: 2026-04-07 05:49 | Price: $39.81 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 | Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings std: 34.8% (volatile); FCF/NI: 117% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — weak pricing power; Operating margin 8% — thin; Rev growth 68% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 2.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.4% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

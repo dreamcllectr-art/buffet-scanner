@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GM
-*Generated: 2026-04-06 06:03 | Price: $72.54 | Mkt Cap: $68B*
+*Generated: 2026-04-07 05:50 | Price: $73.43 | Mkt Cap: $69B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Manufacturers)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Auto Manufacturers)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.9% (4y); Earnings std: 29.7% (volatile); FCF/NI: -30% (weak conversion); Gross margin: 11% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 67%; Owner earnings yield: 12.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.3x — deep value; 52w range position: 69%; Owner earnings yield: 12.5% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Auto Manufacturers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Auto Manufacturers)
-- **Margin of Safety**: -32% — ABSENT ($73 > IV $49 at 15x for -5% growth)
+- **Margin of Safety**: -33% — ABSENT ($73 > IV $49 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

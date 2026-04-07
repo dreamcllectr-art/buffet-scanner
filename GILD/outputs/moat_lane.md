@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GILD
-*Generated: 2026-04-06 06:03 | Price: $139.71 | Mkt Cap: $173B*
+*Generated: 2026-04-07 05:50 | Price: $140.13 | Mkt Cap: $174B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.3% (4y); Earnings std: 987.2% (highly volatile); FCF/NI: 643% (strong); Gross margin: 79% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% — strong pricing power; Operating margin 37% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 72%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; 52w range position: 73%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HCA
-*Generated: 2026-04-06 06:03 | Price: $471.84 | Mkt Cap: $106B*
+*Generated: 2026-04-07 05:50 | Price: $483.92 | Mkt Cap: $108B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 21.9% (4y); Earnings std: 12.7%; FCF/NI: 93% (strong); Gross margin: 42% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.4% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat; Operating margin 16% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 65%; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 70%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
-- **Margin of Safety**: 50% — PRESENT (IV $708 vs $472 at 25x)
+- **Margin of Safety**: 46% — PRESENT (IV $708 vs $484 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 16.2% insider ownership
 - **Mr. Market**: Neutral

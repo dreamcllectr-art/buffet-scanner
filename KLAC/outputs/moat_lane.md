@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-04-06 06:03 | Price: $1516.84 | Mkt Cap: $199B*
+*Generated: 2026-04-07 05:50 | Price: $1540.06 | Mkt Cap: $202B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductor Equipment & Materials)
@@ -23,11 +23,11 @@ In circle (Technology/Semiconductor Equipment & Materials)
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 34.3% (4y); Earnings std: 33.5% (volatile); FCF/NI: 98% (strong); Gross margin: 62% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% — strong pricing power; Operating margin 41% — durable | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.8x — expensive; 52w range position: 85%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.3x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ In circle (Technology/Semiconductor Equipment & Materials)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductor Equipment & Materials)
-- **Margin of Safety**: -44% — ABSENT ($1517 > IV $857 at 25x for 25% growth)
+- **Margin of Safety**: -44% — ABSENT ($1540 > IV $857 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.12 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

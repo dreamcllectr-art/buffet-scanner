@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-04-06 06:03 | Price: $91.23 | Mkt Cap: $84B*
+*Generated: 2026-04-07 05:50 | Price: $91.05 | Mkt Cap: $84B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -36,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: -62% — ABSENT ($91 > IV $35 at 15x for -2% growth)
+- **Margin of Safety**: -61% — ABSENT ($91 > IV $35 at 15x for -2% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Aligned — 23.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

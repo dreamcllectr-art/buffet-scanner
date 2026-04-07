@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-04-06 06:03 | Price: $195.32 | Mkt Cap: $21B*
+*Generated: 2026-04-07 05:50 | Price: $195.57 | Mkt Cap: $21B*
 
 ## Circle of Competence: IN
 In circle (Technology/Solar)
@@ -21,9 +21,9 @@ In circle (Technology/Solar)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.8/10 | 30% | 0.2 | Avg ROIC: 9.1% (4y); Earnings std: 1165.2% (highly volatile); FCF/NI: 7% (weak conversion); Gross margin: 41% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.4%; Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.4%; Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat; Operating margin 33% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; 52w range position: 46%; Owner earnings yield: 4.6% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; 52w range position: 47%; Owner earnings yield: 4.6% | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Solar)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Solar)
-- **Margin of Safety**: 82% — PRESENT (IV $356 vs $195 at 25x)
+- **Margin of Safety**: 82% — PRESENT (IV $356 vs $196 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 5.4% insider ownership
 - **Mr. Market**: Neutral

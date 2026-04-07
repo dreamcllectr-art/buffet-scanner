@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLZ
-*Generated: 2026-04-06 06:03 | Price: $57.54 | Mkt Cap: $74B*
+*Generated: 2026-04-07 05:51 | Price: $58.38 | Mkt Cap: $75B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Confectioners)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Confectioners)
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings std: 66.3% (highly volatile); FCF/NI: 98% (strong); Gross margin: 28% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 28% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.1x — fair price; 52w range position: 32%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.3x — fair price; 52w range position: 36%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10

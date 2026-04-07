@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-04-06 06:04 | Price: $88.94 | Mkt Cap: $10B*
+*Generated: 2026-04-07 05:51 | Price: $88.32 | Mkt Cap: $10B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings std: 41.7% (volatile); FCF/NI: 129% (strong); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
-- **Margin of Safety**: -54% — ABSENT ($89 > IV $41 at 20x for 12% growth)
+- **Margin of Safety**: -53% — ABSENT ($88 > IV $41 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

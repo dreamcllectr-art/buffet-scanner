@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-04-06 06:03 | Price: $41.22 | Mkt Cap: $77B*
+*Generated: 2026-04-07 05:50 | Price: $41.48 | Mkt Cap: $77B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Railroads)
@@ -23,7 +23,7 @@ In circle (Industrials/Railroads)
 | Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings std: 5.7% (predictable); FCF/NI: 77%; Gross margin: 46% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 46% — moderate moat; Operating margin 33% — durable | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.8x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

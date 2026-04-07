@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BSX
-*Generated: 2026-04-06 06:02 | Price: $62.82 | Mkt Cap: $93B*
+*Generated: 2026-04-07 05:50 | Price: $62.59 | Mkt Cap: $93B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.4% (4y); Earnings std: 56.7% (highly volatile); FCF/NI: 121% (strong); Gross margin: 69% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 69% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.1x — fair price; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRK
-*Generated: 2026-04-06 06:03 | Price: $120.87 | Mkt Cap: $299B*
+*Generated: 2026-04-07 05:51 | Price: $120.85 | Mkt Cap: $299B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

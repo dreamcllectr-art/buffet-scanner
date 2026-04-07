@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADSK
-*Generated: 2026-04-06 06:02 | Price: $238.08 | Mkt Cap: $50B*
+*Generated: 2026-04-07 05:49 | Price: $237.72 | Mkt Cap: $50B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)

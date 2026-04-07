@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNT
-*Generated: 2026-04-06 06:02 | Price: $72.85 | Mkt Cap: $19B*
+*Generated: 2026-04-07 05:49 | Price: $72.45 | Mkt Cap: $19B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.0% (4y); Earnings std: 10.1%; FCF/NI: 127% (strong); Gross margin: 46% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 46% — moderate moat; Operating margin 17% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.8x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
-- **Margin of Safety**: -35% — ABSENT ($73 > IV $47 at 15x for -6% growth)
+- **Margin of Safety**: -35% — ABSENT ($72 > IV $47 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

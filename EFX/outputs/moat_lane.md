@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EFX
-*Generated: 2026-04-06 06:03 | Price: $182.39 | Mkt Cap: $22B*
+*Generated: 2026-04-07 05:50 | Price: $182.07 | Mkt Cap: $22B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Consulting Services)

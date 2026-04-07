@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AME
-*Generated: 2026-04-06 06:02 | Price: $218.29 | Mkt Cap: $50B*
+*Generated: 2026-04-07 05:49 | Price: $218.42 | Mkt Cap: $50B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -23,7 +23,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 11.7% (4y); Earnings std: 4.3% (predictable); FCF/NI: 111% (strong); Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 36% — weak pricing power; Operating margin 28% | Weak pricing |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.0x — growth premium; 52w range position: 76%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 75%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-04-06 06:03 | Price: $49.49 | Mkt Cap: $31B*
+*Generated: 2026-04-07 05:50 | Price: $49.65 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: nan% (4y); Earnings std: 14.5%; FCF/NI: 51%; Gross margin: 48% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat; Operating margin 23% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 6.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 6.9% (>5%) | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-04-06 06:03 | Price: $148.04 | Mkt Cap: $31B*
+*Generated: 2026-04-07 05:50 | Price: $147.67 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.3% (4y); Earnings std: 15.5%; FCF/NI: -77% (weak conversion); Gross margin: 30% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — weak pricing power; Operating margin 16%; Rev growth 29% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 78%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-04-06 06:03 | Price: $272.82 | Mkt Cap: $99B*
+*Generated: 2026-04-07 05:50 | Price: $275.16 | Mkt Cap: $100B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 | Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 10.4% (4y); Earnings std: 675.5% (highly volatile); FCF/NI: 493% (strong); Gross margin: 18% (commodity-like) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.6x — fair price; 52w range position: 44%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 40%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
-- **Margin of Safety**: -59% — ABSENT ($273 > IV $111 at 15x for -49% growth)
+- **Margin of Safety**: -60% — ABSENT ($275 > IV $111 at 15x for -49% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

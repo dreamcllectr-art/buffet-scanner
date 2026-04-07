@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IVZ
-*Generated: 2026-04-06 06:03 | Price: $24.14 | Mkt Cap: $11B*
+*Generated: 2026-04-07 05:50 | Price: $22.88 | Mkt Cap: $10B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -21,9 +21,9 @@ In circle (Financial Services/Asset Management)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings std: 448.3% (highly volatile); FCF/NI: -371% (weak conversion); Gross margin: 29% (commodity-like) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 19.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 19.4% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — weak pricing power; Operating margin 20% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; 52w range position: 70%; Owner earnings yield: 7.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 63%; Owner earnings yield: 7.3% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

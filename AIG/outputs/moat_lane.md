@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIG
-*Generated: 2026-04-06 06:02 | Price: $75.42 | Mkt Cap: $41B*
+*Generated: 2026-04-07 05:49 | Price: $76.42 | Mkt Cap: $41B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -21,9 +21,9 @@ In circle (Financial Services/Insurance - Diversified)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 5.8% (4y); Earnings std: 131.8% (highly volatile); FCF/NI: 21% (weak conversion); Gross margin: 34% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — weak pricing power; Operating margin 14% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 27.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 32%; Owner earnings yield: 27.5% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,10 +36,10 @@ In circle (Financial Services/Insurance - Diversified)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Diversified)
-- **Margin of Safety**: 8% — thin (IV $81 at 15x)
+- **Margin of Safety**: 7% — thin (IV $81 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

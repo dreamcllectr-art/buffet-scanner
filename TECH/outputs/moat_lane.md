@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TECH
-*Generated: 2026-04-06 06:02 | Price: $53.13 | Mkt Cap: $8B*
+*Generated: 2026-04-07 05:50 | Price: $53.8 | Mkt Cap: $8B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -23,7 +23,7 @@ In circle (Healthcare/Biotechnology)
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings std: 31.9% (volatile); FCF/NI: 167% (strong); Gross margin: 67% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.4x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.7x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ In circle (Healthcare/Biotechnology)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Healthcare/Biotechnology)
-- **Margin of Safety**: -83% — ABSENT ($53 > IV $9 at 17x for 9% growth)
+- **Margin of Safety**: -83% — ABSENT ($54 > IV $9 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

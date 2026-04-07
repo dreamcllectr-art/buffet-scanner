@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-04-06 06:03 | Price: $174.61 | Mkt Cap: $86B*
+*Generated: 2026-04-07 05:51 | Price: $174.82 | Mkt Cap: $85B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -21,9 +21,9 @@ In circle (Financial Services/Insurance Brokers)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.8% (4y); Earnings std: 10.7%; FCF/NI: 105% (strong); Gross margin: 44% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat; Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.4x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.4x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-04-06 06:03 | Price: $291.24 | Mkt Cap: $50B*
+*Generated: 2026-04-07 05:50 | Price: $292.92 | Mkt Cap: $50B*
 
 ## Circle of Competence: IN
 In circle (Technology/Scientific & Technical Instruments)
@@ -23,7 +23,7 @@ In circle (Technology/Scientific & Technical Instruments)
 | Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings std: 40.2% (volatile); FCF/NI: 124% (strong); Gross margin: 62% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 62% — strong pricing power; Operating margin 16%; Rev growth 23% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.4x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.5x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Scientific & Technical Instruments)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Scientific & Technical Instruments)
-- **Margin of Safety**: -51% — ABSENT ($291 > IV $142 at 25x for 25% growth)
+- **Margin of Safety**: -52% — ABSENT ($293 > IV $142 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

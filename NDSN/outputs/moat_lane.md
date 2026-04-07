@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-04-06 06:03 | Price: $263.1 | Mkt Cap: $15B*
+*Generated: 2026-04-07 05:51 | Price: $263.23 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -23,7 +23,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 | Quality | 5.7/10 | 30% | 1.7 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings std: 4.8% (predictable); FCF/NI: 114% (strong); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.7%; Insider activity: 0B/0S last 6m; Restricted stock: 10.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat; Operating margin 25% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.2x — growth premium; 52w range position: 70%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.3x — growth premium; 52w range position: 70%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

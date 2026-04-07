@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PYPL
-*Generated: 2026-04-06 06:03 | Price: $45.34 | Mkt Cap: $42B*
+*Generated: 2026-04-07 05:51 | Price: $45.48 | Mkt Cap: $43B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Credit Services)
@@ -36,7 +36,7 @@ In circle (Financial Services/Credit Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Credit Services)
-- **Margin of Safety**: 198% — PRESENT (IV $135 vs $45 at 25x)
+- **Margin of Safety**: 197% — PRESENT (IV $135 vs $45 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

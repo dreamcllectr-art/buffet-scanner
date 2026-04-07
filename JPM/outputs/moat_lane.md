@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-04-06 06:03 | Price: $294.6 | Mkt Cap: $795B*
+*Generated: 2026-04-07 05:50 | Price: $295.45 | Mkt Cap: $797B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Diversified)
@@ -23,7 +23,7 @@ In circle (Financial Services/Banks - Diversified)
 | Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 16.1%; Earnings std: 17.1%; FCF/NI: -5% (weak conversion); Gross margin: 0% (commodity-like) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $3.3B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 41% — durable | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 68% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 67% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

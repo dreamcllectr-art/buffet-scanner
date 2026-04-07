@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-04-06 06:02 | Price: $154.51 | Mkt Cap: $56B*
+*Generated: 2026-04-07 05:50 | Price: $155.32 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 4.2% (4y); Earnings std: 15.7%; FCF/NI: 144% (strong); Gross margin: 47% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat; Operating margin 13% — thin | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 45%; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 46%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

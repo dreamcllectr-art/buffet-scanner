@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-04-06 06:03 | Price: $25.31 | Mkt Cap: $34B*
+*Generated: 2026-04-07 05:50 | Price: $25.7 | Mkt Cap: $35B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Non-Alcoholic)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.9% (4y); Earnings std: 47.5% (volatile); FCF/NI: 98% (strong); Gross margin: 54% (pricing power) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat; Operating margin 23% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 3.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 3.2% | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Beverages - Non-Alcoholic)
-- **Margin of Safety**: 21% — thin (IV $31 at 20x)
+- **Margin of Safety**: 19% — thin (IV $31 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

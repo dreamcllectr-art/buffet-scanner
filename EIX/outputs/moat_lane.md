@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EIX
-*Generated: 2026-04-06 06:03 | Price: $73.46 | Mkt Cap: $28B*
+*Generated: 2026-04-07 05:50 | Price: $73.59 | Mkt Cap: $28B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
-- **Margin of Safety**: 293% — PRESENT (IV $289 vs $73 at 25x)
+- **Margin of Safety**: 292% — PRESENT (IV $289 vs $74 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

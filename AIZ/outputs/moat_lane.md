@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIZ
-*Generated: 2026-04-06 06:02 | Price: $218.26 | Mkt Cap: $11B*
+*Generated: 2026-04-07 05:49 | Price: $217.99 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Property & Casualty)
@@ -23,7 +23,7 @@ In circle (Financial Services/Insurance - Property & Casualty)
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 9.8% (4y); Earnings std: 66.8% (highly volatile); FCF/NI: 156% (strong); Gross margin: 12% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; 52w range position: 61%; Owner earnings yield: 20.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; 52w range position: 59%; Owner earnings yield: 20.0% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETR
-*Generated: 2026-04-06 06:03 | Price: $114.9 | Mkt Cap: $53B*
+*Generated: 2026-04-07 05:50 | Price: $114.57 | Mkt Cap: $52B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 5.0% (4y); Earnings std: 87.8% (highly volatile); FCF/NI: -143% (weak conversion); Gross margin: 48% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat; Operating margin 19% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.3x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.2x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

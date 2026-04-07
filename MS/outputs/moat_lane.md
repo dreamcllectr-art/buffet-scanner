@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-04-06 06:03 | Price: $165.81 | Mkt Cap: $263B*
+*Generated: 2026-04-07 05:51 | Price: $166.55 | Mkt Cap: $264B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.8% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Financial Services/Capital Markets)
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 15.6%; Earnings std: 33.1% (volatile); FCF/NI: -158% (weak conversion); Gross margin: 87% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% — strong pricing power; Operating margin 39% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 73% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 72% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +38,7 @@ In circle (Financial Services/Capital Markets)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Capital Markets)
-- **Margin of Safety**: 54% — PRESENT (IV $255 vs $166 at 25x)
+- **Margin of Safety**: 53% — PRESENT (IV $255 vs $167 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

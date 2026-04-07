@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMR
-*Generated: 2026-04-06 06:03 | Price: $131.7 | Mkt Cap: $74B*
+*Generated: 2026-04-07 05:50 | Price: $132.66 | Mkt Cap: $75B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -23,7 +23,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings std: 204.7% (highly volatile); FCF/NI: 87% (strong); Gross margin: 53% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 53% — moderate moat; Operating margin 25% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.4x — fair price; 52w range position: 55%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 56%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -54% — ABSENT ($132 > IV $61 at 15x for 5% growth)
+- **Margin of Safety**: -54% — ABSENT ($133 > IV $61 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

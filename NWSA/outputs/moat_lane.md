@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-04-06 06:03 | Price: $24.4 | Mkt Cap: $14B*
+*Generated: 2026-04-07 05:51 | Price: $24.47 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -23,7 +23,7 @@ In circle (Communication Services/Entertainment)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings std: 212.3% (highly volatile); FCF/NI: 169% (strong); Gross margin: 57% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -33.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 57% — moderate moat; Operating margin 17% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.6x — fair price; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.7x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

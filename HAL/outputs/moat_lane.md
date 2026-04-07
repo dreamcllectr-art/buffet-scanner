@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAL
-*Generated: 2026-04-06 06:03 | Price: $38.17 | Mkt Cap: $32B*
+*Generated: 2026-04-07 05:50 | Price: $37.82 | Mkt Cap: $32B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
@@ -21,9 +21,9 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings std: 58.9% (highly volatile); FCF/NI: 96% (strong); Gross margin: 16% (commodity-like) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — weak pricing power; Operating margin 15% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 6.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

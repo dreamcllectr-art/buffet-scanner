@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-04-06 06:04 | Price: $701.59 | Mkt Cap: $104B*
+*Generated: 2026-04-07 05:51 | Price: $724.63 | Mkt Cap: $107B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -20,13 +20,13 @@ In circle (Technology/Computer Hardware)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -6.6% (2y); Earnings std: 150.5% (highly volatile); Gross margin: 35% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.5%; No insider transaction data; Restricted stock: 5.8% of shares (SBC concern) | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -6.6% (2y); Earnings std: 150.5% (highly volatile); FCF/NI: 40% (weak conversion); Gross margin: 35% | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.5%; Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 35% — weak pricing power; Operating margin 36% — durable; Rev growth 61% — demand pull | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.0x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.2% | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.3x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.2% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

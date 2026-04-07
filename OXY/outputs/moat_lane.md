@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OXY
-*Generated: 2026-04-06 06:03 | Price: $62.97 | Mkt Cap: $62B*
+*Generated: 2026-04-07 05:51 | Price: $62.96 | Mkt Cap: $62B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (26.7% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-04-07 05:50 | Price: $101.64 | Mkt Cap: $15B*
+*Generated: 2026-04-08 05:51 | Price: $100.26 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Footwear & Accessories)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 33.8% (4y); Earnings std: 16.4%; FCF/NI: 85% (strong); Gross margin: 58% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 58% — moderate moat; Operating margin 31% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 42%; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 39%; Owner earnings yield: 5.2% (>5%) | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Footwear & Accessories)
-- **Margin of Safety**: 39% — PRESENT (IV $141 vs $102 at 20x)
+- **Margin of Safety**: 40% — PRESENT (IV $141 vs $100 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

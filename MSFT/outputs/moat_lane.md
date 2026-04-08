@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-04-07 05:51 | Price: $372.88 | Mkt Cap: $2771B*
+*Generated: 2026-04-08 05:52 | Price: $372.29 | Mkt Cap: $2767B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -36,7 +36,7 @@ In circle (Technology/Software - Infrastructure)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
-- **Margin of Safety**: 7% — thin (IV $400 at 25x)
+- **Margin of Safety**: 7% — thin (IV $399 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

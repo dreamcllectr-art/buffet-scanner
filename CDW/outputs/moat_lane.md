@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-04-07 05:50 | Price: $123.47 | Mkt Cap: $16B*
+*Generated: 2026-04-08 05:51 | Price: $123.69 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -21,9 +21,9 @@ In circle (Technology/Information Technology Services)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.3/10 | 30% | 2.2 | Avg ROIC: 16.8% (4y); Earnings std: 0.8% (predictable); FCF/NI: 112% (strong); Gross margin: 22% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 5.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 5.7% (>5%) | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10

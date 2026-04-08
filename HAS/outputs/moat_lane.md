@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAS
-*Generated: 2026-04-07 05:50 | Price: $90.42 | Mkt Cap: $13B*
+*Generated: 2026-04-08 05:52 | Price: $89.4 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Leisure)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Leisure)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (4y); Earnings std: 392.0% (highly volatile); FCF/NI: 4% (weak conversion); Gross margin: 64% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 64% — strong pricing power; Operating margin 21%; Rev growth 31% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 71%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 70%; Owner earnings yield: 3.5% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

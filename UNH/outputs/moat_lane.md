@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNH
-*Generated: 2026-03-30 18:34 | Price: $258.87 | Mkt Cap: $235B*
+*Generated: 2026-04-08 05:53 | Price: $307.73 | Mkt Cap: $279B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -20,10 +20,10 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings std: 20.4% (volatile); FCF/NI: 127% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
+| Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings std: 23.6% (volatile); FCF/NI: 127% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 0% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 5.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.3x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
-- **Margin of Safety**: -23% — ABSENT ($259 > IV $199 at 15x for -100% growth)
+- **Margin of Safety**: -36% — ABSENT ($308 > IV $198 at 15x for -100% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

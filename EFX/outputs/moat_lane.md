@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EFX
-*Generated: 2026-04-07 05:50 | Price: $182.07 | Mkt Cap: $22B*
+*Generated: 2026-04-08 05:51 | Price: $181.84 | Mkt Cap: $22B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Consulting Services)
@@ -21,7 +21,7 @@ In circle (Industrials/Consulting Services)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 8.5% (4y); Earnings std: 18.3%; FCF/NI: 105% (strong); Gross margin: 56% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 56% — moderate moat; Operating margin 18% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.6x — fair price; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-04-07 05:51 | Price: $358.59 | Mkt Cap: $22B*
+*Generated: 2026-04-08 05:53 | Price: $349.53 | Mkt Cap: $21B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Apparel Manufacturing)
@@ -23,11 +23,11 @@ In circle (Consumer Cyclical/Apparel Manufacturing)
 | Quality | 7.9/10 | 30% | 2.4 | Avg ROIC: 17.7% (4y); Earnings std: 19.1%; FCF/NI: 101% (strong); Gross margin: 70% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% — strong pricing power; Operating margin 20% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.9x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 81%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ In circle (Consumer Cyclical/Apparel Manufacturing)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Apparel Manufacturing)
-- **Margin of Safety**: 2% — thin (IV $367 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, no material killers)
+- **Margin of Safety**: 5% — thin (IV $368 at 25x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, no material killers
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, no material killers)
+YES — 3 forces aligning: strong moat, attractive valuation, no material killers
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-04-07 05:51 | Price: $88.5 | Mkt Cap: $56B*
+*Generated: 2026-04-08 05:52 | Price: $90.63 | Mkt Cap: $57B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
@@ -23,10 +23,10 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 24.0% (volatile); FCF/NI: 93% (strong); Gross margin: 30% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — weak pricing power; Operating margin 17%; Rev growth 30% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 78%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 15.0x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
-- **Margin of Safety**: -8% — ABSENT ($88 > IV $81 at 15x for -2% growth)
+- **Margin of Safety**: -10% — ABSENT ($91 > IV $81 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)

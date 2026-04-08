@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-04-07 05:50 | Price: $314.43 | Mkt Cap: $1491B*
+*Generated: 2026-04-08 05:51 | Price: $333.97 | Mkt Cap: $1583B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -21,9 +21,9 @@ In circle (Technology/Semiconductors)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings std: 183.5% (highly volatile); FCF/NI: 178% (strong); Gross margin: 77% (pricing power) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $29B (2.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $31B (2.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 77% — strong pricing power; Operating margin 45% — durable; Rev growth 30% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.6x — fair price; 52w range position: 62%; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 69%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -59% — ABSENT ($314 > IV $128 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($334 > IV $136 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
 - **Mr. Market**: Neutral

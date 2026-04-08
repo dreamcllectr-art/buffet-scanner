@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYK
-*Generated: 2026-04-07 05:51 | Price: $332.3 | Mkt Cap: $127B*
+*Generated: 2026-04-08 05:53 | Price: $332.07 | Mkt Cap: $127B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.

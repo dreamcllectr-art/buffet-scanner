@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-04-07 05:50 | Price: $33.19 | Mkt Cap: $74B*
+*Generated: 2026-04-08 05:52 | Price: $33.3 | Mkt Cap: $74B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.5% (4y); Earnings std: 11.8%; FCF/NI: 129% (strong); Gross margin: 49% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 12.9% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% — moderate moat; Operating margin 30% — durable | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.7x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.8x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

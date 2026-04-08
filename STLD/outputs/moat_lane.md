@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-04-07 05:51 | Price: $176.53 | Mkt Cap: $26B*
+*Generated: 2026-04-08 05:53 | Price: $177.19 | Mkt Cap: $26B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
 | Quality | 4.8/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 20.1% (4y); Earnings std: 8.1% (predictable); FCF/NI: 52%; Gross margin: 13% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.6%; Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 68% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 69% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

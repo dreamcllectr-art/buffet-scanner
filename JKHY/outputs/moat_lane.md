@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-04-07 05:50 | Price: $158.1 | Mkt Cap: $11B*
+*Generated: 2026-04-08 05:52 | Price: $158.32 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -23,7 +23,7 @@ In circle (Technology/Information Technology Services)
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 22.0% (4y); Earnings std: 9.8% (predictable); FCF/NI: 78%; Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat; Operating margin 26% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.6x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.6x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-04-07 05:49 | Price: $297.66 | Mkt Cap: $3601B*
+*Generated: 2026-04-08 05:51 | Price: $303.93 | Mkt Cap: $3677B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.7% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Communication Services/Internet Content & Information)
 | Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 24.9% (4y); Earnings std: 6.5% (predictable); FCF/NI: 81% (strong); Gross margin: 60% (pricing power) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -99.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 60% — moderate moat; Operating margin 32% — durable | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.2x — growth premium; 52w range position: 74%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.6x — growth premium; 52w range position: 77%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -38,7 +38,7 @@ In circle (Communication Services/Internet Content & Information)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Internet Content & Information)
-- **Margin of Safety**: -9% — ABSENT ($298 > IV $270 at 25x for 25% growth)
+- **Margin of Safety**: -11% — ABSENT ($304 > IV $270 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

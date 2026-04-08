@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXN
-*Generated: 2026-03-30 18:35 | Price: $187.7373 | Mkt Cap: $171B*
+*Generated: 2026-04-08 05:53 | Price: $199.735 | Mkt Cap: $182B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -20,13 +20,13 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings std: 16.3%; FCF/NI: 43% (weak conversion); Gross margin: 57% (pricing power) | ROIC declining |
+| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings std: 17.4%; FCF/NI: 43% (weak conversion); Gross margin: 57% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat; Operating margin 34% — durable | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.7x — growth premium; 52w range position: 52%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 65%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -57% — ABSENT ($188 > IV $82 at 15x for -3% growth)
+- **Margin of Safety**: -59% — ABSENT ($200 > IV $82 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

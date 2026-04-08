@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROP
-*Generated: 2026-04-07 05:51 | Price: $360.19 | Mkt Cap: $39B*
+*Generated: 2026-04-08 05:53 | Price: $358.83 | Mkt Cap: $39B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -36,7 +36,7 @@ In circle (Technology/Software - Application)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -41% — ABSENT ($360 > IV $213 at 15x for -7% growth)
+- **Margin of Safety**: -41% — ABSENT ($359 > IV $213 at 15x for -7% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

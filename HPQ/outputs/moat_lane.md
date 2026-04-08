@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-04-07 05:50 | Price: $18.94 | Mkt Cap: $17B*
+*Generated: 2026-04-08 05:52 | Price: $18.61 | Mkt Cap: $17B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -23,7 +23,7 @@ In circle (Technology/Computer Hardware)
 | Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings std: 9.8% (predictable); FCF/NI: 108% (strong); Gross margin: 20% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 16.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.3x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 16.5% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Computer Hardware)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Computer Hardware)
-- **Margin of Safety**: 109% — PRESENT (IV $40 vs $19 at 15x)
+- **Margin of Safety**: 113% — PRESENT (IV $40 vs $19 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

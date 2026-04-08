@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-04-07 05:51 | Price: $441.39 | Mkt Cap: $74B*
+*Generated: 2026-04-08 05:52 | Price: $442.45 | Mkt Cap: $74B*
 
 ## Circle of Competence: IN
 In circle (Technology/Communication Equipment)
@@ -12,7 +12,7 @@ In circle (Technology/Communication Equipment)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Communication Equipment | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ In circle (Technology/Communication Equipment)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings std: 23.0% (volatile); FCF/NI: 119% (strong); Gross margin: 52% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 28% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.2x — growth premium; 52w range position: 62%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.3x — growth premium; 52w range position: 63%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,9 +36,9 @@ In circle (Technology/Communication Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Communication Equipment)
-- **Margin of Safety**: -51% — ABSENT ($441 > IV $216 at 17x for 9% growth)
+- **Margin of Safety**: -51% — ABSENT ($442 > IV $217 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

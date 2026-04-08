@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMP
-*Generated: 2026-04-07 05:49 | Price: $430.4 | Mkt Cap: $40B*
+*Generated: 2026-04-08 05:51 | Price: $432.06 | Mkt Cap: $40B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -21,9 +21,9 @@ In circle (Financial Services/Asset Management)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 31.8% (4y); Earnings std: 26.0% (volatile); FCF/NI: 182% (strong); Gross margin: 56% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% — moderate moat; Operating margin 35% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

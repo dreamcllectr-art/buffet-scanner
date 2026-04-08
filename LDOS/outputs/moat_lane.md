@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LDOS
-*Generated: 2026-04-07 05:50 | Price: $159.47 | Mkt Cap: $20B*
+*Generated: 2026-04-08 05:52 | Price: $158.87 | Mkt Cap: $20B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -23,7 +23,7 @@ In circle (Technology/Information Technology Services)
 | Quality | 2.9/10 | 30% | 0.9 | Avg ROIC: 12.0% (4y); Earnings std: 325.0% (highly volatile); FCF/NI: 208% (strong); Gross margin: 18% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.4x — deep value; 52w range position: 39%; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 38%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

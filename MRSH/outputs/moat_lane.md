@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-04-07 05:51 | Price: $174.82 | Mkt Cap: $85B*
+*Generated: 2026-04-08 05:52 | Price: $172.66 | Mkt Cap: $84B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -23,7 +23,7 @@ In circle (Financial Services/Insurance Brokers)
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.8% (4y); Earnings std: 10.7%; FCF/NI: 105% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat; Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.4x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 5.7% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Insurance Brokers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance Brokers)
-- **Margin of Safety**: -18% — ABSENT ($175 > IV $143 at 17x for 6% growth)
+- **Margin of Safety**: -17% — ABSENT ($173 > IV $143 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

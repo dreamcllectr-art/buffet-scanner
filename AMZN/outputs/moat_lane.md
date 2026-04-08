@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-04-07 05:49 | Price: $212.79 | Mkt Cap: $2284B*
+*Generated: 2026-04-08 05:51 | Price: $213.77 | Mkt Cap: $2295B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.9% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Consumer Cyclical/Internet Retail)
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 11.0% (4y); Earnings std: 740.1% (highly volatile); FCF/NI: 198% (strong); Gross margin: 50% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 9.1% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat; Operating margin 11% — thin | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.7x — growth premium; 52w range position: 51%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.8x — growth premium; 52w range position: 52%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -38,7 +38,7 @@ In circle (Consumer Cyclical/Internet Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Internet Retail)
-- **Margin of Safety**: -49% — ABSENT ($213 > IV $108 at 15x for 5% growth)
+- **Margin of Safety**: -50% — ABSENT ($214 > IV $107 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

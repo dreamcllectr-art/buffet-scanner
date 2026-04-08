@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-04-07 05:50 | Price: $170.72 | Mkt Cap: $29B*
+*Generated: 2026-04-08 05:52 | Price: $170.62 | Mkt Cap: $29B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.

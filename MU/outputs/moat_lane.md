@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MU
-*Generated: 2026-04-07 05:51 | Price: $377.76 | Mkt Cap: $426B*
+*Generated: 2026-04-08 05:52 | Price: $377.58 | Mkt Cap: $426B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)

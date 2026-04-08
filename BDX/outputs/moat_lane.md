@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BDX
-*Generated: 2026-04-07 05:50 | Price: $155.32 | Mkt Cap: $56B*
+*Generated: 2026-04-08 05:51 | Price: $154.96 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-04-07 05:51 | Price: $67.22 | Mkt Cap: $36B*
+*Generated: 2026-04-08 05:52 | Price: $67.51 | Mkt Cap: $37B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -23,7 +23,7 @@ In circle (Technology/Semiconductors)
 | Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings std: 87.1% (highly volatile); FCF/NI: -38488% (weak conversion); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat; Operating margin 13% — thin | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 67%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.4x — growth premium; 52w range position: 68%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

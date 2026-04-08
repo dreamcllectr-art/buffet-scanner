@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-04-07 05:50 | Price: $41.48 | Mkt Cap: $77B*
+*Generated: 2026-04-08 05:51 | Price: $41.42 | Mkt Cap: $77B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Railroads)

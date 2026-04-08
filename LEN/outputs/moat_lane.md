@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-04-07 05:50 | Price: $88.57 | Mkt Cap: $22B*
+*Generated: 2026-04-08 05:52 | Price: $85.62 | Mkt Cap: $21B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Residential Construction)
 | Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings std: 24.1% (volatile); FCF/NI: 64%; Gross margin: 17% (commodity-like) | ROIC declining |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.2%; Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — weak pricing power; Operating margin 4% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (9% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (4% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Residential Construction)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
-- **Margin of Safety**: 18% — thin (IV $104 at 15x)
+- **Margin of Safety**: 22% — thin (IV $104 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 5.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

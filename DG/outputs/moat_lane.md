@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DG
-*Generated: 2026-04-07 05:50 | Price: $125.01 | Mkt Cap: $28B*
+*Generated: 2026-04-08 05:51 | Price: $121.21 | Mkt Cap: $27B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Discount Stores)
@@ -12,7 +12,7 @@ In circle (Consumer Defensive/Discount Stores)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ In circle (Consumer Defensive/Discount Stores)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.3/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 14.5% (4y); Earnings std: 38.2% (volatile); FCF/NI: 92% (strong); Gross margin: 31% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.7x — fair price; 52w range position: 55%; Owner earnings yield: 7.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 50%; Owner earnings yield: 8.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,9 +36,9 @@ In circle (Consumer Defensive/Discount Stores)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Discount Stores)
-- **Margin of Safety**: 37% — PRESENT (IV $171 vs $125 at 25x)
+- **Margin of Safety**: 41% — PRESENT (IV $171 vs $121 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

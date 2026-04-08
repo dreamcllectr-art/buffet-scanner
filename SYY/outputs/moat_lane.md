@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYY
-*Generated: 2026-04-07 05:51 | Price: $73.24 | Mkt Cap: $35B*
+*Generated: 2026-04-08 05:53 | Price: $73.24 | Mkt Cap: $35B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Food Distribution)
@@ -20,13 +20,13 @@ In circle (Consumer Defensive/Food Distribution)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 82.3%; Gross margin: 18% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); No insider transaction data; Restricted stock: 0.1% (low) | - |
+| Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 16.9% (4y); Earnings std: 18.4%; FCF/NI: 100% (strong); Gross margin: 18% (commodity-like) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — weak pricing power; Operating margin 4% — thin | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

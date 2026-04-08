@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-07 05:50 | Price: $54.38 | Mkt Cap: $37B*
+*Generated: 2026-04-08 05:52 | Price: $54.02 | Mkt Cap: $36B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Resorts & Casinos)
@@ -21,9 +21,9 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings std: 28.3% (volatile); FCF/NI: 74%; Gross margin: 80% (pricing power) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 52.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 80% — strong pricing power; Operating margin 24%; Rev growth 26% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 60%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 59%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Resorts & Casinos)
-- **Margin of Safety**: 8% — thin (IV $59 at 25x)
+- **Margin of Safety**: 9% — thin (IV $59 at 25x)
 - **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Aligned — 58.4% insider ownership
 - **Mr. Market**: Neutral

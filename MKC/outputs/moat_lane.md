@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKC
-*Generated: 2026-04-07 05:51 | Price: $50.8 | Mkt Cap: $14B*
+*Generated: 2026-04-08 05:52 | Price: $51.02 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Packaged Foods)
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Packaged Foods)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Packaged Foods)
-- **Margin of Safety**: 200% — PRESENT (IV $152 vs $51 at 25x)
+- **Margin of Safety**: 199% — PRESENT (IV $152 vs $51 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

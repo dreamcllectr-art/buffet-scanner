@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-04-07 05:51 | Price: $143.32 | Mkt Cap: $27B*
+*Generated: 2026-04-08 05:52 | Price: $145.63 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -23,7 +23,7 @@ In circle (Financial Services/Asset Management)
 | Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 13.5%; Earnings std: 57.3% (highly volatile); FCF/NI: 129% (strong); Gross margin: 0% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 0% — weak pricing power; Operating margin 29% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 81% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; 52w range position: 84% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: 4% — thin (IV $148 at 17x)
+- **Margin of Safety**: 2% — thin (IV $149 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

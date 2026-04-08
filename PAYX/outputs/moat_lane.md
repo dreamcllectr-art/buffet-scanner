@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-04-07 05:51 | Price: $91.85 | Mkt Cap: $33B*
+*Generated: 2026-04-08 05:52 | Price: $91.61 | Mkt Cap: $33B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.8% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Technology/Software - Application)
 | Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 33.6% (4y); Earnings std: 7.2% (predictable); FCF/NI: 103% (strong); Gross margin: 67% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 67% — strong pricing power; Operating margin 44% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.6x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
 ## Buffett Score: 7.7 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-04-07 05:50 | Price: $25.97 | Mkt Cap: $36B*
+*Generated: 2026-04-08 05:51 | Price: $25.2 | Mkt Cap: $35B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Travel Services)
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.0% (4y); Earnings std: 1538.5% (highly volatile); FCF/NI: -269% (weak conversion); Gross margin: 56% (pricing power) | - |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: -3.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 56% — moderate moat; Operating margin 10% — thin | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 54%; Owner earnings yield: 6.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 50%; Owner earnings yield: 6.2% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Travel Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Travel Services)
-- **Margin of Safety**: 49% — PRESENT (IV $39 vs $26 at 17x)
+- **Margin of Safety**: 53% — PRESENT (IV $39 vs $25 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 7.8% insider ownership
 - **Mr. Market**: Neutral

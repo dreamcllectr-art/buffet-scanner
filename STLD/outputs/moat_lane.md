@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-04-08 05:53 | Price: $177.19 | Mkt Cap: $26B*
+*Generated: 2026-04-09 05:53 | Price: $187.56 | Mkt Cap: $27B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
 | Quality | 4.8/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 20.1% (4y); Earnings std: 8.1% (predictable); FCF/NI: 52%; Gross margin: 13% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.6%; Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 69% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 79% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
-- **Margin of Safety**: 13% — thin (IV $200 at 25x)
+- **Margin of Safety**: 6% — thin (IV $200 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 6.6% insider ownership
 - **Mr. Market**: Neutral

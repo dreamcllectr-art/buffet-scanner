@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-04-08 05:51 | Price: $478.08 | Mkt Cap: $1031B*
+*Generated: 2026-04-09 05:52 | Price: $479.75 | Mkt Cap: $1035B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -21,9 +21,9 @@ In circle (Financial Services/Insurance - Diversified)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.7% (4y); Earnings std: 292.6% (highly volatile); FCF/NI: -4% (weak conversion); Gross margin: 26% (commodity-like) | - |
-| Management | 7.0/10 | 25% | 1.8 | Insider value: $2.8B (0.3%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
+| Management | 7.0/10 | 25% | 1.8 | Insider value: $2.9B (0.3%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 26% — weak pricing power; Operating margin 33% — durable | Weak pricing |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.0x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.1x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Insurance - Diversified)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Diversified)
-- **Margin of Safety**: -3% — ABSENT ($478 > IV $465 at 15x for -2% growth)
+- **Margin of Safety**: -3% — ABSENT ($480 > IV $465 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

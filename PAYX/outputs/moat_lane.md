@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-04-08 05:52 | Price: $91.61 | Mkt Cap: $33B*
+*Generated: 2026-04-09 05:53 | Price: $89.89 | Mkt Cap: $32B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.8% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Technology/Software - Application)
 | Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 33.6% (4y); Earnings std: 7.2% (predictable); FCF/NI: 103% (strong); Gross margin: 67% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 67% — strong pricing power; Operating margin 44% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.5x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (4% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
 ## Buffett Score: 7.7 / 10
@@ -38,7 +38,7 @@ In circle (Technology/Software - Application)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -16% — ABSENT ($92 > IV $77 at 17x for 9% growth)
+- **Margin of Safety**: -16% — ABSENT ($90 > IV $75 at 17x for 9% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

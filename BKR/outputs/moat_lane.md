@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-04-08 05:51 | Price: $61.25 | Mkt Cap: $61B*
+*Generated: 2026-04-09 05:52 | Price: $63.16 | Mkt Cap: $63B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
@@ -23,11 +23,11 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 | Quality | 0.1/10 | 30% | 0.0 | Avg ROIC: 8.3% (4y); Earnings std: 258.1% (highly volatile); FCF/NI: 28% (weak conversion); Gross margin: 24% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 24% — weak pricing power; Operating margin 13% — thin | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.4x — growth premium; 52w range position: 83%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.1x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
-## Buffett Score: 3.1 / 10
-## Alpha Adjustment: -0.27
+## Buffett Score: 2.9 / 10
+## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
-- **Margin of Safety**: -36% — ABSENT ($61 > IV $39 at 15x for -26% growth)
+- **Margin of Safety**: -38% — ABSENT ($63 > IV $39 at 15x for -26% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.27 applied to composite alpha score
+Buffett Premium: -0.28 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

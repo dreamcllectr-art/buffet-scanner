@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-04-08 05:51 | Price: $78.93 | Mkt Cap: $9B*
+*Generated: 2026-04-09 05:52 | Price: $83.09 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -23,7 +23,7 @@ In circle (Industrials/Building Products & Equipment)
 | Quality | 5.3/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings std: 14.8%; FCF/NI: 143% (strong); Gross margin: 30% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — weak pricing power; Operating margin 2% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Building Products & Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
-- **Margin of Safety**: -26% — ABSENT ($79 > IV $58 at 15x for -83% growth)
+- **Margin of Safety**: -30% — ABSENT ($83 > IV $58 at 15x for -83% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

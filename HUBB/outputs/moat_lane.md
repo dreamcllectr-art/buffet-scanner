@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBB
-*Generated: 2026-04-08 05:52 | Price: $499.31 | Mkt Cap: $27B*
+*Generated: 2026-04-09 05:53 | Price: $527.21 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Electrical Equipment & Parts)
@@ -23,10 +23,10 @@ In circle (Industrials/Electrical Equipment & Parts)
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.7% (4y); Earnings std: 17.4%; FCF/NI: 95% (strong); Gross margin: 35% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 35% — weak pricing power; Operating margin 19% | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.1x — growth premium; 52w range position: 84%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.4x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ In circle (Industrials/Electrical Equipment & Parts)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Electrical Equipment & Parts)
-- **Margin of Safety**: -34% — ABSENT ($499 > IV $331 at 20x for 14% growth)
+- **Margin of Safety**: -37% — ABSENT ($527 > IV $331 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)

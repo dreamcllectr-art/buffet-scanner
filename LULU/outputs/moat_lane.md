@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-04-08 05:52 | Price: $153.67 | Mkt Cap: $18B*
+*Generated: 2026-04-09 05:53 | Price: $158.86 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Apparel Retail)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Apparel Retail)
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 41.4% (4y); Earnings std: 48.2% (volatile); FCF/NI: 73%; Gross margin: 57% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 57% — moderate moat; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 4.6% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 4.4% | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Apparel Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Apparel Retail)
-- **Margin of Safety**: 27% — thin (IV $196 at 15x)
+- **Margin of Safety**: 25% — thin (IV $199 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

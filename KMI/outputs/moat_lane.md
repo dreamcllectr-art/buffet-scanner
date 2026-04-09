@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-04-08 05:52 | Price: $33.3 | Mkt Cap: $74B*
+*Generated: 2026-04-09 05:53 | Price: $32.96 | Mkt Cap: $73B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
@@ -23,11 +23,11 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.5% (4y); Earnings std: 11.8%; FCF/NI: 129% (strong); Gross margin: 49% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 12.9% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% — moderate moat; Operating margin 30% — durable | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.8x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.6x — growth premium; 52w range position: 83%; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.
-- **Margin of Safety**: 3% — thin (IV $34 at 25x)
+- **Margin of Safety**: 2% — thin (IV $34 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 12.8% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-04-08 05:52 | Price: $931.09 | Mkt Cap: $833B*
+*Generated: 2026-04-09 05:53 | Price: $953.3 | Mkt Cap: $853B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -21,9 +21,9 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 26.4% (4y); Earnings std: 66.3% (highly volatile); FCF/NI: 12% (weak conversion); Gross margin: 83% (pricing power) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $1.4B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $1.5B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 83% — strong pricing power; Operating margin 45% — durable; Rev growth 43% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.1x — growth premium; 52w range position: 60%; Owner earnings yield: 0.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.7x — growth premium; 52w range position: 65%; Owner earnings yield: 0.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: -39% — ABSENT ($931 > IV $572 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($953 > IV $586 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

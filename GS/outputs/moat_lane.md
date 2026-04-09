@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GS
-*Generated: 2026-04-08 05:52 | Price: $864.15 | Mkt Cap: $256B*
+*Generated: 2026-04-09 05:53 | Price: $905.75 | Mkt Cap: $269B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Capital Markets)
@@ -23,11 +23,11 @@ In circle (Financial Services/Capital Markets)
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 13.9%; Earnings std: 46.0% (volatile); FCF/NI: -128% (weak conversion); Gross margin: 83% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -4.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 83% — strong pricing power; Operating margin 38% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 78% | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.9x — deep value; Near 52w high (85% of range) — Mr. Market greedy | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ In circle (Financial Services/Capital Markets)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Capital Markets)
-- **Margin of Safety**: 19% — thin (IV $1027 at 20x)
+- **Margin of Safety**: 13% — thin (IV $1027 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

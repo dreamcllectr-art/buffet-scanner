@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-04-08 05:52 | Price: $42.69 | Mkt Cap: $63B*
+*Generated: 2026-04-09 05:53 | Price: $43.13 | Mkt Cap: $64B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Footwear & Accessories)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Footwear & Accessories)
 | Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 19.2% (4y); Earnings std: 28.0% (volatile); FCF/NI: 97% (strong); Gross margin: 41% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 41% — moderate moat; Operating margin 7% — thin | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.9x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.1x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

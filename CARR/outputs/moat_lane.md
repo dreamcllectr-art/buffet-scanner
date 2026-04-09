@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-04-08 05:51 | Price: $55.44 | Mkt Cap: $46B*
+*Generated: 2026-04-09 05:52 | Price: $58.29 | Mkt Cap: $49B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -23,7 +23,7 @@ In circle (Industrials/Building Products & Equipment)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings std: 221.3% (highly volatile); FCF/NI: 86% (strong); Gross margin: 26% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.2%; Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin 2% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.5x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Building Products & Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
-- **Margin of Safety**: -54% — ABSENT ($55 > IV $25 at 15x for -98% growth)
+- **Margin of Safety**: -54% — ABSENT ($58 > IV $27 at 15x for -98% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 6.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

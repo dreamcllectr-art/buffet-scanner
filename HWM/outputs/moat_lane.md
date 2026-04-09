@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-04-08 05:52 | Price: $236.02 | Mkt Cap: $95B*
+*Generated: 2026-04-09 05:53 | Price: $250.0 | Mkt Cap: $100B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -23,10 +23,10 @@ In circle (Industrials/Aerospace & Defense)
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 13.8% (4y); Earnings std: 16.4%; FCF/NI: 96% (strong); Gross margin: 34% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — weak pricing power; Operating margin 26% | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 42.9x — expensive; 52w range position: 80%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 45.4x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -61% — ABSENT ($236 > IV $93 at 25x for 20% growth)
+- **Margin of Safety**: -63% — ABSENT ($250 > IV $92 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (1 forces only: no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: no material killers)

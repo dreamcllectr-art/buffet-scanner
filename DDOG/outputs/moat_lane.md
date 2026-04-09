@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDOG
-*Generated: 2026-04-08 05:51 | Price: $116.54 | Mkt Cap: $41B*
+*Generated: 2026-04-09 05:52 | Price: $116.5 | Mkt Cap: $41B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -36,7 +36,7 @@ In circle (Technology/Software - Application)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -96% — ABSENT ($117 > IV $5 at 15x for -3% growth)
+- **Margin of Safety**: -96% — ABSENT ($116 > IV $5 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

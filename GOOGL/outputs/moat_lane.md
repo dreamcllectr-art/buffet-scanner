@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-04-08 05:51 | Price: $305.46 | Mkt Cap: $3695B*
+*Generated: 2026-04-09 05:52 | Price: $317.32 | Mkt Cap: $3839B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Internet Content & Information)
@@ -21,9 +21,9 @@ In circle (Communication Services/Internet Content & Information)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 24.9% (4y); Earnings std: 6.5% (predictable); FCF/NI: 81% (strong); Gross margin: 60% (pricing power) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $21B (0.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -86.1% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $22B (0.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: -86.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 60% — moderate moat; Operating margin 32% — durable | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.7x — growth premium; 52w range position: 79%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.6x — growth premium; 52w range position: 85%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
 
 ## Buffett Score: 8.3 / 10
@@ -36,7 +36,7 @@ In circle (Communication Services/Internet Content & Information)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Internet Content & Information)
-- **Margin of Safety**: -12% — ABSENT ($305 > IV $270 at 25x for 25% growth)
+- **Margin of Safety**: -15% — ABSENT ($317 > IV $270 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

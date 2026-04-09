@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-04-08 05:51 | Price: $139.4 | Mkt Cap: $12B*
+*Generated: 2026-04-09 05:52 | Price: $144.49 | Mkt Cap: $12B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Security & Protection Services)
@@ -23,11 +23,11 @@ In circle (Industrials/Security & Protection Services)
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 16.8% (4y); Earnings std: 5.3% (predictable); FCF/NI: 96% (strong); Gross margin: 45% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 34%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 42%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 7.3 / 10
-## Alpha Adjustment: +0.23
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ In circle (Industrials/Security & Protection Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Security & Protection Services)
-- **Margin of Safety**: -20% — ABSENT ($139 > IV $111 at 15x for 3% growth)
+- **Margin of Safety**: -23% — ABSENT ($144 > IV $111 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, no material killers)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.23 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

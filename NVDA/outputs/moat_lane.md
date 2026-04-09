@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-04-08 05:52 | Price: $178.1 | Mkt Cap: $4329B*
+*Generated: 2026-04-09 05:53 | Price: $182.08 | Mkt Cap: $4425B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -21,9 +21,9 @@ In circle (Technology/Semiconductors)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 51.3% (4y); Earnings std: 278.0% (highly volatile); FCF/NI: 85% (strong); Gross margin: 71% (pricing power) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $182B (4.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $186B (4.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% — strong pricing power; Operating margin 65% — durable; Rev growth 73% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.0x — fair price; 52w range position: 71%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 74%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -31% — ABSENT ($178 > IV $123 at 25x for 25% growth)
+- **Margin of Safety**: -33% — ABSENT ($182 > IV $123 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Neutral

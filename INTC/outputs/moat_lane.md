@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-04-08 05:52 | Price: $52.91 | Mkt Cap: $266B*
+*Generated: 2026-04-09 05:53 | Price: $58.95 | Mkt Cap: $296B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -23,7 +23,7 @@ In circle (Technology/Semiconductors)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings std: 647.7% (highly volatile); FCF/NI: 244% (strong); Gross margin: 37% | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 13.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 52.7x — extreme premium; Near 52w high (95% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 58.7x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10

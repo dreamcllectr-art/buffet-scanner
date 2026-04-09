@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-04-08 05:52 | Price: $62.7 | Mkt Cap: $18B*
+*Generated: 2026-04-09 05:53 | Price: $65.07 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Business Services)
@@ -23,7 +23,7 @@ In circle (Industrials/Specialty Business Services)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.0% (4y); Earnings std: 440.4% (highly volatile); FCF/NI: 487% (strong); Gross margin: 73% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.9% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 73% — strong pricing power; Operating margin 28% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 10.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.0x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 9.6% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Specialty Business Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Business Services)
-- **Margin of Safety**: 6% — thin (IV $66 at 15x)
+- **Margin of Safety**: 2% — thin (IV $66 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

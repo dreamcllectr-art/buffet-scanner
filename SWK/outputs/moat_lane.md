@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-04-08 05:53 | Price: $67.63 | Mkt Cap: $11B*
+*Generated: 2026-04-09 05:53 | Price: $71.49 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Tools & Accessories)
@@ -23,7 +23,7 @@ In circle (Industrials/Tools & Accessories)
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings std: 119.2% (highly volatile); FCF/NI: -9% (weak conversion); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 35%; Owner earnings yield: 8.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 45%; Owner earnings yield: 7.7% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Tools & Accessories)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Tools & Accessories)
-- **Margin of Safety**: -41% — ABSENT ($68 > IV $40 at 15x for -19% growth)
+- **Margin of Safety**: -44% — ABSENT ($71 > IV $40 at 15x for -19% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

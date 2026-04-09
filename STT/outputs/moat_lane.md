@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STT
-*Generated: 2026-04-08 05:53 | Price: $131.21 | Mkt Cap: $37B*
+*Generated: 2026-04-09 05:53 | Price: $136.13 | Mkt Cap: $38B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -23,7 +23,7 @@ In circle (Financial Services/Asset Management)
 | Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 11.1%; Earnings std: 34.2% (volatile); FCF/NI: 60%; Gross margin: 0% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -24.3% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 0% — weak pricing power; Operating margin 28% | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.0x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: 7% — thin (IV $141 at 15x)
+- **Margin of Safety**: 4% — thin (IV $141 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

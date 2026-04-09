@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-04-08 05:51 | Price: $201.54 | Mkt Cap: $403B*
+*Generated: 2026-04-09 05:52 | Price: $192.89 | Mkt Cap: $384B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Integrated. Proceed with caution.
@@ -21,9 +21,9 @@ OUTSIDE circle — Energy/Oil & Gas Integrated. Proceed with caution.
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings std: 11.2%; FCF/NI: 105% (strong); Gross margin: 42% | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.6%; Insider activity: 0B/0S last 6m; Restricted stock: 6.4% of shares (SBC concern) | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.6%; Insider activity: 0B/0S last 6m; Restricted stock: 6.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 42% — moderate moat; Operating margin 9% — thin | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.7x — fair price; 52w range position: 84%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.9x — fair price; 52w range position: 74%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Energy/Oil & Gas Integrated. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Integrated. Proceed with caution.
-- **Margin of Safety**: -51% — ABSENT ($202 > IV $99 at 15x for -24% growth)
+- **Margin of Safety**: -48% — ABSENT ($193 > IV $100 at 15x for -24% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 6.6% insider ownership
 - **Mr. Market**: Neutral

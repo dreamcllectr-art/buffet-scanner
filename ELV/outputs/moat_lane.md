@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-04-08 05:51 | Price: $311.83 | Mkt Cap: $69B*
+*Generated: 2026-04-09 05:52 | Price: $318.23 | Mkt Cap: $70B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings std: 3.6% (predictable); FCF/NI: 92% (strong); Gross margin: 26% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin 2% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
-- **Margin of Safety**: 102% — PRESENT (IV $630 vs $312 at 25x)
+- **Margin of Safety**: 98% — PRESENT (IV $630 vs $318 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

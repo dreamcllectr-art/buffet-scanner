@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-04-09 05:52 | Price: $176.18 | Mkt Cap: $82B*
+*Generated: 2026-04-10 06:02 | Price: $179.93 | Mkt Cap: $84B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -21,9 +21,9 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.4% (4y); Earnings std: 34.2% (volatile); FCF/NI: 154% (strong); Gross margin: 74% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 45% — durable | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.4x — growth premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 26.0x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Specialty) — flag for review.
-- **Margin of Safety**: -54% — ABSENT ($176 > IV $81 at 15x for -33% growth)
+- **Margin of Safety**: -55% — ABSENT ($180 > IV $81 at 15x for -33% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

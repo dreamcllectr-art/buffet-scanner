@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-04-09 05:53 | Price: $37.07 | Mkt Cap: $20B*
+*Generated: 2026-04-10 06:03 | Price: $36.78 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings std: 434.6% (highly volatile); FCF/NI: 116% (strong); Gross margin: 30% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 30% — weak pricing power; Operating margin 6% — thin; Rev growth 53% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 2.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.8% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

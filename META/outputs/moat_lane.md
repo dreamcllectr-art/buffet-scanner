@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-04-09 05:53 | Price: $612.42 | Mkt Cap: $1549B*
+*Generated: 2026-04-10 06:04 | Price: $628.39 | Mkt Cap: $1590B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Internet Content & Information)
@@ -23,7 +23,7 @@ In circle (Communication Services/Internet Content & Information)
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 22.6% (4y); Earnings std: 39.0% (volatile); FCF/NI: 90% (strong); Gross margin: 82% (pricing power) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $1.4B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 82% — strong pricing power; Operating margin 41% — durable; Rev growth 24% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 42%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.5x — fair price; 52w range position: 47%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
 ## Buffett Score: 8.2 / 10
@@ -36,7 +36,7 @@ In circle (Communication Services/Internet Content & Information)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Internet Content & Information)
-- **Margin of Safety**: -23% — ABSENT ($612 > IV $470 at 20x for 11% growth)
+- **Margin of Safety**: -25% — ABSENT ($628 > IV $470 at 20x for 11% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

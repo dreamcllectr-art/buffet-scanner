@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPD
-*Generated: 2026-04-09 05:52 | Price: $146.62 | Mkt Cap: $20B*
+*Generated: 2026-04-10 06:03 | Price: $144.83 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Integrated Freight & Logistics)
@@ -21,9 +21,9 @@ In circle (Industrials/Integrated Freight & Logistics)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 37.4% (4y); Earnings std: 28.2% (volatile); FCF/NI: 122% (strong); Gross margin: 13% (commodity-like) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.7x — growth premium; 52w range position: 69%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.4x — growth premium; 52w range position: 66%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Integrated Freight & Logistics)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Integrated Freight & Logistics)
-- **Margin of Safety**: -39% — ABSENT ($147 > IV $89 at 15x for -12% growth)
+- **Margin of Safety**: -38% — ABSENT ($145 > IV $89 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

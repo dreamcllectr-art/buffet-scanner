@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-04-09 05:53 | Price: $198.39 | Mkt Cap: $24B*
+*Generated: 2026-04-10 06:03 | Price: $197.32 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings std: 26.5% (volatile); FCF/NI: 118% (strong); Gross margin: 15% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — weak pricing power; Operating margin -2% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
-- **Margin of Safety**: -1% — ABSENT ($198 > IV $197 at 20x for 11% growth)
+- **Margin of Safety**: -0% — ABSENT ($197 > IV $197 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LMT
-*Generated: 2026-04-09 05:53 | Price: $628.5 | Mkt Cap: $145B*
+*Generated: 2026-04-10 06:03 | Price: $623.87 | Mkt Cap: $144B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -23,7 +23,7 @@ In circle (Industrials/Aerospace & Defense)
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 23.4% (4y); Earnings std: 22.0% (volatile); FCF/NI: 108% (strong); Gross margin: 10% (commodity-like) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 10% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.6x — fair price; 52w range position: 77%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 76%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -15% — ABSENT ($628 > IV $537 at 25x for 25% growth)
+- **Margin of Safety**: -14% — ABSENT ($624 > IV $536 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

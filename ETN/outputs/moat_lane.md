@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETN
-*Generated: 2026-04-09 05:52 | Price: $385.58 | Mkt Cap: $150B*
+*Generated: 2026-04-10 06:03 | Price: $400.44 | Mkt Cap: $156B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -23,10 +23,10 @@ In circle (Industrials/Specialty Industrial Machinery)
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 12.0% (4y); Earnings std: 11.5%; FCF/NI: 87% (strong); Gross margin: 38% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — weak pricing power; Operating margin 20% | Weak pricing |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.8x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.8x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -46% — ABSENT ($386 > IV $209 at 20x for 19% growth)
+- **Margin of Safety**: -48% — ABSENT ($400 > IV $209 at 20x for 19% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

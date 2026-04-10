@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-09 05:53 | Price: $54.6 | Mkt Cap: $37B*
+*Generated: 2026-04-10 06:03 | Price: $54.48 | Mkt Cap: $37B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Resorts & Casinos)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 | Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings std: 28.3% (volatile); FCF/NI: 74%; Gross margin: 80% (pricing power) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 80% — strong pricing power; Operating margin 24%; Rev growth 26% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 61%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 60%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10

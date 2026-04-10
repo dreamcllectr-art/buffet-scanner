@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AJG
-*Generated: 2026-04-09 05:52 | Price: $220.8 | Mkt Cap: $57B*
+*Generated: 2026-04-10 06:02 | Price: $218.39 | Mkt Cap: $56B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -23,7 +23,7 @@ In circle (Financial Services/Insurance Brokers)
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings std: 33.3% (volatile); FCF/NI: 146% (strong); Gross margin: 42% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat; Operating margin 10% — thin; Rev growth 37% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Insurance Brokers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance Brokers)
-- **Margin of Safety**: -61% — ABSENT ($221 > IV $86 at 15x for -48% growth)
+- **Margin of Safety**: -61% — ABSENT ($218 > IV $86 at 15x for -48% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

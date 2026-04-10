@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-04-09 05:52 | Price: $185.47 | Mkt Cap: $123B*
+*Generated: 2026-04-10 06:03 | Price: $181.46 | Mkt Cap: $120B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.9% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Technology/Computer Hardware)
 | Quality | 7.7/10 | 30% | 2.3 | Avg ROIC: 19.5% (4y); Earnings std: 4.8% (predictable); FCF/NI: 96% (strong); Gross margin: 20% (commodity-like) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 20% — weak pricing power; Operating margin 10% — thin; Rev growth 40% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -38,7 +38,7 @@ In circle (Technology/Computer Hardware)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Computer Hardware)
-- **Margin of Safety**: 17% — thin (IV $217 at 25x)
+- **Margin of Safety**: 19% — thin (IV $217 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

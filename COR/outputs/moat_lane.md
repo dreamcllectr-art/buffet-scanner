@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-04-09 05:52 | Price: $324.93 | Mkt Cap: $63B*
+*Generated: 2026-04-10 06:03 | Price: $322.46 | Mkt Cap: $63B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 | Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings std: 9.5% (predictable); FCF/NI: 183% (strong); Gross margin: 4% (commodity-like) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — weak pricing power; Operating margin 1% — thin | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.6x — fair price; 52w range position: 51%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.5x — fair price; 52w range position: 49%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
-- **Margin of Safety**: -49% — ABSENT ($325 > IV $166 at 20x for 15% growth)
+- **Margin of Safety**: -48% — ABSENT ($322 > IV $166 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Neutral

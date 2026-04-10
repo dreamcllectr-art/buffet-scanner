@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-04-09 05:53 | Price: $160.3 | Mkt Cap: $34B*
+*Generated: 2026-04-10 06:04 | Price: $161.78 | Mkt Cap: $34B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 342.1% (highly volatile); FCF/NI: 167% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 4% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 72%; Owner earnings yield: 3.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 74%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
-- **Margin of Safety**: -62% — ABSENT ($160 > IV $60 at 15x for -91% growth)
+- **Margin of Safety**: -63% — ABSENT ($162 > IV $60 at 15x for -91% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Neutral

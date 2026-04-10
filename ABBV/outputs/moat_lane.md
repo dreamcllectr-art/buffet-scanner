@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-04-09 05:52 | Price: $211.59 | Mkt Cap: $374B*
+*Generated: 2026-04-10 06:02 | Price: $212.4 | Mkt Cap: $376B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings std: 30.7% (volatile); FCF/NI: 374% (strong); Gross margin: 72% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% — strong pricing power; Operating margin 34% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; 52w range position: 59%; Owner earnings yield: 4.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 60%; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

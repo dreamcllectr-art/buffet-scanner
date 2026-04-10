@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-04-09 05:53 | Price: $75.53 | Mkt Cap: $9B*
+*Generated: 2026-04-10 06:03 | Price: $75.62 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
-- **Margin of Safety**: -13% — ABSENT ($76 > IV $65 at 20x for 14% growth)
+- **Margin of Safety**: -14% — ABSENT ($76 > IV $65 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

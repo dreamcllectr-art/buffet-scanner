@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTRA
-*Generated: 2026-04-09 05:52 | Price: $33.46 | Mkt Cap: $25B*
+*Generated: 2026-04-10 06:03 | Price: $33.48 | Mkt Cap: $25B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 14.2% (4y); Earnings std: 58.8% (highly volatile); FCF/NI: 94% (strong); Gross margin: 74% (pricing power) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% — strong pricing power; Operating margin 33% — durable; Rev growth 23% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 76%; Owner earnings yield: 4.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 77%; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

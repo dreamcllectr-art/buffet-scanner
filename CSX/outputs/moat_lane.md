@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-04-09 05:52 | Price: $42.14 | Mkt Cap: $78B*
+*Generated: 2026-04-10 06:03 | Price: $42.49 | Mkt Cap: $79B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Railroads)
@@ -23,7 +23,7 @@ In circle (Industrials/Railroads)
 | Quality | 4.1/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings std: 5.7% (predictable); FCF/NI: 77%; Gross margin: 46% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 46% — moderate moat; Operating margin 33% — durable | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.1x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.3x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Railroads)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Railroads)
-- **Margin of Safety**: -45% — ABSENT ($42 > IV $23 at 15x for -0% growth)
+- **Margin of Safety**: -46% — ABSENT ($42 > IV $23 at 15x for -0% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

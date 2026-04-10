@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDS
-*Generated: 2026-04-09 05:52 | Price: $222.97 | Mkt Cap: $8B*
+*Generated: 2026-04-10 06:03 | Price: $213.52 | Mkt Cap: $8B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Financial Data & Stock Exchanges)
@@ -23,7 +23,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 | Quality | 8.6/10 | 30% | 2.6 | Avg ROIC: 15.5% (4y); Earnings std: 3.4% (predictable); FCF/NI: 116% (strong); Gross margin: 52% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 30% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 7.5% (>5%) | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
-- **Margin of Safety**: 5% — thin (IV $233 at 15x)
+- **Margin of Safety**: 9% — thin (IV $233 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

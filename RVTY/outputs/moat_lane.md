@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-04-09 05:53 | Price: $90.4 | Mkt Cap: $10B*
+*Generated: 2026-04-10 06:04 | Price: $90.46 | Mkt Cap: $10B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings std: 41.7% (volatile); FCF/NI: 129% (strong); Gross margin: 55% (pricing power) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat; Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

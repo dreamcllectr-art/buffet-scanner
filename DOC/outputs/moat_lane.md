@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-04-09 05:53 | Price: $16.68 | Mkt Cap: $12B*
+*Generated: 2026-04-10 06:03 | Price: $16.69 | Mkt Cap: $12B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Real Estate/REIT - Healthcare Facilities. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Real Estate/REIT - Healthcare Facilities. Proceed with cautio
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 3.1% (4y); Earnings std: 25.4% (volatile); FCF/NI: 672% (strong); Gross margin: 60% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 60% — moderate moat; Operating margin 20% | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 83.4x — extreme premium; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 10.0% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 83.5x — extreme premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 10.0% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

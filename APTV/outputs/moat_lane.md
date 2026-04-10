@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-04-09 05:52 | Price: $60.73 | Mkt Cap: $15B*
+*Generated: 2026-04-10 06:02 | Price: $60.12 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Auto Parts)
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 7.7% (4y); Earnings std: 266.6% (highly volatile); FCF/NI: 280% (strong); Gross margin: 19% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 32%; Owner earnings yield: 8.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; 52w range position: 31%; Owner earnings yield: 8.6% (>5%) | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Auto Parts)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Auto Parts)
-- **Margin of Safety**: -81% — ABSENT ($61 > IV $11 at 15x for -43% growth)
+- **Margin of Safety**: -81% — ABSENT ($60 > IV $11 at 15x for -43% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

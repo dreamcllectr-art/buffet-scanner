@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-04-09 05:52 | Price: $144.49 | Mkt Cap: $12B*
+*Generated: 2026-04-10 06:02 | Price: $146.29 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Security & Protection Services)
@@ -23,7 +23,7 @@ In circle (Industrials/Security & Protection Services)
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 16.8% (4y); Earnings std: 5.3% (predictable); FCF/NI: 96% (strong); Gross margin: 45% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 21% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 42%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 45%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Security & Protection Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Security & Protection Services)
-- **Margin of Safety**: -23% — ABSENT ($144 > IV $111 at 15x for 3% growth)
+- **Margin of Safety**: -24% — ABSENT ($146 > IV $112 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral

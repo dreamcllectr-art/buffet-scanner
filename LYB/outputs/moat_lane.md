@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-04-09 05:53 | Price: $74.22 | Mkt Cap: $24B*
+*Generated: 2026-04-10 06:03 | Price: $72.27 | Mkt Cap: $23B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -23,10 +23,10 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings std: 66.1% (highly volatile); FCF/NI: 91% (strong); Gross margin: 9% (commodity-like) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — weak pricing power; Operating margin -1% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 77%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 72%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

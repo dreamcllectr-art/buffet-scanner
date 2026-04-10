@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-04-09 05:52 | Price: $64.48 | Mkt Cap: $14B*
+*Generated: 2026-04-10 06:02 | Price: $64.53 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Specialty Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Specialty Retail)
-- **Margin of Safety**: 95% — PRESENT (IV $126 vs $64 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $126 vs $65 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 7.6% insider ownership
 - **Mr. Market**: Neutral

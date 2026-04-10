@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-04-09 05:53 | Price: $241.3 | Mkt Cap: $582B*
+*Generated: 2026-04-10 06:03 | Price: $241.31 | Mkt Cap: $582B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: 16% — thin (IV $279 at 25x)
+- **Margin of Safety**: 14% — thin (IV $276 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

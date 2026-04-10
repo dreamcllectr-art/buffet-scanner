@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-04-09 05:52 | Price: $126.73 | Mkt Cap: $16B*
+*Generated: 2026-04-10 06:03 | Price: $126.75 | Mkt Cap: $17B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -36,7 +36,7 @@ In circle (Technology/Information Technology Services)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Information Technology Services)
-- **Margin of Safety**: 9% — thin (IV $138 at 17x)
+- **Margin of Safety**: 8% — thin (IV $137 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-04-09 05:52 | Price: $26.85 | Mkt Cap: $12B*
+*Generated: 2026-04-10 06:03 | Price: $30.31 | Mkt Cap: $14B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Wineries & Distilleries)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Beverages - Wineries & Distilleries)
 | Quality | 3.7/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 16.0% (4y); Earnings std: 24.4% (volatile); FCF/NI: 61%; Gross margin: 59% (pricing power) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: -11.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 59% — moderate moat; Operating margin 32% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 31%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 57%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Beverages - Wineries & Distilleries)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Beverages - Wineries & Distilleries)
-- **Margin of Safety**: -3% — ABSENT ($27 > IV $26 at 15x for 1% growth)
+- **Margin of Safety**: -15% — ABSENT ($30 > IV $26 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 2.9% insider ownership
 - **Mr. Market**: Neutral

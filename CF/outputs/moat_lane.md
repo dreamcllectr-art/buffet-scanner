@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CF
-*Generated: 2026-04-09 05:52 | Price: $126.16 | Mkt Cap: $19B*
+*Generated: 2026-04-10 06:03 | Price: $119.38 | Mkt Cap: $18B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 | Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 29.4% (4y); Earnings std: 37.0% (volatile); FCF/NI: 109% (strong); Gross margin: 38% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 38% — weak pricing power; Operating margin 35% — durable; Rev growth 23% — demand pull | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.0x — fair price; 52w range position: 79%; Owner earnings yield: 6.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 70%; Owner earnings yield: 7.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
-- **Margin of Safety**: 78% — PRESENT (IV $224 vs $126 at 25x)
+- **Margin of Safety**: 88% — PRESENT (IV $224 vs $119 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

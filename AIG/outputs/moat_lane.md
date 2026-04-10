@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIG
-*Generated: 2026-04-09 05:52 | Price: $77.43 | Mkt Cap: $42B*
+*Generated: 2026-04-10 06:02 | Price: $77.72 | Mkt Cap: $42B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -23,7 +23,7 @@ In circle (Financial Services/Insurance - Diversified)
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 5.8% (4y); Earnings std: 131.8% (highly volatile); FCF/NI: 21% (weak conversion); Gross margin: 34% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — weak pricing power; Operating margin 14% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 38%; Owner earnings yield: 27.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 40%; Owner earnings yield: 27.0% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

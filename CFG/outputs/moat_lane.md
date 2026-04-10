@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFG
-*Generated: 2026-04-09 05:52 | Price: $63.78 | Mkt Cap: $27B*
+*Generated: 2026-04-10 06:03 | Price: $64.97 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Regional)
@@ -23,7 +23,7 @@ In circle (Financial Services/Banks - Regional)
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 7.2%; Earnings std: 22.1% (volatile); FCF/NI: 150% (strong); Gross margin: 0% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 32% — durable | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.1x — deep value; Near 52w high (86% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (89% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Banks - Regional)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Banks - Regional)
-- **Margin of Safety**: 51% — PRESENT (IV $96 vs $64 at 25x)
+- **Margin of Safety**: 51% — PRESENT (IV $98 vs $65 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

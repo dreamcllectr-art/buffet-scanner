@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-04-09 05:53 | Price: $70.96 | Mkt Cap: $45B*
+*Generated: 2026-04-10 06:03 | Price: $70.35 | Mkt Cap: $45B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Grocery Stores)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Grocery Stores)
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings std: 43.5% (volatile); FCF/NI: 151% (strong); Gross margin: 24% (commodity-like) | ROIC declining |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 9.1%; Insider activity: 0B/0S last 6m; Restricted stock: -28.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 24% — weak pricing power; Operating margin 3% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 69%; Owner earnings yield: 7.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 65%; Owner earnings yield: 7.6% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Grocery Stores)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Grocery Stores)
-- **Margin of Safety**: -46% — ABSENT ($71 > IV $38 at 25x for 25% growth)
+- **Margin of Safety**: -45% — ABSENT ($70 > IV $38 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 9.1% insider ownership
 - **Mr. Market**: Neutral

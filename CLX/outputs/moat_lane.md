@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-04-09 05:52 | Price: $105.67 | Mkt Cap: $13B*
+*Generated: 2026-04-10 06:03 | Price: $107.62 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 18.3% (4y); Earnings std: 129.5% (highly volatile); FCF/NI: 252% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat; Operating margin 14% — thin | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.7x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 7.7% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Household & Personal Products)
-- **Margin of Safety**: -13% — ABSENT ($106 > IV $92 at 15x for -16% growth)
+- **Margin of Safety**: -15% — ABSENT ($108 > IV $92 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

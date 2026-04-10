@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-04-09 05:53 | Price: $73.75 | Mkt Cap: $34B*
+*Generated: 2026-04-10 06:03 | Price: $72.91 | Mkt Cap: $33B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 | Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 13.0% (4y); Earnings std: 22.6% (volatile); FCF/NI: 88% (strong); Gross margin: 40% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 40% — weak pricing power; Operating margin 16% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 50%; Owner earnings yield: 5.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; 52w range position: 48%; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
-- **Margin of Safety**: -2% — ABSENT ($74 > IV $72 at 15x for -18% growth)
+- **Margin of Safety**: -6% — ABSENT ($73 > IV $68 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RSG
-*Generated: 2026-04-09 05:53 | Price: $216.51 | Mkt Cap: $67B*
+*Generated: 2026-04-10 06:04 | Price: $217.0 | Mkt Cap: $67B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Waste Management)
@@ -23,7 +23,7 @@ In circle (Industrials/Waste Management)
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 9.2% (4y); Earnings std: 7.3% (predictable); FCF/NI: 111% (strong); Gross margin: 43% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat; Operating margin 19% | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.9x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.0x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

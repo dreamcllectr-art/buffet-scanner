@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APP
-*Generated: 2026-04-09 05:52 | Price: $391.2 | Mkt Cap: $132B*
+*Generated: 2026-04-10 06:02 | Price: $379.14 | Mkt Cap: $128B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Advertising Agencies)
@@ -23,7 +23,7 @@ In circle (Communication Services/Advertising Agencies)
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 26.2% (4y); Earnings std: 317.4% (highly volatile); FCF/NI: 79%; Gross margin: 88% (pricing power) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.9% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 88% — strong pricing power; Operating margin 77% — durable; Rev growth 66% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.3x — fair price; 52w range position: 33%; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 31%; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10
@@ -36,7 +36,7 @@ In circle (Communication Services/Advertising Agencies)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Communication Services/Advertising Agencies)
-- **Margin of Safety**: -36% — ABSENT ($391 > IV $251 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($379 > IV $251 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Aligned — 18.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMGN
-*Generated: 2026-04-09 05:52 | Price: $349.81 | Mkt Cap: $189B*
+*Generated: 2026-04-10 06:02 | Price: $355.6 | Mkt Cap: $192B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 13.0% (4y); Earnings std: 65.1% (highly volatile); FCF/NI: 151% (strong); Gross margin: 71% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 71% — strong pricing power; Operating margin 31% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; 52w range position: 68%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 73%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: 5% — thin (IV $366 at 25x)
+- **Margin of Safety**: -0% — ABSENT ($356 > IV $356 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

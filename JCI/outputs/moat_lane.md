@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JCI
-*Generated: 2026-04-09 05:53 | Price: $139.0 | Mkt Cap: $85B*
+*Generated: 2026-04-10 06:03 | Price: $141.85 | Mkt Cap: $87B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -23,11 +23,11 @@ In circle (Industrials/Building Products & Equipment)
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.5% (4y); Earnings std: 52.0% (highly volatile); FCF/NI: 79%; Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 15% — thin | Weak pricing |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 25.0x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.5x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 3.2 / 10
-## Alpha Adjustment: -0.26
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ In circle (Industrials/Building Products & Equipment)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
-- **Margin of Safety**: -47% — ABSENT ($139 > IV $74 at 25x for 25% growth)
+- **Margin of Safety**: -47% — ABSENT ($142 > IV $74 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.26 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

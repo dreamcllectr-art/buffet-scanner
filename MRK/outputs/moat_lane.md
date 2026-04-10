@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRK
-*Generated: 2026-04-09 05:53 | Price: $123.18 | Mkt Cap: $305B*
+*Generated: 2026-04-10 06:04 | Price: $122.68 | Mkt Cap: $303B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -21,9 +21,9 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 14.7% (4y); Earnings std: 2676.5% (highly volatile); FCF/NI: 695% (strong); Gross margin: 77% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% — strong pricing power; Operating margin 33% — durable | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.9% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.5x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.9% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

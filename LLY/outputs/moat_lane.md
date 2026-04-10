@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-04-09 05:53 | Price: $953.3 | Mkt Cap: $853B*
+*Generated: 2026-04-10 06:03 | Price: $955.19 | Mkt Cap: $855B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
-- **Margin of Safety**: -39% — ABSENT ($953 > IV $586 at 25x for 25% growth)
+- **Margin of Safety**: -40% — ABSENT ($955 > IV $573 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

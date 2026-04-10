@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-04-09 05:53 | Price: $231.98 | Mkt Cap: $68B*
+*Generated: 2026-04-10 06:03 | Price: $223.52 | Mkt Cap: $66B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 | Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings std: 41.3% (volatile); FCF/NI: 130% (strong); Gross margin: 10% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 10% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 83%; Owner earnings yield: 3.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 77%; Owner earnings yield: 3.9% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
-- **Margin of Safety**: 45% — PRESENT (IV $336 vs $232 at 25x)
+- **Margin of Safety**: 48% — PRESENT (IV $330 vs $224 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

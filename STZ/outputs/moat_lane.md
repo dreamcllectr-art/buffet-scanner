@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-04-09 05:52 | Price: $150.26 | Mkt Cap: $26B*
+*Generated: 2026-04-10 06:03 | Price: $163.07 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Brewers)
@@ -11,7 +11,7 @@ In circle (Consumer Defensive/Beverages - Brewers)
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 19.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,11 +22,11 @@ In circle (Consumer Defensive/Beverages - Brewers)
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.1% (4y); Earnings std: 1456.8% (highly volatile); FCF/NI: -2218% (weak conversion); Gross margin: 52% (pricing power) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 52% — moderate moat; Operating margin 34% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 34%; Owner earnings yield: 7.5% (>5%) | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 27% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 52%; Owner earnings yield: 7.6% (>5%) | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ In circle (Consumer Defensive/Beverages - Brewers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Beverages - Brewers)
-- **Margin of Safety**: -4% — ABSENT ($150 > IV $144 at 15x for -15% growth)
+- **Margin of Safety**: -12% — ABSENT ($163 > IV $144 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 19.9% insider ownership
 - **Mr. Market**: Neutral

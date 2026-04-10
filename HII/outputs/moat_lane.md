@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-04-09 05:53 | Price: $411.35 | Mkt Cap: $16B*
+*Generated: 2026-04-10 06:03 | Price: $403.37 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -23,32 +23,32 @@ In circle (Industrials/Aerospace & Defense)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings std: 19.5%; FCF/NI: 80%; Gross margin: 13% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.2x — growth premium; 52w range position: 82%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 80%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.5 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -7% — ABSENT ($411 > IV $384 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -4% — ABSENT ($403 > IV $385 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

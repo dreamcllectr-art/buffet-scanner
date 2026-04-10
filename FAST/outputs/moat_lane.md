@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAST
-*Generated: 2026-04-09 05:52 | Price: $48.18 | Mkt Cap: $55B*
+*Generated: 2026-04-10 06:03 | Price: $49.1 | Mkt Cap: $56B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Industrial Distribution)
@@ -23,10 +23,10 @@ In circle (Industrials/Industrial Distribution)
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 32.0% (4y); Earnings std: 5.0% (predictable); FCF/NI: 86% (strong); Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 19% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.5x — expensive; 52w range position: 84%; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.2x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ In circle (Industrials/Industrial Distribution)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Industrial Distribution)
-- **Margin of Safety**: -62% — ABSENT ($48 > IV $19 at 17x for 9% growth)
+- **Margin of Safety**: -62% — ABSENT ($49 > IV $19 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: high quality)

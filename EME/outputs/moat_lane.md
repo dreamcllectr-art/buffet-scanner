@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-04-09 05:52 | Price: $789.19 | Mkt Cap: $35B*
+*Generated: 2026-04-10 06:03 | Price: $800.4 | Mkt Cap: $36B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Engineering & Construction)
@@ -23,7 +23,7 @@ In circle (Industrials/Engineering & Construction)
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 30.8% (4y); Earnings std: 18.0%; FCF/NI: 116% (strong); Gross margin: 19% (commodity-like) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.2x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.6x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Engineering & Construction)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Engineering & Construction)
-- **Margin of Safety**: -6% — ABSENT ($789 > IV $742 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($800 > IV $704 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: no material killers)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

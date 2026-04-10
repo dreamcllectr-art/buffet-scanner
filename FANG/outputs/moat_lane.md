@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FANG
-*Generated: 2026-04-09 05:52 | Price: $186.47 | Mkt Cap: $53B*
+*Generated: 2026-04-10 06:03 | Price: $186.31 | Mkt Cap: $53B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.

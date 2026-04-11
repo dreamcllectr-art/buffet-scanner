@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRE
-*Generated: 2026-04-10 06:04 | Price: $99.75 | Mkt Cap: $65B*
+*Generated: 2026-04-11 05:28 | Price: $98.82 | Mkt Cap: $65B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 3.9% (4y); Earnings std: 40.3% (volatile); FCF/NI: -178% (weak conversion); Gross margin: 41% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 3.9% (4y); Earnings std: 40.3% (volatile); Gross margin: 41% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 41% — moderate moat; Operating margin 28% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.0x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.9x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
-- **Margin of Safety**: -59% — ABSENT ($100 > IV $41 at 15x for -48% growth)
+- **Margin of Safety**: -58% — ABSENT ($99 > IV $41 at 15x for -48% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

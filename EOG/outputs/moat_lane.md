@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EOG
-*Generated: 2026-04-10 06:03 | Price: $136.58 | Mkt Cap: $73B*
+*Generated: 2026-04-11 05:27 | Price: $136.19 | Mkt Cap: $73B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 | Quality | 5.4/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 21.2% (4y); Earnings std: 10.3%; FCF/NI: 76%; Gross margin: 62% (pricing power) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% — strong pricing power; Operating margin 17% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 70%; Owner earnings yield: 3.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 69%; Owner earnings yield: 3.2% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-04-10 06:04 | Price: $95.67 | Mkt Cap: $19B*
+*Generated: 2026-04-11 05:28 | Price: $95.93 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -23,7 +23,7 @@ In circle (Technology/Software - Infrastructure)
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 27.0% (4y); Earnings std: 30.3% (volatile); FCF/NI: 110% (strong); Gross margin: 70% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 40%; Owner earnings yield: 5.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 34%; Owner earnings yield: 5.9% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ In circle (Technology/Software - Infrastructure)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
-- **Margin of Safety**: 25% — thin (IV $119 at 20x)
+- **Margin of Safety**: 24% — thin (IV $119 at 20x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

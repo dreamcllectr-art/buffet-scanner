@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INVH
-*Generated: 2026-04-10 06:03 | Price: $26.0 | Mkt Cap: $16B*
+*Generated: 2026-04-11 05:28 | Price: $26.02 | Mkt Cap: $16B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Residential) — flag for review.
@@ -23,7 +23,7 @@ Unknown sector (Real Estate/REIT - Residential) — flag for review.
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 3.6% (4y); Earnings std: 26.2% (volatile); FCF/NI: 184% (strong); Gross margin: 58% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 58% — moderate moat; Operating margin 27% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 36.3x — expensive; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 6.9% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 36.7x — expensive; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 6.9% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

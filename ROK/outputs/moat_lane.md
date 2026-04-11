@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROK
-*Generated: 2026-04-10 06:04 | Price: $394.9 | Mkt Cap: $44B*
+*Generated: 2026-04-11 05:28 | Price: $396.0 | Mkt Cap: $45B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -36,7 +36,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -44% — ABSENT ($395 > IV $221 at 25x for 25% growth)
+- **Margin of Safety**: -45% — ABSENT ($396 > IV $219 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

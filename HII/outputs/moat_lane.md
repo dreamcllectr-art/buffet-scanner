@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-04-10 06:03 | Price: $403.37 | Mkt Cap: $16B*
+*Generated: 2026-04-11 05:28 | Price: $394.41 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -23,7 +23,7 @@ In circle (Industrials/Aerospace & Defense)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings std: 19.5%; FCF/NI: 80%; Gross margin: 13% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 80%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 74%; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -4% — ABSENT ($403 > IV $385 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($394 > IV $385 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-04-10 06:03 | Price: $73.13 | Mkt Cap: $19B*
+*Generated: 2026-04-11 05:28 | Price: $72.52 | Mkt Cap: $19B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -2.2% (4y); Earnings std: 138.1% (highly volatile); FCF/NI: 32% (weak conversion); Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 55%; Owner earnings yield: 16.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 53%; Owner earnings yield: 16.7% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

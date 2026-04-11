@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PG
-*Generated: 2026-04-10 06:04 | Price: $146.66 | Mkt Cap: $343B*
+*Generated: 2026-04-11 05:28 | Price: $145.16 | Mkt Cap: $340B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -23,11 +23,11 @@ In circle (Consumer Defensive/Household & Personal Products)
 | Quality | 9.1/10 | 30% | 2.7 | Avg ROIC: 19.0% (4y); Earnings std: 4.1% (predictable); FCF/NI: 96% (strong); Gross margin: 51% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 51% — moderate moat; Operating margin 26% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.1x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.9x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 7.4 / 10
+## Alpha Adjustment: +0.24
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ In circle (Consumer Defensive/Household & Personal Products)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Defensive/Household & Personal Products)
-- **Margin of Safety**: -31% — ABSENT ($147 > IV $101 at 15x for -5% growth)
-- **Lollapalooza Effect**: No (1 forces only: high quality)
+- **Margin of Safety**: -30% — ABSENT ($145 > IV $101 at 15x for -5% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: high quality)
+No (2 forces only: high quality, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.24 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

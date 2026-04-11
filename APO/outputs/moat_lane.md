@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-04-10 06:02 | Price: $106.98 | Mkt Cap: $62B*
+*Generated: 2026-04-11 05:27 | Price: $104.28 | Mkt Cap: $61B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -23,7 +23,7 @@ In circle (Financial Services/Asset Management)
 | Quality | 1.4/10 | 30% | 0.4 | Avg ROIC: 9.3% (4y); Earnings std: 196.9% (highly volatile); FCF/NI: 53%; Gross margin: 37% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.8% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 37% — weak pricing power; Operating margin 18%; Rev growth 88% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (13% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w low (8% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: -22% — ABSENT ($107 > IV $83 at 15x for -57% growth)
+- **Margin of Safety**: -20% — ABSENT ($104 > IV $83 at 15x for -57% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: attractive valuation, secular growth, no material killers
 - **Incentive-Caused Bias**: Aligned — 27.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

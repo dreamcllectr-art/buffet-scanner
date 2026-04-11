@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SATS
-*Generated: 2026-04-10 06:03 | Price: $120.09 | Mkt Cap: $35B*
+*Generated: 2026-04-11 05:27 | Price: $128.59 | Mkt Cap: $37B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (12.5% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Communication Services/Telecom Services)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings std: 7019.4% (highly volatile); FCF/NI: 213% (strong); Gross margin: 26% (commodity-like) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -81.7x — deep value; Near 52w high (90% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -87.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

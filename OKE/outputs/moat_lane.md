@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-04-10 06:04 | Price: $86.18 | Mkt Cap: $54B*
+*Generated: 2026-04-11 05:28 | Price: $86.21 | Mkt Cap: $54B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Midstream. Proceed with caution.

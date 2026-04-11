@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-04-10 06:02 | Price: $64.53 | Mkt Cap: $14B*
+*Generated: 2026-04-11 05:27 | Price: $62.37 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Specialty Retail)
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings std: 20.8% (volatile); FCF/NI: 96% (strong); Gross margin: 22% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.6%; Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 32%; Owner earnings yield: 6.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,10 +36,10 @@ In circle (Consumer Cyclical/Specialty Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Specialty Retail)
-- **Margin of Safety**: 95% — PRESENT (IV $126 vs $65 at 25x)
+- **Margin of Safety**: 102% — PRESENT (IV $126 vs $62 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 7.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, no material killers)

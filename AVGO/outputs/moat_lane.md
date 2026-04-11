@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-04-10 06:03 | Price: $354.91 | Mkt Cap: $1683B*
+*Generated: 2026-04-11 05:27 | Price: $371.55 | Mkt Cap: $1762B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -21,13 +21,13 @@ In circle (Technology/Semiconductors)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings std: 183.5% (highly volatile); FCF/NI: 178% (strong); Gross margin: 77% (pricing power) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $33B (2.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $35B (2.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 77% — strong pricing power; Operating margin 45% — durable; Rev growth 30% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 77%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.8x — growth premium; 52w range position: 83%; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -64% — ABSENT ($355 > IV $129 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: -65% — ABSENT ($372 > IV $128 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

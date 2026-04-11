@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-04-10 06:03 | Price: $394.68 | Mkt Cap: $100B*
+*Generated: 2026-04-11 05:27 | Price: $379.02 | Mkt Cap: $96B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -23,10 +23,10 @@ In circle (Technology/Software - Infrastructure)
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -0.3% (4y); Earnings std: 633.1% (highly volatile); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% — strong pricing power; Operating margin 1% — thin; Rev growth 23% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 63.9x — extreme premium; 52w range position: 31%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 61.4x — extreme premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ In circle (Technology/Software - Infrastructure)
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

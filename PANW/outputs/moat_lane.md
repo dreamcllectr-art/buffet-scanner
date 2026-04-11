@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-04-10 06:04 | Price: $166.99 | Mkt Cap: $136B*
+*Generated: 2026-04-11 05:28 | Price: $155.73 | Mkt Cap: $127B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -23,10 +23,10 @@ In circle (Technology/Software - Infrastructure)
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 9.4% (4y); Earnings std: 387.6% (highly volatile); FCF/NI: 88% (strong); Gross margin: 74% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 42.1x — expensive; 52w range position: 33%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.2x — expensive; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ In circle (Technology/Software - Infrastructure)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
-- **Margin of Safety**: -73% — ABSENT ($167 > IV $45 at 25x for 25% growth)
+- **Margin of Safety**: -71% — ABSENT ($156 > IV $45 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

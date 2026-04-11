@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-04-10 06:04 | Price: $152.63 | Mkt Cap: $29B*
+*Generated: 2026-04-11 05:28 | Price: $152.23 | Mkt Cap: $29B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -36,7 +36,7 @@ In circle (Financial Services/Asset Management)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: -3% — ABSENT ($153 > IV $149 at 17x for 8% growth)
+- **Margin of Safety**: -2% — ABSENT ($152 > IV $149 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

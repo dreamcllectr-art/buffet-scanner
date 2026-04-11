@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-04-10 06:04 | Price: $6798.75 | Mkt Cap: $19B*
+*Generated: 2026-04-11 05:28 | Price: $6750.04 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)
@@ -23,7 +23,7 @@ In circle (Consumer Cyclical/Residential Construction)
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings std: 13.0%; FCF/NI: 90% (strong); Gross margin: 23% (commodity-like) | ROIC declining |
 | Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.3%; Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 23% — weak pricing power; Operating margin 17% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Residential Construction)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
-- **Margin of Safety**: -3% — ABSENT ($6799 > IV $6588 at 15x for -13% growth)
+- **Margin of Safety**: -3% — ABSENT ($6750 > IV $6551 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 5.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

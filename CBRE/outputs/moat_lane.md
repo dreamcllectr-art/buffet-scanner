@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBRE
-*Generated: 2026-04-10 06:03 | Price: $142.46 | Mkt Cap: $42B*
+*Generated: 2026-04-11 05:27 | Price: $141.22 | Mkt Cap: $42B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/Real Estate Services) — flag for review.
@@ -23,7 +23,7 @@ Unknown sector (Real Estate/Real Estate Services) — flag for review.
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings std: 24.8% (volatile); FCF/NI: 91% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 0% — thin | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 52%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.3x — fair price; 52w range position: 45%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10
@@ -36,7 +36,7 @@ Unknown sector (Real Estate/Real Estate Services) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/Real Estate Services) — flag for review.
-- **Margin of Safety**: -59% — ABSENT ($142 > IV $58 at 15x for -12% growth)
+- **Margin of Safety**: -59% — ABSENT ($141 > IV $58 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

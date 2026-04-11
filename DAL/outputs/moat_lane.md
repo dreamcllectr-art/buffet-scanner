@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-04-10 06:03 | Price: $67.83 | Mkt Cap: $45B*
+*Generated: 2026-04-11 05:27 | Price: $67.82 | Mkt Cap: $45B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Airlines)
@@ -23,7 +23,7 @@ In circle (Industrials/Airlines)
 | Quality | 1.9/10 | 30% | 0.6 | Avg ROIC: 13.3% (4y); Earnings std: 142.8% (highly volatile); FCF/NI: 46% (weak conversion); Gross margin: 20% (commodity-like) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 3% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; 52w range position: 79%; Owner earnings yield: 6.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; 52w range position: 77%; Owner earnings yield: 6.9% (>5%) | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

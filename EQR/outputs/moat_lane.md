@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQR
-*Generated: 2026-04-10 06:03 | Price: $60.46 | Mkt Cap: $24B*
+*Generated: 2026-04-11 05:27 | Price: $61.14 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Residential) — flag for review.
@@ -23,7 +23,7 @@ Unknown sector (Real Estate/REIT - Residential) — flag for review.
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 5.3% (4y); Earnings std: 9.3% (predictable); FCF/NI: 134% (strong); Gross margin: 63% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% — strong pricing power; Operating margin 29% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 40.2x — expensive; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.0% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 40.6x — expensive; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Unknown sector (Real Estate/REIT - Residential) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Residential) — flag for review.
-- **Margin of Safety**: -28% — ABSENT ($60 > IV $44 at 15x for -9% growth)
+- **Margin of Safety**: -28% — ABSENT ($61 > IV $44 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

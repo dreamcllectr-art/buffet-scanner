@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMD
-*Generated: 2026-04-10 06:02 | Price: $236.64 | Mkt Cap: $386B*
+*Generated: 2026-04-11 05:27 | Price: $245.04 | Mkt Cap: $400B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -23,10 +23,10 @@ In circle (Technology/Semiconductors)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.6% (4y); Earnings std: 101.0% (highly volatile); FCF/NI: 167% (strong); Gross margin: 52% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 52% — moderate moat; Operating margin 17%; Rev growth 34% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.9x — growth premium; 52w range position: 84%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.7x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ In circle (Technology/Semiconductors)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -73% — ABSENT ($237 > IV $65 at 25x for 25% growth)
+- **Margin of Safety**: -73% — ABSENT ($245 > IV $66 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)

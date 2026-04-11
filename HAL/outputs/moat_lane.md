@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAL
-*Generated: 2026-04-10 06:03 | Price: $37.69 | Mkt Cap: $32B*
+*Generated: 2026-04-11 05:28 | Price: $37.59 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 | Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings std: 58.9% (highly volatile); FCF/NI: 96% (strong); Gross margin: 16% (commodity-like) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — weak pricing power; Operating margin 15% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 84%; Owner earnings yield: 6.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 84%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

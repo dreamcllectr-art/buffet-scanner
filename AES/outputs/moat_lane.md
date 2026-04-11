@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AES
-*Generated: 2026-04-10 06:02 | Price: $14.41 | Mkt Cap: $10B*
+*Generated: 2026-04-11 05:27 | Price: $14.39 | Mkt Cap: $10B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
-- **Margin of Safety**: 36% — PRESENT (IV $20 vs $14 at 15x)
+- **Margin of Safety**: 37% — PRESENT (IV $20 vs $14 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

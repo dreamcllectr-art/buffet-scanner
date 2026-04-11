@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ERIE
-*Generated: 2026-04-10 06:03 | Price: $257.25 | Mkt Cap: $13B*
+*Generated: 2026-04-11 05:27 | Price: $253.76 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -21,9 +21,9 @@ In circle (Financial Services/Insurance Brokers)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: nan% (4y); Earnings std: 29.1% (volatile); FCF/NI: 87% (strong); Gross margin: 18% (commodity-like) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 45.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.5% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 45.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 45.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — weak pricing power; Operating margin 17% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.1x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ In circle (Financial Services/Insurance Brokers)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Financial Services/Insurance Brokers)
-- **Margin of Safety**: -38% — ABSENT ($257 > IV $160 at 15x for -58% growth)
+- **Margin of Safety**: -37% — ABSENT ($254 > IV $160 at 15x for -58% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
 - **Incentive-Caused Bias**: Aligned — 45.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-04-10 06:03 | Price: $154.55 | Mkt Cap: $67B*
+*Generated: 2026-04-11 05:27 | Price: $152.58 | Mkt Cap: $66B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Internet Retail)
@@ -23,10 +23,10 @@ In circle (Consumer Cyclical/Internet Retail)
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -3.7% (4y); Earnings std: 434.6% (highly volatile); FCF/NI: 354% (strong); Gross margin: 52% (pricing power) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 5% — thin; Rev growth 38% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.2x — growth premium; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 20.0x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ In circle (Consumer Cyclical/Internet Retail)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Internet Retail)
-- **Margin of Safety**: -66% — ABSENT ($155 > IV $53 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: -65% — ABSENT ($153 > IV $53 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 

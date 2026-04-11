@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-04-10 06:03 | Price: $25.04 | Mkt Cap: $13B*
+*Generated: 2026-04-11 05:28 | Price: $24.91 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -23,7 +23,7 @@ In circle (Financial Services/Asset Management)
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 4.5% (4y); Earnings std: 31.3% (volatile); FCF/NI: 149% (strong); Gross margin: 37% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — weak pricing power; Operating margin 17% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 73%; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 69%; Owner earnings yield: 2.5% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

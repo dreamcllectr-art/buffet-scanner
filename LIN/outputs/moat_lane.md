@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LIN
-*Generated: 2026-04-10 06:03 | Price: $503.3 | Mkt Cap: $233B*
+*Generated: 2026-04-11 05:28 | Price: $503.15 | Mkt Cap: $233B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -36,7 +36,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 ## Mental Models Applied
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
-- **Margin of Safety**: -56% — ABSENT ($503 > IV $219 at 15x for -9% growth)
+- **Margin of Safety**: -57% — ABSENT ($503 > IV $219 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

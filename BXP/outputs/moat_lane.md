@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-04-10 06:03 | Price: $52.48 | Mkt Cap: $9B*
+*Generated: 2026-04-11 05:27 | Price: $53.0 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Office) — flag for review.
@@ -23,7 +23,7 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings std: 1111.1% (highly volatile); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 56% — moderate moat; Operating margin -7% — thin | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.2x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 10.2% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.4x — growth premium; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10
@@ -36,7 +36,7 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 ## Mental Models Applied
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Office) — flag for review.
-- **Margin of Safety**: -50% — ABSENT ($52 > IV $26 at 15x for -32% growth)
+- **Margin of Safety**: -51% — ABSENT ($53 > IV $26 at 15x for -32% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

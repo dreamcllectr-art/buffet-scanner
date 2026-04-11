@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-04-10 06:02 | Price: $67.46 | Mkt Cap: $113B*
+*Generated: 2026-04-11 05:27 | Price: $67.38 | Mkt Cap: $113B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Tobacco)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Tobacco)
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 40.2% (4y); Earnings std: 45.1% (volatile); FCF/NI: 115% (strong); Gross margin: 87% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% — strong pricing power; Operating margin 117% — durable | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 81%; Owner earnings yield: 8.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 80%; Owner earnings yield: 8.2% (>5%) | - |
 | **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
 ## Buffett Score: 7.7 / 10

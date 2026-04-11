@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-04-10 06:04 | Price: $127.05 | Mkt Cap: $67B*
+*Generated: 2026-04-11 05:28 | Price: $127.19 | Mkt Cap: $67B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Farm & Heavy Construction Machinery)
@@ -23,7 +23,7 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings std: 48.6% (volatile); FCF/NI: 79%; Gross margin: 14% (commodity-like) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 14% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.8x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.8x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

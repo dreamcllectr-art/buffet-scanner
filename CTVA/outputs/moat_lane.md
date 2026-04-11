@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-04-10 06:03 | Price: $83.56 | Mkt Cap: $56B*
+*Generated: 2026-04-11 05:27 | Price: $83.83 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
@@ -23,7 +23,7 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.6% (4y); Earnings std: 33.5% (volatile); FCF/NI: 153% (strong); Gross margin: 47% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat; Operating margin 6% — thin | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

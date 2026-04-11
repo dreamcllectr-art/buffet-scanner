@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-04-10 06:04 | Price: $51.28 | Mkt Cap: $20B*
+*Generated: 2026-04-11 05:28 | Price: $50.96 | Mkt Cap: $20B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -23,7 +23,7 @@ In circle (Healthcare/Biotechnology)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings std: 77.3% (highly volatile); FCF/NI: 81% (strong); Gross margin: -106% (commodity-like) | ROIC declining |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.3%; Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -106% — weak pricing power; Operating margin -126% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.0x — deep value; 52w range position: 78% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.0x — deep value; 52w range position: 77% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

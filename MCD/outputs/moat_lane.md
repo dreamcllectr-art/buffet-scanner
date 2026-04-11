@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCD
-*Generated: 2026-04-10 06:03 | Price: $309.55 | Mkt Cap: $220B*
+*Generated: 2026-04-11 05:28 | Price: $305.68 | Mkt Cap: $217B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Restaurants)
@@ -20,10 +20,10 @@ In circle (Consumer Cyclical/Restaurants)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 26.1% (4y); Earnings std: 28.5% (volatile); FCF/NI: 87% (strong); Gross margin: 57% (pricing power) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 26.0% (4y); Earnings std: 21.4% (volatile); FCF/NI: 85% (strong); Gross margin: 57% (pricing power) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat; Operating margin 45% — durable | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.5x — growth premium; 52w range position: 45%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.3x — growth premium; 52w range position: 38%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ In circle (Consumer Cyclical/Restaurants)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Restaurants)
-- **Margin of Safety**: -34% — ABSENT ($310 > IV $203 at 17x for 8% growth)
+- **Margin of Safety**: -34% — ABSENT ($306 > IV $203 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

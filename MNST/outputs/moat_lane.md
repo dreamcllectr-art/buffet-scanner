@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-04-10 06:04 | Price: $76.19 | Mkt Cap: $75B*
+*Generated: 2026-04-11 05:28 | Price: $75.72 | Mkt Cap: $74B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Beverages - Non-Alcoholic)
@@ -23,7 +23,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 | Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 21.0% (4y); Earnings std: 23.2% (volatile); FCF/NI: 89% (strong); Gross margin: 56% (pricing power) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 28.5% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% — moderate moat; Operating margin 31% — durable | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.9x — growth premium; 52w range position: 66%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.7x — growth premium; 52w range position: 62%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

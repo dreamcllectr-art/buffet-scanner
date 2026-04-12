@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AZO
-*Generated: 2026-04-12 05:58 | Price: $3430.45 | Mkt Cap: $57B*
+*Generated: 2026-04-12 13:49 | Price: $3430.45 | Mkt Cap: $57B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)
@@ -20,9 +20,9 @@ In circle (Consumer Cyclical/Auto Parts)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 76.6% (4y); Earnings std: 6.3% (predictable); FCF/NI: 83% (strong); Gross margin: 52% (pricing power) | ROIC declining |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 76.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 83% (strong); Gross margin: 52% (thin by design for Auto Parts) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat; Operating margin 16% | - |
+| Moat | 9.0/10 | 25% | 2.2 | ROA 11% / ROE 0% — scale moat (Auto Parts); Operating margin 16% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.6x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
@@ -37,12 +37,12 @@ In circle (Consumer Cyclical/Auto Parts)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Auto Parts)
 - **Margin of Safety**: -38% — ABSENT ($3430 > IV $2141 at 15x for -2% growth)
-- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: high quality, attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

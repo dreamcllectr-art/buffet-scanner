@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMR
-*Generated: 2026-04-12 05:58 | Price: $143.77 | Mkt Cap: $81B*
+*Generated: 2026-04-12 13:49 | Price: $143.77 | Mkt Cap: $81B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -20,13 +20,13 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings std: 204.7% (highly volatile); FCF/NI: 87% (strong); Gross margin: 53% (pricing power) | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 87% (strong); Gross margin: 53% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 53% — moderate moat; Operating margin 25% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 35% — strong pricing power; Operating margin 25% — durable for Industrials | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 69%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
 - **Margin of Safety**: -57% — ABSENT ($144 > IV $61 at 15x for 5% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: strong moat)
 
 ---
 

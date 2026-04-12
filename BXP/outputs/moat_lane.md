@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-04-12 05:58 | Price: $53.0 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:49 | Price: $53.0 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Office) — flag for review.
@@ -20,13 +20,13 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings std: 1111.1% (highly volatile); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power) | ROIC declining |
+| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 56% — moderate moat; Operating margin -7% — thin | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin -7% — thin for Real Estate | - |
 | Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.4x — growth premium; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

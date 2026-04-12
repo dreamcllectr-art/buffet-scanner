@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COP
-*Generated: 2026-04-12 05:58 | Price: $122.55 | Mkt Cap: $150B*
+*Generated: 2026-04-12 13:49 | Price: $122.55 | Mkt Cap: $150B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.4/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 20.7% (4y); Earnings std: 15.5%; FCF/NI: 89% (strong); Gross margin: 46% | ROIC declining |
+| Quality | 4.4/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 20.7% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 89% (strong); Gross margin: 46% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 46% — moderate moat; Operating margin 16% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 30% — strong pricing power; Operating margin 16% — durable for Energy | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 74%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 5.9 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 - **Margin of Safety**: -22% — ABSENT ($123 > IV $95 at 15x for -39% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.13 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

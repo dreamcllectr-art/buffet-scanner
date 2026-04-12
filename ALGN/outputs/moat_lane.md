@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-04-12 05:58 | Price: $173.14 | Mkt Cap: $12B*
+*Generated: 2026-04-12 13:49 | Price: $173.14 | Mkt Cap: $12B*
+
+> ⚠ DATA: yfinance misclassified Capital International Investors (6.5% inst.) as insider
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -12,7 +14,7 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 6.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,16 +22,16 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.9/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings std: 15.7%; FCF/NI: 120% (strong); Gross margin: 70% (pricing power) | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.8%; Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% — strong pricing power; Operating margin 22% | - |
+| Quality | 2.9/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 120% (strong); Gross margin: 70% (pricing power for Healthcare) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 70% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 59%; Owner earnings yield: 3.9% | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +39,18 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
 - **Margin of Safety**: -19% — ABSENT ($173 > IV $141 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, no material killers
-- **Incentive-Caused Bias**: Aligned — 6.8% insider ownership
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, no material killers
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

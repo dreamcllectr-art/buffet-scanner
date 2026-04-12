@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAX
-*Generated: 2026-04-12 05:58 | Price: $17.15 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:49 | Price: $17.15 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -2.0% (4y); Earnings std: 130.8% (highly volatile); FCF/NI: -24% (weak conversion); Gross margin: 36% | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -2.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -24% (weak conversion); Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 7% — thin | Weak pricing |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 36% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 27.5% (>5%) | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.7 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

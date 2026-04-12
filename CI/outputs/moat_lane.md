@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-04-12 05:58 | Price: $271.25 | Mkt Cap: $72B*
+*Generated: 2026-04-12 13:49 | Price: $271.25 | Mkt Cap: $72B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.6/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings std: 59.0% (highly volatile); FCF/NI: 177% (strong); Gross margin: 9% (commodity-like) | - |
+| Quality | 1.6/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 177% (strong); Gross margin: 9% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — weak pricing power; Operating margin 4% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 13.5% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
@@ -37,12 +37,12 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 - **Margin of Safety**: 23% — thin (IV $333 at 15x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 

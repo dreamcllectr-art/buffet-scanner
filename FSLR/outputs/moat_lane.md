@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-04-12 05:59 | Price: $203.47 | Mkt Cap: $22B*
+*Generated: 2026-04-12 13:49 | Price: $203.47 | Mkt Cap: $22B*
+
+> ⚠ DATA: yfinance misclassified FMR, LLC (6.1% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Technology/Solar)
@@ -12,7 +14,7 @@ In circle (Technology/Solar)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Solar | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.3x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.4%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,13 +22,13 @@ In circle (Technology/Solar)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.8/10 | 30% | 0.2 | Avg ROIC: 9.1% (4y); Earnings std: 1165.2% (highly volatile); FCF/NI: 7% (weak conversion); Gross margin: 41% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.4%; Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat; Operating margin 33% — durable | - |
+| Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 9.1% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 7% (weak conversion); Gross margin: 41% | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat for Technology; Operating margin 33% — durable for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; 52w range position: 51%; Owner earnings yield: 4.4% | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +40,7 @@ In circle (Technology/Solar)
 - **Circle of Competence**: In circle (Technology/Solar)
 - **Margin of Safety**: 74% — PRESENT (IV $355 vs $203 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 5.4% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

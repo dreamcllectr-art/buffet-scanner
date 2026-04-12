@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-04-12 05:58 | Price: $57.92 | Mkt Cap: $28B*
+*Generated: 2026-04-12 13:49 | Price: $57.92 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -20,16 +20,16 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 17.0% (4y); Earnings std: 6.3% (predictable); FCF/NI: 98% (strong); Gross margin: 34% | - |
+| Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 98% (strong); Gross margin: 34% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — weak pricing power; Operating margin 16% | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.9% (>5%) | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

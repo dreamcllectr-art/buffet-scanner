@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-04-12 05:58 | Price: $273.29 | Mkt Cap: $77B*
+*Generated: 2026-04-12 13:49 | Price: $273.29 | Mkt Cap: $77B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.2% (4y); Earnings std: 27.8% (volatile); FCF/NI: 99% (strong); Gross margin: 45% | - |
+| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 11.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 99% (strong); Gross margin: 45% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 19% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 30% — strong pricing power; Operating margin 19% — durable for Basic Materials | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.3x — growth premium; 52w range position: 55%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 5.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 - **Margin of Safety**: -33% — ABSENT ($273 > IV $182 at 25x for 20% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDNS
-*Generated: 2026-04-12 05:58 | Price: $265.66 | Mkt Cap: $73B*
+*Generated: 2026-04-12 13:49 | Price: $265.66 | Mkt Cap: $73B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -20,14 +20,14 @@ In circle (Technology/Software - Application)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.3/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 20.6% (4y); Earnings std: 11.4%; FCF/NI: 125% (strong); Gross margin: 86% (pricing power) | ROIC declining |
+| Quality | 7.3/10 | 30% | 2.2 | ROIC declining trend; Avg ROIC: 20.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 125% (strong); Gross margin: 86% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 86% — strong pricing power; Operating margin 33% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 86% vs sector strong cutoff 60% — strong pricing power; Operating margin 33% — durable for Technology | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.2x — growth premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

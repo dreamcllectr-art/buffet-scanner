@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACGL
-*Generated: 2026-04-12 05:58 | Price: $95.97 | Mkt Cap: $34B*
+*Generated: 2026-04-12 13:49 | Price: $95.97 | Mkt Cap: $34B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -20,16 +20,16 @@ In circle (Financial Services/Insurance - Diversified)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 13.5% (4y); Earnings std: 116.4% (highly volatile); FCF/NI: 169% (strong); Gross margin: 37% | - |
+| Quality | 5.9/10 | 30% | 1.8 | Avg ROIC: 13.5% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 169% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — weak pricing power; Operating margin 30% | Weak pricing |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 20% — strong franchise (Financial Services); Operating margin 30% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 65% | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 5.5 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Financial Services/Insurance - Diversified)
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Diversified)
 - **Margin of Safety**: 202% — PRESENT (IV $290 vs $96 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.20 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

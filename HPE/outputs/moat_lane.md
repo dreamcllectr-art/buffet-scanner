@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-04-12 05:59 | Price: $24.89 | Mkt Cap: $33B*
+*Generated: 2026-04-12 13:49 | Price: $24.89 | Mkt Cap: $33B*
 
 ## Circle of Competence: IN
 In circle (Technology/Communication Equipment)
@@ -20,16 +20,16 @@ In circle (Technology/Communication Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings std: 115.7% (highly volatile); FCF/NI: 356% (strong); Gross margin: 32% | ROIC declining |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 356% (strong); Gross margin: 32% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — weak pricing power; Operating margin 8% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 8% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 7.7% (>5%) | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.3 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

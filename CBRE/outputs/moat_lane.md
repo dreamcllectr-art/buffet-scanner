@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBRE
-*Generated: 2026-04-12 05:58 | Price: $141.22 | Mkt Cap: $42B*
+*Generated: 2026-04-12 13:49 | Price: $141.22 | Mkt Cap: $42B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/Real Estate Services) — flag for review.
@@ -20,14 +20,14 @@ Unknown sector (Real Estate/Real Estate Services) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings std: 24.8% (volatile); FCF/NI: 91% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 91% (strong); Gross margin: 19% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 0% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Real Estate moderate cutoff 35%; Operating margin 0% — thin for Real Estate | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.3x — fair price; 52w range position: 45%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

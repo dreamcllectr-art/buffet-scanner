@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMB
-*Generated: 2026-04-12 05:59 | Price: $97.28 | Mkt Cap: $32B*
+*Generated: 2026-04-12 13:50 | Price: $97.28 | Mkt Cap: $32B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Household & Personal Products)
@@ -20,16 +20,16 @@ In circle (Consumer Defensive/Household & Personal Products)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 21.7% (4y); Earnings std: 34.6% (volatile); FCF/NI: 108% (strong); Gross margin: 37% | - |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 21.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 108% (strong); Gross margin: 37% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — weak pricing power; Operating margin 13% — thin | Weak pricing |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 37% — moderate moat for Consumer Defensive; Operating margin 13% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.8% | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 5.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.13 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

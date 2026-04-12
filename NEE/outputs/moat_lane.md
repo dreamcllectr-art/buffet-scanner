@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEE
-*Generated: 2026-04-12 05:59 | Price: $94.08 | Mkt Cap: $196B*
+*Generated: 2026-04-12 13:50 | Price: $94.08 | Mkt Cap: $196B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.0% (4y); Earnings std: 46.0% (volatile); FCF/NI: 26% (weak conversion); Gross margin: 62% (pricing power) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 26% (weak conversion); Gross margin: 62% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 62% — strong pricing power; Operating margin 24%; Rev growth 21% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 62% vs sector strong cutoff 40% — strong pricing power; Operating margin 24% — durable for Utilities; Rev growth 21% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.5x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

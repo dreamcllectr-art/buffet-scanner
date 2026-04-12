@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-04-12 05:58 | Price: $27.93 | Mkt Cap: $102B*
+*Generated: 2026-04-12 13:49 | Price: $27.93 | Mkt Cap: $102B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Telecom Services)
@@ -20,16 +20,16 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 9.6% (4y); Earnings std: 99.8% (highly volatile); FCF/NI: 123% (strong); Gross margin: 72% (pricing power) | - |
+| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 123% (strong); Gross margin: 72% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 72% — strong pricing power; Operating margin 11% — thin | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 37%; Owner earnings yield: 5.5% (>5%) | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 11% — thin for Communication Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 37%; Owner earnings yield: 5.5% (>5%) | - |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 5.9 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.18 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-04-12 05:59 | Price: $23.06 | Mkt Cap: $27B*
+*Generated: 2026-04-12 13:50 | Price: $23.06 | Mkt Cap: $27B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (27.5% inst.) as insider
 
@@ -22,16 +22,16 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings std: 186.0% (highly volatile); FCF/NI: 54%; Gross margin: 33% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 54%; Gross margin: 33% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 27.8% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 33% — weak pricing power; Operating margin 17% | Weak pricing |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Consumer Defensive; Operating margin 17% — durable for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 10.2% (>5%) | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -50,7 +50,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

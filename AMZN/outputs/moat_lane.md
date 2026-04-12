@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-04-12 05:58 | Price: $238.38 | Mkt Cap: $2564B*
+*Generated: 2026-04-12 13:49 | Price: $238.38 | Mkt Cap: $2564B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.9% inst.) as insider
 
@@ -22,16 +22,16 @@ In circle (Consumer Cyclical/Internet Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 11.0% (4y); Earnings std: 740.1% (highly volatile); FCF/NI: 198% (strong); Gross margin: 50% (pricing power) | - |
+| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 198% (strong); Gross margin: 50% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 9.3% of shares (SBC concern) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat; Operating margin 11% — thin | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 11% | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.4x — growth premium; 52w range position: 78%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 4.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -39,18 +39,18 @@ In circle (Consumer Cyclical/Internet Retail)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Internet Retail)
 - **Margin of Safety**: -55% — ABSENT ($238 > IV $108 at 15x for 5% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

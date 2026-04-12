@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-04-12 05:59 | Price: $394.41 | Mkt Cap: $16B*
+*Generated: 2026-04-12 13:50 | Price: $394.41 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -20,9 +20,9 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings std: 19.5%; FCF/NI: 80%; Gross margin: 13% (commodity-like) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 9.5% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 80%; Gross margin: 13% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 6% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Industrials moderate cutoff 22%; Operating margin 6% — thin for Industrials | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 74%; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 

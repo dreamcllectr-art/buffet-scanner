@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: F
-*Generated: 2026-04-12 05:59 | Price: $12.13 | Mkt Cap: $49B*
+*Generated: 2026-04-12 13:49 | Price: $12.13 | Mkt Cap: $49B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Manufacturers)
@@ -20,9 +20,9 @@ In circle (Consumer Cyclical/Auto Manufacturers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings std: 186.0% (highly volatile); FCF/NI: 29% (weak conversion); Gross margin: 6% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 29% (weak conversion); Gross margin: 6% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — weak pricing power; Operating margin -7% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Cyclical moderate cutoff 30%; Operating margin -7% — thin for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 52%; Owner earnings yield: 3.6% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 

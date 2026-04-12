@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-04-12 05:59 | Price: $65.44 | Mkt Cap: $18B*
+*Generated: 2026-04-12 13:49 | Price: $65.44 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Business Services)
@@ -20,13 +20,13 @@ In circle (Industrials/Specialty Business Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.0% (4y); Earnings std: 440.4% (highly volatile); FCF/NI: 487% (strong); Gross margin: 73% (pricing power) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 487% (strong); Gross margin: 73% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.9% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 73% — strong pricing power; Operating margin 28% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 35% — strong pricing power; Operating margin 28% — durable for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.0x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 9.5% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDOG
-*Generated: 2026-04-12 05:58 | Price: $105.37 | Mkt Cap: $37B*
+*Generated: 2026-04-12 13:49 | Price: $105.37 | Mkt Cap: $37B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Application)
@@ -20,13 +20,13 @@ In circle (Technology/Software - Application)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 1.8% (4y); Earnings std: 242.3% (highly volatile); FCF/NI: 449% (strong); Gross margin: 80% (pricing power) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 1.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 449% (strong); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% — strong pricing power; Operating margin 1% — thin; Rev growth 29% — demand pull | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 1% — thin for Technology; Rev growth 29% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.0x — expensive; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

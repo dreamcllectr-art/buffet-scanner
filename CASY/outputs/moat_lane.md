@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-04-12 05:58 | Price: $738.17 | Mkt Cap: $27B*
+*Generated: 2026-04-12 13:49 | Price: $738.17 | Mkt Cap: $27B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)
@@ -20,16 +20,16 @@ In circle (Consumer Cyclical/Specialty Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 11.0% (4y); Earnings std: 12.2%; FCF/NI: 102% (strong); Gross margin: 25% (commodity-like) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 102% (strong); Gross margin: 25% (thin by design for Specialty Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 25% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Moat | 6.0/10 | 25% | 1.5 | ROA 7% / ROE 18% — adequate scale (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.0x — expensive; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

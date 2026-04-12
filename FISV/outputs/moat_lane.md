@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FISV
-*Generated: 2026-04-12 05:59 | Price: $56.09 | Mkt Cap: $30B*
+*Generated: 2026-04-12 13:49 | Price: $56.09 | Mkt Cap: $30B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (/) — flag for review.
@@ -20,9 +20,9 @@ Unknown sector (/) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 7.7% (4y); Earnings std: 9.6% (predictable); FCF/NI: 133% (strong); Gross margin: 0% (commodity-like) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 7.7% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 133% (strong); Gross margin: 0% (below  norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — weak pricing power; Operating margin 0% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; Near 52w low (2% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 

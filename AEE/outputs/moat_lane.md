@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AEE
-*Generated: 2026-04-12 05:58 | Price: $113.45 | Mkt Cap: $31B*
+*Generated: 2026-04-12 13:49 | Price: $113.45 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.3% (4y); Earnings std: 10.8%; FCF/NI: -101% (weak conversion); Gross margin: 49% | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -101% (weak conversion); Gross margin: 49% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 49% — moderate moat; Operating margin 25% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 40% — strong pricing power; Operating margin 25% — durable for Utilities | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.6x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
 - **Margin of Safety**: -6% — ABSENT ($113 > IV $107 at 20x for 20% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: strong moat)
 
 ---
 

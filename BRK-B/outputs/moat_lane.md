@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-04-12 05:58 | Price: $479.9 | Mkt Cap: $1035B*
+*Generated: 2026-04-12 13:49 | Price: $479.9 | Mkt Cap: $1035B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)
@@ -20,13 +20,13 @@ In circle (Financial Services/Insurance - Diversified)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.7% (4y); Earnings std: 292.6% (highly volatile); FCF/NI: -4% (weak conversion); Gross margin: 26% (commodity-like) | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -4% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 7.0/10 | 25% | 1.8 | Insider value: $2.9B (0.3%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 99.9% of shares (SBC concern) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 26% — weak pricing power; Operating margin 33% — durable | Weak pricing |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 10% — weak (Financial Services); Operating margin 33% — durable for Financial Services | Weak pricing |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.1x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

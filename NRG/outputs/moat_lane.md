@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-04-12 05:59 | Price: $164.07 | Mkt Cap: $35B*
+*Generated: 2026-04-12 13:50 | Price: $164.07 | Mkt Cap: $35B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Utilities/Utilities - Independent Power Producers. Proceed wi
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 342.1% (highly volatile); FCF/NI: 167% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 4% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Utilities moderate cutoff 25%; Operating margin 4% — thin for Utilities | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 74%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 

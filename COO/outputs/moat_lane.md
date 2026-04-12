@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COO
-*Generated: 2026-04-12 05:58 | Price: $71.21 | Mkt Cap: $14B*
+*Generated: 2026-04-12 13:49 | Price: $71.21 | Mkt Cap: $14B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 4.6% (4y); Earnings std: 29.0% (volatile); FCF/NI: 95% (strong); Gross margin: 65% (pricing power) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 95% (strong); Gross margin: 65% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 65% — strong pricing power; Operating margin 21% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 65% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 34%; Owner earnings yield: 2.6% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ES
-*Generated: 2026-04-12 05:58 | Price: $69.97 | Mkt Cap: $26B*
+*Generated: 2026-04-12 13:49 | Price: $69.97 | Mkt Cap: $26B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.0% (4y); Earnings std: 197.7% (highly volatile); FCF/NI: 61%; Gross margin: 54% (pricing power) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 61%; Gross margin: 54% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat; Operating margin 22% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 54% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 69%; Owner earnings yield: 2.9% | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 - **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
 - **Margin of Safety**: 63% — PRESENT (IV $114 vs $70 at 25x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

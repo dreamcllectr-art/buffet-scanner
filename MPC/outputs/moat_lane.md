@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-04-12 05:59 | Price: $222.62 | Mkt Cap: $66B*
+*Generated: 2026-04-12 13:50 | Price: $222.62 | Mkt Cap: $66B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings std: 41.3% (volatile); FCF/NI: 130% (strong); Gross margin: 10% (commodity-like) | ROIC declining |
+| Quality | 2.8/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 130% (strong); Gross margin: 10% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 10% — weak pricing power; Operating margin 6% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Energy moderate cutoff 15%; Operating margin 6% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 75%; Owner earnings yield: 3.9% | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

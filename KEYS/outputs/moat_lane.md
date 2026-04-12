@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-04-12 05:59 | Price: $324.18 | Mkt Cap: $56B*
+*Generated: 2026-04-12 13:50 | Price: $324.18 | Mkt Cap: $56B*
 
 ## Circle of Competence: IN
 In circle (Technology/Scientific & Technical Instruments)
@@ -20,13 +20,13 @@ In circle (Technology/Scientific & Technical Instruments)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings std: 40.2% (volatile); FCF/NI: 124% (strong); Gross margin: 62% (pricing power) | ROIC declining |
+| Quality | 3.3/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 124% (strong); Gross margin: 62% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 62% — strong pricing power; Operating margin 16%; Rev growth 23% — demand pull | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% vs sector strong cutoff 60% — strong pricing power; Operating margin 16% — thin for Technology; Rev growth 23% — demand pull | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.6x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

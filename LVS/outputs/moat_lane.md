@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-12 05:59 | Price: $53.45 | Mkt Cap: $36B*
+*Generated: 2026-04-12 13:50 | Price: $53.45 | Mkt Cap: $36B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Resorts & Casinos)
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings std: 28.3% (volatile); FCF/NI: 74%; Gross margin: 80% (pricing power) | - |
+| Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 74%; Gross margin: 80% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 80% — strong pricing power; Operating margin 24%; Rev growth 26% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 45% — strong pricing power; Operating margin 24% — durable for Consumer Cyclical; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 56%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Resorts & Casinos)
 - **Margin of Safety**: 10% — thin (IV $59 at 25x)
-- **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 58.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.28 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-04-12 05:58 | Price: $85.3 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:49 | Price: $85.3 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -20,13 +20,13 @@ In circle (Industrials/Building Products & Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.3/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings std: 14.8%; FCF/NI: 143% (strong); Gross margin: 30% | ROIC declining |
+| Quality | 3.3/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 143% (strong); Gross margin: 30% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — weak pricing power; Operating margin 2% — thin | Weak pricing |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 2% — thin for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Industrials/Building Products & Equipment)
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
 - **Margin of Safety**: -32% — ABSENT ($85 > IV $58 at 15x for -83% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 

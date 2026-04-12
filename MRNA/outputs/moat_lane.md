@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-04-12 05:59 | Price: $50.96 | Mkt Cap: $20B*
+*Generated: 2026-04-12 13:50 | Price: $50.96 | Mkt Cap: $20B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.2% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -12,7 +14,7 @@ In circle (Healthcare/Biotechnology)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Biotechnology | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -0.5x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 7.3%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,13 +22,13 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings std: 77.3% (highly volatile); FCF/NI: 81% (strong); Gross margin: -106% (commodity-like) | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.3%; Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin -106% — weak pricing power; Operating margin -126% — thin | Weak pricing |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 81% (strong); Gross margin: -106% (below Healthcare norm) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin -106% — below Healthcare moderate cutoff 35%; Operating margin -126% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.0x — deep value; 52w range position: 77% | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +40,7 @@ In circle (Healthcare/Biotechnology)
 - **Circle of Competence**: In circle (Healthcare/Biotechnology)
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 7.3% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

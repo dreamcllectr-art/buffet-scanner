@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-04-12 05:59 | Price: $96.9 | Mkt Cap: $34B*
+*Generated: 2026-04-12 13:50 | Price: $96.9 | Mkt Cap: $34B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Life)
@@ -20,13 +20,13 @@ In circle (Financial Services/Insurance - Life)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 11.4%; Earnings std: 157.1% (highly volatile); FCF/NI: 109% (strong); Gross margin: 30% (commodity-like) | - |
+| Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.4%; Earnings: 3/3 up-years (predictable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 30% — weak pricing power; Operating margin 10% — thin; Rev growth 31% — demand pull | Weak pricing |
+| Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 10% — thin for Financial Services; Rev growth 31% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 37.4% (>5%) | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

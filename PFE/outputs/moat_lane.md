@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFE
-*Generated: 2026-04-12 05:59 | Price: $26.92 | Mkt Cap: $153B*
+*Generated: 2026-04-12 13:50 | Price: $26.92 | Mkt Cap: $153B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings std: 194.2% (highly volatile); FCF/NI: 137% (strong); Gross margin: 76% (pricing power) | ROIC declining |
+| Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 137% (strong); Gross margin: 76% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 76% — strong pricing power; Operating margin 24% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 24% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 73%; Owner earnings yield: 8.8% (>5%) | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

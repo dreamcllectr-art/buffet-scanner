@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-04-12 05:58 | Price: $802.43 | Mkt Cap: $36B*
+*Generated: 2026-04-12 13:49 | Price: $802.43 | Mkt Cap: $36B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Engineering & Construction)
@@ -20,13 +20,13 @@ In circle (Industrials/Engineering & Construction)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 30.8% (4y); Earnings std: 18.0%; FCF/NI: 116% (strong); Gross margin: 19% (commodity-like) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 30.8% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 116% (strong); Gross margin: 19% (below Industrials norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 10% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 10% | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.6x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Industrials/Engineering & Construction)
 
 - **Circle of Competence**: In circle (Industrials/Engineering & Construction)
 - **Margin of Safety**: -12% — ABSENT ($802 > IV $704 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: no material killers)
+- **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: no material killers)
+No (1 forces only: high quality)
 
 ---
 

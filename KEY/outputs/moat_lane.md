@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEY
-*Generated: 2026-04-12 05:59 | Price: $21.46 | Mkt Cap: $23B*
+*Generated: 2026-04-12 13:50 | Price: $21.46 | Mkt Cap: $23B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Regional)
@@ -20,13 +20,13 @@ In circle (Financial Services/Banks - Regional)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 9.5%; Earnings std: 666.5% (highly volatile); FCF/NI: 64%; Gross margin: 0% (commodity-like) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Fallback ROE: 9.5%; Earnings: 2/3 down-years (unpredictable); FCF/NI: 64%; Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.2% (low) | - |
-| Moat | 5.5/10 | 25% | 1.4 | Gross margin 0% — weak pricing power; Operating margin 34% — durable; Rev growth 132% — demand pull | Weak pricing |
+| Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 34% — durable for Financial Services; Rev growth 132% — demand pull | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 80% | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

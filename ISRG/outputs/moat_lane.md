@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-04-12 05:59 | Price: $450.62 | Mkt Cap: $160B*
+*Generated: 2026-04-12 13:50 | Price: $450.62 | Mkt Cap: $160B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 11.5% (4y); Earnings std: 6.5% (predictable); FCF/NI: 64%; Gross margin: 66% (pricing power) | - |
+| Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 11.5% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 64%; Gross margin: 66% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 66% — strong pricing power; Operating margin 30% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Healthcare | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.4x — expensive; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 

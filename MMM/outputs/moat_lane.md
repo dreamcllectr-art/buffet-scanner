@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MMM
-*Generated: 2026-04-12 05:58 | Price: $150.32 | Mkt Cap: $79B*
+*Generated: 2026-04-12 13:49 | Price: $150.32 | Mkt Cap: $79B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Conglomerates)
@@ -20,16 +20,16 @@ In circle (Industrials/Conglomerates)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 6.1% (4y); Earnings std: 101.9% (highly volatile); FCF/NI: 13% (weak conversion); Gross margin: 40% | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 13% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 40% — weak pricing power; Operating margin 12% — thin | Weak pricing |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 12% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.0x — fair price; 52w range position: 49%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 5.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Industrials/Conglomerates)
 
 - **Circle of Competence**: In circle (Industrials/Conglomerates)
 - **Margin of Safety**: -40% — ABSENT ($150 > IV $90 at 15x for -20% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-04-12 05:59 | Price: $427.41 | Mkt Cap: $76B*
+*Generated: 2026-04-12 13:50 | Price: $427.41 | Mkt Cap: $76B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (13.9% inst.) as insider
 
@@ -22,14 +22,14 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.2/10 | 30% | 2.8 | Avg ROIC: 19.9% (4y); Earnings std: 5.8% (predictable); FCF/NI: 108% (strong); Gross margin: 74% (pricing power) | - |
+| Quality | 8.2/10 | 30% | 2.5 | Avg ROIC: 19.9% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 108% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.0% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 42% — durable | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 62% — strong franchise (Financial Services); Operating margin 42% — durable for Financial Services | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.8x — growth premium; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -50,7 +50,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

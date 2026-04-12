@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMG
-*Generated: 2026-04-12 05:58 | Price: $34.09 | Mkt Cap: $45B*
+*Generated: 2026-04-12 13:49 | Price: $34.09 | Mkt Cap: $45B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Restaurants)
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Restaurants)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 45.4% (4y); Earnings std: 18.7%; FCF/NI: 97% (strong); Gross margin: 40% | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 45.4% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 97% (strong); Gross margin: 40% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat; Operating margin 15% | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 40% — moderate moat for Consumer Cyclical; Operating margin 15% — durable for Consumer Cyclical | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.1x — growth premium; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: high quality)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BALL
-*Generated: 2026-04-12 05:58 | Price: $62.29 | Mkt Cap: $17B*
+*Generated: 2026-04-12 13:49 | Price: $62.29 | Mkt Cap: $17B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.1% (4y); Earnings std: 294.8% (highly volatile); FCF/NI: 1% (weak conversion); Gross margin: 20% (commodity-like) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 1% (weak conversion); Gross margin: 20% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 10% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 20% — below Consumer Cyclical moderate cutoff 30%; Operating margin 10% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 74%; Owner earnings yield: 5.3% (>5%) | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

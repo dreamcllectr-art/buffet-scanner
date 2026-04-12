@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-04-12 05:58 | Price: $91.35 | Mkt Cap: $13B*
+*Generated: 2026-04-12 13:49 | Price: $91.35 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -20,16 +20,16 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings std: 8.0% (predictable); FCF/NI: 147% (strong); Gross margin: 59% (pricing power) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 147% (strong); Gross margin: 59% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 59% — moderate moat; Operating margin 14% — thin | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 59% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 42%; Owner earnings yield: 4.3% | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 4.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

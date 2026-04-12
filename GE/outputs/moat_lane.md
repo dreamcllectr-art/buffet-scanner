@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GE
-*Generated: 2026-04-12 05:59 | Price: $308.35 | Mkt Cap: $325B*
+*Generated: 2026-04-12 13:49 | Price: $308.35 | Mkt Cap: $325B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -20,13 +20,13 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.6/10 | 30% | 1.4 | Avg ROIC: 15.6% (4y); Earnings std: 1571.3% (highly volatile); FCF/NI: 437% (strong); Gross margin: 31% | - |
+| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 437% (strong); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 31% — weak pricing power; Operating margin 20% | Weak pricing |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 31% — moderate moat for Industrials; Operating margin 20% — durable for Industrials | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.8x — expensive; 52w range position: 77%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

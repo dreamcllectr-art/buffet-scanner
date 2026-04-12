@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKNG
-*Generated: 2026-04-12 05:58 | Price: $173.46 | Mkt Cap: $137B*
+*Generated: 2026-04-12 13:49 | Price: $173.46 | Mkt Cap: $137B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Travel Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 42.8% (4y); Earnings std: 27.1% (volatile); FCF/NI: 167% (strong); Gross margin: 87% (pricing power) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 42.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 167% (strong); Gross margin: 87% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% — strong pricing power; Operating margin 32% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 32% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 4.8% | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 7.9 / 10
+## Alpha Adjustment: +0.29
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.29 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPC
-*Generated: 2026-04-12 05:59 | Price: $107.51 | Mkt Cap: $15B*
+*Generated: 2026-04-12 13:49 | Price: $107.51 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Auto Parts)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.2% (4y); Earnings std: 52.3% (highly volatile); FCF/NI: 220% (strong); Gross margin: 37% | ROIC declining |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 220% (strong); Gross margin: 37% (thin by design for Auto Parts) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 37% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | ROA 5% / ROE 2% — weak for Auto Parts; Operating margin 5% — thin for Consumer Cyclical | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.5% | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

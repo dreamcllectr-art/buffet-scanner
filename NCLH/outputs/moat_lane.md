@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-04-12 05:59 | Price: $19.96 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:50 | Price: $19.96 | Mkt Cap: $9B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Travel Services)
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Travel Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings std: 306.1% (highly volatile); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 43% — moderate moat; Operating margin 8% — thin | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 8% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; 52w range position: 39% | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

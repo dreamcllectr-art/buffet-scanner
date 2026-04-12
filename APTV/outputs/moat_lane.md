@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-04-12 05:58 | Price: $59.65 | Mkt Cap: $15B*
+*Generated: 2026-04-12 13:49 | Price: $59.65 | Mkt Cap: $15B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Auto Parts)
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Auto Parts)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 7.7% (4y); Earnings std: 266.6% (highly volatile); FCF/NI: 280% (strong); Gross margin: 19% (commodity-like) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 280% (strong); Gross margin: 19% (thin by design for Auto Parts) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — weak pricing power; Operating margin 10% — thin | Weak pricing |
+| Moat | 6.5/10 | 25% | 1.6 | ROA 6% / ROE 2% — adequate scale (Auto Parts); Operating margin 10% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

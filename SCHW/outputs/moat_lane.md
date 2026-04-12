@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCHW
-*Generated: 2026-04-12 05:58 | Price: $94.8 | Mkt Cap: $166B*
+*Generated: 2026-04-12 13:49 | Price: $94.8 | Mkt Cap: $166B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 
@@ -22,14 +22,14 @@ In circle (Financial Services/Capital Markets)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 18.1%; Earnings std: 39.5% (volatile); FCF/NI: 130% (strong); Gross margin: 97% (pricing power) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 18.1%; Earnings: 1 down-year in 3 transitions; FCF/NI: 130% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.2% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 97% — strong pricing power; Operating margin 50% — durable | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 18% — strong franchise (Financial Services); Operating margin 50% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 62% | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -50,7 +50,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

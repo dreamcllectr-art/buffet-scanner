@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-04-12 05:58 | Price: $47.79 | Mkt Cap: $30B*
+*Generated: 2026-04-12 13:49 | Price: $47.79 | Mkt Cap: $30B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.4/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings std: 14.5%; FCF/NI: 51%; Gross margin: 48% | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: nan% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 51%; Gross margin: 48% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat; Operating margin 23% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 48% vs sector strong cutoff 30% — strong pricing power; Operating margin 23% — durable for Energy | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 80%; Owner earnings yield: 7.1% (>5%) | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 - **Margin of Safety**: 31% — PRESENT (IV $63 vs $48 at 15x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

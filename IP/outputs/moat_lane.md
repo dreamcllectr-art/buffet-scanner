@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-04-12 05:59 | Price: $36.5 | Mkt Cap: $19B*
+*Generated: 2026-04-12 13:50 | Price: $36.5 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -20,16 +20,16 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings std: 434.6% (highly volatile); FCF/NI: 116% (strong); Gross margin: 30% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 116% (strong); Gross margin: 30% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 30% — weak pricing power; Operating margin 6% — thin; Rev growth 53% — demand pull | Weak pricing |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 6%; Rev growth 53% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 2.9% | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

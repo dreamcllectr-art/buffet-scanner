@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTB
-*Generated: 2026-04-12 05:59 | Price: $219.92 | Mkt Cap: $33B*
+*Generated: 2026-04-12 13:50 | Price: $219.92 | Mkt Cap: $33B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Regional)
@@ -20,16 +20,16 @@ In circle (Financial Services/Banks - Regional)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 9.8%; Earnings std: 21.9% (volatile); FCF/NI: 146% (strong); Gross margin: 0% (commodity-like) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 9.8%; Earnings: 1 down-year in 3 transitions; FCF/NI: 146% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 41% — durable | Weak pricing |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 10% — weak (Financial Services); Operating margin 41% — durable for Financial Services | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 78% | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 5.6 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

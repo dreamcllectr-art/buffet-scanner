@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APA
-*Generated: 2026-04-12 05:58 | Price: $38.63 | Mkt Cap: $14B*
+*Generated: 2026-04-12 13:49 | Price: $38.63 | Mkt Cap: $14B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 37.5% (4y); Earnings std: 76.4% (highly volatile); FCF/NI: 77%; Gross margin: 68% (pricing power) | ROIC declining |
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 37.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 77%; Gross margin: 68% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% — strong pricing power; Operating margin 31% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 30% — strong pricing power; Operating margin 31% — durable for Energy | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 77%; Owner earnings yield: 14.4% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 

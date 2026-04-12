@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-04-12 05:58 | Price: $345.94 | Mkt Cap: $28B*
+*Generated: 2026-04-12 13:49 | Price: $345.94 | Mkt Cap: $28B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -20,13 +20,13 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings std: 90.7% (highly volatile); FCF/NI: 86% (strong); Gross margin: 60% (pricing power) | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 86% (strong); Gross margin: 60% (pricing power for Industrials) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 60% — moderate moat; Operating margin -3% — thin; Rev growth 38% — demand pull | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin -3% — thin for Industrials; Rev growth 38% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.7x — expensive; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Industrials/Aerospace & Defense)
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
 - **Margin of Safety**: -93% — ABSENT ($346 > IV $23 at 15x for -98% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: strong moat, secular growth)
 
 ---
 

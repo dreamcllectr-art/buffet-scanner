@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-04-12 05:59 | Price: $155.73 | Mkt Cap: $127B*
+*Generated: 2026-04-12 13:50 | Price: $155.73 | Mkt Cap: $127B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -20,13 +20,13 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 9.4% (4y); Earnings std: 387.6% (highly volatile); FCF/NI: 88% (strong); Gross margin: 74% (pricing power) | - |
+| Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 9.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 88% (strong); Gross margin: 74% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% — strong pricing power; Operating margin 15% | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin 15% — thin for Technology | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.2x — expensive; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Technology/Software - Infrastructure)
 
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
 - **Margin of Safety**: -71% — ABSENT ($156 > IV $45 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (0 forces only: none)
 
 ---
 

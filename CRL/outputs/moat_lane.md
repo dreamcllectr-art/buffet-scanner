@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-04-12 05:58 | Price: $175.65 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:49 | Price: $175.65 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings std: 839.5% (highly volatile); FCF/NI: 1162% (strong); Gross margin: 35% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.4% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 1162% (strong); Gross margin: 35% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 35% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 35% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 59%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBAC
-*Generated: 2026-04-12 05:59 | Price: $223.75 | Mkt Cap: $24B*
+*Generated: 2026-04-12 13:50 | Price: $223.75 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -20,9 +20,9 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 12.1% (4y); Earnings std: 21.4% (volatile); FCF/NI: 185% (strong); Gross margin: 74% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 52% — durable | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 12.1% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 185% (strong); Gross margin: 74% (pricing power for Real Estate) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); No insider transaction data; Restricted stock: 1.0% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 52% — durable for Real Estate | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.0x — growth premium; 52w range position: 74%; Owner earnings yield: 3.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 

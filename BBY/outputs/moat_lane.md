@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-04-12 05:58 | Price: $62.37 | Mkt Cap: $13B*
+*Generated: 2026-04-12 13:49 | Price: $62.37 | Mkt Cap: $13B*
+
+> ⚠ DATA: yfinance misclassified State Street Corporation (6.3% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)
@@ -12,7 +14,7 @@ In circle (Consumer Cyclical/Specialty Retail)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 7.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,13 +22,13 @@ In circle (Consumer Cyclical/Specialty Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings std: 20.8% (volatile); FCF/NI: 96% (strong); Gross margin: 22% (commodity-like) | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.6%; Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 96% (strong); Gross margin: 22% (thin by design for Specialty Retail) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROA 8% / ROE 37% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +39,12 @@ In circle (Consumer Cyclical/Specialty Retail)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Specialty Retail)
 - **Margin of Safety**: 102% — PRESENT (IV $126 vs $62 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Aligned — 7.6% insider ownership
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 

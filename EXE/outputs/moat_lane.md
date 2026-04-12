@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXE
-*Generated: 2026-04-12 05:58 | Price: $98.99 | Mkt Cap: $24B*
+*Generated: 2026-04-12 13:49 | Price: $98.99 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.1/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.7% (4y); Earnings std: 157.7% (highly volatile); FCF/NI: 40% (weak conversion); Gross margin: 45% | ROIC declining |
+| Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 12.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 40% (weak conversion); Gross margin: 45% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | Gross margin 45% — moderate moat; Operating margin 28%; Rev growth 38% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 45% vs sector strong cutoff 30% — strong pricing power; Operating margin 28% — durable for Energy; Rev growth 38% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 - **Margin of Safety**: 91% — PRESENT (IV $189 vs $99 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

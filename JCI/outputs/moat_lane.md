@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JCI
-*Generated: 2026-04-12 05:59 | Price: $142.53 | Mkt Cap: $87B*
+*Generated: 2026-04-12 13:50 | Price: $142.53 | Mkt Cap: $87B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Building Products & Equipment)
@@ -20,16 +20,16 @@ In circle (Industrials/Building Products & Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.5% (4y); Earnings std: 52.0% (highly volatile); FCF/NI: 79%; Gross margin: 36% | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 79%; Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 15% — thin | Weak pricing |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 15% | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.6x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 3.1 / 10
-## Alpha Adjustment: -0.27
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 5.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Industrials/Building Products & Equipment)
 
 - **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
 - **Margin of Safety**: -48% — ABSENT ($143 > IV $74 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.27 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

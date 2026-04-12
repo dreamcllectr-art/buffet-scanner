@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-04-12 05:58 | Price: $83.83 | Mkt Cap: $56B*
+*Generated: 2026-04-12 13:49 | Price: $83.83 | Mkt Cap: $56B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.6% (4y); Earnings std: 33.5% (volatile); FCF/NI: 153% (strong); Gross margin: 47% | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 153% (strong); Gross margin: 47% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat; Operating margin 6% — thin | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% vs sector strong cutoff 30% — strong pricing power; Operating margin 6% — thin for Basic Materials | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

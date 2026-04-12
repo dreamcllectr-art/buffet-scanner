@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AJG
-*Generated: 2026-04-12 05:58 | Price: $213.55 | Mkt Cap: $55B*
+*Generated: 2026-04-12 13:49 | Price: $213.55 | Mkt Cap: $55B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -20,13 +20,13 @@ In circle (Financial Services/Insurance Brokers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings std: 33.3% (volatile); FCF/NI: 146% (strong); Gross margin: 42% | ROIC declining |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 146% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat; Operating margin 10% — thin; Rev growth 37% — demand pull | - |
+| Moat | 4.5/10 | 25% | 1.1 | ROE 7% — weak (Financial Services); Operating margin 10% — thin for Financial Services; Rev growth 37% — demand pull | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-04-12 05:59 | Price: $73.72 | Mkt Cap: $24B*
+*Generated: 2026-04-12 13:50 | Price: $73.72 | Mkt Cap: $24B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings std: 66.1% (highly volatile); FCF/NI: 91% (strong); Gross margin: 9% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 91% (strong); Gross margin: 9% (below Basic Materials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.3% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — weak pricing power; Operating margin -1% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Basic Materials moderate cutoff 18%; Operating margin -1% — thin for Basic Materials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 76%; Owner earnings yield: 1.9% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 

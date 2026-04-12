@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-04-12 05:59 | Price: $89.79 | Mkt Cap: $10B*
+*Generated: 2026-04-12 13:50 | Price: $89.79 | Mkt Cap: $10B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings std: 41.7% (volatile); FCF/NI: 129% (strong); Gross margin: 55% (pricing power) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 129% (strong); Gross margin: 55% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat; Operating margin 20% | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 55% — moderate moat for Healthcare; Operating margin 20% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

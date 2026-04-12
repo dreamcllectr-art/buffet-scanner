@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-04-12 05:59 | Price: $939.47 | Mkt Cap: $841B*
+*Generated: 2026-04-12 13:50 | Price: $939.47 | Mkt Cap: $841B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 26.4% (4y); Earnings std: 66.3% (highly volatile); FCF/NI: 12% (weak conversion); Gross margin: 83% (pricing power) | - |
+| Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 12% (weak conversion); Gross margin: 83% (pricing power for Healthcare) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $1.4B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 83% — strong pricing power; Operating margin 45% — durable; Rev growth 43% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 83% vs sector strong cutoff 55% — strong pricing power; Operating margin 45% — durable for Healthcare; Rev growth 43% — demand pull | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.3x — growth premium; 52w range position: 62%; Owner earnings yield: 0.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 

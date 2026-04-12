@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GD
-*Generated: 2026-04-12 05:59 | Price: $335.15 | Mkt Cap: $91B*
+*Generated: 2026-04-12 13:49 | Price: $335.15 | Mkt Cap: $91B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -20,13 +20,13 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 12.2% (4y); Earnings std: 8.7% (predictable); FCF/NI: 99% (strong); Gross margin: 15% (commodity-like) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 12.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 99% (strong); Gross margin: 15% (below Industrials norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — weak pricing power; Operating margin 10% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 10% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 68%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

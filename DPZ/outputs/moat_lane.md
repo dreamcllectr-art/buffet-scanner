@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DPZ
-*Generated: 2026-04-12 05:58 | Price: $365.95 | Mkt Cap: $12B*
+*Generated: 2026-04-12 13:49 | Price: $365.95 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.6% inst.) as insider
 
@@ -22,16 +22,16 @@ In circle (Consumer Cyclical/Restaurants)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 75.2% (4y); Earnings std: 6.3% (predictable); FCF/NI: 95% (strong); Gross margin: 29% (commodity-like) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 75.2% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 95% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — weak pricing power; Operating margin 19% | Weak pricing |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 29% — below Consumer Cyclical moderate cutoff 30%; Operating margin 19% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.0x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -50,7 +50,7 @@ No (2 forces only: high quality, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

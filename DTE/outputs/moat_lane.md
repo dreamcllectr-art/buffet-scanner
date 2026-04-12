@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTE
-*Generated: 2026-04-12 05:58 | Price: $149.68 | Mkt Cap: $31B*
+*Generated: 2026-04-12 13:49 | Price: $149.68 | Mkt Cap: $31B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.3% (4y); Earnings std: 15.5%; FCF/NI: -77% (weak conversion); Gross margin: 30% | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -77% (weak conversion); Gross margin: 30% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — weak pricing power; Operating margin 16%; Rev growth 29% — demand pull | Weak pricing |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 30% — moderate moat for Utilities; Operating margin 16%; Rev growth 29% — demand pull | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.0x — fair price; 52w range position: 83%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-04-12 05:58 | Price: $147.35 | Mkt Cap: $186B*
+*Generated: 2026-04-12 13:49 | Price: $147.35 | Mkt Cap: $186B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -20,16 +20,16 @@ In circle (Technology/Computer Hardware)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.9/10 | 30% | 2.7 | Avg ROIC: 24.3% (4y); Earnings std: 15.7%; FCF/NI: 95% (strong); Gross margin: 64% (pricing power) | - |
+| Quality | 9.9/10 | 30% | 3.0 | Avg ROIC: 24.3% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 95% (strong); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.3% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% — strong pricing power; Operating margin 42% — durable; Rev growth 29% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 42% — durable for Technology; Rev growth 29% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.5x — expensive; 52w range position: 82%; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
+| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
-## Buffett Score: 7.9 / 10
-## Alpha Adjustment: +0.29
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.2 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.29 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

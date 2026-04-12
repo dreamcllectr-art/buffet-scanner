@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-04-12 05:59 | Price: $23.17 | Mkt Cap: $16B*
+*Generated: 2026-04-12 13:50 | Price: $23.17 | Mkt Cap: $16B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Retail) — flag for review.
@@ -20,13 +20,13 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.9% (4y); Earnings std: 243.9% (highly volatile); FCF/NI: 321% (strong); Gross margin: 69% (pricing power) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 321% (strong); Gross margin: 69% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% — strong pricing power; Operating margin 33% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 33% — durable for Real Estate | - |
 | Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.7x — growth premium; 52w range position: 83%; Owner earnings yield: 5.4% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

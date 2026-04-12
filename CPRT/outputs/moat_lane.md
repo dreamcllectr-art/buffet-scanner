@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: CPRT
-*Generated: 2026-04-12 05:58 | Price: $32.76 | Mkt Cap: $32B*
+*Generated: 2026-04-12 13:49 | Price: $32.76 | Mkt Cap: $32B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.6% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Business Services)
@@ -12,7 +14,7 @@ In circle (Industrials/Specialty Business Services)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 8.7%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,14 +22,14 @@ In circle (Industrials/Specialty Business Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 18.5% (4y); Earnings std: 2.1% (predictable); FCF/NI: 74%; Gross margin: 47% | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 8.7%; Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% — moderate moat; Operating margin 35% — durable | - |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 18.5% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 74%; Gross margin: 47% (pricing power for Industrials) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 47% vs sector strong cutoff 35% — strong pricing power; Operating margin 35% — durable for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +39,18 @@ In circle (Industrials/Specialty Business Services)
 
 - **Circle of Competence**: In circle (Industrials/Specialty Business Services)
 - **Margin of Safety**: -27% — ABSENT ($33 > IV $24 at 15x for -10% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Aligned — 8.7% insider ownership
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

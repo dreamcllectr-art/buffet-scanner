@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-04-12 05:59 | Price: $6750.04 | Mkt Cap: $19B*
+*Generated: 2026-04-12 13:50 | Price: $6750.04 | Mkt Cap: $19B*
+
+> ⚠ DATA: yfinance misclassified Capital Research Global Investors (4.8% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)
@@ -12,7 +14,7 @@ In circle (Consumer Cyclical/Residential Construction)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.3%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,16 +22,16 @@ In circle (Consumer Cyclical/Residential Construction)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings std: 13.0%; FCF/NI: 90% (strong); Gross margin: 23% (commodity-like) | ROIC declining |
-| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.3%; Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 23% — weak pricing power; Operating margin 17% | Weak pricing |
+| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 33.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 90% (strong); Gross margin: 23% (below Consumer Cyclical norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 23% — below Consumer Cyclical moderate cutoff 30%; Operating margin 17% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.3 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +39,18 @@ In circle (Consumer Cyclical/Residential Construction)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
 - **Margin of Safety**: -3% — ABSENT ($6750 > IV $6551 at 15x for -13% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Aligned — 5.3% insider ownership
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

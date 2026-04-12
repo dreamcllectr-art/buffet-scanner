@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFG
-*Generated: 2026-04-12 05:58 | Price: $64.17 | Mkt Cap: $27B*
+*Generated: 2026-04-12 13:49 | Price: $64.17 | Mkt Cap: $27B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Banks - Regional)
@@ -20,9 +20,9 @@ In circle (Financial Services/Banks - Regional)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 7.2%; Earnings std: 22.1% (volatile); FCF/NI: 150% (strong); Gross margin: 0% (commodity-like) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 7.2%; Earnings: 2/3 down-years (unpredictable); FCF/NI: 150% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 32% — durable | Weak pricing |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 7% — weak (Financial Services); Operating margin 32% — durable for Financial Services | Weak pricing |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 

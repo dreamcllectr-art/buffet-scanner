@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTRA
-*Generated: 2026-04-12 05:58 | Price: $33.41 | Mkt Cap: $25B*
+*Generated: 2026-04-12 13:49 | Price: $33.41 | Mkt Cap: $25B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 14.2% (4y); Earnings std: 58.8% (highly volatile); FCF/NI: 94% (strong); Gross margin: 74% (pricing power) | ROIC declining |
+| Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 14.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 94% (strong); Gross margin: 74% (pricing power for Energy) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% — strong pricing power; Operating margin 33% — durable; Rev growth 23% — demand pull | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% vs sector strong cutoff 30% — strong pricing power; Operating margin 33% — durable for Energy; Rev growth 23% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 76%; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
@@ -37,12 +37,12 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 - **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 - **Margin of Safety**: 68% — PRESENT (IV $56 vs $33 at 25x)
-- **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

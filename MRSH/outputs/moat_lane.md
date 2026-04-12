@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-04-12 05:59 | Price: $168.15 | Mkt Cap: $81B*
+*Generated: 2026-04-12 13:50 | Price: $168.15 | Mkt Cap: $81B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)
@@ -20,14 +20,14 @@ In circle (Financial Services/Insurance Brokers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.8% (4y); Earnings std: 10.7%; FCF/NI: 105% (strong); Gross margin: 44% | - |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 15.8% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 105% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat; Operating margin 25% | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 29% — strong franchise (Financial Services); Operating margin 25% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-04-12 05:59 | Price: $295.0 | Mkt Cap: $52B*
+*Generated: 2026-04-12 13:50 | Price: $295.0 | Mkt Cap: $52B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (9.6% inst.) as insider
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Industrial) — flag for review.
@@ -12,7 +14,7 @@ Unknown sector (Real Estate/REIT - Industrial) — flag for review.
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 10.2%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,16 +22,16 @@ Unknown sector (Real Estate/REIT - Industrial) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings std: 24.7% (volatile); FCF/NI: 121% (strong); Gross margin: 75% (pricing power) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% — strong pricing power; Operating margin 46% — durable | - |
+| Quality | 3.7/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 121% (strong); Gross margin: 75% (pricing power for Real Estate) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.2x — growth premium; 52w range position: 68%; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.3 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +39,18 @@ Unknown sector (Real Estate/REIT - Industrial) — flag for review.
 
 - **Circle of Competence**: Unknown sector (Real Estate/REIT - Industrial) — flag for review.
 - **Margin of Safety**: -54% — ABSENT ($295 > IV $135 at 15x for -19% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, no material killers)
-- **Incentive-Caused Bias**: Aligned — 10.2% insider ownership
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, no material killers)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

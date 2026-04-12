@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-04-12 05:59 | Price: $91.22 | Mkt Cap: $84B*
+*Generated: 2026-04-12 13:50 | Price: $91.22 | Mkt Cap: $84B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -20,14 +20,14 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 8.0% (4y); Earnings std: 459.1% (highly volatile); FCF/NI: 303% (strong); Gross margin: 57% (pricing power) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 8.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 303% (strong); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% — moderate moat; Operating margin 33% — durable; Rev growth 76% — demand pull | - |
+| Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 33% — durable for Financial Services; Rev growth 76% — demand pull | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ In circle (Financial Services/Asset Management)
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
 - **Margin of Safety**: -62% — ABSENT ($91 > IV $35 at 15x for -2% growth)
-- **Lollapalooza Effect**: YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 23.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 4 forces aligning: strong moat, attractive valuation, secular growth, no material killers
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.12 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

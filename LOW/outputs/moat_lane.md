@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOW
-*Generated: 2026-04-12 05:59 | Price: $244.22 | Mkt Cap: $137B*
+*Generated: 2026-04-12 13:50 | Price: $244.22 | Mkt Cap: $137B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Home Improvement Retail)
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Home Improvement Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 37.9% (4y); Earnings std: 15.9%; FCF/NI: 103% (strong); Gross margin: 33% | ROIC declining |
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 37.9% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 103% (strong); Gross margin: 33% (thin by design for Home Improvement Retail) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — weak pricing power; Operating margin 9% — thin | Weak pricing |
+| Moat | 8.0/10 | 25% | 2.0 | ROA 13% / ROE 0% — scale moat (Home Improvement Retail); Operating margin 9% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 41%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ In circle (Consumer Cyclical/Home Improvement Retail)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Home Improvement Retail)
 - **Margin of Safety**: -27% — ABSENT ($244 > IV $178 at 15x for -11% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

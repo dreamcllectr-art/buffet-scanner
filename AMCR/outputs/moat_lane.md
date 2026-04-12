@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-04-12 05:58 | Price: $41.16 | Mkt Cap: $19B*
+*Generated: 2026-04-12 13:49 | Price: $41.16 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Packaging & Containers)
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings std: 34.8% (volatile); FCF/NI: 117% (strong); Gross margin: 19% (commodity-like) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 117% (strong); Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.5% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — weak pricing power; Operating margin 8% — thin; Rev growth 68% — demand pull | Weak pricing |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 68% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.3% | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

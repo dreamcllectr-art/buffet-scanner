@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-04-12 05:58 | Price: $179.29 | Mkt Cap: $84B*
+*Generated: 2026-04-12 13:49 | Price: $179.29 | Mkt Cap: $84B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.
@@ -20,16 +20,16 @@ Unknown sector (Real Estate/REIT - Specialty) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.4% (4y); Earnings std: 34.2% (volatile); FCF/NI: 154% (strong); Gross margin: 74% (pricing power) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 154% (strong); Gross margin: 74% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% — strong pricing power; Operating margin 45% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 45% — durable for Real Estate | - |
 | Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.9x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

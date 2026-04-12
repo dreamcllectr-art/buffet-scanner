@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEV
-*Generated: 2026-04-12 05:59 | Price: $991.32 | Mkt Cap: $267B*
+*Generated: 2026-04-12 13:49 | Price: $991.32 | Mkt Cap: $267B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -20,14 +20,14 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.9% (4y); Earnings std: 335.2% (highly volatile); FCF/NI: 27% (weak conversion); Gross margin: 20% (commodity-like) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -0.9% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 27% (weak conversion); Gross margin: 20% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — weak pricing power; Operating margin 7% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 43.3x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.4/10** | **100%** | **2.4** | | |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 2.4 / 10
-## Alpha Adjustment: -0.32
+## Buffett Score: 3.3 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.32 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

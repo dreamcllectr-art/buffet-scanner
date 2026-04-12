@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-04-12 05:59 | Price: $75.34 | Mkt Cap: $9B*
+*Generated: 2026-04-12 13:49 | Price: $75.34 | Mkt Cap: $9B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Healthcare/Medical Distribution. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings std: 12.6%; FCF/NI: 116% (strong); Gross margin: 31% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 116% (strong); Gross margin: 31% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.3% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 49%; Owner earnings yield: 4.4% | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.5 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.22 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

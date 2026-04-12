@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GDDY
-*Generated: 2026-04-12 05:59 | Price: $79.29 | Mkt Cap: $11B*
+*Generated: 2026-04-12 13:49 | Price: $79.29 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -20,9 +20,9 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.7% (4y); Earnings std: 179.2% (highly volatile); FCF/NI: 162% (strong); Gross margin: 64% (pricing power) | - |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 15.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 162% (strong); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% — strong pricing power; Operating margin 25% | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 25% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%) | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: T
-*Generated: 2026-04-12 05:58 | Price: $26.46 | Mkt Cap: $185B*
+*Generated: 2026-04-12 13:49 | Price: $26.46 | Mkt Cap: $185B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Telecom Services)
@@ -20,16 +20,16 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.2% (4y); Earnings std: 188.0% (highly volatile); FCF/NI: 64%; Gross margin: 60% (pricing power) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 64%; Gross margin: 60% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 60% — moderate moat; Operating margin 18% | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 51%; Owner earnings yield: 6.8% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 5.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Communication Services/Telecom Services)
 
 - **Circle of Competence**: In circle (Communication Services/Telecom Services)
 - **Margin of Safety**: 72% — PRESENT (IV $46 vs $26 at 15x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

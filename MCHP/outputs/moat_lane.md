@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-04-12 05:59 | Price: $71.56 | Mkt Cap: $39B*
+*Generated: 2026-04-12 13:50 | Price: $71.56 | Mkt Cap: $39B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -20,16 +20,16 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings std: 87.1% (highly volatile); FCF/NI: -38488% (weak conversion); Gross margin: 55% (pricing power) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -38488% (weak conversion); Gross margin: 55% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat; Operating margin 13% — thin | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat for Technology; Operating margin 13% — thin for Technology | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 75%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

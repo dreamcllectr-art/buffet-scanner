@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPB
-*Generated: 2026-04-12 05:58 | Price: $20.43 | Mkt Cap: $6B*
+*Generated: 2026-04-12 13:49 | Price: $20.43 | Mkt Cap: $6B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Packaged Foods)
@@ -20,13 +20,13 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings std: 25.5% (volatile); FCF/NI: 112% (strong); Gross margin: 30% (commodity-like) | ROIC declining |
+| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 112% (strong); Gross margin: 30% (below Consumer Defensive norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.5% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — weak pricing power; Operating margin 12% — thin | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 30% — below Consumer Defensive moderate cutoff 30%; Operating margin 12% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 14.2% (>5%) | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

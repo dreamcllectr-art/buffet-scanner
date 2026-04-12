@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CINF
-*Generated: 2026-04-12 05:58 | Price: $161.14 | Mkt Cap: $25B*
+*Generated: 2026-04-12 13:49 | Price: $161.14 | Mkt Cap: $25B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Property & Casualty)
@@ -20,16 +20,16 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.6/10 | 30% | 0.2 | Avg ROIC: 9.9% (4y); Earnings std: 284.7% (highly volatile); FCF/NI: -16% (weak conversion); Gross margin: 25% (commodity-like) | - |
+| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 9.9% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -16% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 25% — weak pricing power; Operating margin 28%; Rev growth 22% — demand pull | Weak pricing |
+| Moat | 8.0/10 | 25% | 2.0 | ROE 16% — strong franchise (Financial Services); Operating margin 28%; Rev growth 22% — demand pull | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.5x — fair price; 52w range position: 73%; Owner earnings yield: 24.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 4.6 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 - **Circle of Competence**: In circle (Financial Services/Insurance - Property & Casualty)
 - **Margin of Safety**: 135% — PRESENT (IV $379 vs $161 at 25x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: attractive valuation, secular growth, no material killers
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: attractive valuation, secular growth, no material killers
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.15 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

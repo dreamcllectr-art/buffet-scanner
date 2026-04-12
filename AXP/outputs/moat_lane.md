@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-04-12 05:58 | Price: $313.5 | Mkt Cap: $215B*
+*Generated: 2026-04-12 13:49 | Price: $313.5 | Mkt Cap: $215B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (22.1% inst.) as insider
 
@@ -22,14 +22,14 @@ In circle (Financial Services/Credit Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.5/10 | 30% | 2.9 | Fallback ROE: 34.0%; Earnings std: 7.2% (predictable); FCF/NI: 182% (strong); Gross margin: 63% (pricing power) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Fallback ROE: 34.0%; Earnings: 3/3 up-years (predictable); FCF/NI: 182% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 22.2% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% — strong pricing power; Operating margin 17% | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 34% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 50%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -39,18 +39,18 @@ In circle (Financial Services/Credit Services)
 
 - **Circle of Competence**: In circle (Financial Services/Credit Services)
 - **Margin of Safety**: -2% — ABSENT ($314 > IV $308 at 20x for 17% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

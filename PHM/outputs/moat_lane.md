@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-04-12 05:59 | Price: $120.33 | Mkt Cap: $23B*
+*Generated: 2026-04-12 13:50 | Price: $120.33 | Mkt Cap: $23B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)
@@ -20,9 +20,9 @@ In circle (Consumer Cyclical/Residential Construction)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.8/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings std: 23.4% (volatile); FCF/NI: 58%; Gross margin: 27% (commodity-like) | ROIC declining |
+| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 58%; Gross margin: 27% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 27% — weak pricing power; Operating margin 18% | Weak pricing |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 27% — below Consumer Cyclical moderate cutoff 30%; Operating margin 18% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 54%; Owner earnings yield: 6.5% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 

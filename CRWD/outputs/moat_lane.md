@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-04-12 05:58 | Price: $379.02 | Mkt Cap: $96B*
+*Generated: 2026-04-12 13:49 | Price: $379.02 | Mkt Cap: $96B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -20,9 +20,9 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -0.3% (4y); Earnings std: 633.1% (highly volatile); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -0.3% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% — strong pricing power; Operating margin 1% — thin; Rev growth 23% — demand pull | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 1% — thin for Technology; Rev growth 23% — demand pull | - |
 | Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 61.4x — extreme premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 

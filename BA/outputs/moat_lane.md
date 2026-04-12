@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-04-12 05:58 | Price: $217.63 | Mkt Cap: $171B*
+*Generated: 2026-04-12 13:49 | Price: $217.63 | Mkt Cap: $171B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -20,14 +20,14 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.9% (4y); Earnings std: 301.2% (highly volatile); FCF/NI: -52% (weak conversion); Gross margin: 5% (commodity-like) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -2.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -52% (weak conversion); Gross margin: 5% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 5% — weak pricing power; Operating margin -3% — thin; Rev growth 57% — demand pull | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.3x — expensive; 52w range position: 64%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.7/10** | **100%** | **2.7** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 5% — below Industrials moderate cutoff 22%; Operating margin -3% — thin for Industrials; Rev growth 57% — demand pull | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.4x — expensive; 52w range position: 64%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 2.7 / 10
-## Alpha Adjustment: -0.30
+## Buffett Score: 3.3 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.30 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

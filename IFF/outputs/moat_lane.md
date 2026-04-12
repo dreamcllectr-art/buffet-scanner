@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-04-12 05:59 | Price: $72.52 | Mkt Cap: $19B*
+*Generated: 2026-04-12 13:50 | Price: $72.52 | Mkt Cap: $19B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -2.2% (4y); Earnings std: 138.1% (highly volatile); FCF/NI: 32% (weak conversion); Gross margin: 36% | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -2.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 32% (weak conversion); Gross margin: 36% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — weak pricing power; Operating margin 5% — thin | Weak pricing |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 36% vs sector strong cutoff 30% — strong pricing power; Operating margin 5% — thin for Basic Materials | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 53%; Owner earnings yield: 16.7% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 5.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-04-12 05:59 | Price: $69.19 | Mkt Cap: $62B*
+*Generated: 2026-04-12 13:50 | Price: $69.19 | Mkt Cap: $62B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Capital Markets)
@@ -20,13 +20,13 @@ In circle (Financial Services/Capital Markets)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 0.1% (4y); Earnings std: 208.3% (highly volatile); FCF/NI: -14% (weak conversion); Gross margin: 92% (pricing power) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 0.1% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -14% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 92% — strong pricing power; Operating margin 47% — durable; Rev growth 26% — demand pull | - |
+| Moat | 9.0/10 | 25% | 2.2 | ROE 22% — strong franchise (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 26% — demand pull | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.7x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

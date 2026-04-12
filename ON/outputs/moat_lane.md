@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ON
-*Generated: 2026-04-12 05:59 | Price: $68.65 | Mkt Cap: $27B*
+*Generated: 2026-04-12 13:50 | Price: $68.65 | Mkt Cap: $27B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -20,13 +20,13 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings std: 53.9% (highly volatile); FCF/NI: 338% (strong); Gross margin: 38% | ROIC declining |
+| Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 338% (strong); Gross margin: 38% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — weak pricing power; Operating margin 19% | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 19% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

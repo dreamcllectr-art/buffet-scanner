@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-04-12 05:59 | Price: $17.89 | Mkt Cap: $11B*
+*Generated: 2026-04-12 13:49 | Price: $17.89 | Mkt Cap: $11B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)
@@ -12,7 +14,7 @@ In circle (Technology/Software - Infrastructure)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.2x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 9.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,16 +22,16 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.9/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings std: 57.1% (highly volatile); FCF/NI: 174% (strong); Gross margin: 79% (pricing power) | ROIC declining |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 9.5%; Insider activity: 0B/0S last 6m; Restricted stock: 23.8% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 79% — strong pricing power; Operating margin 36% — durable; Rev growth 26% — demand pull | - |
+| Quality | 4.9/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 174% (strong); Gross margin: 79% (pricing power for Technology) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.8% of shares (SBC concern) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 79% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 11.9% (>5%) | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -38,7 +40,7 @@ In circle (Technology/Software - Infrastructure)
 - **Circle of Competence**: In circle (Technology/Software - Infrastructure)
 - **Margin of Safety**: 36% — PRESENT (IV $24 vs $18 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Aligned — 9.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
@@ -48,7 +50,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

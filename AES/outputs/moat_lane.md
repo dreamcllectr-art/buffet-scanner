@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AES
-*Generated: 2026-04-12 05:58 | Price: $14.39 | Mkt Cap: $10B*
+*Generated: 2026-04-12 13:49 | Price: $14.39 | Mkt Cap: $10B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Utilities/Utilities - Diversified. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.0% (4y); Earnings std: 390.0% (highly volatile); FCF/NI: -500% (weak conversion); Gross margin: 18% (commodity-like) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -500% (weak conversion); Gross margin: 18% (below Utilities norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — weak pricing power; Operating margin 17% | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Utilities moderate cutoff 25%; Operating margin 17% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; 52w range position: 60% | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.6 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

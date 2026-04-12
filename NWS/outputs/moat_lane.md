@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWS
-*Generated: 2026-04-12 05:59 | Price: $28.26 | Mkt Cap: $16B*
+*Generated: 2026-04-12 13:50 | Price: $28.26 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -20,14 +20,14 @@ In circle (Communication Services/Entertainment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings std: 212.3% (highly volatile); FCF/NI: 169% (strong); Gross margin: 57% (pricing power) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 34.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -202.2% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 57% — moderate moat; Operating margin 17% | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 17% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 22.7x — growth premium; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 11.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 7.5 / 10
+## Alpha Adjustment: +0.25
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ In circle (Communication Services/Entertainment)
 
 - **Circle of Competence**: In circle (Communication Services/Entertainment)
 - **Margin of Safety**: -59% — ABSENT ($28 > IV $12 at 15x for -10% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 34.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.25 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

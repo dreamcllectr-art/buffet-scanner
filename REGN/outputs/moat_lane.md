@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REGN
-*Generated: 2026-04-12 05:59 | Price: $748.87 | Mkt Cap: $79B*
+*Generated: 2026-04-12 13:50 | Price: $748.87 | Mkt Cap: $79B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)
@@ -20,16 +20,16 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings std: 10.2%; FCF/NI: 84% (strong); Gross margin: 45% | ROIC declining |
+| Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 84% (strong); Gross margin: 45% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat; Operating margin 23% | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 45% — moderate moat for Healthcare; Operating margin 23% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 79%; Owner earnings yield: 4.1% | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.13 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-04-12 05:59 | Price: $379.87 | Mkt Cap: $23B*
+*Generated: 2026-04-12 13:50 | Price: $379.87 | Mkt Cap: $23B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Apparel Manufacturing)
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Apparel Manufacturing)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.9/10 | 30% | 2.4 | Avg ROIC: 17.7% (4y); Earnings std: 19.1%; FCF/NI: 101% (strong); Gross margin: 70% (pricing power) | - |
+| Quality | 7.9/10 | 30% | 2.4 | Avg ROIC: 17.7% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 101% (strong); Gross margin: 70% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% — strong pricing power; Operating margin 20% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 70% vs sector strong cutoff 45% — strong pricing power; Operating margin 20% — durable for Consumer Cyclical | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.1x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ In circle (Consumer Cyclical/Apparel Manufacturing)
 
 - **Circle of Competence**: In circle (Consumer Cyclical/Apparel Manufacturing)
 - **Margin of Safety**: -3% — ABSENT ($380 > IV $368 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, no material killers)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, no material killers)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

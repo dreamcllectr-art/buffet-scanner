@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-04-12 05:59 | Price: $67.99 | Mkt Cap: $43B*
+*Generated: 2026-04-12 13:50 | Price: $67.99 | Mkt Cap: $43B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Grocery Stores)
@@ -12,7 +14,7 @@ In circle (Consumer Defensive/Grocery Stores)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 9.1%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,13 +22,13 @@ In circle (Consumer Defensive/Grocery Stores)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings std: 43.5% (volatile); FCF/NI: 151% (strong); Gross margin: 24% (commodity-like) | ROIC declining |
-| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 9.1%; Insider activity: 0B/0S last 6m; Restricted stock: -28.8% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 24% — weak pricing power; Operating margin 3% — thin | Weak pricing |
+| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 151% (strong); Gross margin: 24% (thin by design for Grocery Stores) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -28.8% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | ROA 6% / ROE 14% — adequate scale (Grocery Stores); Operating margin 3% — thin for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 52%; Owner earnings yield: 7.9% (>5%) | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +39,12 @@ In circle (Consumer Defensive/Grocery Stores)
 
 - **Circle of Competence**: In circle (Consumer Defensive/Grocery Stores)
 - **Margin of Safety**: -43% — ABSENT ($68 > IV $38 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
-- **Incentive-Caused Bias**: Aligned — 9.1% insider ownership
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFG
-*Generated: 2026-04-12 05:59 | Price: $91.8 | Mkt Cap: $20B*
+*Generated: 2026-04-12 13:50 | Price: $91.8 | Mkt Cap: $20B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Asset Management)
@@ -20,16 +20,16 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 10.5%; Earnings std: 124.0% (highly volatile); FCF/NI: 330% (strong); Gross margin: 44% | - |
+| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 10.5%; Earnings: 2/3 down-years (unpredictable); FCF/NI: 330% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat; Operating margin 14% — thin | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 14% — thin for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; 52w range position: 78%; Owner earnings yield: 5.2% (>5%) | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +37,18 @@ In circle (Financial Services/Asset Management)
 
 - **Circle of Competence**: In circle (Financial Services/Asset Management)
 - **Margin of Safety**: -14% — ABSENT ($92 > IV $79 at 15x for -41% growth)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, no material killers)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, no material killers)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

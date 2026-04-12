@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-04-12 05:58 | Price: $151.12 | Mkt Cap: $18B*
+*Generated: 2026-04-12 13:49 | Price: $151.12 | Mkt Cap: $18B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -20,13 +20,13 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 13.6% (4y); Earnings std: 4.9% (predictable); FCF/NI: 112% (strong); Gross margin: 31% | - |
+| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 13.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 112% (strong); Gross margin: 31% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 12% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

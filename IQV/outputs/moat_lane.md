@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-04-12 05:59 | Price: $167.34 | Mkt Cap: $28B*
+*Generated: 2026-04-12 13:50 | Price: $167.34 | Mkt Cap: $28B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings std: 14.1%; FCF/NI: 140% (strong); Gross margin: 33% | - |
+| Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 140% (strong); Gross margin: 33% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 33% — weak pricing power; Operating margin 15% | Weak pricing |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 33% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

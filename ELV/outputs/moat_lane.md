@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-04-12 05:58 | Price: $311.53 | Mkt Cap: $69B*
+*Generated: 2026-04-12 13:49 | Price: $311.53 | Mkt Cap: $69B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
@@ -20,16 +20,16 @@ OUTSIDE circle — Healthcare/Healthcare Plans. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings std: 3.6% (predictable); FCF/NI: 92% (strong); Gross margin: 26% (commodity-like) | ROIC declining |
+| Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 92% (strong); Gross margin: 26% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin 2% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Healthcare moderate cutoff 35%; Operating margin 2% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-04-12 05:59 | Price: $160.59 | Mkt Cap: $38B*
+*Generated: 2026-04-12 13:50 | Price: $160.59 | Mkt Cap: $38B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)
@@ -20,13 +20,13 @@ In circle (Communication Services/Entertainment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 12.9% (4y); Earnings std: 78.6% (highly volatile); FCF/NI: 224% (strong); Gross margin: 26% (commodity-like) | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 33.4% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — weak pricing power; Operating margin -1% — thin | Weak pricing |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin -1% — thin for Communication Services | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 70.2x — extreme premium; 52w range position: 72%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

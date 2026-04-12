@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSCI
-*Generated: 2026-04-12 05:59 | Price: $536.48 | Mkt Cap: $39B*
+*Generated: 2026-04-12 13:50 | Price: $536.48 | Mkt Cap: $39B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Financial Data & Stock Exchanges)
@@ -20,14 +20,14 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 33.0% (4y); Earnings std: 18.0%; FCF/NI: 116% (strong); Gross margin: 82% (pricing power) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 33.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 116% (strong); Gross margin: n/a for financials | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 82% — strong pricing power; Operating margin 56% — durable | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 0% — weak (Financial Services); Operating margin 56% — durable for Financial Services | Weak pricing |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.4x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 - **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
 - **Margin of Safety**: -56% — ABSENT ($536 > IV $235 at 15x for -2% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, no material killers
+- **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, no material killers
+No (1 forces only: high quality)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

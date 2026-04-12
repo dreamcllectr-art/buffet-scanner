@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APH
-*Generated: 2026-04-12 05:58 | Price: $140.75 | Mkt Cap: $173B*
+*Generated: 2026-04-12 13:49 | Price: $140.75 | Mkt Cap: $173B*
 
 ## Circle of Competence: IN
 In circle (Technology/Electronic Components)
@@ -20,13 +20,13 @@ In circle (Technology/Electronic Components)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 16.4% (4y); Earnings std: 38.2% (volatile); FCF/NI: 99% (strong); Gross margin: 37% | - |
+| Quality | 7.2/10 | 30% | 2.2 | Avg ROIC: 16.4% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 99% (strong); Gross margin: 37% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 37% — weak pricing power; Operating margin 27%; Rev growth 49% — demand pull | Weak pricing |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 27%; Rev growth 49% — demand pull | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.2x — growth premium; 52w range position: 75%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

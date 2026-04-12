@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RMD
-*Generated: 2026-04-12 05:59 | Price: $228.87 | Mkt Cap: $33B*
+*Generated: 2026-04-12 13:50 | Price: $228.87 | Mkt Cap: $33B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
@@ -20,9 +20,9 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 18.7% (4y); Earnings std: 13.2%; FCF/NI: 83% (strong); Gross margin: 61% (pricing power) | - |
+| Quality | 9.1/10 | 30% | 2.7 | Avg ROIC: 18.7% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 83% (strong); Gross margin: 61% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% — strong pricing power; Operating margin 35% — durable | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.8x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-04-12 05:59 | Price: $51.92 | Mkt Cap: $78B*
+*Generated: 2026-04-12 19:36 | Price: $51.92 | Mkt Cap: $78B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
+## Sector Context
+Energy / Oil & Gas Equipment & Services
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings std: 23.6% (volatile); FCF/NI: 100% (strong); Gross margin: 19% (commodity-like) | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 19% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — weak pricing power; Operating margin 16% | Weak pricing |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 19% — moderate moat for Energy; Operating margin 16% — durable for Energy | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.
+- **Circle of Competence**: Energy / Oil & Gas Equipment & Services
 - **Margin of Safety**: -32% — ABSENT ($52 > IV $35 at 15x for -29% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

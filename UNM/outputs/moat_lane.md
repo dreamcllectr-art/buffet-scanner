@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNM
-*Generated: 2026-04-12 18:38 | Price: $76.67 | Mkt Cap: $13B*
+*Generated: 2026-04-12 19:39 | Price: $76.67 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Life

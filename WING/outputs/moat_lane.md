@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WING
-*Generated: 2026-04-12 18:40 | Price: $179.89 | Mkt Cap: $5B*
+*Generated: 2026-04-12 19:41 | Price: $179.89 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

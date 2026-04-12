@@ -1,0 +1,54 @@
+# Buffett/Munger Moat Lane: WAL
+*Generated: 2026-04-12 19:40 | Price: $76.21 | Mkt Cap: $8B*
+
+## Sector Context
+Financial Services / Banks - Regional
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 2.7%; key-man / succession risk | 15% | -20% | No |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 13.5%; Earnings: 1 down-year in 3 transitions; NI drawdown: 32% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -127% (weak conversion); Gross margin: n/a for financials | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 41% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; 52w range position: 40% | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Financial Services / Banks - Regional
+- **Margin of Safety**: 186% — PRESENT (IV $218 vs $76 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
+- **Mr. Market**: Neutral
+
+## Lollapalooza Check
+No (1 forces only: attractive valuation)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

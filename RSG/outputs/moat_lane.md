@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: RSG
-*Generated: 2026-04-12 13:50 | Price: $214.66 | Mkt Cap: $66B*
+*Generated: 2026-04-12 19:36 | Price: $214.66 | Mkt Cap: $66B*
 
-## Circle of Competence: IN
-In circle (Industrials/Waste Management)
+## Sector Context
+Industrials / Waste Management
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Waste Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 9.2% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 111% (strong); Gross margin: 43% (pricing power for Industrials) | - |
+| Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 9.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 20% (stable); FCF/NI: 111% (strong); Gross margin: 43% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 43% vs sector strong cutoff 35% — strong pricing power; Operating margin 19% — durable for Industrials | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.7x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
@@ -35,7 +35,7 @@ In circle (Industrials/Waste Management)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Waste Management)
+- **Circle of Competence**: Industrials / Waste Management
 - **Margin of Safety**: -46% — ABSENT ($215 > IV $116 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

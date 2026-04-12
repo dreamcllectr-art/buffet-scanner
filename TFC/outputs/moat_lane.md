@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TFC
-*Generated: 2026-04-08 05:53 | Price: $47.83 | Mkt Cap: $61B*
+*Generated: 2026-04-12 19:37 | Price: $49.6 | Mkt Cap: $63B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Banks - Regional)
+## Sector Context
+Financial Services / Banks - Regional
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Banks - Regional)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Fallback ROE: 8.2%; Earnings std: 288.9% (highly volatile); FCF/NI: -115% (weak conversion); Gross margin: 0% (commodity-like) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 8.2%; Earnings: 1 down-year in 3 transitions; NI drawdown: 117% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: -115% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.4% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 33% — durable | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 63% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 8% — weak (Financial Services); Operating margin 33% — durable for Financial Services | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 69% | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Financial Services/Banks - Regional)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Banks - Regional)
-- **Margin of Safety**: 60% — PRESENT (IV $76 vs $48 at 20x)
+- **Circle of Competence**: Financial Services / Banks - Regional
+- **Margin of Safety**: 54% — PRESENT (IV $76 vs $50 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

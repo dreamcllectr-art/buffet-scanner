@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSM
-*Generated: 2026-04-12 18:37 | Price: $154.81 | Mkt Cap: $33B*
+*Generated: 2026-04-12 19:45 | Price: $154.81 | Mkt Cap: $33B*
 
 ## Sector Context
 Healthcare / Biotechnology

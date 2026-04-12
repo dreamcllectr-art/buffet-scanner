@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TXN
-*Generated: 2026-04-08 05:53 | Price: $199.735 | Mkt Cap: $182B*
+*Generated: 2026-04-12 19:37 | Price: $214.73 | Mkt Cap: $196B*
 
-## Circle of Competence: IN
-In circle (Technology/Semiconductors)
+## Sector Context
+Technology / Semiconductors
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings std: 17.4%; FCF/NI: 43% (weak conversion); Gross margin: 57% (pricing power) | ROIC declining |
+| Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 43% (weak conversion); Gross margin: 57% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat; Operating margin 34% — durable | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 65%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% — moderate moat for Technology; Operating margin 34% — durable for Technology | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.2x — growth premium; 52w range position: 81%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Technology/Semiconductors)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Semiconductors)
-- **Margin of Safety**: -59% — ABSENT ($200 > IV $82 at 15x for -3% growth)
+- **Circle of Competence**: Technology / Semiconductors
+- **Margin of Safety**: -62% — ABSENT ($215 > IV $82 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

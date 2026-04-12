@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-03-30 18:35 | Price: $124.58 | Mkt Cap: $993B*
+*Generated: 2026-04-12 19:44 | Price: $126.77 | Mkt Cap: $1011B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Discount Stores)
+## Sector Context
+Consumer Defensive / Discount Stores
 
 ---
 
@@ -12,7 +12,7 @@ In circle (Consumer Defensive/Discount Stores)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 45.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 44.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Consumer Defensive/Discount Stores)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 16.0% (4y); Earnings std: 14.4%; FCF/NI: 83% (strong); Gross margin: 25% (commodity-like) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $447B (45.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.1% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 25% — weak pricing power; Operating margin 5% — thin | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.9x — expensive; 52w range position: 82%; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 83% (strong); Gross margin: 25% (thin by design for Discount Stores) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $454B (44.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.1% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROA 7% / ROE 22% — scale moat (Discount Stores); Operating margin 5% — thin for Consumer Defensive | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.6x — expensive; 52w range position: 82%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 5.5 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Discount Stores)
-- **Margin of Safety**: -67% — ABSENT ($125 > IV $41 at 15x for -19% growth)
-- **Lollapalooza Effect**: No (1 forces only: no material killers)
-- **Incentive-Caused Bias**: Aligned — 45.0% insider ownership
+- **Circle of Competence**: Consumer Defensive / Discount Stores
+- **Margin of Safety**: -68% — ABSENT ($127 > IV $41 at 15x for -19% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
+- **Incentive-Caused Bias**: Aligned — 44.9% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: no material killers)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.20 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

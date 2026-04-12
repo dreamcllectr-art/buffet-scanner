@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TXT
-*Generated: 2026-04-08 05:53 | Price: $87.68 | Mkt Cap: $15B*
+*Generated: 2026-04-12 19:37 | Price: $91.39 | Mkt Cap: $16B*
 
-## Circle of Competence: IN
-In circle (Industrials/Aerospace & Defense)
+## Sector Context
+Industrials / Aerospace & Defense
 
 ---
 
@@ -20,10 +20,10 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 8.2% (4y); Earnings std: 11.7%; FCF/NI: 101% (strong); Gross margin: 18% (commodity-like) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 8.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 101% (strong); Gross margin: 18% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — weak pricing power; Operating margin 7% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 67%; Owner earnings yield: 5.6% (>5%) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 73%; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -35,8 +35,8 @@ In circle (Industrials/Aerospace & Defense)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: 46% — PRESENT (IV $128 vs $88 at 25x)
+- **Circle of Competence**: Industrials / Aerospace & Defense
+- **Margin of Safety**: 40% — PRESENT (IV $128 vs $91 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

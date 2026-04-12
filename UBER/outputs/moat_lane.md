@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: UBER
-*Generated: 2026-04-08 05:53 | Price: $71.73 | Mkt Cap: $148B*
+*Generated: 2026-04-12 19:44 | Price: $70.48 | Mkt Cap: $145B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Application)
+## Sector Context
+Technology / Software - Application
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Software - Application)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -1.5% (4y); Earnings std: 284.8% (highly volatile); FCF/NI: 85% (strong); Gross margin: 38% | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -1.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 38% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — weak pricing power; Operating margin 12% — thin; Rev growth 20% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 20% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.4x — fair price; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Technology/Software - Application)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Application)
-- **Margin of Safety**: -1% — ABSENT ($72 > IV $71 at 15x for -96% growth)
+- **Circle of Competence**: Technology / Software - Application
+- **Margin of Safety**: 1% — thin (IV $71 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

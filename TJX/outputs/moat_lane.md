@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TJX
-*Generated: 2026-04-08 05:53 | Price: $157.58 | Mkt Cap: $175B*
+*Generated: 2026-04-12 19:37 | Price: $161.6 | Mkt Cap: $179B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Apparel Retail)
+## Sector Context
+Consumer Cyclical / Apparel Retail
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Consumer Cyclical/Apparel Retail)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 44.0% (4y); Earnings std: 10.1%; FCF/NI: 87% (strong); Gross margin: 31% | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 44.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: 87% (strong); Gross margin: 31% (thin by design for Apparel Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 13% — thin | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.8x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Moat | 9.0/10 | 25% | 2.2 | ROA 13% / ROE 59% — scale moat (Apparel Retail); Operating margin 13% — durable for Consumer Cyclical | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.5x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 5.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Apparel Retail)
-- **Margin of Safety**: -23% — ABSENT ($158 > IV $122 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: high quality)
+- **Circle of Competence**: Consumer Cyclical / Apparel Retail
+- **Margin of Safety**: -25% — ABSENT ($162 > IV $122 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: high quality)
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.18 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

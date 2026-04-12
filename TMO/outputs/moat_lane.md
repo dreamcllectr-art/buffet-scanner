@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TMO
-*Generated: 2026-04-08 05:53 | Price: $489.5 | Mkt Cap: $182B*
+*Generated: 2026-04-12 19:37 | Price: $496.11 | Mkt Cap: $184B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
+## Sector Context
+Healthcare / Diagnostics & Research
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.9% (4y); Earnings std: 11.3%; FCF/NI: 106% (strong); Gross margin: 41% | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 106% (strong); Gross margin: 41% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 41% — moderate moat; Operating margin 21% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.2x — fair price; 52w range position: 40%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat for Healthcare; Operating margin 21% — durable for Healthcare | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.2x — fair price; 52w range position: 43%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
-- **Margin of Safety**: -38% — ABSENT ($490 > IV $301 at 17x for 9% growth)
+- **Circle of Competence**: Healthcare / Diagnostics & Research
+- **Margin of Safety**: -39% — ABSENT ($496 > IV $302 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

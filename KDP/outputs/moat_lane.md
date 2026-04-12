@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-04-12 18:35 | Price: $26.57 | Mkt Cap: $36B*
+*Generated: 2026-04-12 19:35 | Price: $26.57 | Mkt Cap: $36B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic

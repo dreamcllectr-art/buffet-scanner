@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-04-12 18:33 | Price: $313.5 | Mkt Cap: $215B*
+*Generated: 2026-04-12 19:32 | Price: $313.5 | Mkt Cap: $215B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (22.1% inst.) as insider
 

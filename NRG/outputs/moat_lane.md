@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-04-12 18:35 | Price: $164.07 | Mkt Cap: $35B*
+*Generated: 2026-04-12 19:36 | Price: $164.07 | Mkt Cap: $35B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers

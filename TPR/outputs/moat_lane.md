@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-04-08 05:53 | Price: $140.2 | Mkt Cap: $29B*
+*Generated: 2026-04-12 19:37 | Price: $150.3 | Mkt Cap: $31B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Luxury Goods)
+## Sector Context
+Consumer Cyclical / Luxury Goods
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Consumer Cyclical/Luxury Goods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.6/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings std: 45.1% (volatile); FCF/NI: 228% (strong); Gross margin: 76% (pricing power) | ROIC declining |
+| Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 76% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 76% — strong pricing power; Operating margin 29% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 79%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 45% — strong pricing power; Operating margin 29% — durable for Consumer Cyclical | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.9x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Luxury Goods)
-- **Margin of Safety**: -54% — ABSENT ($140 > IV $64 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Circle of Competence**: Consumer Cyclical / Luxury Goods
+- **Margin of Safety**: -57% — ABSENT ($150 > IV $65 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-04-08 05:53 | Price: $251.49 | Mkt Cap: $75B*
+*Generated: 2026-04-12 19:44 | Price: $238.82 | Mkt Cap: $71B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
+## Sector Context
+Energy / Oil & Gas Refining & Marketing
 
 ---
 
@@ -20,10 +20,10 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.7/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings std: 28.8% (volatile); FCF/NI: 153% (strong); Gross margin: 13% (commodity-like) | ROIC declining |
+| Quality | 1.7/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — weak pricing power; Operating margin 6% — thin | Weak pricing |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.9x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 6% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -35,14 +35,14 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
-- **Margin of Safety**: -25% — ABSENT ($251 > IV $189 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
+- **Margin of Safety**: -21% — ABSENT ($239 > IV $189 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

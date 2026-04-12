@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TNL
-*Generated: 2026-04-12 18:41 | Price: $75.82 | Mkt Cap: $5B*
+*Generated: 2026-04-12 19:41 | Price: $75.82 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Invesco Ltd. (5.8% inst.) as insider
 

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: STT
-*Generated: 2026-04-10 06:04 | Price: $138.49 | Mkt Cap: $39B*
+*Generated: 2026-04-12 19:36 | Price: $139.42 | Mkt Cap: $39B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Asset Management)
+## Sector Context
+Financial Services / Asset Management
 
 ---
 
@@ -12,7 +12,7 @@ In circle (Financial Services/Asset Management)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 11.1%; Earnings std: 34.2% (volatile); FCF/NI: 60%; Gross margin: 0% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -25.1% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 0% — weak pricing power; Operating margin 28% | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.5x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 11.1%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 60%; Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -25.1% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 28% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.6x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,10 +35,10 @@ In circle (Financial Services/Asset Management)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Asset Management)
-- **Margin of Safety**: 2% — thin (IV $141 at 15x)
+- **Circle of Competence**: Financial Services / Asset Management
+- **Margin of Safety**: 1% — thin (IV $141 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TEL
-*Generated: 2026-04-08 05:53 | Price: $210.98 | Mkt Cap: $62B*
+*Generated: 2026-04-12 19:37 | Price: $229.78 | Mkt Cap: $67B*
 
-## Circle of Competence: IN
-In circle (Technology/Electronic Components)
+## Sector Context
+Technology / Electronic Components
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Electronic Components)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 13.6% (4y); Earnings std: 58.1% (highly volatile); FCF/NI: 114% (strong); Gross margin: 36% | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 13.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 42% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 114% (strong); Gross margin: 36% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 36% — weak pricing power; Operating margin 21%; Rev growth 22% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 70%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 21%; Rev growth 22% — demand pull | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 83%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Technology/Electronic Components)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Electronic Components)
-- **Margin of Safety**: -18% — ABSENT ($211 > IV $174 at 25x for 25% growth)
+- **Circle of Competence**: Technology / Electronic Components
+- **Margin of Safety**: -24% — ABSENT ($230 > IV $174 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

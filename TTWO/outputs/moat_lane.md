@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TTWO
-*Generated: 2026-04-08 05:53 | Price: $198.33 | Mkt Cap: $37B*
+*Generated: 2026-04-12 19:37 | Price: $197.07 | Mkt Cap: $36B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Electronic Gaming & Multimedia)
+## Sector Context
+Communication Services / Electronic Gaming & Multimedia
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Communication Services/Electronic Gaming & Multimedia)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -22.2% (4y); Earnings std: 305.2% (highly volatile); FCF/NI: 13% (weak conversion); Gross margin: 59% (pricing power) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -22.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 1172% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 13% (weak conversion); Gross margin: 59% (pricing power for Communication Services) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 59% — moderate moat; Operating margin -2% — thin; Rev growth 25% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.4x — growth premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin -2% — thin for Communication Services; Rev growth 25% — demand pull | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.3x — growth premium; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 4.1%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,14 +35,14 @@ In circle (Communication Services/Electronic Gaming & Multimedia)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Electronic Gaming & Multimedia)
+- **Circle of Competence**: Communication Services / Electronic Gaming & Multimedia
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: strong moat, secular growth)
 
 ---
 

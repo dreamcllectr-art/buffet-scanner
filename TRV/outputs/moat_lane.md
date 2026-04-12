@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TRV
-*Generated: 2026-04-08 05:53 | Price: $295.05 | Mkt Cap: $66B*
+*Generated: 2026-04-12 19:37 | Price: $297.26 | Mkt Cap: $64B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance - Property & Casualty)
+## Sector Context
+Financial Services / Insurance - Property & Casualty
 
 ---
 
@@ -20,23 +20,23 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 12.2% (4y); Earnings std: 31.5% (volatile); FCF/NI: 209% (strong); Gross margin: 29% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — weak pricing power; Operating margin 26% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 78%; Owner earnings yield: 18.4% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 12.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 19% (stable); FCF/NI: 209% (strong); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.1% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 21% — strong franchise (Financial Services); Operating margin 26% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 76%; Owner earnings yield: 18.8% (>5%) | - |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 5.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance - Property & Casualty)
-- **Margin of Safety**: 133% — PRESENT (IV $686 vs $295 at 25x)
+- **Circle of Competence**: Financial Services / Insurance - Property & Casualty
+- **Margin of Safety**: 131% — PRESENT (IV $686 vs $297 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.18 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: VZ
-*Generated: 2026-04-08 05:53 | Price: $48.62 | Mkt Cap: $205B*
+*Generated: 2026-04-12 19:44 | Price: $46.04 | Mkt Cap: $194B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Telecom Services)
+## Sector Context
+Communication Services / Telecom Services
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Fallback ROE: 17.1%; Earnings std: 48.1% (volatile); Gross margin: 59% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: -0.8% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 59% — moderate moat; Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 77%; Owner earnings yield: 8.4% (>5%) | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 9.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 59% (pricing power for Communication Services) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.8% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 58%; Owner earnings yield: 8.9% (>5%) | - |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.7 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Telecom Services)
-- **Margin of Safety**: 25% — thin (IV $61 at 15x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Circle of Competence**: Communication Services / Telecom Services
+- **Margin of Safety**: 32% — PRESENT (IV $61 vs $46 at 15x)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

@@ -1,8 +1,10 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-04-08 05:53 | Price: $274.75 | Mkt Cap: $25B*
+*Generated: 2026-04-12 19:44 | Price: $259.78 | Mkt Cap: $24B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Infrastructure)
+> ⚠ DATA: yfinance misclassified Vanguard Group Inc (12.4% inst.) as insider
+
+## Sector Context
+Technology / Software - Infrastructure
 
 ---
 
@@ -12,7 +14,7 @@ In circle (Technology/Software - Infrastructure)
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 10.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -20,14 +22,14 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 365.8% (2y); Earnings std: 12.8%; Gross margin: 88% (pricing power) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 10.6% (>10%); No insider transaction data; Restricted stock: 0.8% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% — strong pricing power; Operating margin 67% — durable | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.8x — growth premium; 52w range position: 65%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 365.8% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 115% (strong); Gross margin: 88% (pricing power for Technology) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% vs sector strong cutoff 60% — strong pricing power; Operating margin 67% — durable for Technology | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.4x — growth premium; 52w range position: 50%; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,10 +37,10 @@ In circle (Technology/Software - Infrastructure)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
-- **Margin of Safety**: -36% — ABSENT ($275 > IV $176 at 20x for 12% growth)
+- **Circle of Competence**: Technology / Software - Infrastructure
+- **Margin of Safety**: -32% — ABSENT ($260 > IV $176 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
-- **Incentive-Caused Bias**: Aligned — 10.6% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -48,7 +50,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

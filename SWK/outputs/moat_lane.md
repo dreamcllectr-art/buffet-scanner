@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-04-10 06:04 | Price: $73.43 | Mkt Cap: $11B*
+*Generated: 2026-04-12 19:36 | Price: $72.19 | Mkt Cap: $11B*
 
-## Circle of Competence: IN
-In circle (Industrials/Tools & Accessories)
+## Sector Context
+Industrials / Tools & Accessories
 
 ---
 
@@ -20,23 +20,23 @@ In circle (Industrials/Tools & Accessories)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings std: 119.2% (highly volatile); FCF/NI: -9% (weak conversion); Gross margin: 31% | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 129% from prior peak; 5y price drawdown: 71% (severe cyclicality); FCF/NI: -9% (weak conversion); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — weak pricing power; Operating margin 10% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 49%; Owner earnings yield: 7.5% (>5%) | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 31% — moderate moat for Industrials; Operating margin 10% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 44%; Owner earnings yield: 7.6% (>5%) | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Tools & Accessories)
-- **Margin of Safety**: -46% — ABSENT ($73 > IV $40 at 15x for -19% growth)
+- **Circle of Competence**: Industrials / Tools & Accessories
+- **Margin of Safety**: -45% — ABSENT ($72 > IV $40 at 15x for -19% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

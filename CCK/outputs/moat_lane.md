@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCK
-*Generated: 2026-04-12 18:38 | Price: $106.95 | Mkt Cap: $12B*
+*Generated: 2026-04-12 19:39 | Price: $106.95 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

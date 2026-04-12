@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: SYF
-*Generated: 2026-04-09 05:53 | Price: $71.97 | Mkt Cap: $26B*
+*Generated: 2026-04-12 19:37 | Price: $72.41 | Mkt Cap: $26B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Credit Services)
+## Sector Context
+Financial Services / Credit Services
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Financial Services/Credit Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 21.3%; Earnings std: 41.8% (volatile); Gross margin: 0% (commodity-like) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: 0.7% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 0% — weak pricing power; Operating margin 49% — durable | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 64% | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 21.3%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 291% (strong); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 21% — strong franchise (Financial Services); Operating margin 49% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 62% | - |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 5.3 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Credit Services)
-- **Margin of Safety**: 129% — PRESENT (IV $165 vs $72 at 17x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Circle of Competence**: Financial Services / Credit Services
+- **Margin of Safety**: 118% — PRESENT (IV $158 vs $72 at 17x)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.18 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

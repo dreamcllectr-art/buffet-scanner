@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAT
-*Generated: 2026-04-12 18:41 | Price: $14.64 | Mkt Cap: $5B*
+*Generated: 2026-04-12 19:41 | Price: $14.64 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -20,13 +20,13 @@ Consumer Cyclical / Leisure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 11.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; FCF/NI: 152% (strong); Gross margin: 49% (pricing power for Consumer Cyclical) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); No insider transaction data; Restricted stock: 16.7% of shares (SBC concern) | - |
+| Quality | 3.1/10 | 30% | 0.9 | Avg ROIC: 11.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 152% (strong); Gross margin: 49% (pricing power for Consumer Cyclical) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 8% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

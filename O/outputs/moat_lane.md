@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: O
-*Generated: 2026-04-12 13:50 | Price: $63.75 | Mkt Cap: $59B*
+*Generated: 2026-04-12 19:36 | Price: $63.75 | Mkt Cap: $59B*
 
-## Circle of Competence: OUTSIDE
-Unknown sector (Real Estate/REIT - Retail) — flag for review.
+## Sector Context
+Real Estate / REIT - Retail
 
 ---
 
@@ -20,7 +20,7 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 2.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 357% (strong); Gross margin: 93% (pricing power for Real Estate) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 2.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 357% (strong); Gross margin: 93% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 93% vs sector strong cutoff 55% — strong pricing power; Operating margin 47% — durable for Real Estate | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.3x — expensive; 52w range position: 69%; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | Expensive |
@@ -35,7 +35,7 @@ Unknown sector (Real Estate/REIT - Retail) — flag for review.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Unknown sector (Real Estate/REIT - Retail) — flag for review.
+- **Circle of Competence**: Real Estate / REIT - Retail
 - **Margin of Safety**: -54% — ABSENT ($64 > IV $29 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

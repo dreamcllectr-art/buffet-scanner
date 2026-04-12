@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HXL
-*Generated: 2026-04-12 18:40 | Price: $83.59 | Mkt Cap: $6B*
+*Generated: 2026-04-12 19:46 | Price: $83.59 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

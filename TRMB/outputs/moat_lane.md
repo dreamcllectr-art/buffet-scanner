@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: TRMB
-*Generated: 2026-04-08 05:53 | Price: $64.21 | Mkt Cap: $15B*
+*Generated: 2026-04-12 19:37 | Price: $64.77 | Mkt Cap: $15B*
 
-## Circle of Competence: IN
-In circle (Technology/Scientific & Technical Instruments)
+## Sector Context
+Technology / Scientific & Technical Instruments
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Scientific & Technical Instruments)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings std: 251.7% (highly volatile); FCF/NI: 93% (strong); Gross margin: 71% (pricing power) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 71% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 31%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 93% (strong); Gross margin: 71% (pricing power for Technology) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 22% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,11 +35,11 @@ In circle (Technology/Scientific & Technical Instruments)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Scientific & Technical Instruments)
-- **Margin of Safety**: -31% — ABSENT ($64 > IV $44 at 25x for 25% growth)
+- **Circle of Competence**: Technology / Scientific & Technical Instruments
+- **Margin of Safety**: -32% — ABSENT ($65 > IV $44 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

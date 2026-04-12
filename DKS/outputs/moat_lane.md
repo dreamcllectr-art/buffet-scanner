@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKS
-*Generated: 2026-04-12 18:38 | Price: $212.46 | Mkt Cap: $19B*
+*Generated: 2026-04-12 19:39 | Price: $212.46 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

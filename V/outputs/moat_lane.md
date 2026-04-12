@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: V
-*Generated: 2026-03-30 18:34 | Price: $298.945 | Mkt Cap: $576B*
+*Generated: 2026-04-12 19:44 | Price: $304.36 | Mkt Cap: $587B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Credit Services)
+## Sector Context
+Financial Services / Credit Services
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Credit Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 30.1% (4y); Earnings std: 7.7% (predictable); FCF/NI: 109% (strong); Gross margin: 98% (pricing power) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 30.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $3.4B (0.6%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: -3.5% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 98% — strong pricing power; Operating margin 68% — durable | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.6x — growth premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.6/10** | **100%** | **8.6** | | |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 54% — strong franchise (Financial Services); Operating margin 68% — durable for Financial Services | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.9x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
-## Buffett Score: 8.6 / 10
+## Buffett Score: 8.2 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -35,8 +35,8 @@ In circle (Financial Services/Credit Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Credit Services)
-- **Margin of Safety**: -29% — ABSENT ($299 > IV $213 at 20x for 17% growth)
+- **Circle of Competence**: Financial Services / Credit Services
+- **Margin of Safety**: -30% — ABSENT ($304 > IV $213 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

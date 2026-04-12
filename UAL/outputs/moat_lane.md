@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: UAL
-*Generated: 2026-04-08 05:53 | Price: $89.29 | Mkt Cap: $29B*
+*Generated: 2026-04-12 19:44 | Price: $96.4 | Mkt Cap: $31B*
 
-## Circle of Competence: IN
-In circle (Industrials/Airlines)
+## Sector Context
+Industrials / Airlines
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Industrials/Airlines)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.4/10 | 30% | 0.7 | Avg ROIC: 9.2% (4y); Earnings std: 139.8% (highly volatile); FCF/NI: 89% (strong); Gross margin: 34% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — weak pricing power; Operating margin 9% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.1x — deep value; 52w range position: 53%; Owner earnings yield: 3.8% | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 9.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 34% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 34% — moderate moat for Industrials; Operating margin 9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 59%; Owner earnings yield: 3.5% | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Industrials/Airlines)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Airlines)
-- **Margin of Safety**: 94% — PRESENT (IV $173 vs $89 at 17x)
+- **Circle of Competence**: Industrials / Airlines
+- **Margin of Safety**: 80% — PRESENT (IV $173 vs $96 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROKU
-*Generated: 2026-04-12 18:38 | Price: $102.47 | Mkt Cap: $15B*
+*Generated: 2026-04-12 19:39 | Price: $102.47 | Mkt Cap: $15B*
 
 ## Sector Context
 Communication Services / Entertainment

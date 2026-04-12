@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TWLO
-*Generated: 2026-04-12 18:38 | Price: $117.65 | Mkt Cap: $18B*
+*Generated: 2026-04-12 19:45 | Price: $117.65 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Software - Infrastructure

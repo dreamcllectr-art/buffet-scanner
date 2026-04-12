@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TOL
-*Generated: 2026-04-12 18:38 | Price: $140.12 | Mkt Cap: $13B*
+*Generated: 2026-04-12 19:39 | Price: $140.12 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LPX
-*Generated: 2026-04-12 18:41 | Price: $74.79 | Mkt Cap: $5B*
+*Generated: 2026-04-12 19:41 | Price: $74.79 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.8% inst.) as insider
 

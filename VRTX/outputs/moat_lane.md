@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: VRTX
-*Generated: 2026-03-30 18:35 | Price: $437.46 | Mkt Cap: $111B*
+*Generated: 2026-04-12 19:44 | Price: $436.27 | Mkt Cap: $111B*
 
-## Circle of Competence: IN
-In circle (Healthcare/Biotechnology)
+## Sector Context
+Healthcare / Biotechnology
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 16.3% (4y); Earnings std: 405.3% (highly volatile); FCF/NI: 118% (strong); Gross margin: 54% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 54% — moderate moat; Operating margin 40% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 51%; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 16.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 115% from prior peak; 5y price drawdown: 29% (stable); FCF/NI: 118% (strong); Gross margin: 54% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 54% — moderate moat for Healthcare; Operating margin 40% — durable for Healthcare | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; 52w range position: 50%; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,8 +35,8 @@ In circle (Healthcare/Biotechnology)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Healthcare/Biotechnology)
-- **Margin of Safety**: -12% — ABSENT ($437 > IV $383 at 25x for 33% growth)
+- **Circle of Competence**: Healthcare / Biotechnology
+- **Margin of Safety**: -12% — ABSENT ($436 > IV $383 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

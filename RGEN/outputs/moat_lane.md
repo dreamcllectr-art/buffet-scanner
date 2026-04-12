@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGEN
-*Generated: 2026-04-12 18:40 | Price: $120.1 | Mkt Cap: $7B*
+*Generated: 2026-04-12 19:46 | Price: $120.1 | Mkt Cap: $7B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

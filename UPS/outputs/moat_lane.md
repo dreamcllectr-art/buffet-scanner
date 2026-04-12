@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: UPS
-*Generated: 2026-04-08 05:53 | Price: $97.57 | Mkt Cap: $83B*
+*Generated: 2026-04-12 19:44 | Price: $101.7 | Mkt Cap: $86B*
 
-## Circle of Competence: IN
-In circle (Industrials/Integrated Freight & Logistics)
+## Sector Context
+Industrials / Integrated Freight & Logistics
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Industrials/Integrated Freight & Logistics)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.9/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 20.8% (4y); Earnings std: 19.8%; FCF/NI: 87% (strong); Gross margin: 23% (commodity-like) | ROIC declining |
+| Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 52% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 87% (strong); Gross margin: 23% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 23% — weak pricing power; Operating margin 11% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 39%; Owner earnings yield: 6.3% (>5%) | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 23% — moderate moat for Industrials; Operating margin 11% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 49%; Owner earnings yield: 6.0% (>5%) | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,8 +35,8 @@ In circle (Industrials/Integrated Freight & Logistics)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Integrated Freight & Logistics)
-- **Margin of Safety**: 1% — thin (IV $98 at 15x)
+- **Circle of Competence**: Industrials / Integrated Freight & Logistics
+- **Margin of Safety**: -3% — ABSENT ($102 > IV $98 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

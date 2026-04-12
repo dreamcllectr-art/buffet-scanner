@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOX
-*Generated: 2026-04-12 18:40 | Price: $63.0 | Mkt Cap: $7B*
+*Generated: 2026-04-12 19:46 | Price: $63.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Software - Infrastructure

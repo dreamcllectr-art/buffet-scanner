@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LECO
-*Generated: 2026-04-12 18:38 | Price: $256.26 | Mkt Cap: $14B*
+*Generated: 2026-04-12 19:38 | Price: $256.26 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Tools & Accessories

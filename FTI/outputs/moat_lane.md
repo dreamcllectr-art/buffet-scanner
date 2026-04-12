@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTI
-*Generated: 2026-04-12 18:37 | Price: $73.79 | Mkt Cap: $30B*
+*Generated: 2026-04-12 19:45 | Price: $73.79 | Mkt Cap: $30B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services

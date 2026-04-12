@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: UNP
-*Generated: 2026-04-08 05:53 | Price: $246.11 | Mkt Cap: $146B*
+*Generated: 2026-04-12 19:44 | Price: $250.51 | Mkt Cap: $149B*
 
-## Circle of Competence: IN
-In circle (Industrials/Railroads)
+## Sector Context
+Industrials / Railroads
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Industrials/Railroads)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.8/10 | 30% | 2.6 | Avg ROIC: 16.7% (4y); Earnings std: 8.4% (predictable); FCF/NI: 80% (strong); Gross margin: 56% (pricing power) | - |
+| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 16.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 80% (strong); Gross margin: 56% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% — moderate moat; Operating margin 41% — durable | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.1x — fair price; 52w range position: 65%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 56% vs sector strong cutoff 35% — strong pricing power; Operating margin 41% — durable for Industrials | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 71%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.3 / 10
+## Alpha Adjustment: +0.23
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,20 +35,20 @@ In circle (Industrials/Railroads)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Railroads)
-- **Margin of Safety**: -17% — ABSENT ($246 > IV $204 at 17x for 7% growth)
-- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
+- **Circle of Competence**: Industrials / Railroads
+- **Margin of Safety**: -19% — ABSENT ($251 > IV $203 at 17x for 7% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: high quality, attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.23 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

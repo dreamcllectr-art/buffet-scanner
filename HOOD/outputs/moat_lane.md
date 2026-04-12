@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-04-12 13:50 | Price: $69.19 | Mkt Cap: $62B*
+*Generated: 2026-04-12 19:36 | Price: $69.19 | Mkt Cap: $62B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Capital Markets)
+## Sector Context
+Financial Services / Capital Markets
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Capital Markets)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 0.1% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -14% (weak conversion); Gross margin: n/a for financials | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 0.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 90% (severe cyclicality); FCF/NI: -14% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 22% — strong franchise (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 26% — demand pull | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.7x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Financial Services/Capital Markets)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Capital Markets)
+- **Circle of Competence**: Financial Services / Capital Markets
 - **Margin of Safety**: -56% — ABSENT ($69 > IV $31 at 15x for -34% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership

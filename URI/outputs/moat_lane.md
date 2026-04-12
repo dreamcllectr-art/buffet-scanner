@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: URI
-*Generated: 2026-04-08 05:53 | Price: $732.74 | Mkt Cap: $46B*
+*Generated: 2026-04-12 19:44 | Price: $771.93 | Mkt Cap: $49B*
 
-## Circle of Competence: IN
-In circle (Industrials/Rental & Leasing Services)
+## Sector Context
+Industrials / Rental & Leasing Services
 
 ---
 
@@ -20,35 +20,35 @@ In circle (Industrials/Rental & Leasing Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 14.5% (4y); Earnings std: 9.2% (predictable); FCF/NI: 26% (weak conversion); Gross margin: 38% | - |
+| Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 14.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 26% (weak conversion); Gross margin: 38% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — weak pricing power; Operating margin 25% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 41%; Owner earnings yield: 4.2% | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 25% — durable for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 46%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 5.7 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Rental & Leasing Services)
-- **Margin of Safety**: -21% — ABSENT ($733 > IV $579 at 15x for -2% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Circle of Competence**: Industrials / Rental & Leasing Services
+- **Margin of Safety**: -25% — ABSENT ($772 > IV $579 at 15x for -2% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.20 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

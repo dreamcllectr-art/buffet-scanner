@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRP
-*Generated: 2026-04-12 18:41 | Price: $30.57 | Mkt Cap: $5B*
+*Generated: 2026-04-12 19:41 | Price: $30.57 | Mkt Cap: $5B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -21,7 +21,7 @@ Real Estate / REIT - Residential
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: -55245226.3% (3y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 21% (stable); FCF/NI: 584% (strong); Gross margin: 85% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); No insider transaction data; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 85% vs sector strong cutoff 55% — strong pricing power; Operating margin 85% — durable for Real Estate | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 58% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |

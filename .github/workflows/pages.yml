@@ -1,0 +1,54 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # The dashboard is a single-file React SPA served from /dashboard/index.html,
+      # but it fetches /scan_results.csv and /{TICKER}/outputs/moat_lane.md from
+      # the site root. Stage a flat publish tree so those relative paths resolve.
+      - name: Assemble publish tree
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          cp dashboard/index.html _site/index.html
+          cp scan_results.csv _site/scan_results.csv
+          [ -f scan_results_prev.csv ] && cp scan_results_prev.csv _site/scan_results_prev.csv || true
+          [ -f leaderboard.md ] && cp leaderboard.md _site/leaderboard.md || true
+          # Copy every per-ticker detail file preserving TICKER/outputs/moat_lane.md
+          shopt -s nullglob
+          for f in */outputs/moat_lane.md; do
+            mkdir -p "_site/$(dirname "$f")"
+            cp "$f" "_site/$f"
+          done
+          echo "Publish tree:"
+          find _site -maxdepth 2 -type f | head -20
+          echo "Total files: $(find _site -type f | wc -l)"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

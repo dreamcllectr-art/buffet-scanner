@@ -96,24 +96,10 @@ def scan_ticker(sym):
         return {'ticker': sym, 'error': str(e)}
 
 
-def run_scan(tickers, workers=8, verbose=False):
+def _run_pass(tickers, workers, fn, pass_label):
+    """Single scan pass. Returns (successes, errors)."""
     results = []
     errors = []
-
-    if not verbose:
-        # Suppress stdout from moat_lane during scan
-        import io
-        from contextlib import redirect_stdout
-
-        def scan_silent(sym):
-            with redirect_stdout(io.StringIO()):
-                return scan_ticker(sym)
-        fn = scan_silent
-    else:
-        fn = scan_ticker
-
-    print(f"Scanning {len(tickers)} tickers with {workers} workers...\n")
-
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futures = {pool.submit(fn, sym): sym for sym in tickers}
         done = 0
@@ -126,11 +112,50 @@ def run_scan(tickers, workers=8, verbose=False):
                 score = r['buffett_score']
                 verdict = r['verdict']
                 bar = '█' * int(score) + '░' * (10 - int(score))
-                print(f"  [{done:3d}/{len(tickers)}] {sym:<6} {bar} {score:.1f}  {verdict}")
+                print(f"  {pass_label} [{done:3d}/{len(tickers)}] {sym:<6} {bar} {score:.1f}  {verdict}")
             else:
                 err = r.get('error', 'unknown') if r else 'unknown'
                 errors.append(sym)
-                print(f"  [{done:3d}/{len(tickers)}] {sym:<6} ERROR: {err[:60]}")
+                print(f"  {pass_label} [{done:3d}/{len(tickers)}] {sym:<6} ERROR: {err[:60]}")
+    return results, errors
+
+
+def run_scan(tickers, workers=8, verbose=False):
+    """Two-pass scan with a cooldown between passes.
+
+    yfinance rate-limits after a few hundred sequential calls in a single
+    session. Pass 1 picks up the tickers that get through cleanly. Pass 2
+    waits 60 seconds (long enough for most rate-limit windows to reset)
+    and retries only the pass-1 failures. Failed tickers in pass 2 are
+    genuinely broken data — not transient limits.
+    """
+    import time
+
+    if not verbose:
+        import io
+        from contextlib import redirect_stdout
+
+        def scan_silent(sym):
+            with redirect_stdout(io.StringIO()):
+                return scan_ticker(sym)
+        fn = scan_silent
+    else:
+        fn = scan_ticker
+
+    print(f"Pass 1: scanning {len(tickers)} tickers with {workers} workers...\n")
+    results, errors = _run_pass(tickers, workers, fn, "P1")
+
+    if errors:
+        cooldown = 60
+        print(f"\nPass 1 complete: {len(results)} scored, {len(errors)} failed.")
+        print(f"Cooling down {cooldown}s before retry pass...\n")
+        time.sleep(cooldown)
+
+        print(f"Pass 2: retrying {len(errors)} failed tickers...\n")
+        retry_results, final_errors = _run_pass(errors, workers, fn, "P2")
+        results.extend(retry_results)
+        errors = final_errors
+        print(f"\nPass 2 complete: {len(retry_results)} recovered, {len(final_errors)} still failing.")
 
     return results, errors
 

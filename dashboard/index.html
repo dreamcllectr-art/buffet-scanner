@@ -366,6 +366,14 @@
     margin-top: 2px;
     line-height: 1.5;
   }
+  .pillar-note-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 560px;
+  }
 
   .killer-row {
     padding: 8px 0;
@@ -421,6 +429,39 @@
     padding: 12px 0;
     letter-spacing: 0.1em;
   }
+
+  /* ── Narrative (Gemini leaderboard.md) ── */
+  .narrative-section {
+    margin-top: 40px;
+  }
+  .narrative-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 2px solid var(--gold);
+    border-radius: 3px;
+    padding: 24px 32px;
+    margin-top: 16px;
+  }
+  .narrative-bottom {
+    border-left-color: var(--cream);
+    background: var(--surface2);
+  }
+  .narrative-head {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .narrative-line {
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--cream-dim);
+    margin-bottom: 10px;
+  }
+  .narrative-line:last-child { margin-bottom: 0; }
 
   /* ── Munger alert ── */
   .alert-section {
@@ -518,6 +559,8 @@ function parseCSV(text) {
     headers.forEach((h, i) => obj[h] = vals[i] || '');
     obj.buffett_score = parseFloat(obj.buffett_score) || 0;
     obj.alpha_adj = parseFloat(obj.alpha_adj) || 0;
+    obj.material_killers = parseInt(obj.material_killers, 10) || 0;
+    obj.in_circle = obj.in_circle === '' ? 1 : parseInt(obj.in_circle, 10);
     return obj;
   });
 }
@@ -633,7 +676,7 @@ function DetailPanel({ ticker }) {
             <div className="pillar-row" key={i}>
               <div>
                 <div className="pillar-name">{p.name}</div>
-                <div className="pillar-note">{p.rationale?.replace(/\|.*$/, '').substring(0, 80)}</div>
+                <div className="pillar-note pillar-note-clamp">{p.rationale?.replace(/\|.*$/, '')}</div>
               </div>
               <div className="pillar-score">{p.score}</div>
             </div>
@@ -724,7 +767,14 @@ function StockRow({ stock, rank, animDelay, rankDelta, scoreDelta }) {
 
         <div className="verdict-cell">
           <span className={`verdict ${verdictClass(stock.verdict)}`}>
-            {stock.verdict}<span className="chevron">▾</span>
+            {stock.verdict}
+            {stock.in_circle === 0 && (
+              <span title="Outside circle of competence — score capped at 7.0"
+                    style={{marginLeft:'6px',fontSize:'9px',color:'var(--amber)',fontFamily:'var(--mono)'}}>
+                ⊘CoC
+              </span>
+            )}
+            <span className="chevron">▾</span>
           </span>
         </div>
       </div>
@@ -734,15 +784,54 @@ function StockRow({ stock, rank, animDelay, rankDelta, scoreDelta }) {
 }
 
 // ── Main App ─────────────────────────────────────────────────────────────────
+// Extract the "Top 5 Deep Dives" and "Bottom Line" sections from leaderboard.md
+function parseLeaderboard(md) {
+  if (!md) return null;
+  const out = { topFive: '', bottomLine: '', mungerSection: '' };
+  const top = md.match(/##\s*Top 5 Deep Dives([\s\S]*?)(?=\n##\s|$)/);
+  if (top) out.topFive = top[1].trim();
+  const munger = md.match(/##\s*Munger Inversion Alert([\s\S]*?)(?=\n##\s|$)/);
+  if (munger) out.mungerSection = munger[1].trim();
+  const bottom = md.match(/##\s*Bottom Line([\s\S]*?)$/);
+  if (bottom) out.bottomLine = bottom[1].trim();
+  return out;
+}
+
+// Tiny markdown→JSX for the narrow subset leaderboard.md uses: bold, italic, headings inside a section
+function mdInline(text) {
+  if (!text) return null;
+  const parts = [];
+  const regex = /\*\*(.+?)\*\*|\*(.+?)\*|`(.+?)`/g;
+  let lastIdx = 0, match, key = 0;
+  while ((match = regex.exec(text)) !== null) {
+    if (match.index > lastIdx) parts.push(text.slice(lastIdx, match.index));
+    if (match[1]) parts.push(<strong key={key++} style={{color:'var(--cream)'}}>{match[1]}</strong>);
+    else if (match[2]) parts.push(<em key={key++}>{match[2]}</em>);
+    else if (match[3]) parts.push(<code key={key++} style={{fontFamily:'var(--mono)',color:'var(--gold)'}}>{match[3]}</code>);
+    lastIdx = match.index + match[0].length;
+  }
+  if (lastIdx < text.length) parts.push(text.slice(lastIdx));
+  return parts;
+}
+
 function App() {
   const [stocks, setStocks] = useState([]);
   const [deltas, setDeltas] = useState({});  // ticker → {rank, score}
+  const [lastScan, setLastScan] = useState(null);
+  const [narrative, setNarrative] = useState(null);
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('ALL');
 
   useEffect(() => {
-    const curr = fetch('/scan_results.csv').then(r => r.text()).then(parseCSV);
+    const curr = fetch('/scan_results.csv').then(r => {
+      const lm = r.headers.get('Last-Modified');
+      if (lm) setLastScan(new Date(lm));
+      return r.text();
+    }).then(parseCSV);
     const prev = fetch('/scan_results_prev.csv').then(r => r.ok ? r.text() : null).then(t => t ? parseCSV(t) : null).catch(() => null);
+    fetch('/leaderboard.md').then(r => r.ok ? r.text() : null)
+      .then(t => t ? setNarrative(parseLeaderboard(t)) : null)
+      .catch(() => {});
 
     Promise.all([curr, prev]).then(([current, previous]) => {
       setStocks(current);
@@ -769,11 +858,9 @@ function App() {
 
   const ownForever = stocks.filter(s => s.verdict === 'Own Forever');
   const watchlist  = stocks.filter(s => s.verdict === 'Watchlist');
-  const mungerAlert = stocks.filter(s => {
-    // We flag names scored >= 7.5 — we'd need detail data to check killers
-    // Use conviction HIGH as proxy for "model loves it"
-    return s.buffett_score >= 7.5 && s.conviction === 'HIGH';
-  });
+  // Munger alert: high-score names with material inversion killers.
+  // material_killers comes straight from run_inversion in the scoring engine.
+  const mungerAlert = stocks.filter(s => s.buffett_score >= 7.0 && s.material_killers >= 1);
   const avgScore = stocks.length ? (stocks.reduce((a,s) => a + s.buffett_score, 0) / stocks.length).toFixed(1) : '—';
   const topName = stocks[0];
 
@@ -791,7 +878,12 @@ function App() {
         <h1>The <em>Oracle's</em> Ledger</h1>
         <div className="masthead-sub">
           {new Date().toLocaleDateString('en-US', {weekday:'long',year:'numeric',month:'long',day:'numeric'}).toUpperCase()}
-          {' · '}S&P 100 UNIVERSE · {stocks.length} NAMES SCORED
+          {' · '}S&P 500 + RUSSELL 1000 · {stocks.length} NAMES SCORED
+          {lastScan && (
+            <span style={{marginLeft:'16px',color:'var(--gold)'}}>
+              · LAST SCAN {lastScan.toISOString().slice(0,10)}
+            </span>
+          )}
         </div>
       </div>
 
@@ -865,6 +957,33 @@ function App() {
         ))}
       </div>
 
+      {/* Narrative (from leaderboard.md) */}
+      {narrative && (narrative.topFive || narrative.bottomLine) && (
+        <div className="narrative-section">
+          <div className="section-head">
+            <h2>Today's Narrative</h2>
+            <div className="section-head-line" />
+            <span style={{fontFamily:'var(--mono)',fontSize:'9px',color:'var(--cream-dim)',letterSpacing:'0.1em'}}>
+              ORACLE'S VOICE
+            </span>
+          </div>
+          {narrative.topFive && (
+            <div className="narrative-box">
+              <div className="narrative-head">Top 5 Deep Dives</div>
+              {narrative.topFive.split(/\n+/).filter(l => l.trim()).map((line, i) => (
+                <p key={i} className="narrative-line">{mdInline(line.replace(/^[-*]\s*/, ''))}</p>
+              ))}
+            </div>
+          )}
+          {narrative.bottomLine && (
+            <div className="narrative-box narrative-bottom">
+              <div className="narrative-head">Bottom Line</div>
+              <p className="narrative-line">{mdInline(narrative.bottomLine)}</p>
+            </div>
+          )}
+        </div>
+      )}
+
       {/* Munger Alert */}
       {mungerAlert.length > 0 && (
         <div className="alert-section">
@@ -873,11 +992,11 @@ function App() {
             <div className="section-head-line" />
           </div>
           <div className="alert-box">
-            <div className="alert-head">⚠ High conviction scores — expand to verify inversion killers before initiating position</div>
+            <div className="alert-head">⚠ High-score names with material inversion killers — re-underwrite before sizing</div>
             <div className="alert-items">
               {mungerAlert.map(s => (
                 <span className="alert-item" key={s.ticker}>
-                  <strong>{s.ticker}</strong>{s.buffett_score.toFixed(1)} / High — review killers
+                  <strong>{s.ticker}</strong>{s.buffett_score.toFixed(1)} · {s.material_killers} material killer{s.material_killers > 1 ? 's' : ''}
                 </span>
               ))}
             </div>

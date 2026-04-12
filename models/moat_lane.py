@@ -85,24 +85,31 @@ def score_quality(ticker_sym, info, income, cashflow, balance):
     except Exception as e:
         notes.append(f"ROIC calc error: {e}")
 
-    # --- Earnings predictability (critical for Buffett — penalize hard) ---
+    # --- Earnings predictability (Buffett: monotonic direction, not variance) ---
+    # Count down-years in trailing series. A growing company (30→40→50) has 0
+    # down-years and should earn the bonus despite high YoY std-dev.
     try:
         net_income = income.loc['Net Income'] if 'Net Income' in income.index else None
         if net_income is not None and len(net_income) >= 3:
-            yoy = net_income.pct_change(-1).dropna()
-            std = yoy.std()
-            if std < 0.10:
-                modifier += 1.0
-                notes.append(f"Earnings std: {std:.1%} (predictable)")
-            elif std > 0.50:
-                modifier -= 2.0  # Severe penalty for wild swings
-                notes.append(f"Earnings std: {std:.1%} (highly volatile)")
-            elif std > 0.20:
-                modifier -= 1.0
-                notes.append(f"Earnings std: {std:.1%} (volatile)")
-            else:
-                notes.append(f"Earnings std: {std:.1%}")
-    except:
+            ni_values = [float(v) for v in net_income.values if pd.notna(v)]
+            ni_values = ni_values[::-1]  # oldest → newest
+            if len(ni_values) >= 3:
+                diffs = np.diff(ni_values)
+                down_years = int(np.sum(diffs < 0))
+                total_transitions = len(diffs)
+                # Any negative year breaks "predictable" in Buffett's sense
+                if down_years == 0:
+                    modifier += 1.0
+                    notes.append(f"Earnings: {total_transitions}/{total_transitions} up-years (predictable)")
+                elif down_years == 1:
+                    notes.append(f"Earnings: 1 down-year in {total_transitions} transitions")
+                elif down_years >= total_transitions - 1:
+                    modifier -= 2.0
+                    notes.append(f"Earnings: {down_years}/{total_transitions} down-years (unpredictable)")
+                else:
+                    modifier -= 1.0
+                    notes.append(f"Earnings: {down_years}/{total_transitions} down-years (choppy)")
+    except Exception:
         pass
 
     # --- FCF conversion ---
@@ -122,14 +129,23 @@ def score_quality(ticker_sym, info, income, cashflow, balance):
     except:
         pass
 
-    # --- Gross margins ---
+    # --- Gross margins (sector-aware — pricing power vs sector norm) ---
     gm = info.get('grossMargins', 0) or 0
-    if gm > 0.50:
+    sector = info.get('sector', '') or ''
+    industry = info.get('industry', '') or ''
+    strong_gm, mod_gm = SECTOR_GM_BANDS.get(sector, (0.50, 0.30))
+    if strong_gm is None:
+        # Financials — gross margin is not meaningful, skip this modifier
+        notes.append("Gross margin: n/a for financials")
+    elif industry in RETAIL_SCALE_INDUSTRIES:
+        # Thin-margin retailers — GM is not the pricing-power signal, skip
+        notes.append(f"Gross margin: {gm:.0%} (thin by design for {industry})")
+    elif gm > strong_gm:
         modifier += 1.0
-        notes.append(f"Gross margin: {gm:.0%} (pricing power)")
-    elif gm < 0.30:
+        notes.append(f"Gross margin: {gm:.0%} (pricing power for {sector})")
+    elif gm < mod_gm:
         modifier -= 0.5
-        notes.append(f"Gross margin: {gm:.0%} (commodity-like)")
+        notes.append(f"Gross margin: {gm:.0%} (below {sector} norm)")
     else:
         notes.append(f"Gross margin: {gm:.0%}")
 
@@ -219,21 +235,104 @@ def score_management(ticker_sym, info, insider_df):
 # ---------------------------------------------------------------------------
 # Pillar 3: Moat (25%)
 # ---------------------------------------------------------------------------
+
+# Sector-aware gross-margin thresholds. Absolute cutoffs penalize banks,
+# retailers, distributors, and insurers whose structural margins are low but
+# whose moats (switching costs, regulatory, scale) are real. Buckets are
+# (strong, moderate) pairs — anything below `moderate` is "weak for sector".
+SECTOR_GM_BANDS = {
+    # Tech/software — very high structural margins
+    'Technology': (0.60, 0.40),
+    'Communication Services': (0.55, 0.40),
+    # Branded consumer — pricing power shows at ~50/35
+    'Consumer Defensive': (0.45, 0.30),
+    'Consumer Cyclical': (0.45, 0.30),
+    # Healthcare — wide spread (pharma high, hospitals low)
+    'Healthcare': (0.55, 0.35),
+    # Industrials — 30%+ is strong
+    'Industrials': (0.35, 0.22),
+    # Basic materials / energy — commodity-heavy
+    'Basic Materials': (0.30, 0.18),
+    'Energy': (0.30, 0.15),
+    'Utilities': (0.40, 0.25),
+    # Real estate — NOI-style margins
+    'Real Estate': (0.55, 0.35),
+    # Financials — GM is misleading; use operating margin / NIM separately
+    'Financial Services': (None, None),
+}
+
+SECTOR_OM_BANDS = {
+    'Technology': (0.30, 0.18),
+    'Communication Services': (0.25, 0.15),
+    'Consumer Defensive': (0.15, 0.08),
+    'Consumer Cyclical': (0.12, 0.06),
+    'Healthcare': (0.20, 0.10),
+    'Industrials': (0.15, 0.08),
+    'Basic Materials': (0.15, 0.07),
+    'Energy': (0.15, 0.05),
+    'Utilities': (0.20, 0.10),
+    'Real Estate': (0.30, 0.15),
+    'Financial Services': (0.30, 0.18),
+}
+
+
+def _sector_band(sector, table, default):
+    return table.get(sector, default)
+
+
+RETAIL_SCALE_INDUSTRIES = {
+    'Discount Stores', 'Department Stores', 'Grocery Stores',
+    'Food Distribution', 'Specialty Retail', 'Home Improvement Retail',
+    'Auto Parts', 'Apparel Retail',
+}
+
+
 def score_moat(ticker_sym, info, peer_df):
     notes = []
     score = 5.0
 
-    # --- Gross margin as moat proxy ---
+    sector = info.get('sector', '') or ''
+    industry = info.get('industry', '') or ''
     gm = info.get('grossMargins', 0) or 0
-    if gm > 0.60:
+    om = info.get('operatingMargins', 0) or 0
+
+    # --- Gross margin as moat proxy (sector-aware) ---
+    strong_gm, mod_gm = _sector_band(sector, SECTOR_GM_BANDS, (0.60, 0.40))
+    if strong_gm is None:
+        # Financials: skip GM, weight operating margin + ROE instead
+        roe = info.get('returnOnEquity', 0) or 0
+        if roe > 0.15:
+            score = 7.5
+            notes.append(f"ROE {roe:.0%} — strong franchise ({sector})")
+        elif roe > 0.10:
+            score = 6.0
+            notes.append(f"ROE {roe:.0%} — adequate ({sector})")
+        else:
+            score = 4.5
+            notes.append(f"ROE {roe:.0%} — weak ({sector})")
+    elif industry in RETAIL_SCALE_INDUSTRIES:
+        # Thin-margin retailers: moat shows in ROIC/ROA + asset turns, not GM.
+        # COST has ~12% GM but ~25% ROE and best-in-class inventory turns.
+        roa = info.get('returnOnAssets', 0) or 0
+        roe = info.get('returnOnEquity', 0) or 0
+        if roa > 0.08 or roe > 0.20:
+            score = 8.0
+            notes.append(f"ROA {roa:.0%} / ROE {roe:.0%} — scale moat ({industry})")
+        elif roa > 0.05 or roe > 0.12:
+            score = 6.5
+            notes.append(f"ROA {roa:.0%} / ROE {roe:.0%} — adequate scale ({industry})")
+        else:
+            score = 4.5
+            notes.append(f"ROA {roa:.0%} / ROE {roe:.0%} — weak for {industry}")
+    elif gm > strong_gm:
         score = 8.0
-        notes.append(f"Gross margin {gm:.0%} — strong pricing power")
-    elif gm > 0.40:
+        notes.append(f"Gross margin {gm:.0%} vs sector strong cutoff {strong_gm:.0%} — strong pricing power")
+    elif gm > mod_gm:
         score = 6.5
-        notes.append(f"Gross margin {gm:.0%} — moderate moat")
+        notes.append(f"Gross margin {gm:.0%} — moderate moat for {sector}")
     else:
         score = 4.0
-        notes.append(f"Gross margin {gm:.0%} — weak pricing power")
+        notes.append(f"Gross margin {gm:.0%} — below {sector} moderate cutoff {mod_gm:.0%}")
 
     # --- Market share / dominance (revenue vs peers) ---
     if peer_df is not None and not peer_df.empty and 'Market Cap' in peer_df.columns:
@@ -246,16 +345,16 @@ def score_moat(ticker_sym, info, peer_df):
             score += 0.5
             notes.append("Above-average market cap vs peers")
 
-    # --- Operating margin stability (moat durability) ---
-    om = info.get('operatingMargins', 0) or 0
-    if om > 0.30:
+    # --- Operating margin stability (moat durability, sector-aware) ---
+    strong_om, mod_om = _sector_band(sector, SECTOR_OM_BANDS, (0.30, 0.15))
+    if om > strong_om:
         score += 1.0
-        notes.append(f"Operating margin {om:.0%} — durable")
-    elif om > 0.15:
+        notes.append(f"Operating margin {om:.0%} — durable for {sector}")
+    elif om > mod_om:
         notes.append(f"Operating margin {om:.0%}")
     else:
         score -= 0.5
-        notes.append(f"Operating margin {om:.0%} — thin")
+        notes.append(f"Operating margin {om:.0%} — thin for {sector}")
 
     # --- Revenue growth consistency (switching costs proxy) ---
     rev_growth = info.get('revenueGrowth', 0) or 0
@@ -400,8 +499,9 @@ def run_inversion(ticker_sym, info, quality_score, moat_score):
         'material': prob >= 20 and abs(impact) >= 30,
     })
 
-    # Cap rule: if any killer P>30% AND Impact>-30%, cap score at 6.0
-    cap_triggered = any(k['probability'] > 30 and abs(k['impact']) > 30 for k in killers)
+    # Cap rule: if any killer P>=30% AND |Impact|>=40%, cap score at 6.0.
+    # Aligned to the debt-spiral red-line (debt/EBITDA > 4x → prob=30, impact=-40).
+    cap_triggered = any(k['probability'] >= 30 and abs(k['impact']) >= 40 for k in killers)
 
     return killers, cap_triggered
 
@@ -463,9 +563,6 @@ def apply_mental_models(info, quality_score, moat_score, val_score, killers):
     if rev_growth > 0.20:
         forces += 1
         lolla_notes.append("secular growth")
-    if not any(k['material'] for k in killers):
-        forces += 1
-        lolla_notes.append("no material killers")
 
     if forces >= 3:
         models.append(('Lollapalooza Effect', f'YES — {forces} forces aligning: {", ".join(lolla_notes)}'))
@@ -520,22 +617,26 @@ def run_moat_lane(ticker_sym):
 
     # --- Detect yfinance insider misclassification ---
     # yfinance sometimes counts a large institutional holder (e.g. Berkshire Hathaway)
-    # as "insiders" when their pct held ≈ heldPercentInsiders. Correct before scoring.
+    # as "insiders" when their pct held ≈ heldPercentInsiders. Check top-3 holders —
+    # Berkshire isn't always at position #1.
     try:
         inst_holders = t.institutional_holders
-        if inst_holders is not None and len(inst_holders):
-            top_inst_pct = float(inst_holders.iloc[0]['pctHeld'])
-            reported_insider_pct = info.get('heldPercentInsiders', 0) or 0
-            if reported_insider_pct > 0.05 and abs(top_inst_pct - reported_insider_pct) < 0.025:
-                top_name = inst_holders.iloc[0]['Holder']
-                print(f"WARNING: heldPercentInsiders ({reported_insider_pct:.1%}) matches top institutional "
-                      f"holder {top_name} ({top_inst_pct:.1%}) — likely misclassification. Resetting to 0.")
-                info = dict(info)  # make mutable copy
-                info['heldPercentInsiders'] = 0.0
-                info['_insider_misclassification_note'] = (
-                    f"yfinance misclassified {top_name} ({top_inst_pct:.1%} inst.) as insider"
-                )
-    except Exception as e:
+        reported_insider_pct = info.get('heldPercentInsiders', 0) or 0
+        if inst_holders is not None and len(inst_holders) and reported_insider_pct > 0.05:
+            for i in range(min(3, len(inst_holders))):
+                inst_pct = float(inst_holders.iloc[i]['pctHeld'])
+                if abs(inst_pct - reported_insider_pct) < 0.025:
+                    top_name = inst_holders.iloc[i]['Holder']
+                    print(f"WARNING: heldPercentInsiders ({reported_insider_pct:.1%}) matches "
+                          f"institutional holder #{i+1} {top_name} ({inst_pct:.1%}) — "
+                          f"likely misclassification. Resetting to 0.")
+                    info = dict(info)
+                    info['heldPercentInsiders'] = 0.0
+                    info['_insider_misclassification_note'] = (
+                        f"yfinance misclassified {top_name} ({inst_pct:.1%} inst.) as insider"
+                    )
+                    break
+    except Exception:
         pass
 
     # Peer data
@@ -622,36 +723,15 @@ def run_moat_lane(ticker_sym):
         f.write(report)
     print(f"\nReport saved: {report_path}")
 
-    # Merge buffett scores into signals_fusion.csv (preserve existing alt-data columns)
-    fusion_path = f"{ticker_sym}/outputs/signals_fusion.csv"
-    if os.path.exists(fusion_path):
-        df = pd.read_csv(fusion_path)
-        # Merge — don't overwrite existing columns
-        df['buffett_premium'] = alpha_adj
-        df['buffett_score'] = buffett_score
-        # Recalculate composite to include buffett premium
-        if 'Composite_Alpha' in df.columns:
-            base_composite = df['Composite_Alpha'].iloc[0]
-            df['Composite_Alpha_Adjusted'] = base_composite + (alpha_adj * 0.5)
-        df.to_csv(fusion_path, index=False)
-        print(f"Buffett premium merged into {fusion_path}")
-    else:
-        # No prior alt-data — create minimal file, flag that signals_gatherer should run first
-        df = pd.DataFrame([{
-            'Ticker': ticker_sym,
-            'Composite_Alpha': 0.0,
-            'buffett_premium': alpha_adj,
-            'buffett_score': buffett_score,
-            'Composite_Alpha_Adjusted': alpha_adj * 0.5,
-        }])
-        df.to_csv(fusion_path, index=False)
-        print(f"Created {fusion_path} (note: run signals_gatherer.py for full alt-data)")
+    material_killers = sum(1 for k in killers if k['material'])
 
     return {
         'buffett_score': buffett_score,
         'alpha_adj': alpha_adj,
         'conviction': conviction,
         'verdict': verdict,
+        'material_killers': material_killers,
+        'in_circle': in_circle,
     }
 
 

@@ -78,11 +78,33 @@ jobs:
           print("leaderboard.md written")
           PYEOF
 
+      - name: Verify scan output freshness
+        run: |
+          set -euo pipefail
+          test -f scan_results.csv
+          ROWS=$(($(wc -l < scan_results.csv) - 1))
+          echo "scan_results.csv rows: $ROWS"
+          if [ "$ROWS" -lt 300 ]; then
+            echo "::error::scan_results.csv has $ROWS rows, expected >=300 — aborting commit"
+            exit 1
+          fi
+
       - name: Commit and push
         run: |
+          set -euo pipefail
           git config user.email "scanner@buffet-scanner.ai"
           git config user.name "Buffett Scanner"
-          git add scan_results.csv scan_results_prev.csv leaderboard.md */outputs/moat_lane.md || true
+          git add scan_results.csv scan_results_prev.csv leaderboard.md
+          # moat_lane detail files may not all exist on first run — glob with nullglob
+          shopt -s nullglob
+          DETAILS=( */outputs/moat_lane.md )
+          if [ ${#DETAILS[@]} -gt 0 ]; then
+            git add "${DETAILS[@]}"
+          fi
           TOP=$(head -2 scan_results.csv | tail -1 | cut -d, -f1)
-          git commit -m "Daily scan $(date +%Y-%m-%d): $TOP leads" || echo "Nothing to commit"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes staged — skipping commit"
+          else
+            git commit -m "Daily scan $(date +%Y-%m-%d): $TOP leads"
+            git push origin main
+          fi

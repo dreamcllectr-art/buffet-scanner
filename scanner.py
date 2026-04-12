@@ -193,6 +193,8 @@ def save_results(ranked, output_path):
             'alpha_adj': r['alpha_adj'],
             'conviction': r['conviction'],
             'verdict': r['verdict'],
+            'material_killers': r.get('material_killers', 0),
+            'in_circle': int(bool(r.get('in_circle', True))),
         })
     df = pd.DataFrame(rows)
     df.to_csv(output_path, index=False)

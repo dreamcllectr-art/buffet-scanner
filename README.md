@@ -31,9 +31,13 @@ Each stock is scored 0–10 across four pillars:
 ## Data integrity
 
 All scores are derived from live yfinance data (Yahoo Finance). Known limitations:
-- `heldPercentInsiders` can misclassify large institutional holders (e.g. Berkshire) as insiders — the scorer detects and corrects this automatically
+- `heldPercentInsiders` can misclassify large institutional holders as insiders — the scorer inspects the top-3 institutional positions and corrects automatically
 - `earningsGrowth` is TTM quarterly, capped at 25% for margin of safety calculations
 - Inversion probabilities (25%/30%) are heuristic thresholds, not empirically calibrated
+- Gross/operating margin thresholds are sector-aware (`SECTOR_GM_BANDS` / `SECTOR_OM_BANDS` in `models/moat_lane.py`) so banks, retailers, and distributors are not mechanically penalized for structurally low margins
+- Earnings predictability is measured as the number of down-years in the trailing series (directional), not YoY standard deviation — so monotonically growing companies correctly earn the bonus
+- Ultra-thin-margin retailers like COST/WMT remain conservatively scored; their moat (inventory turns, scale) is not fully captured by GM/OM alone and requires additional signals to surface
+- Unit tests for the scoring engine live in `tests/test_moat_lane.py` — run `pytest tests/ -v`
 
 ## Running locally
 

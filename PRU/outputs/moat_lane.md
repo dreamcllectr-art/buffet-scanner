@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-04-12 13:50 | Price: $96.9 | Mkt Cap: $34B*
+*Generated: 2026-04-12 18:36 | Price: $96.9 | Mkt Cap: $34B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance - Life)
+## Sector Context
+Financial Services / Insurance - Life
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Insurance - Life)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.4%; Earnings: 3/3 up-years (predictable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
+| Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.4%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 10% — thin for Financial Services; Rev growth 31% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 37.4% (>5%) | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Insurance - Life)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance - Life)
+- **Circle of Competence**: Financial Services / Insurance - Life
 - **Margin of Safety**: 158% — PRESENT (IV $250 vs $97 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-04-12 13:50 | Price: $74.77 | Mkt Cap: $23B*
+*Generated: 2026-04-12 18:36 | Price: $74.77 | Mkt Cap: $23B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Advertising Agencies)
+## Sector Context
+Communication Services / Advertising Agencies
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Communication Services/Advertising Agencies)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -1212% (weak conversion); Gross margin: 19% (below Communication Services norm) | ROIC declining |
+| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 104% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: -1212% (weak conversion); Gross margin: 19% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -7.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Communication Services moderate cutoff 40%; Operating margin 15% — thin for Communication Services; Rev growth 28% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; 52w range position: 40%; Owner earnings yield: 19.4% (>5%) | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Communication Services/Advertising Agencies)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Advertising Agencies)
+- **Circle of Competence**: Communication Services / Advertising Agencies
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership

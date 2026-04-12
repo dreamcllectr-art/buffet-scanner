@@ -1,0 +1,56 @@
+# Buffett/Munger Moat Lane: SSNC
+*Generated: 2026-04-12 18:38 | Price: $67.26 | Mkt Cap: $16B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (11.6% inst.) as insider
+
+## Sector Context
+Technology / Software - Application
+
+---
+
+## Inversion First: What Could Kill This?
+
+| # | Killer | Description | Prob | Impact on FV | Material? |
+|---|--------|-------------|------|-------------|-----------|
+| 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+
+---
+
+## Four-Pillar Score
+
+| Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
+|--------|-------|--------|----------|-----------|----------------|
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 158% (strong); Gross margin: 48% | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.8% of shares (SBC concern) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat for Technology; Operating margin 22% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+
+## Buffett Score: 5.5 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
+
+---
+
+## Mental Models Applied
+
+- **Circle of Competence**: Technology / Software - Application
+- **Margin of Safety**: -30% — ABSENT ($67 > IV $47 at 15x for -22% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Mr. Market**: Fearful — potential opportunity
+
+## Lollapalooza Check
+No (1 forces only: attractive valuation)
+
+---
+
+## Alpha Thesis Integration
+```
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
+```

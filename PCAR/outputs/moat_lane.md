@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-04-12 13:50 | Price: $127.19 | Mkt Cap: $67B*
+*Generated: 2026-04-12 18:36 | Price: $127.19 | Mkt Cap: $67B*
 
-## Circle of Competence: IN
-In circle (Industrials/Farm & Heavy Construction Machinery)
+## Sector Context
+Industrials / Farm & Heavy Construction Machinery
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 79%; Gross margin: 14% (below Industrials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 79%; Gross margin: 14% (below Industrials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Industrials moderate cutoff 22%; Operating margin 9% | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.8x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Industrials/Farm & Heavy Construction Machinery)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Farm & Heavy Construction Machinery)
+- **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
 - **Margin of Safety**: -47% — ABSENT ($127 > IV $68 at 15x for -36% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership

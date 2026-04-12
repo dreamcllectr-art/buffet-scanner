@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBRDK
-*Generated: 2026-04-12 18:10 | Price: $51.13 | Mkt Cap: $7B*
+*Generated: 2026-04-12 18:40 | Price: $51.13 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.9% inst.) as insider
 

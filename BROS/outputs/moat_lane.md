@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-04-12 18:10 | Price: $55.88 | Mkt Cap: $9B*
+*Generated: 2026-04-12 18:40 | Price: $55.88 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

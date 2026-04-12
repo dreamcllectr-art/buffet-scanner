@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-04-12 18:07 | Price: $203.47 | Mkt Cap: $22B*
+*Generated: 2026-04-12 18:34 | Price: $203.47 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.1% inst.) as insider
 

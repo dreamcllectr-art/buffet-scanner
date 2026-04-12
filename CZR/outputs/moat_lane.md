@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CZR
-*Generated: 2026-04-12 18:10 | Price: $26.88 | Mkt Cap: $5B*
+*Generated: 2026-04-12 18:40 | Price: $26.88 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -21,7 +21,7 @@ Consumer Cyclical / Resorts & Casinos
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.1/10 | 30% | 0.0 | Avg ROIC: 9.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 164% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 13% (weak conversion); Gross margin: 50% (pricing power for Consumer Cyclical) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); No insider transaction data; Restricted stock: 5.4% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 22.9x — growth premium; 52w range position: 66%; Owner earnings yield: 12.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |

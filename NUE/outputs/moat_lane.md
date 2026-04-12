@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-04-12 13:50 | Price: $186.12 | Mkt Cap: $42B*
+*Generated: 2026-04-12 18:35 | Price: $186.12 | Mkt Cap: $42B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
+## Sector Context
+Basic Materials / Steel
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 61%; Gross margin: 12% (below Basic Materials norm) | ROIC declining |
+| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 12% (below Basic Materials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — below Basic Materials moderate cutoff 18%; Operating margin 7% — thin for Basic Materials | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.4x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Basic Materials/Steel. Proceed with caution.
+- **Circle of Competence**: Basic Materials / Steel
 - **Margin of Safety**: 1% — thin (IV $188 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.2% insider ownership

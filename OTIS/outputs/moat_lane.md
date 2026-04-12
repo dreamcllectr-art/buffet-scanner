@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: OTIS
-*Generated: 2026-04-12 13:50 | Price: $79.95 | Mkt Cap: $31B*
+*Generated: 2026-04-12 18:36 | Price: $79.95 | Mkt Cap: $31B*
 
-## Circle of Competence: IN
-In circle (Industrials/Specialty Industrial Machinery)
+## Sector Context
+Industrials / Specialty Industrial Machinery
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 72.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 103% (strong); Gross margin: 31% | ROIC declining |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 72.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 30% (stable); FCF/NI: 103% (strong); Gross margin: 31% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 31% — moderate moat for Industrials; Operating margin 16% — durable for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.8x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
+- **Circle of Competence**: Industrials / Specialty Industrial Machinery
 - **Margin of Safety**: -12% — ABSENT ($80 > IV $70 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

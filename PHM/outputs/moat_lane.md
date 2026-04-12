@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-04-12 13:50 | Price: $120.33 | Mkt Cap: $23B*
+*Generated: 2026-04-12 18:36 | Price: $120.33 | Mkt Cap: $23B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Residential Construction)
+## Sector Context
+Consumer Cyclical / Residential Construction
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Residential Construction)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 58%; Gross margin: 27% (below Consumer Cyclical norm) | ROIC declining |
+| Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 58%; Gross margin: 27% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 27% — below Consumer Cyclical moderate cutoff 30%; Operating margin 18% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 54%; Owner earnings yield: 6.5% (>5%) | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Residential Construction)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
+- **Circle of Competence**: Consumer Cyclical / Residential Construction
 - **Margin of Safety**: 39% — PRESENT (IV $167 vs $120 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership

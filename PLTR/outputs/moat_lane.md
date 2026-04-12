@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-04-12 13:50 | Price: $128.06 | Mkt Cap: $306B*
+*Generated: 2026-04-12 18:36 | Price: $128.06 | Mkt Cap: $306B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Infrastructure)
+## Sector Context
+Technology / Software - Infrastructure
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 165% (strong); Gross margin: 82% (pricing power for Technology) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 165% (strong); Gross margin: 82% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 82% vs sector strong cutoff 60% — strong pricing power; Operating margin 41% — durable for Technology; Rev growth 70% — demand pull | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 68.8x — extreme premium; 52w range position: 33%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Software - Infrastructure)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
+- **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: -88% — ABSENT ($128 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership

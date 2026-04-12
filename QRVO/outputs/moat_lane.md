@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QRVO
-*Generated: 2026-04-12 18:10 | Price: $79.81 | Mkt Cap: $7B*
+*Generated: 2026-04-12 18:40 | Price: $79.81 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Semiconductors

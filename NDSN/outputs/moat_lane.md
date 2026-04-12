@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-04-12 17:55 | Price: $275.28 | Mkt Cap: $15B*
+*Generated: 2026-04-12 18:35 | Price: $275.28 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 

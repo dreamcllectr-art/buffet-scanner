@@ -23,7 +23,7 @@ jobs:
         run: pip install -q yfinance pandas numpy lxml google-generativeai
 
       - name: Run scanner
-        run: python3 scanner.py --universe all --top 25 --workers 4 --output scan_results.csv
+        run: python3 scanner.py --universe all --top 25 --workers 2 --output scan_results.csv
 
       - name: Generate leaderboard with Gemini
         continue-on-error: true

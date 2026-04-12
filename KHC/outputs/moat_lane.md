@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-04-12 17:55 | Price: $23.06 | Mkt Cap: $27B*
+*Generated: 2026-04-12 18:07 | Price: $23.06 | Mkt Cap: $27B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (27.5% inst.) as insider
 

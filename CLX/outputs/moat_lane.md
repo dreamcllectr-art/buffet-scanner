@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-04-12 17:54 | Price: $105.28 | Mkt Cap: $13B*
+*Generated: 2026-04-12 18:06 | Price: $105.28 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-04-11 05:28 | Price: $74.77 | Mkt Cap: $23B*
+*Generated: 2026-04-12 05:59 | Price: $74.77 | Mkt Cap: $23B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Advertising Agencies)

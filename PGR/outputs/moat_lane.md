@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PGR
-*Generated: 2026-04-11 05:28 | Price: $194.13 | Mkt Cap: $114B*
+*Generated: 2026-04-12 05:59 | Price: $194.13 | Mkt Cap: $114B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Property & Casualty)

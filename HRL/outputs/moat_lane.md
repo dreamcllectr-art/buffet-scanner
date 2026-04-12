@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRL
-*Generated: 2026-04-11 05:28 | Price: $20.87 | Mkt Cap: $11B*
+*Generated: 2026-04-12 05:59 | Price: $20.87 | Mkt Cap: $11B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Packaged Foods)

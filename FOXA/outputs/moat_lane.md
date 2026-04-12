@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOXA
-*Generated: 2026-04-11 05:28 | Price: $61.02 | Mkt Cap: $26B*
+*Generated: 2026-04-12 05:59 | Price: $61.02 | Mkt Cap: $26B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)

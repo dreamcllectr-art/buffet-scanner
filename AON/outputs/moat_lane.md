@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AON
-*Generated: 2026-04-11 05:27 | Price: $312.57 | Mkt Cap: $67B*
+*Generated: 2026-04-12 05:58 | Price: $312.57 | Mkt Cap: $67B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance Brokers)

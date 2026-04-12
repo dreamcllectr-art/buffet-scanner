@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-04-11 05:28 | Price: $88.97 | Mkt Cap: $22B*
+*Generated: 2026-04-12 05:59 | Price: $88.97 | Mkt Cap: $22B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)
@@ -21,9 +21,9 @@ In circle (Consumer Cyclical/Residential Construction)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings std: 24.1% (volatile); FCF/NI: 64%; Gross margin: 17% (commodity-like) | ROIC declining |
-| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.2%; Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
+| Management | 7.0/10 | 25% | 1.8 | Insider ownership: 5.2%; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — weak pricing power; Operating margin 4% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (10% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 15.7% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

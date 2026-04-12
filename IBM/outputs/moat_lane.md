@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBM
-*Generated: 2026-04-11 05:28 | Price: $230.76 | Mkt Cap: $217B*
+*Generated: 2026-04-12 05:59 | Price: $230.76 | Mkt Cap: $217B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)

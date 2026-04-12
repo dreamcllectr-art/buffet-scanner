@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPRT
-*Generated: 2026-04-11 05:27 | Price: $32.76 | Mkt Cap: $32B*
+*Generated: 2026-04-12 05:58 | Price: $32.76 | Mkt Cap: $32B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Business Services)

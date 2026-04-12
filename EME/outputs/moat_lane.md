@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-04-11 05:27 | Price: $802.43 | Mkt Cap: $36B*
+*Generated: 2026-04-12 05:58 | Price: $802.43 | Mkt Cap: $36B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Engineering & Construction)

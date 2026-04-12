@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EA
-*Generated: 2026-04-11 05:27 | Price: $202.74 | Mkt Cap: $51B*
+*Generated: 2026-04-12 05:58 | Price: $202.74 | Mkt Cap: $51B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Electronic Gaming & Multimedia)

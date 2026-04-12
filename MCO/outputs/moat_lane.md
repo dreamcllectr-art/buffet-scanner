@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-04-11 05:28 | Price: $427.41 | Mkt Cap: $76B*
+*Generated: 2026-04-12 05:59 | Price: $427.41 | Mkt Cap: $76B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (13.9% inst.) as insider
 

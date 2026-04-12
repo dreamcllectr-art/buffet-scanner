@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPWR
-*Generated: 2026-04-11 05:28 | Price: $1353.85 | Mkt Cap: $66B*
+*Generated: 2026-04-12 05:59 | Price: $1353.85 | Mkt Cap: $66B*
 
 ## Circle of Competence: IN
 In circle (Technology/Semiconductors)
@@ -21,7 +21,7 @@ In circle (Technology/Semiconductors)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 18.6% (4y); Earnings std: 178.0% (highly volatile); FCF/NI: 81% (strong); Gross margin: 55% (pricing power) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 55% — moderate moat; Operating margin 27%; Rev growth 21% — demand pull | - |
 | Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 52.2x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |

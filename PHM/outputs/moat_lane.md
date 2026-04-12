@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-04-11 05:28 | Price: $120.33 | Mkt Cap: $23B*
+*Generated: 2026-04-12 05:59 | Price: $120.33 | Mkt Cap: $23B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)

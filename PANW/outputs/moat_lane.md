@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-04-11 05:28 | Price: $155.73 | Mkt Cap: $127B*
+*Generated: 2026-04-12 05:59 | Price: $155.73 | Mkt Cap: $127B*
 
 ## Circle of Competence: IN
 In circle (Technology/Software - Infrastructure)

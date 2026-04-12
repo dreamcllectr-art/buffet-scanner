@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-04-11 05:28 | Price: $214.91 | Mkt Cap: $8B*
+*Generated: 2026-04-12 05:59 | Price: $214.91 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.7% inst.) as insider
 

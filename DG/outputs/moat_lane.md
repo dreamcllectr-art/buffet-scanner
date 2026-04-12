@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DG
-*Generated: 2026-04-11 05:27 | Price: $115.73 | Mkt Cap: $25B*
+*Generated: 2026-04-12 05:58 | Price: $115.73 | Mkt Cap: $25B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Discount Stores)

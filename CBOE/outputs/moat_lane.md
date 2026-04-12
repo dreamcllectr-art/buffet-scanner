@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-04-11 05:27 | Price: $295.95 | Mkt Cap: $31B*
+*Generated: 2026-04-12 05:58 | Price: $295.95 | Mkt Cap: $31B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Financial Data & Stock Exchanges)

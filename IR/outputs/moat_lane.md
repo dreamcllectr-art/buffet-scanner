@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IR
-*Generated: 2026-04-11 05:28 | Price: $85.38 | Mkt Cap: $34B*
+*Generated: 2026-04-12 05:59 | Price: $85.38 | Mkt Cap: $34B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)
@@ -36,7 +36,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
-- **Margin of Safety**: -67% — ABSENT ($85 > IV $29 at 20x for 18% growth)
+- **Margin of Safety**: -66% — ABSENT ($85 > IV $29 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

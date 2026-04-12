@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNP
-*Generated: 2026-04-11 05:27 | Price: $43.39 | Mkt Cap: $28B*
+*Generated: 2026-04-12 05:58 | Price: $43.39 | Mkt Cap: $28B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.

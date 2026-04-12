@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TAP
-*Generated: 2026-04-11 05:28 | Price: $45.05 | Mkt Cap: $8B*
+*Generated: 2026-04-12 05:59 | Price: $45.05 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.6% inst.) as insider
 
@@ -25,7 +25,7 @@ In circle (Consumer Defensive/Beverages - Brewers)
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings std: 330.0% (highly volatile); FCF/NI: -68% (weak conversion); Gross margin: 38% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 38% — weak pricing power; Operating margin 14% — thin | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 8.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 8.2% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

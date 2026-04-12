@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-04-11 05:28 | Price: $295.0 | Mkt Cap: $52B*
+*Generated: 2026-04-12 05:59 | Price: $295.0 | Mkt Cap: $52B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Industrial) — flag for review.

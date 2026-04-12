@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-04-11 05:28 | Price: $256.89 | Mkt Cap: $49B*
+*Generated: 2026-04-12 05:59 | Price: $256.89 | Mkt Cap: $49B*
 
 ## Circle of Competence: IN
 In circle (Technology/Scientific & Technical Instruments)

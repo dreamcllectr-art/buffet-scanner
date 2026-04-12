@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-04-11 05:27 | Price: $125.53 | Mkt Cap: $16B*
+*Generated: 2026-04-12 05:58 | Price: $125.53 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)

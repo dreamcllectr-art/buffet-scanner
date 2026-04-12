@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOC
-*Generated: 2026-04-11 05:28 | Price: $16.74 | Mkt Cap: $12B*
+*Generated: 2026-04-12 05:59 | Price: $16.74 | Mkt Cap: $12B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Real Estate/REIT - Healthcare Facilities. Proceed with caution.

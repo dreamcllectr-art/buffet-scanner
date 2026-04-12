@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-04-11 05:28 | Price: $67.99 | Mkt Cap: $43B*
+*Generated: 2026-04-12 05:59 | Price: $67.99 | Mkt Cap: $43B*
 
 ## Circle of Competence: IN
 In circle (Consumer Defensive/Grocery Stores)

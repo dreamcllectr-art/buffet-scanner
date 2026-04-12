@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHW
-*Generated: 2026-04-11 05:28 | Price: $336.11 | Mkt Cap: $83B*
+*Generated: 2026-04-12 05:59 | Price: $336.11 | Mkt Cap: $83B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
@@ -20,14 +20,14 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 59.4%; Earnings std: 11.6%; Gross margin: 49% | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.3%; No insider transaction data; Restricted stock: 7.2% of shares (SBC concern) | - |
+| Quality | 7.2/10 | 30% | 2.2 | Avg ROIC: 19.8% (4y); Earnings std: 11.6%; FCF/NI: 89% (strong); Gross margin: 49% | - |
+| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 6.3%; Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 49% — moderate moat; Operating margin 14% — thin | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 44%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: no material killers)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

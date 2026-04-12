@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPAM
-*Generated: 2026-04-11 05:27 | Price: $122.47 | Mkt Cap: $7B*
+*Generated: 2026-04-12 05:58 | Price: $122.47 | Mkt Cap: $7B*
 
 ## Circle of Competence: IN
 In circle (Technology/Information Technology Services)
@@ -21,7 +21,7 @@ In circle (Technology/Information Technology Services)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.1/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings std: 13.1%; FCF/NI: 124% (strong); Gross margin: 29% (commodity-like) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — weak pricing power; Operating margin 12% — thin | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 10.9% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |

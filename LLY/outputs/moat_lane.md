@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-04-11 05:28 | Price: $939.47 | Mkt Cap: $841B*
+*Generated: 2026-04-12 05:59 | Price: $939.47 | Mkt Cap: $841B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

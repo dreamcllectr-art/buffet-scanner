@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWS
-*Generated: 2026-04-11 05:28 | Price: $28.26 | Mkt Cap: $16B*
+*Generated: 2026-04-12 05:59 | Price: $28.26 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Communication Services/Entertainment)

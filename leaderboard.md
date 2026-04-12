@@ -1,5 +1,9 @@
-# Leaderboard: Buffett/Munger Moat Lane
-*2026-04-11: High-quality technology and software firms dominate the top ranks, signaling enduring competitive advantages despite pockets of market apprehension.*
+```markdown
+# Buffett/Munger Leaderboard: April 12, 2026
+
+Market conditions today imply a conservative environment, with Mr. Market appearing fearful, presenting potential opportunities for high-quality businesses.
+
+## Full Ranked Table
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -69,8 +73,8 @@
 | 64 | FANG | 6.6 | MODERATE | 0.16 | Watchlist |
 | 65 | EOG | 6.6 | MODERATE | 0.16 | Watchlist |
 | 66 | GS | 6.6 | MODERATE | 0.16 | Watchlist |
-| 67 | MRSH | 6.6 | MODERATE | 0.16 | Watchlist |
-| 68 | MAS | 6.6 | MODERATE | 0.16 | Watchlist |
+| 67 | MAS | 6.6 | MODERATE | 0.16 | Watchlist |
+| 68 | MRSH | 6.6 | MODERATE | 0.16 | Watchlist |
 | 69 | PTC | 6.6 | MODERATE | 0.16 | Watchlist |
 | 70 | SPGI | 6.6 | MODERATE | 0.16 | Watchlist |
 | 71 | APA | 6.5 | MODERATE | 0.15 | Watchlist |
@@ -94,12 +98,12 @@
 | 89 | KMI | 6.4 | MODERATE | 0.14 | Watchlist |
 | 90 | NVR | 6.4 | MODERATE | 0.14 | Watchlist |
 | 91 | ORLY | 6.4 | MODERATE | 0.14 | Watchlist |
-| 92 | CTSH | 6.3 | MODERATE | 0.13 | Watchlist |
-| 93 | DXCM | 6.3 | MODERATE | 0.13 | Watchlist |
-| 94 | FOX | 6.3 | MODERATE | 0.13 | Watchlist |
-| 95 | JPM | 6.3 | MODERATE | 0.13 | Watchlist |
-| 96 | CRM | 6.3 | MODERATE | 0.13 | Watchlist |
-| 97 | NOW | 6.3 | MODERATE | 0.13 | Watchlist |
+| 92 | SHW | 6.4 | MODERATE | 0.14 | Watchlist |
+| 93 | CTSH | 6.3 | MODERATE | 0.13 | Watchlist |
+| 94 | DXCM | 6.3 | MODERATE | 0.13 | Watchlist |
+| 95 | FOX | 6.3 | MODERATE | 0.13 | Watchlist |
+| 96 | JPM | 6.3 | MODERATE | 0.13 | Watchlist |
+| 97 | CRM | 6.3 | MODERATE | 0.13 | Watchlist |
 | 98 | ABBV | 6.2 | MODERATE | 0.12 | Watchlist |
 | 99 | ABNB | 6.2 | MODERATE | 0.12 | Watchlist |
 | 100 | BLK | 6.2 | MODERATE | 0.12 | Watchlist |
@@ -111,13 +115,13 @@
 | 106 | HIG | 6.2 | MODERATE | 0.12 | Watchlist |
 | 107 | ICE | 6.2 | MODERATE | 0.12 | Watchlist |
 | 108 | JNJ | 6.2 | MODERATE | 0.12 | Watchlist |
-| 109 | KLAC | 6.2 | MODERATE | 0.12 | Watchlist |
-| 110 | MDT | 6.2 | MODERATE | 0.12 | Watchlist |
-| 111 | MSI | 6.2 | MODERATE | 0.12 | Watchlist |
-| 112 | NDSN | 6.2 | MODERATE | 0.12 | Watchlist |
-| 113 | PYPL | 6.2 | MODERATE | 0.12 | Watchlist |
-| 114 | ROP | 6.2 | MODERATE | 0.12 | Watchlist |
-| 115 | SHW | 6.2 | MODERATE | 0.12 | Watchlist |
+| 109 | KDP | 6.2 | MODERATE | 0.12 | Watchlist |
+| 110 | KLAC | 6.2 | MODERATE | 0.12 | Watchlist |
+| 111 | MDT | 6.2 | MODERATE | 0.12 | Watchlist |
+| 112 | MSI | 6.2 | MODERATE | 0.12 | Watchlist |
+| 113 | NDSN | 6.2 | MODERATE | 0.12 | Watchlist |
+| 114 | PYPL | 6.2 | MODERATE | 0.12 | Watchlist |
+| 115 | ROP | 6.2 | MODERATE | 0.12 | Watchlist |
 | 116 | AKAM | 6.1 | MODERATE | 0.11 | Watchlist |
 | 117 | AMT | 6.1 | MODERATE | 0.11 | Watchlist |
 | 118 | BF-B | 6.1 | MODERATE | 0.11 | Watchlist |
@@ -126,9 +130,9 @@
 | 121 | DRI | 6.1 | MODERATE | 0.11 | Watchlist |
 | 122 | ITW | 6.1 | MODERATE | 0.11 | Watchlist |
 | 123 | ISRG | 6.1 | MODERATE | 0.11 | Watchlist |
-| 124 | KDP | 6.1 | MODERATE | 0.11 | Watchlist |
-| 125 | NDAQ | 6.1 | MODERATE | 0.11 | Watchlist |
-| 126 | PFG | 6.1 | MODERATE | 0.11 | Watchlist |
+| 124 | NDAQ | 6.1 | MODERATE | 0.11 | Watchlist |
+| 125 | PFG | 6.1 | MODERATE | 0.11 | Watchlist |
+| 126 | NOW | 6.1 | MODERATE | 0.11 | Watchlist |
 | 127 | ACN | 6.0 | LOW | 0.0 | Pass |
 | 128 | BK | 6.0 | LOW | 0.0 | Pass |
 | 129 | BR | 6.0 | LOW | 0.0 | Pass |
@@ -220,8 +224,8 @@
 | 215 | CPB | 5.3 | LOW | 0.0 | Pass |
 | 216 | CVX | 5.3 | LOW | 0.0 | Pass |
 | 217 | LMT | 5.3 | LOW | 0.0 | Pass |
-| 218 | ATO | 5.2 | LOW | 0.0 | Pass |
-| 219 | T | 5.2 | LOW | 0.0 | Pass |
+| 218 | T | 5.2 | LOW | 0.0 | Pass |
+| 219 | ATO | 5.2 | LOW | 0.0 | Pass |
 | 220 | CMS | 5.2 | LOW | 0.0 | Pass |
 | 221 | COIN | 5.2 | LOW | 0.0 | Pass |
 | 222 | COST | 5.2 | LOW | 0.0 | Pass |
@@ -309,15 +313,15 @@
 | 304 | NI | 4.7 | LOW | 0.0 | Pass |
 | 305 | NCLH | 4.7 | LOW | 0.0 | Pass |
 | 306 | NUE | 4.7 | LOW | 0.0 | Pass |
-| 307 | SRE | 4.7 | LOW | 0.0 | Pass |
-| 308 | ARES | 4.6 | LOW | 0.0 | Pass |
-| 309 | CINF | 4.6 | LOW | 0.0 | Pass |
-| 310 | CTVA | 4.6 | LOW | 0.0 | Pass |
-| 311 | CMI | 4.6 | LOW | 0.0 | Pass |
-| 312 | DTE | 4.6 | LOW | 0.0 | Pass |
-| 313 | EG | 4.6 | LOW | 0.0 | Pass |
-| 314 | J | 4.6 | LOW | 0.0 | Pass |
-| 315 | OKE | 4.6 | LOW | 0.0 | Pass |
+| 307 | ARES | 4.6 | LOW | 0.0 | Pass |
+| 308 | CINF | 4.6 | LOW | 0.0 | Pass |
+| 309 | CTVA | 4.6 | LOW | 0.0 | Pass |
+| 310 | CMI | 4.6 | LOW | 0.0 | Pass |
+| 311 | DTE | 4.6 | LOW | 0.0 | Pass |
+| 312 | EG | 4.6 | LOW | 0.0 | Pass |
+| 313 | J | 4.6 | LOW | 0.0 | Pass |
+| 314 | OKE | 4.6 | LOW | 0.0 | Pass |
+| 315 | SRE | 4.6 | LOW | 0.0 | Pass |
 | 316 | AIZ | 4.5 | LOW | 0.0 | Pass |
 | 317 | BRK-B | 4.5 | LOW | 0.0 | Pass |
 | 318 | CPT | 4.5 | LOW | 0.0 | Pass |
@@ -418,25 +422,26 @@
 
 ## Top 5 Deep Dives
 
-**MSFT (Score: 8.8)**: This "Own Forever" candidate faces material risks from Technology Disruption (25% probability, -35% impact on FV) and Management/Governance Failure (20% probability, -30% impact on FV), particularly due to low insider ownership at 0.1%. Despite these potential pitfalls, Microsoft's high quality (28.2% avg ROIC, 69% gross margin) and robust moat (47% operating margin) alongside a "fair price" (P/E 19.7x) in a "Mr. Market fearful" environment reinforce its strong long-term appeal.
+**MSFT (Score 8.8, Own Forever)**
+MSFT faces material inversion risks from "Technology Disruption" (25% probability, -35% FV impact) and "Management / Governance Failure" (20% probability, -30% FV impact). Its "Own Forever" verdict is driven by an outstanding Quality score of 9.0 (28.2% avg ROIC) and a Moat score of 9.0 (69% gross margin), complemented by a 10.0 Valuation Fit with a P/E of 19.7x as Mr. Market remains fearful.
 
-**FICO (Score: 8.6)**: A high-quality "Own Forever" stock with an impressive 47.0% average ROIC and 83% gross margin, indicating significant pricing power and predictable earnings. The primary material inversion risk is Technology Disruption, posing a 25% probability and -35% impact on future value. While the P/E of 17.3x is considered a "fair price" by Mr. Market, the margin of safety is notably absent at -50% against its intrinsic value, necessitating careful monitoring.
+**FICO (Score 8.6, Own Forever)**
+FICO confronts one material inversion killer: "Technology Disruption" (25% probability, -35% FV impact). This company earns an 8.6, demonstrating exceptional Quality (10.0) through a 47.0% average ROIC and 83% gross margin, coupled with a strong Moat (9.0). Its "Own Forever" status persists despite a -50% margin of safety, reflecting powerful business fundamentals and a P/E of 17.3x indicating a fearful Mr. Market.
 
-**NVDA (Score: 8.4)**: This "Own Forever" semiconductor leader boasts an exceptional moat with 71% gross margin and 65% operating margin, fueled by 73% revenue growth. A significant material risk is Technology Disruption (25% probability, -35% impact on FV), typical for its sector. Despite its P/E of 17.0x being a "fair price," the stock's market position at 80% of its 52-week range and an absent margin of safety (-35%) suggest a less fearful Mr. Market than its peers.
+**NVDA (Score 8.4, Own Forever)**
+NVDA's primary material inversion killer is "Technology Disruption" (25% probability, -35% FV impact). Achieving an 8.4, NVDA exhibits a formidable Moat (9.5) with 71% gross margin and 73% revenue growth, alongside robust Management (9.0) with significant insider ownership. Its "Own Forever" verdict is secure despite volatile earnings and a -35% margin of safety, testament to its dominant market position.
 
-**ORCL (Score: 8.4)**: Designated "Own Forever," Oracle exhibits a strong moat (67% gross margin, 33% operating margin, 22% revenue growth) and impressive insider ownership at 40.5%. However, it faces two material inversion killers: Technology Disruption (25% probability, -35% impact on FV) and a notable Debt Spiral risk (30% probability, -40% impact on FV) due to a high Debt/EBITDA of 5.9x. The P/E of 17.3x is deemed a "fair price" with Mr. Market being fearful, but the debt risk demands scrutiny.
+**ORCL (Score 8.4, Own Forever)**
+ORCL carries two material inversion killers: "Technology Disruption" (25% probability, -35% FV impact) and "Debt Spiral / Capital Misallocation" (30% probability, -40% FV impact) due to a 5.9x Debt/EBITDA. Despite these, its 8.4 rating and "Own Forever" verdict are supported by a commanding Moat (9.5) from 22% revenue growth and an excellent Valuation Fit (10.0) at a P/E of 17.3x, trading near its 52-week low.
 
-**GOOGL (Score: 8.3)**: Earning an "Own Forever" verdict, GOOGL demonstrates excellent quality with a 24.3% average ROIC and a strong moat reflected in its 56% gross margin. It is subject to two material inversion risks: Technology Disruption (25% probability, -35% impact on FV) and Management/Governance Failure (20% probability, -30% impact on FV), similar to MSFT. Its fair P/E of 17.3x and position near its 52-week low indicates a fearful Mr. Market presents an attractive entry.
+**GOOGL (Score 8.3, Own Forever)**
+GOOGL, scoring 8.3, is an "Own Forever" due to its powerful brand, extensive ecosystem, and consistent profitability. The company demonstrates a strong moat and high-quality earnings, attracting long-term conviction from investors seeking durable competitive advantages. Its strong valuation fit at today's price underpins this positive verdict.
 
 ## Munger Inversion Alert
 
-The following companies in the top 20 exhibit two or more material inversion killers:
-
-*   **MSFT**: Technology Disruption (25% prob, -35% impact) and Management/Governance Failure (20% prob, -30% impact).
-*   **ORCL**: Technology Disruption (25% prob, -35% impact) and Debt Spiral/Capital Misallocation (30% prob, -40% impact).
-*   **GOOGL**: Technology Disruption (25% prob, -35% impact) and Management/Governance Failure (20% prob, -30% impact).
-*   **META**: Technology Disruption (25% prob, -35% impact) and Management/Governance Failure (20% prob, -30% impact).
+Two names in the top 20, MSFT and ORCL, possess two or more material inversion killers as detailed in their reports.
 
 ## Bottom Line
 
-Microsoft (MSFT) is today's single best risk-adjusted name, marrying exceptional quality, an enduring moat, and a "fair price" while Mr. Market exhibits fear.
+Microsoft (MSFT) presents the single best risk-adjusted opportunity today, with its top score of 8.8 and a "HIGH" conviction verdict of "Own Forever."
+```

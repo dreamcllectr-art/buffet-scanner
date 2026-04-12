@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRK-B
-*Generated: 2026-04-11 05:27 | Price: $479.9 | Mkt Cap: $1035B*
+*Generated: 2026-04-12 05:58 | Price: $479.9 | Mkt Cap: $1035B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Insurance - Diversified)

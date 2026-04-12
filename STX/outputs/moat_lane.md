@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-04-11 05:28 | Price: $503.13 | Mkt Cap: $113B*
+*Generated: 2026-04-12 05:59 | Price: $503.13 | Mkt Cap: $113B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -23,7 +23,7 @@ In circle (Technology/Computer Hardware)
 | Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 17.4% (4y); Earnings std: 281.1% (highly volatile); FCF/NI: 53%; Gross margin: 39% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 39% — weak pricing power; Operating margin 30%; Rev growth 22% — demand pull | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.3x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.2x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAS
-*Generated: 2026-04-11 05:28 | Price: $91.73 | Mkt Cap: $13B*
+*Generated: 2026-04-12 05:59 | Price: $91.73 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Leisure)

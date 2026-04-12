@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-04-11 05:28 | Price: $6750.04 | Mkt Cap: $19B*
+*Generated: 2026-04-12 05:59 | Price: $6750.04 | Mkt Cap: $19B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Residential Construction)

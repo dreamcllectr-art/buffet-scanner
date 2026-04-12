@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMT
-*Generated: 2026-04-11 05:27 | Price: $179.29 | Mkt Cap: $84B*
+*Generated: 2026-04-12 05:58 | Price: $179.29 | Mkt Cap: $84B*
 
 ## Circle of Competence: OUTSIDE
 Unknown sector (Real Estate/REIT - Specialty) — flag for review.

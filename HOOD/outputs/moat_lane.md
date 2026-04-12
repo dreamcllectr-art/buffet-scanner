@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-04-11 05:28 | Price: $69.19 | Mkt Cap: $62B*
+*Generated: 2026-04-12 05:59 | Price: $69.19 | Mkt Cap: $62B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Capital Markets)
@@ -21,7 +21,7 @@ In circle (Financial Services/Capital Markets)
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 0.1% (4y); Earnings std: 208.3% (highly volatile); FCF/NI: -14% (weak conversion); Gross margin: 92% (pricing power) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 92% — strong pricing power; Operating margin 47% — durable; Rev growth 26% — demand pull | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.7x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |

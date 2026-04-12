@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COF
-*Generated: 2026-04-11 05:27 | Price: $193.0 | Mkt Cap: $120B*
+*Generated: 2026-04-12 05:58 | Price: $193.0 | Mkt Cap: $120B*
 
 ## Circle of Competence: IN
 In circle (Financial Services/Credit Services)

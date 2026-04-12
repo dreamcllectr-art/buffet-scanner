@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-04-11 05:27 | Price: $62.37 | Mkt Cap: $13B*
+*Generated: 2026-04-12 05:58 | Price: $62.37 | Mkt Cap: $13B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Specialty Retail)

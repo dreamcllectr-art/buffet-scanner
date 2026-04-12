@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APH
-*Generated: 2026-04-11 05:27 | Price: $140.75 | Mkt Cap: $173B*
+*Generated: 2026-04-12 05:58 | Price: $140.75 | Mkt Cap: $173B*
 
 ## Circle of Competence: IN
 In circle (Technology/Electronic Components)

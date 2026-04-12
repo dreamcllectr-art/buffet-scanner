@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-04-11 05:27 | Price: $107.86 | Mkt Cap: $16B*
+*Generated: 2026-04-12 05:58 | Price: $107.86 | Mkt Cap: $16B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Footwear & Accessories)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-04-11 05:28 | Price: $50.96 | Mkt Cap: $20B*
+*Generated: 2026-04-12 05:59 | Price: $50.96 | Mkt Cap: $20B*
 
 ## Circle of Competence: IN
 In circle (Healthcare/Biotechnology)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABT
-*Generated: 2026-04-11 05:27 | Price: $100.3 | Mkt Cap: $174B*
+*Generated: 2026-04-12 05:58 | Price: $100.3 | Mkt Cap: $174B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.

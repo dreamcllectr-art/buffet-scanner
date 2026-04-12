@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-04-11 05:27 | Price: $62.83 | Mkt Cap: $62B*
+*Generated: 2026-04-12 05:58 | Price: $62.83 | Mkt Cap: $62B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas Equipment & Services. Proceed with caution.

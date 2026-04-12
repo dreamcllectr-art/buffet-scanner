@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQT
-*Generated: 2026-04-11 05:27 | Price: $58.68 | Mkt Cap: $37B*
+*Generated: 2026-04-12 05:58 | Price: $58.68 | Mkt Cap: $37B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.

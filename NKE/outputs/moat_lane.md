@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-04-11 05:28 | Price: $42.62 | Mkt Cap: $63B*
+*Generated: 2026-04-12 05:59 | Price: $42.62 | Mkt Cap: $63B*
 
 ## Circle of Competence: IN
 In circle (Consumer Cyclical/Footwear & Accessories)

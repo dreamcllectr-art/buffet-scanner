@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DXCM
-*Generated: 2026-04-11 05:27 | Price: $64.02 | Mkt Cap: $25B*
+*Generated: 2026-04-12 05:58 | Price: $64.02 | Mkt Cap: $25B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OTIS
-*Generated: 2026-04-11 05:28 | Price: $79.95 | Mkt Cap: $31B*
+*Generated: 2026-04-12 05:59 | Price: $79.95 | Mkt Cap: $31B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Specialty Industrial Machinery)

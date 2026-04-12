@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-04-11 05:28 | Price: $296.29 | Mkt Cap: $67B*
+*Generated: 2026-04-12 05:59 | Price: $296.29 | Mkt Cap: $67B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Railroads)

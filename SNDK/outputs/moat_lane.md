@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-04-11 05:28 | Price: $851.77 | Mkt Cap: $126B*
+*Generated: 2026-04-12 05:59 | Price: $851.77 | Mkt Cap: $126B*
 
 ## Circle of Competence: IN
 In circle (Technology/Computer Hardware)
@@ -23,7 +23,7 @@ In circle (Technology/Computer Hardware)
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -6.6% (2y); Earnings std: 150.5% (highly volatile); FCF/NI: 40% (weak conversion); Gross margin: 35% | - |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.5%; Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 35% — weak pricing power; Operating margin 36% — durable; Rev growth 61% — demand pull | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.7x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

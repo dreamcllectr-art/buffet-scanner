@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-04-11 05:27 | Price: $207.94 | Mkt Cap: $368B*
+*Generated: 2026-04-12 05:58 | Price: $207.94 | Mkt Cap: $368B*
 
 ## Circle of Competence: OUTSIDE
 OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.

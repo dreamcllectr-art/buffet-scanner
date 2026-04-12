@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-04-11 05:27 | Price: $144.81 | Mkt Cap: $12B*
+*Generated: 2026-04-12 05:58 | Price: $144.81 | Mkt Cap: $12B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Security & Protection Services)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HWM
-*Generated: 2026-04-11 05:28 | Price: $252.67 | Mkt Cap: $101B*
+*Generated: 2026-04-12 05:59 | Price: $252.67 | Mkt Cap: $101B*
 
 ## Circle of Competence: IN
 In circle (Industrials/Aerospace & Defense)
@@ -36,7 +36,7 @@ In circle (Industrials/Aerospace & Defense)
 ## Mental Models Applied
 
 - **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
-- **Margin of Safety**: -63% — ABSENT ($253 > IV $92 at 25x for 20% growth)
+- **Margin of Safety**: -63% — ABSENT ($253 > IV $93 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

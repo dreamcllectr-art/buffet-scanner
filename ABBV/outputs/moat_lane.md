@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-04-12 13:49 | Price: $207.94 | Mkt Cap: $368B*
+*Generated: 2026-04-12 17:53 | Price: $207.94 | Mkt Cap: $368B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
+## Sector Context
+Healthcare / Drug Manufacturers - General
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 374% (strong); Gross margin: 72% (pricing power for Healthcare) | ROIC declining |
+| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 374% (strong); Gross margin: 72% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; 52w range position: 52%; Owner earnings yield: 5.0% | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Drug Manufacturers - General. Proceed with caution.
+- **Circle of Competence**: Healthcare / Drug Manufacturers - General
 - **Margin of Safety**: -81% — ABSENT ($208 > IV $40 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

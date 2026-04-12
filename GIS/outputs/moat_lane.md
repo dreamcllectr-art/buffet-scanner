@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: GIS
-*Generated: 2026-04-12 13:49 | Price: $35.59 | Mkt Cap: $19B*
+*Generated: 2026-04-12 17:55 | Price: $35.59 | Mkt Cap: $19B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Packaged Foods)
+## Sector Context
+Consumer Defensive / Packaged Foods
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 12.2% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 96% (strong); Gross margin: 33% | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 12.2% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 33% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -10.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Consumer Defensive; Operating margin 19% — durable for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 11.9% (>5%) | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Packaged Foods)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Packaged Foods)
+- **Circle of Competence**: Consumer Defensive / Packaged Foods
 - **Margin of Safety**: 72% — PRESENT (IV $61 vs $36 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

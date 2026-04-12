@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: F
-*Generated: 2026-04-12 13:49 | Price: $12.13 | Mkt Cap: $49B*
+*Generated: 2026-04-12 17:55 | Price: $12.13 | Mkt Cap: $49B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Auto Manufacturers)
+## Sector Context
+Consumer Cyclical / Auto Manufacturers
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Consumer Cyclical/Auto Manufacturers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 29% (weak conversion); Gross margin: 6% (below Consumer Cyclical norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 6% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Cyclical moderate cutoff 30%; Operating margin -7% — thin for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 52%; Owner earnings yield: 3.6% | - |
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Auto Manufacturers)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Auto Manufacturers)
+- **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

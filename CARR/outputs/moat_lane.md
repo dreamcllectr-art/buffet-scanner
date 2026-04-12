@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-04-12 13:49 | Price: $63.34 | Mkt Cap: $53B*
+*Generated: 2026-04-12 17:54 | Price: $63.34 | Mkt Cap: $53B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.9% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Industrials/Building Products & Equipment)
+## Sector Context
+Industrials / Building Products & Equipment
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Industrials/Building Products & Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 86% (strong); Gross margin: 26% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 86% (strong); Gross margin: 26% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 26% — moderate moat for Industrials; Operating margin 2% — thin for Industrials | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; 52w range position: 42%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
@@ -37,7 +37,7 @@ In circle (Industrials/Building Products & Equipment)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
+- **Circle of Competence**: Industrials / Building Products & Equipment
 - **Margin of Safety**: -60% — ABSENT ($63 > IV $25 at 15x for -98% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

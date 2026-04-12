@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-04-12 13:50 | Price: $71.21 | Mkt Cap: $121B*
+*Generated: 2026-04-12 17:55 | Price: $71.21 | Mkt Cap: $121B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Capital Markets)
+## Sector Context
+Financial Services / Capital Markets
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Capital Markets)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 125.7% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 1131% (strong); Gross margin: n/a for financials | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 125.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: 1131% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 24% — strong franchise (Financial Services); Operating margin 79% — durable for Financial Services | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; 52w range position: 81%; Earnings yield < 4% — worse than bonds | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Capital Markets)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Capital Markets)
+- **Circle of Competence**: Financial Services / Capital Markets
 - **Margin of Safety**: -22% — ABSENT ($71 > IV $56 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership

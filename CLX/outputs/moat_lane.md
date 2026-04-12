@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-04-12 13:49 | Price: $105.28 | Mkt Cap: $13B*
+*Generated: 2026-04-12 17:54 | Price: $105.28 | Mkt Cap: $13B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Household & Personal Products)
+## Sector Context
+Consumer Defensive / Household & Personal Products
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Consumer Defensive/Household & Personal Products)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 252% (strong); Gross margin: 44% | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 68% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 252% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Consumer Defensive; Operating margin 14% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.7x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Household & Personal Products)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Household & Personal Products)
+- **Circle of Competence**: Consumer Defensive / Household & Personal Products
 - **Margin of Safety**: -13% — ABSENT ($105 > IV $92 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

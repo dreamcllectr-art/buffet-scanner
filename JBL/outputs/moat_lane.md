@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-04-12 13:50 | Price: $299.5 | Mkt Cap: $32B*
+*Generated: 2026-04-12 17:55 | Price: $299.5 | Mkt Cap: $32B*
 
-## Circle of Competence: IN
-In circle (Technology/Electronic Components)
+## Sector Context
+Technology / Electronic Components
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Electronic Components)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 90% (strong); Gross margin: 9% (below Technology norm) | - |
+| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 90% (strong); Gross margin: 9% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology; Rev growth 23% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.6x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Electronic Components)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Electronic Components)
+- **Circle of Competence**: Technology / Electronic Components
 - **Margin of Safety**: -38% — ABSENT ($300 > IV $186 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership

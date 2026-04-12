@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: FANG
-*Generated: 2026-04-12 13:49 | Price: $188.205 | Mkt Cap: $53B*
+*Generated: 2026-04-12 17:54 | Price: $188.205 | Mkt Cap: $53B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
+## Sector Context
+Energy / Oil & Gas E&P
 
 ---
 
@@ -20,22 +20,22 @@ OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 11.9% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -26% (weak conversion); Gross margin: 73% (pricing power for Energy) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -26% (weak conversion); Gross margin: 73% (pricing power for Energy) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 30.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 30.4% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 73% vs sector strong cutoff 30% — strong pricing power; Operating margin -86% — thin for Energy | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 79%; Owner earnings yield: 0.9% | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas E&P. Proceed with caution.
+- **Circle of Competence**: Energy / Oil & Gas E&P
 - **Margin of Safety**: -54% — ABSENT ($188 > IV $86 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 30.6% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

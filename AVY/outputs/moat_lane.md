@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: AVY
-*Generated: 2026-04-12 13:49 | Price: $171.16 | Mkt Cap: $13B*
+*Generated: 2026-04-12 17:54 | Price: $171.16 | Mkt Cap: $13B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Packaging & Containers)
+## Sector Context
+Consumer Cyclical / Packaging & Containers
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 14.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 98% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
+| Quality | 3.3/10 | 30% | 1.0 | Avg ROIC: 14.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 34% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 98% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 29% — below Consumer Cyclical moderate cutoff 30%; Operating margin 13% — durable for Consumer Cyclical | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 34%; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Packaging & Containers)
+- **Circle of Competence**: Consumer Cyclical / Packaging & Containers
 - **Margin of Safety**: -23% — ABSENT ($171 > IV $132 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership

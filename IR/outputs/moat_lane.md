@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: IR
-*Generated: 2026-04-12 13:50 | Price: $85.38 | Mkt Cap: $34B*
+*Generated: 2026-04-12 17:55 | Price: $85.38 | Mkt Cap: $34B*
 
-## Circle of Competence: IN
-In circle (Industrials/Specialty Industrial Machinery)
+## Sector Context
+Industrials / Specialty Industrial Machinery
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 162% (strong); Gross margin: 44% (pricing power for Industrials) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 162% (strong); Gross margin: 44% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 44% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.0x — growth premium; 52w range position: 51%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Industrials/Specialty Industrial Machinery)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Specialty Industrial Machinery)
+- **Circle of Competence**: Industrials / Specialty Industrial Machinery
 - **Margin of Safety**: -66% — ABSENT ($85 > IV $29 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

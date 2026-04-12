@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: DPZ
-*Generated: 2026-04-12 13:49 | Price: $365.95 | Mkt Cap: $12B*
+*Generated: 2026-04-12 17:54 | Price: $365.95 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.6% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Restaurants)
+## Sector Context
+Consumer Cyclical / Restaurants
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Consumer Cyclical/Restaurants)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 75.2% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 95% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 75.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 29% — below Consumer Cyclical moderate cutoff 30%; Operating margin 19% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.0x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
@@ -37,7 +37,7 @@ In circle (Consumer Cyclical/Restaurants)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Restaurants)
+- **Circle of Competence**: Consumer Cyclical / Restaurants
 - **Margin of Safety**: -18% — ABSENT ($366 > IV $299 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

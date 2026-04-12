@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-04-12 13:50 | Price: $168.15 | Mkt Cap: $81B*
+*Generated: 2026-04-12 17:55 | Price: $168.15 | Mkt Cap: $81B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance Brokers)
+## Sector Context
+Financial Services / Insurance Brokers
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Insurance Brokers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 15.8% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 105% (strong); Gross margin: n/a for financials | - |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 15.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: 105% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 29% — strong franchise (Financial Services); Operating margin 25% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Insurance Brokers)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance Brokers)
+- **Circle of Competence**: Financial Services / Insurance Brokers
 - **Margin of Safety**: -15% — ABSENT ($168 > IV $143 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

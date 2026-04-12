@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-04-12 13:50 | Price: $83.16 | Mkt Cap: $47B*
+*Generated: 2026-04-12 17:55 | Price: $83.16 | Mkt Cap: $47B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.5% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Financial Services/Financial Data & Stock Exchanges)
+## Sector Context
+Financial Services / Financial Data & Stock Exchanges
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 137% (strong); Gross margin: n/a for financials | - |
+| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 137% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 15% — strong franchise (Financial Services); Operating margin 48% — durable for Financial Services | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 42%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
@@ -37,7 +37,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
+- **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
 - **Margin of Safety**: -7% — ABSENT ($83 > IV $77 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

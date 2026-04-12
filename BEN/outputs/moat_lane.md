@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-04-12 13:49 | Price: $24.91 | Mkt Cap: $13B*
+*Generated: 2026-04-12 17:55 | Price: $24.91 | Mkt Cap: $13B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Asset Management)
+## Sector Context
+Financial Services / Asset Management
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 149% (strong); Gross margin: n/a for financials | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 149% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 4% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 69%; Owner earnings yield: 2.5% | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Asset Management)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Asset Management)
+- **Circle of Competence**: Financial Services / Asset Management
 - **Margin of Safety**: 8% — thin (IV $27 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 48.4% insider ownership

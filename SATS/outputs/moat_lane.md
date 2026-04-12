@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: SATS
-*Generated: 2026-04-12 13:49 | Price: $128.59 | Mkt Cap: $37B*
+*Generated: 2026-04-12 17:54 | Price: $128.59 | Mkt Cap: $37B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (12.5% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Communication Services/Telecom Services)
+## Sector Context
+Communication Services / Telecom Services
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 213% (strong); Gross margin: 26% (below Communication Services norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 26% (below Communication Services norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin 10% — thin for Communication Services | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -87.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
@@ -37,7 +37,7 @@ In circle (Communication Services/Telecom Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Telecom Services)
+- **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

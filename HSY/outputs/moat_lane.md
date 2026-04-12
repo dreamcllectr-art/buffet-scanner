@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: HSY
-*Generated: 2026-04-12 13:49 | Price: $202.31 | Mkt Cap: $41B*
+*Generated: 2026-04-12 17:55 | Price: $202.31 | Mkt Cap: $41B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Confectioners)
+## Sector Context
+Consumer Defensive / Confectioners
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Consumer Defensive/Confectioners)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 18.5% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 120% (strong); Gross margin: 34% | ROIC declining |
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 18.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 60% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 34% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 15% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.5x — growth premium; 52w range position: 58%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Confectioners)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Confectioners)
+- **Circle of Competence**: Consumer Defensive / Confectioners
 - **Margin of Safety**: -68% — ABSENT ($202 > IV $65 at 15x for -60% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

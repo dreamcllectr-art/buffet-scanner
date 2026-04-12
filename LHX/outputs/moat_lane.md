@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: LHX
-*Generated: 2026-04-12 13:50 | Price: $353.59 | Mkt Cap: $66B*
+*Generated: 2026-04-12 17:55 | Price: $353.59 | Mkt Cap: $66B*
 
-## Circle of Competence: IN
-In circle (Industrials/Aerospace & Defense)
+## Sector Context
+Industrials / Aerospace & Defense
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Aerospace & Defense)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 156% (strong); Gross margin: 30% | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 5.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 156% (strong); Gross margin: 30% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -17.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 30% — moderate moat for Industrials; Operating margin 10%; Rev growth 190% — demand pull | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.0x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
@@ -35,7 +35,7 @@ In circle (Industrials/Aerospace & Defense)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Aerospace & Defense)
+- **Circle of Competence**: Industrials / Aerospace & Defense
 - **Margin of Safety**: -64% — ABSENT ($354 > IV $128 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

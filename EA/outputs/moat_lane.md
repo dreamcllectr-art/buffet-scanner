@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: EA
-*Generated: 2026-04-12 13:49 | Price: $202.74 | Mkt Cap: $51B*
+*Generated: 2026-04-12 17:54 | Price: $202.74 | Mkt Cap: $51B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Electronic Gaming & Multimedia)
+## Sector Context
+Communication Services / Electronic Gaming & Multimedia
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Communication Services/Electronic Gaming & Multimedia)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.7/10 | 30% | 2.0 | Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 179% (strong); Gross margin: 78% (pricing power for Communication Services) | - |
+| Quality | 6.7/10 | 30% | 2.0 | Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 179% (strong); Gross margin: 78% (pricing power for Communication Services) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.2% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 9% — thin for Communication Services | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.9x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Communication Services/Electronic Gaming & Multimedia)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Electronic Gaming & Multimedia)
+- **Circle of Competence**: Communication Services / Electronic Gaming & Multimedia
 - **Margin of Safety**: -80% — ABSENT ($203 > IV $40 at 15x for -68% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

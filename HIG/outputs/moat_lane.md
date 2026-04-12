@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: HIG
-*Generated: 2026-04-12 13:49 | Price: $137.23 | Mkt Cap: $38B*
+*Generated: 2026-04-12 17:55 | Price: $137.23 | Mkt Cap: $38B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance - Diversified)
+## Sector Context
+Financial Services / Insurance - Diversified
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Insurance - Diversified)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.2/10 | 30% | 2.2 | Avg ROIC: 14.3% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 176% (strong); Gross margin: n/a for financials | - |
+| Quality | 7.2/10 | 30% | 2.2 | Avg ROIC: 14.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 19% (stable); FCF/NI: 176% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 22% — strong franchise (Financial Services); Operating margin 20% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 77%; Owner earnings yield: 15.4% (>5%) | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Insurance - Diversified)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance - Diversified)
+- **Circle of Competence**: Financial Services / Insurance - Diversified
 - **Margin of Safety**: 143% — PRESENT (IV $333 vs $137 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership

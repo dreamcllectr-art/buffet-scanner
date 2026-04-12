@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ADM
-*Generated: 2026-04-12 13:49 | Price: $69.73 | Mkt Cap: $34B*
+*Generated: 2026-04-12 17:54 | Price: $69.73 | Mkt Cap: $34B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Farm Products)
+## Sector Context
+Consumer Defensive / Farm Products
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Consumer Defensive/Farm Products)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.3% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 148% (strong); Gross margin: 6% (below Consumer Defensive norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 148% (strong); Gross margin: 6% (below Consumer Defensive norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Defensive moderate cutoff 30%; Operating margin 2% — thin for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 84%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Farm Products)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Farm Products)
+- **Circle of Competence**: Consumer Defensive / Farm Products
 - **Margin of Safety**: -52% — ABSENT ($70 > IV $33 at 15x for -20% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-04-12 13:49 | Price: $256.89 | Mkt Cap: $49B*
+*Generated: 2026-04-12 17:55 | Price: $256.89 | Mkt Cap: $49B*
 
-## Circle of Competence: IN
-In circle (Technology/Scientific & Technical Instruments)
+## Sector Context
+Technology / Scientific & Technical Instruments
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Technology/Scientific & Technical Instruments)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 14.5% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 79%; Gross margin: 59% | - |
+| Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 14.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 79%; Gross margin: 59% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 59% — moderate moat for Technology; Operating margin 29% | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.3x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Technology/Scientific & Technical Instruments)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Scientific & Technical Instruments)
+- **Circle of Competence**: Technology / Scientific & Technical Instruments
 - **Margin of Safety**: -17% — ABSENT ($257 > IV $214 at 25x for 21% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 14.9% insider ownership
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-04-12 13:49 | Price: $295.95 | Mkt Cap: $31B*
+*Generated: 2026-04-12 17:54 | Price: $295.95 | Mkt Cap: $31B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Financial Data & Stock Exchanges)
+## Sector Context
+Financial Services / Financial Data & Stock Exchanges
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 14.7% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 169% (strong); Gross margin: n/a for financials | - |
+| Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 14.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 22% (stable); FCF/NI: 169% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 23% — strong franchise (Financial Services); Operating margin 36% — durable for Financial Services | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.7x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
+- **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
 - **Margin of Safety**: -12% — ABSENT ($296 > IV $260 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

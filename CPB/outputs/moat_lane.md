@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CPB
-*Generated: 2026-04-12 13:49 | Price: $20.43 | Mkt Cap: $6B*
+*Generated: 2026-04-12 17:54 | Price: $20.43 | Mkt Cap: $6B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Packaged Foods)
+## Sector Context
+Consumer Defensive / Packaged Foods
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 112% (strong); Gross margin: 30% (below Consumer Defensive norm) | ROIC declining |
+| Quality | 0.1/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 112% (strong); Gross margin: 30% (below Consumer Defensive norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 30% — below Consumer Defensive moderate cutoff 30%; Operating margin 12% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 14.2% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Packaged Foods)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Packaged Foods)
+- **Circle of Competence**: Consumer Defensive / Packaged Foods
 - **Margin of Safety**: 35% — PRESENT (IV $28 vs $20 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 33.6% insider ownership

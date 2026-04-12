@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-04-12 13:50 | Price: $450.62 | Mkt Cap: $160B*
+*Generated: 2026-04-12 17:55 | Price: $450.62 | Mkt Cap: $160B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
+## Sector Context
+Healthcare / Medical Instruments & Supplies
 
 ---
 
@@ -20,22 +20,22 @@ OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with cauti
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 11.5% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 64%; Gross margin: 66% (pricing power for Healthcare) | - |
+| Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 11.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 64%; Gross margin: 66% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Healthcare | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.4x — expensive; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Instruments & Supplies. Proceed with caution.
+- **Circle of Competence**: Healthcare / Medical Instruments & Supplies
 - **Margin of Safety**: -65% — ABSENT ($451 > IV $158 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

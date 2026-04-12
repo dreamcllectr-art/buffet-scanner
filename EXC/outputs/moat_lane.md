@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: EXC
-*Generated: 2026-04-12 13:49 | Price: $48.57 | Mkt Cap: $50B*
+*Generated: 2026-04-12 17:54 | Price: $48.57 | Mkt Cap: $50B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
+## Sector Context
+Utilities / Utilities - Regulated Electric
 
 ---
 
@@ -20,7 +20,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.0% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -91% (weak conversion); Gross margin: 43% (pricing power for Utilities) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: -91% (weak conversion); Gross margin: 43% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 43% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 77%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with cautio
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Electric. Proceed with caution.
+- **Circle of Competence**: Utilities / Utilities - Regulated Electric
 - **Margin of Safety**: -16% — ABSENT ($49 > IV $41 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

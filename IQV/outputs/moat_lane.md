@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-04-12 13:50 | Price: $167.34 | Mkt Cap: $28B*
+*Generated: 2026-04-12 17:55 | Price: $167.34 | Mkt Cap: $28B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
+## Sector Context
+Healthcare / Diagnostics & Research
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 140% (strong); Gross margin: 33% (below Healthcare norm) | - |
+| Quality | 3.1/10 | 30% | 0.9 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 140% (strong); Gross margin: 33% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 33% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
+- **Circle of Competence**: Healthcare / Diagnostics & Research
 - **Margin of Safety**: 17% — thin (IV $196 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership

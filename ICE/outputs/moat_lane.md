@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-04-12 13:50 | Price: $160.6 | Mkt Cap: $91B*
+*Generated: 2026-04-12 17:55 | Price: $160.6 | Mkt Cap: $91B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Financial Data & Stock Exchanges)
+## Sector Context
+Financial Services / Financial Data & Stock Exchanges
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 150% (strong); Gross margin: n/a for financials | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 150% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 50% — durable for Financial Services | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 38%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
+- **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
 - **Margin of Safety**: -10% — ABSENT ($161 > IV $144 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership

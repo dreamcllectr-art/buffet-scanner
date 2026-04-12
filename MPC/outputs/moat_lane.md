@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-04-12 13:50 | Price: $222.62 | Mkt Cap: $66B*
+*Generated: 2026-04-12 17:55 | Price: $222.62 | Mkt Cap: $66B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
+## Sector Context
+Energy / Oil & Gas Refining & Marketing
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.8/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 130% (strong); Gross margin: 10% (below Energy norm) | ROIC declining |
+| Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 10% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Energy moderate cutoff 15%; Operating margin 6% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; 52w range position: 75%; Owner earnings yield: 3.9% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Energy/Oil & Gas Refining & Marketing. Proceed with caution.
+- **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
 - **Margin of Safety**: 48% — PRESENT (IV $330 vs $223 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

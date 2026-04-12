@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-04-12 13:49 | Price: $24.89 | Mkt Cap: $33B*
+*Generated: 2026-04-12 17:55 | Price: $24.89 | Mkt Cap: $33B*
 
-## Circle of Competence: IN
-In circle (Technology/Communication Equipment)
+## Sector Context
+Technology / Communication Equipment
 
 ---
 
@@ -20,22 +20,22 @@ In circle (Technology/Communication Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 356% (strong); Gross margin: 32% (below Technology norm) | ROIC declining |
+| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 98% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 356% (strong); Gross margin: 32% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 8% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 7.7% (>5%) | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.3 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Communication Equipment)
+- **Circle of Competence**: Technology / Communication Equipment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

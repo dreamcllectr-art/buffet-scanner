@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-04-12 13:49 | Price: $189.61 | Mkt Cap: $134B*
+*Generated: 2026-04-12 17:54 | Price: $189.61 | Mkt Cap: $134B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.6% inst.) as insider
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
+## Sector Context
+Healthcare / Diagnostics & Research
 
 ---
 
@@ -22,13 +22,13 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 126% (strong); Gross margin: 59% (pricing power for Healthcare) | ROIC declining |
+| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 126% (strong); Gross margin: 59% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Healthcare | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.8x — growth premium; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,7 +37,7 @@ OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Diagnostics & Research. Proceed with caution.
+- **Circle of Competence**: Healthcare / Diagnostics & Research
 - **Margin of Safety**: -47% — ABSENT ($190 > IV $100 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: NI
-*Generated: 2026-04-12 13:50 | Price: $48.05 | Mkt Cap: $23B*
+*Generated: 2026-04-12 17:55 | Price: $48.05 | Mkt Cap: $23B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Utilities/Utilities - Regulated Gas. Proceed with caution.
+## Sector Context
+Utilities / Utilities - Regulated Gas
 
 ---
 
@@ -20,7 +20,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Gas. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -99% (weak conversion); Gross margin: 51% (pricing power for Utilities) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: -99% (weak conversion); Gross margin: 51% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 40% — strong pricing power; Operating margin 27% — durable for Utilities | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ OUTSIDE circle — Utilities/Utilities - Regulated Gas. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Utilities/Utilities - Regulated Gas. Proceed with caution.
+- **Circle of Competence**: Utilities / Utilities - Regulated Gas
 - **Margin of Safety**: -19% — ABSENT ($48 > IV $39 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership

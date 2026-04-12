@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-04-12 13:50 | Price: $433.69 | Mkt Cap: $72B*
+*Generated: 2026-04-12 17:55 | Price: $433.69 | Mkt Cap: $72B*
 
-## Circle of Competence: IN
-In circle (Technology/Communication Equipment)
+## Sector Context
+Technology / Communication Equipment
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Technology/Communication Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 119% (strong); Gross margin: 52% | - |
+| Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 27% (stable); FCF/NI: 119% (strong); Gross margin: 52% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Technology; Operating margin 28% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.8x — growth premium; 52w range position: 56%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Technology/Communication Equipment)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Communication Equipment)
+- **Circle of Competence**: Technology / Communication Equipment
 - **Margin of Safety**: -50% — ABSENT ($434 > IV $217 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership

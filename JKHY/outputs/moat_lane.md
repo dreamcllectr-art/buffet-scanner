@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-04-12 13:50 | Price: $147.2 | Mkt Cap: $11B*
+*Generated: 2026-04-12 17:55 | Price: $147.2 | Mkt Cap: $11B*
 
-## Circle of Competence: IN
-In circle (Technology/Information Technology Services)
+## Sector Context
+Technology / Information Technology Services
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 78%; Gross margin: 44% | - |
+| Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: 78%; Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Technology; Operating margin 26% | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.0x — growth premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Technology/Information Technology Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Information Technology Services)
+- **Circle of Competence**: Technology / Information Technology Services
 - **Margin of Safety**: 19% — thin (IV $174 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership

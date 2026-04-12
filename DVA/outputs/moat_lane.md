@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: DVA
-*Generated: 2026-04-12 13:49 | Price: $150.05 | Mkt Cap: $10B*
+*Generated: 2026-04-12 17:54 | Price: $150.05 | Mkt Cap: $10B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
+## Sector Context
+Healthcare / Medical Care Facilities
 
 ---
 
@@ -20,7 +20,7 @@ OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 14.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 180% (strong); Gross margin: 32% (below Healthcare norm) | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 14.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 180% (strong); Gross margin: 32% (below Healthcare norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 47.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 84%; Owner earnings yield: 10.5% (>5%) | - |
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Care Facilities. Proceed with caution.
+- **Circle of Competence**: Healthcare / Medical Care Facilities
 - **Margin of Safety**: 8% — thin (IV $162 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 50.4% insider ownership

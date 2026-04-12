@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ALL
-*Generated: 2026-04-12 13:49 | Price: $210.99 | Mkt Cap: $55B*
+*Generated: 2026-04-12 17:53 | Price: $210.99 | Mkt Cap: $55B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance - Property & Casualty)
+## Sector Context
+Financial Services / Insurance - Property & Casualty
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 10.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -547% (weak conversion); Gross margin: n/a for financials | - |
+| Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 10.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: -547% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 40% — strong franchise (Financial Services); Operating margin 29% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; 52w range position: 82%; Owner earnings yield: 16.3% (>5%) | - |
@@ -35,7 +35,7 @@ In circle (Financial Services/Insurance - Property & Casualty)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance - Property & Casualty)
+- **Circle of Competence**: Financial Services / Insurance - Property & Casualty
 - **Margin of Safety**: 351% — PRESENT (IV $952 vs $211 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership

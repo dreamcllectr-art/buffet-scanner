@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: JBHT
-*Generated: 2026-04-12 13:50 | Price: $227.04 | Mkt Cap: $22B*
+*Generated: 2026-04-12 17:55 | Price: $227.04 | Mkt Cap: $22B*
 
-## Circle of Competence: IN
-In circle (Industrials/Integrated Freight & Logistics)
+## Sector Context
+Industrials / Integrated Freight & Logistics
 
 ---
 
@@ -20,22 +20,22 @@ In circle (Industrials/Integrated Freight & Logistics)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 15.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 69%; Gross margin: 19% (below Industrials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 15.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 41% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 69%; Gross margin: 19% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 8% — thin for Industrials | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.8x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.2 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Integrated Freight & Logistics)
+- **Circle of Competence**: Industrials / Integrated Freight & Logistics
 - **Margin of Safety**: -33% — ABSENT ($227 > IV $153 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 20.3% insider ownership
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

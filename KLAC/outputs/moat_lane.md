@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-04-12 13:50 | Price: $1737.28 | Mkt Cap: $228B*
+*Generated: 2026-04-12 17:55 | Price: $1737.28 | Mkt Cap: $228B*
 
-## Circle of Competence: IN
-In circle (Technology/Semiconductor Equipment & Materials)
+## Sector Context
+Technology / Semiconductor Equipment & Materials
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Technology/Semiconductor Equipment & Materials)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 98% (strong); Gross margin: 62% (pricing power for Technology) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 98% (strong); Gross margin: 62% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 60% — strong pricing power; Operating margin 41% — durable for Technology | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.3x — expensive; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Technology/Semiconductor Equipment & Materials)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Semiconductor Equipment & Materials)
+- **Circle of Competence**: Technology / Semiconductor Equipment & Materials
 - **Margin of Safety**: -50% — ABSENT ($1737 > IV $860 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
@@ -48,7 +48,7 @@ No (2 forces only: high quality, strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: DOW
-*Generated: 2026-04-12 13:49 | Price: $39.01 | Mkt Cap: $28B*
+*Generated: 2026-04-12 17:54 | Price: $39.01 | Mkt Cap: $28B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Basic Materials/Chemicals. Proceed with caution.
+## Sector Context
+Basic Materials / Chemicals
 
 ---
 
@@ -20,7 +20,7 @@ OUTSIDE circle — Basic Materials/Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 155% (strong); Gross margin: 6% (below Basic Materials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 157% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: 6% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.1x — expensive; 52w range position: 83%; Earnings yield < 4% — worse than bonds | Expensive |
@@ -35,7 +35,7 @@ OUTSIDE circle — Basic Materials/Chemicals. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Basic Materials/Chemicals. Proceed with caution.
+- **Circle of Competence**: Basic Materials / Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

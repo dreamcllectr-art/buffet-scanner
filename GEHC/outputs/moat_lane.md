@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: GEHC
-*Generated: 2026-04-12 13:49 | Price: $73.18 | Mkt Cap: $33B*
+*Generated: 2026-04-12 17:55 | Price: $73.18 | Mkt Cap: $33B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+## Sector Context
+Healthcare / Medical Devices
 
 ---
 
@@ -20,7 +20,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 13.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 88% (strong); Gross margin: 40% | - |
+| Quality | 5.8/10 | 30% | 1.7 | Avg ROIC: 13.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 88% (strong); Gross margin: 40% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Healthcare; Operating margin 16% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 44%; Owner earnings yield: 5.1% (>5%) | - |
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+- **Circle of Competence**: Healthcare / Medical Devices
 - **Margin of Safety**: -7% — ABSENT ($73 > IV $68 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

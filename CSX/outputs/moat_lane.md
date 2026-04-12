@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-04-12 13:49 | Price: $42.24 | Mkt Cap: $79B*
+*Generated: 2026-04-12 17:54 | Price: $42.24 | Mkt Cap: $79B*
 
-## Circle of Competence: IN
-In circle (Industrials/Railroads)
+## Sector Context
+Industrials / Railroads
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Railroads)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 77%; Gross margin: 46% (pricing power for Industrials) | ROIC declining |
+| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 29% (stable); FCF/NI: 77%; Gross margin: 46% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 35% — strong pricing power; Operating margin 33% — durable for Industrials | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.2x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Industrials/Railroads)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Railroads)
+- **Circle of Competence**: Industrials / Railroads
 - **Margin of Safety**: -45% — ABSENT ($42 > IV $23 at 15x for -0% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

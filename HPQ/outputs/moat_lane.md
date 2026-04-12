@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-04-12 13:50 | Price: $18.26 | Mkt Cap: $17B*
+*Generated: 2026-04-12 17:55 | Price: $18.26 | Mkt Cap: $17B*
 
-## Circle of Competence: IN
-In circle (Technology/Computer Hardware)
+## Sector Context
+Technology / Computer Hardware
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Computer Hardware)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 108% (strong); Gross margin: 20% (below Technology norm) | ROIC declining |
+| Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 20% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.1x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 16.9% (>5%) | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Computer Hardware)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Computer Hardware)
+- **Circle of Competence**: Technology / Computer Hardware
 - **Margin of Safety**: 117% — PRESENT (IV $40 vs $18 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

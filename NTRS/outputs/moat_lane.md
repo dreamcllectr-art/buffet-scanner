@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-04-12 13:50 | Price: $152.23 | Mkt Cap: $29B*
+*Generated: 2026-04-12 17:55 | Price: $152.23 | Mkt Cap: $29B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Asset Management)
+## Sector Context
+Financial Services / Asset Management
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 13.5%; Earnings: 2/3 down-years (unpredictable); FCF/NI: 129% (strong); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 13.5%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 129% (strong); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); No insider transaction data; Restricted stock: 1.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 13% — adequate (Financial Services); Operating margin 29% | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.5x — deep value; Near 52w high (93% of range) — Mr. Market greedy | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Financial Services/Asset Management)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Asset Management)
+- **Circle of Competence**: Financial Services / Asset Management
 - **Margin of Safety**: -2% — ABSENT ($152 > IV $149 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership

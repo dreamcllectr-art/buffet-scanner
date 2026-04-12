@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-04-12 13:49 | Price: $27.98 | Mkt Cap: $39B*
+*Generated: 2026-04-12 17:54 | Price: $27.98 | Mkt Cap: $39B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Travel Services)
+## Sector Context
+Consumer Cyclical / Travel Services
 
 ---
 
@@ -22,22 +22,22 @@ In circle (Consumer Cyclical/Travel Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 3.0% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: -269% (weak conversion); Gross margin: 56% (pricing power for Consumer Cyclical) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 80% (severe cyclicality); FCF/NI: -269% (weak conversion); Gross margin: 56% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 64%; Owner earnings yield: 5.6% (>5%) | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Travel Services)
+- **Circle of Competence**: Consumer Cyclical / Travel Services
 - **Margin of Safety**: 38% — PRESENT (IV $39 vs $28 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
@@ -50,7 +50,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

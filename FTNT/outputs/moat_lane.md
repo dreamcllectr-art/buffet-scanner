@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: FTNT
-*Generated: 2026-04-12 13:49 | Price: $76.7 | Mkt Cap: $57B*
+*Generated: 2026-04-12 17:55 | Price: $76.7 | Mkt Cap: $57B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Infrastructure)
+## Sector Context
+Technology / Software - Infrastructure
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 114.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 137% (strong); Gross margin: 80% (pricing power for Technology) | ROIC declining |
+| Quality | 8.0/10 | 30% | 2.4 | ROIC declining trend; Avg ROIC: 114.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 137% (strong); Gross margin: 80% (pricing power for Technology) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 33% — durable for Technology | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.2x — growth premium; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Technology/Software - Infrastructure)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
+- **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: -53% — ABSENT ($77 > IV $36 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 17.4% insider ownership

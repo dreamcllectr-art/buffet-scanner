@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-04-12 13:49 | Price: $142.64 | Mkt Cap: $42B*
+*Generated: 2026-04-12 17:54 | Price: $142.64 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Capital World Investors (12.8% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Residential Construction)
+## Sector Context
+Consumer Cyclical / Residential Construction
 
 ---
 
@@ -22,22 +22,22 @@ In circle (Consumer Cyclical/Residential Construction)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 16.9% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 57%; Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.4% of shares (SBC concern) | - |
+| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 16.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 39% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 57%; Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 40% | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.3 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Residential Construction)
+- **Circle of Competence**: Consumer Cyclical / Residential Construction
 - **Margin of Safety**: 15% — thin (IV $165 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
@@ -50,7 +50,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

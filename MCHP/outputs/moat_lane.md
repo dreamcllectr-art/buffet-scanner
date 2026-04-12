@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-04-12 13:50 | Price: $71.56 | Mkt Cap: $39B*
+*Generated: 2026-04-12 17:55 | Price: $71.56 | Mkt Cap: $39B*
 
-## Circle of Competence: IN
-In circle (Technology/Semiconductors)
+## Sector Context
+Technology / Semiconductors
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Technology/Semiconductors)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -38488% (weak conversion); Gross margin: 55% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -38488% (weak conversion); Gross margin: 55% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat for Technology; Operating margin 13% — thin for Technology | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 75%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
@@ -35,7 +35,7 @@ In circle (Technology/Semiconductors)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Semiconductors)
+- **Circle of Competence**: Technology / Semiconductors
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership

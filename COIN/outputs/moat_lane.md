@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-04-12 13:49 | Price: $167.85 | Mkt Cap: $45B*
+*Generated: 2026-04-12 17:54 | Price: $167.85 | Mkt Cap: $45B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Financial Data & Stock Exchanges)
+## Sector Context
+Financial Services / Financial Data & Stock Exchanges
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: -1.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 271% (strong); Gross margin: n/a for financials | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -1.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 51% from prior peak; 5y price drawdown: 91% (severe cyclicality); FCF/NI: 271% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 10% — adequate (Financial Services); Operating margin 11% — thin for Financial Services | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.6x — expensive; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Financial Services/Financial Data & Stock Exchanges)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Financial Data & Stock Exchanges)
+- **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
 - **Margin of Safety**: -60% — ABSENT ($168 > IV $67 at 15x for -22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership

@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: BG
-*Generated: 2026-04-12 13:49 | Price: $123.92 | Mkt Cap: $24B*
+*Generated: 2026-04-12 17:54 | Price: $123.92 | Mkt Cap: $24B*
 
 > ⚠ DATA: yfinance misclassified Glencore Plc (17.0% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Farm Products)
+## Sector Context
+Consumer Defensive / Farm Products
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Consumer Defensive/Farm Products)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.6% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -86% (weak conversion); Gross margin: 5% (below Consumer Defensive norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: -86% (weak conversion); Gross margin: 5% (below Consumer Defensive norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 5% — below Consumer Defensive moderate cutoff 30%; Operating margin 1% — thin for Consumer Defensive; Rev growth 76% — demand pull | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.1x — deep value; Near 52w high (87% of range) — Mr. Market greedy | - |
@@ -37,7 +37,7 @@ In circle (Consumer Defensive/Farm Products)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Farm Products)
+- **Circle of Competence**: Consumer Defensive / Farm Products
 - **Margin of Safety**: -40% — ABSENT ($124 > IV $74 at 15x for -89% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

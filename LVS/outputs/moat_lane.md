@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-12 13:50 | Price: $53.45 | Mkt Cap: $36B*
+*Generated: 2026-04-12 17:55 | Price: $53.45 | Mkt Cap: $36B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Resorts & Casinos)
+## Sector Context
+Consumer Cyclical / Resorts & Casinos
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 74%; Gross margin: 80% (pricing power for Consumer Cyclical) | - |
+| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 80% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 45% — strong pricing power; Operating margin 24% — durable for Consumer Cyclical; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 56%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 7.5 / 10
+## Alpha Adjustment: +0.25
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Resorts & Casinos)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Resorts & Casinos)
+- **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
 - **Margin of Safety**: 10% — thin (IV $59 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 58.4% insider ownership
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.25 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

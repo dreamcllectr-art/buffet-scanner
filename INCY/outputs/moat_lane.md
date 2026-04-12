@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-04-12 13:50 | Price: $96.07 | Mkt Cap: $19B*
+*Generated: 2026-04-12 17:55 | Price: $96.07 | Mkt Cap: $19B*
 
-## Circle of Competence: IN
-In circle (Healthcare/Biotechnology)
+## Sector Context
+Healthcare / Biotechnology
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Healthcare/Biotechnology)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 13.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 290% (strong); Gross margin: 53% | - |
+| Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 13.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 95% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 290% (strong); Gross margin: 53% | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 53% — moderate moat for Healthcare; Operating margin 26% — durable for Healthcare; Rev growth 28% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 71%; Owner earnings yield: 3.2% | - |
-| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 7.1 / 10
-## Alpha Adjustment: +0.21
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Healthcare/Biotechnology)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Healthcare/Biotechnology)
+- **Circle of Competence**: Healthcare / Biotechnology
 - **Margin of Safety**: 67% — PRESENT (IV $160 vs $96 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.21 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

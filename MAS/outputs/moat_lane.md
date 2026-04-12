@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MAS
-*Generated: 2026-04-12 13:50 | Price: $62.97 | Mkt Cap: $13B*
+*Generated: 2026-04-12 17:55 | Price: $62.97 | Mkt Cap: $13B*
 
-## Circle of Competence: IN
-In circle (Industrials/Building Products & Equipment)
+## Sector Context
+Industrials / Building Products & Equipment
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Industrials/Building Products & Equipment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 37.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 105% (strong); Gross margin: 36% (pricing power for Industrials) | - |
+| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 37.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 38% (stable); FCF/NI: 105% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 15% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%) | - |
@@ -35,7 +35,7 @@ In circle (Industrials/Building Products & Equipment)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Industrials/Building Products & Equipment)
+- **Circle of Competence**: Industrials / Building Products & Equipment
 - **Margin of Safety**: -8% — ABSENT ($63 > IV $58 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

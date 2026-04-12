@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-04-12 13:50 | Price: $370.87 | Mkt Cap: $2756B*
+*Generated: 2026-04-12 17:55 | Price: $370.87 | Mkt Cap: $2756B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Infrastructure)
+## Sector Context
+Technology / Software - Infrastructure
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 28.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 82% (strong); Gross margin: 69% (pricing power for Technology) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 28.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 82% (strong); Gross margin: 69% (pricing power for Technology) | - |
 | Management | 7.5/10 | 25% | 1.9 | Insider value: $2.2B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% vs sector strong cutoff 60% — strong pricing power; Operating margin 47% — durable for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.7x — fair price; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
@@ -35,7 +35,7 @@ In circle (Technology/Software - Infrastructure)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
+- **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: 8% — thin (IV $400 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

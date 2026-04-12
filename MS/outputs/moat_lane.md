@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-04-12 13:50 | Price: $177.64 | Mkt Cap: $282B*
+*Generated: 2026-04-12 17:55 | Price: $177.64 | Mkt Cap: $282B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.8% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Financial Services/Capital Markets)
+## Sector Context
+Financial Services / Capital Markets
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Financial Services/Capital Markets)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 15.6%; Earnings: 1 down-year in 3 transitions; FCF/NI: -158% (weak conversion); Gross margin: n/a for financials | - |
+| Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 15.6%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: -158% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.8% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 16% — strong franchise (Financial Services); Operating margin 39% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 83%; Earnings yield < 7% — tight vs index | - |
@@ -37,7 +37,7 @@ In circle (Financial Services/Capital Markets)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Capital Markets)
+- **Circle of Competence**: Financial Services / Capital Markets
 - **Margin of Safety**: 44% — PRESENT (IV $255 vs $178 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: KO
-*Generated: 2026-04-12 13:49 | Price: $77.47 | Mkt Cap: $333B*
+*Generated: 2026-04-12 17:54 | Price: $77.47 | Mkt Cap: $333B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (9.3% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Beverages - Non-Alcoholic)
+## Sector Context
+Consumer Defensive / Beverages - Non-Alcoholic
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 69%; Gross margin: 62% (pricing power for Consumer Defensive) | - |
+| Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 17% (stable); FCF/NI: 69%; Gross margin: 62% (pricing power for Consumer Defensive) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 45% — strong pricing power; Operating margin 25% — durable for Consumer Defensive | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.4x — growth premium; 52w range position: 73%; Earnings yield < 7% — tight vs index | - |
@@ -37,7 +37,7 @@ In circle (Consumer Defensive/Beverages - Non-Alcoholic)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Beverages - Non-Alcoholic)
+- **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
 - **Margin of Safety**: -41% — ABSENT ($77 > IV $46 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

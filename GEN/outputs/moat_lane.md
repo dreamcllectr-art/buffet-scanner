@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-04-12 13:49 | Price: $17.89 | Mkt Cap: $11B*
+*Generated: 2026-04-12 17:55 | Price: $17.89 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Technology/Software - Infrastructure)
+## Sector Context
+Technology / Software - Infrastructure
 
 ---
 
@@ -22,7 +22,7 @@ In circle (Technology/Software - Infrastructure)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.9/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 174% (strong); Gross margin: 79% (pricing power for Technology) | ROIC declining |
+| Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 174% (strong); Gross margin: 79% (pricing power for Technology) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.8% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 79% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 11.9% (>5%) | - |
@@ -37,7 +37,7 @@ In circle (Technology/Software - Infrastructure)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Infrastructure)
+- **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: 36% — PRESENT (IV $24 vs $18 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

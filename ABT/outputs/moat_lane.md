@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ABT
-*Generated: 2026-04-12 13:49 | Price: $100.3 | Mkt Cap: $174B*
+*Generated: 2026-04-12 17:53 | Price: $100.3 | Mkt Cap: $174B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+## Sector Context
+Healthcare / Medical Devices
 
 ---
 
@@ -20,14 +20,14 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 11.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 90% (strong); Gross margin: 57% (pricing power for Healthcare) | - |
+| Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 11.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 90% (strong); Gross margin: 57% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.4x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+- **Circle of Competence**: Healthcare / Medical Devices
 - **Margin of Safety**: -44% — ABSENT ($100 > IV $56 at 15x for -81% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

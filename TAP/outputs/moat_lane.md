@@ -1,10 +1,10 @@
 # Buffett/Munger Moat Lane: TAP
-*Generated: 2026-04-12 13:50 | Price: $45.05 | Mkt Cap: $8B*
+*Generated: 2026-04-12 17:55 | Price: $45.05 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.6% inst.) as insider
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Beverages - Brewers)
+## Sector Context
+Consumer Defensive / Beverages - Brewers
 
 ---
 
@@ -22,13 +22,13 @@ In circle (Consumer Defensive/Beverages - Brewers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -68% (weak conversion); Gross margin: 38% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 291% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: -68% (weak conversion); Gross margin: 38% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 38% — moderate moat for Consumer Defensive; Operating margin 14% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 8.2% (>5%) | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,7 +37,7 @@ In circle (Consumer Defensive/Beverages - Brewers)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Beverages - Brewers)
+- **Circle of Competence**: Consumer Defensive / Beverages - Brewers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MET
-*Generated: 2026-04-12 13:50 | Price: $73.88 | Mkt Cap: $49B*
+*Generated: 2026-04-12 17:55 | Price: $73.88 | Mkt Cap: $49B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Insurance - Life)
+## Sector Context
+Financial Services / Insurance - Life
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Financial Services/Insurance - Life)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 9.5% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 488% (strong); Gross margin: n/a for financials | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 70% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 488% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 16.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 5% — thin for Financial Services; Rev growth 28% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 40% | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Financial Services/Insurance - Life)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Insurance - Life)
+- **Circle of Competence**: Financial Services / Insurance - Life
 - **Margin of Safety**: -4% — ABSENT ($74 > IV $71 at 15x for -34% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 16.4% insider ownership

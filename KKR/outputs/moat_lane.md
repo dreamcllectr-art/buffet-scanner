@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-04-12 13:50 | Price: $91.22 | Mkt Cap: $84B*
+*Generated: 2026-04-12 17:55 | Price: $91.22 | Mkt Cap: $84B*
 
-## Circle of Competence: IN
-In circle (Financial Services/Asset Management)
+## Sector Context
+Financial Services / Asset Management
 
 ---
 
@@ -20,22 +20,22 @@ In circle (Financial Services/Asset Management)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 8.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 303% (strong); Gross margin: n/a for financials | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 8.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 303% (strong); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 33% — durable for Financial Services; Rev growth 76% — demand pull | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Financial Services/Asset Management)
+- **Circle of Competence**: Financial Services / Asset Management
 - **Margin of Safety**: -62% — ABSENT ($91 > IV $35 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 23.2% insider ownership
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

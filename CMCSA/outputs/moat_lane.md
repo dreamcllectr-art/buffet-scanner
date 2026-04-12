@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-04-12 13:49 | Price: $27.93 | Mkt Cap: $102B*
+*Generated: 2026-04-12 17:54 | Price: $27.93 | Mkt Cap: $102B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Telecom Services)
+## Sector Context
+Communication Services / Telecom Services
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Communication Services/Telecom Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 123% (strong); Gross margin: 72% (pricing power for Communication Services) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 123% (strong); Gross margin: 72% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 11% — thin for Communication Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 37%; Owner earnings yield: 5.5% (>5%) | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Communication Services/Telecom Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Telecom Services)
+- **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: 189% — PRESENT (IV $81 vs $28 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: ADBE
-*Generated: 2026-04-12 13:49 | Price: $225.35 | Mkt Cap: $92B*
+*Generated: 2026-04-12 17:53 | Price: $225.35 | Mkt Cap: $92B*
 
-## Circle of Competence: IN
-In circle (Technology/Software - Application)
+## Sector Context
+Technology / Software - Application
 
 ---
 
@@ -20,22 +20,22 @@ In circle (Technology/Software - Application)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 30.5% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 141% (strong); Gross margin: 89% (pricing power for Technology) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 30.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 67% (severe cyclicality); FCF/NI: 141% (strong); Gross margin: 89% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 89% vs sector strong cutoff 60% — strong pricing power; Operating margin 39% — durable for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%) | - |
-| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 8.2 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Software - Application)
+- **Circle of Competence**: Technology / Software - Application
 - **Margin of Safety**: 52% — PRESENT (IV $343 vs $225 at 20x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.28 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

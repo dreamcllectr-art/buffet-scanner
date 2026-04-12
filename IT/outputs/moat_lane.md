@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: IT
-*Generated: 2026-04-12 13:49 | Price: $143.72 | Mkt Cap: $10B*
+*Generated: 2026-04-12 17:55 | Price: $143.72 | Mkt Cap: $10B*
 
-## Circle of Competence: IN
-In circle (Technology/Information Technology Services)
+## Sector Context
+Technology / Information Technology Services
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | ROIC declining trend; Avg ROIC: 30.9% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 128% (strong); Gross margin: 68% (pricing power for Technology) | ROIC declining |
+| Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 30.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 42% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 128% (strong); Gross margin: 68% (pricing power for Technology) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin 19% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
-| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.5 / 10
-## Alpha Adjustment: +0.25
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Technology/Information Technology Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Information Technology Services)
+- **Circle of Competence**: Technology / Information Technology Services
 - **Margin of Safety**: 1% — thin (IV $145 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.4% insider ownership
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.25 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

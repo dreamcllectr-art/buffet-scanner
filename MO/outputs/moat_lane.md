@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-04-12 13:49 | Price: $67.38 | Mkt Cap: $113B*
+*Generated: 2026-04-12 17:53 | Price: $67.38 | Mkt Cap: $113B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Tobacco)
+## Sector Context
+Consumer Defensive / Tobacco
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Consumer Defensive/Tobacco)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 40.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 115% (strong); Gross margin: 87% (pricing power for Consumer Defensive) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 40.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 115% (strong); Gross margin: 87% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 117% — durable for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 80%; Owner earnings yield: 8.2% (>5%) | - |
-| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 7.9 / 10
-## Alpha Adjustment: +0.29
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Consumer Defensive/Tobacco)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Tobacco)
+- **Circle of Competence**: Consumer Defensive / Tobacco
 - **Margin of Safety**: -8% — ABSENT ($67 > IV $62 at 15x for -63% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.29 applied to composite alpha score
+Buffett Premium: +0.28 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

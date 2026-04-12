@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-04-12 13:49 | Price: $53.0 | Mkt Cap: $9B*
+*Generated: 2026-04-12 17:54 | Price: $53.0 | Mkt Cap: $9B*
 
-## Circle of Competence: OUTSIDE
-Unknown sector (Real Estate/REIT - Office) — flag for review.
+## Sector Context
+Real Estate / REIT - Office
 
 ---
 
@@ -20,13 +20,13 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin -7% — thin for Real Estate | - |
 | Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.4x — growth premium; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ Unknown sector (Real Estate/REIT - Office) — flag for review.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Unknown sector (Real Estate/REIT - Office) — flag for review.
+- **Circle of Competence**: Real Estate / REIT - Office
 - **Margin of Safety**: -51% — ABSENT ($53 > IV $26 at 15x for -32% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership

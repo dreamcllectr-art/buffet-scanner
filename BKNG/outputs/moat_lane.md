@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BKNG
-*Generated: 2026-04-12 13:49 | Price: $173.46 | Mkt Cap: $137B*
+*Generated: 2026-04-12 17:54 | Price: $173.46 | Mkt Cap: $137B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Travel Services)
+## Sector Context
+Consumer Cyclical / Travel Services
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Consumer Cyclical/Travel Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 42.8% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 167% (strong); Gross margin: 87% (pricing power for Consumer Cyclical) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 42.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 167% (strong); Gross margin: 87% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 32% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 4.8% | - |
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Travel Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Travel Services)
+- **Circle of Competence**: Consumer Cyclical / Travel Services
 - **Margin of Safety**: -4% — ABSENT ($173 > IV $166 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership

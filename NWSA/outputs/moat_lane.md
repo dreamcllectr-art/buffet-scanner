@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-04-12 13:50 | Price: $24.48 | Mkt Cap: $14B*
+*Generated: 2026-04-12 17:55 | Price: $24.48 | Mkt Cap: $14B*
 
-## Circle of Competence: IN
-In circle (Communication Services/Entertainment)
+## Sector Context
+Communication Services / Entertainment
 
 ---
 
@@ -20,14 +20,14 @@ In circle (Communication Services/Entertainment)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 169% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -51.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 17% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.7x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.5 / 10
-## Alpha Adjustment: +0.15
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ In circle (Communication Services/Entertainment)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Communication Services/Entertainment)
+- **Circle of Competence**: Communication Services / Entertainment
 - **Margin of Safety**: -53% — ABSENT ($24 > IV $12 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.15 applied to composite alpha score
+Buffett Premium: +0.12 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

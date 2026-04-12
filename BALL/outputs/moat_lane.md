@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BALL
-*Generated: 2026-04-12 13:49 | Price: $62.29 | Mkt Cap: $17B*
+*Generated: 2026-04-12 17:54 | Price: $62.29 | Mkt Cap: $17B*
 
-## Circle of Competence: IN
-In circle (Consumer Cyclical/Packaging & Containers)
+## Sector Context
+Consumer Cyclical / Packaging & Containers
 
 ---
 
@@ -20,7 +20,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.1% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 1% (weak conversion); Gross margin: 20% (below Consumer Cyclical norm) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 1% (weak conversion); Gross margin: 20% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 20% — below Consumer Cyclical moderate cutoff 30%; Operating margin 10% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 74%; Owner earnings yield: 5.3% (>5%) | - |
@@ -35,7 +35,7 @@ In circle (Consumer Cyclical/Packaging & Containers)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Cyclical/Packaging & Containers)
+- **Circle of Competence**: Consumer Cyclical / Packaging & Containers
 - **Margin of Safety**: 6% — thin (IV $66 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

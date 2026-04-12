@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-04-12 13:49 | Price: $125.53 | Mkt Cap: $16B*
+*Generated: 2026-04-12 17:54 | Price: $125.53 | Mkt Cap: $16B*
 
-## Circle of Competence: IN
-In circle (Technology/Information Technology Services)
+## Sector Context
+Technology / Information Technology Services
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 16.8% (4y); Earnings: 3/3 down-years (unpredictable); FCF/NI: 112% (strong); Gross margin: 22% (below Technology norm) | - |
+| Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 16.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 112% (strong); Gross margin: 22% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Technology moderate cutoff 40%; Operating margin 7% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Information Technology Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Information Technology Services)
+- **Circle of Competence**: Technology / Information Technology Services
 - **Margin of Safety**: 9% — thin (IV $137 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership

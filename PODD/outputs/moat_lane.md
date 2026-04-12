@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: PODD
-*Generated: 2026-04-12 13:50 | Price: $196.93 | Mkt Cap: $14B*
+*Generated: 2026-04-12 17:55 | Price: $196.93 | Mkt Cap: $14B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+## Sector Context
+Healthcare / Medical Devices
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.7/10 | 30% | 1.1 | Avg ROIC: 8.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: -151% (weak conversion); Gross margin: 72% (pricing power for Healthcare) | - |
+| Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: -151% (weak conversion); Gross margin: 72% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.2% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 19%; Rev growth 31% — demand pull | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.4x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Healthcare/Medical Devices. Proceed with caution.
+- **Circle of Competence**: Healthcare / Medical Devices
 - **Margin of Safety**: -73% — ABSENT ($197 > IV $52 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership

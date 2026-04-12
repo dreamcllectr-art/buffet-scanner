@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CF
-*Generated: 2026-04-12 13:49 | Price: $121.32 | Mkt Cap: $19B*
+*Generated: 2026-04-12 17:54 | Price: $121.32 | Mkt Cap: $19B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
+## Sector Context
+Basic Materials / Agricultural Inputs
 
 ---
 
@@ -20,14 +20,14 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 29.4% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 109% (strong); Gross margin: 38% (pricing power for Basic Materials) | ROIC declining |
+| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 29.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 109% (strong); Gross margin: 38% (pricing power for Basic Materials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 38% vs sector strong cutoff 30% — strong pricing power; Operating margin 35% — durable for Basic Materials; Rev growth 23% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 71%; Owner earnings yield: 7.0% (>5%) | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -35,7 +35,7 @@ OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Basic Materials/Agricultural Inputs. Proceed with caution.
+- **Circle of Competence**: Basic Materials / Agricultural Inputs
 - **Margin of Safety**: 85% — PRESENT (IV $224 vs $121 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

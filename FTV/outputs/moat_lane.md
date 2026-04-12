@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: FTV
-*Generated: 2026-04-12 13:49 | Price: $58.36 | Mkt Cap: $19B*
+*Generated: 2026-04-12 17:55 | Price: $58.36 | Mkt Cap: $19B*
 
-## Circle of Competence: IN
-In circle (Technology/Scientific & Technical Instruments)
+## Sector Context
+Technology / Scientific & Technical Instruments
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Scientific & Technical Instruments)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.7% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 172% (strong); Gross margin: 64% (pricing power for Technology) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 33% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 172% (strong); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 20% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.3x — fair price; 52w range position: 75%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Scientific & Technical Instruments)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Scientific & Technical Instruments)
+- **Circle of Competence**: Technology / Scientific & Technical Instruments
 - **Margin of Safety**: -59% — ABSENT ($58 > IV $24 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership

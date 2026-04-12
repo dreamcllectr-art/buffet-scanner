@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: CAG
-*Generated: 2026-04-12 13:49 | Price: $15.18 | Mkt Cap: $7B*
+*Generated: 2026-04-12 17:54 | Price: $15.18 | Mkt Cap: $7B*
 
-## Circle of Competence: IN
-In circle (Consumer Defensive/Packaged Foods)
+## Sector Context
+Consumer Defensive / Packaged Foods
 
 ---
 
@@ -20,22 +20,22 @@ In circle (Consumer Defensive/Packaged Foods)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 189% (strong); Gross margin: 24% (below Consumer Defensive norm) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 61% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 189% (strong); Gross margin: 24% (below Consumer Defensive norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 24% — below Consumer Defensive moderate cutoff 30%; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.0% (>5%) | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 4.5 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Consumer Defensive/Packaged Foods)
+- **Circle of Competence**: Consumer Defensive / Packaged Foods
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.20 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

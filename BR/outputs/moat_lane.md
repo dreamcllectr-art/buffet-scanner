@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-04-12 13:49 | Price: $151.12 | Mkt Cap: $18B*
+*Generated: 2026-04-12 17:54 | Price: $151.12 | Mkt Cap: $18B*
 
-## Circle of Competence: IN
-In circle (Technology/Information Technology Services)
+## Sector Context
+Technology / Information Technology Services
 
 ---
 
@@ -20,13 +20,13 @@ In circle (Technology/Information Technology Services)
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 13.6% (4y); Earnings: 3/3 up-years (predictable); FCF/NI: 112% (strong); Gross margin: 31% (below Technology norm) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 13.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 112% (strong); Gross margin: 31% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ In circle (Technology/Information Technology Services)
 
 ## Mental Models Applied
 
-- **Circle of Competence**: In circle (Technology/Information Technology Services)
+- **Circle of Competence**: Technology / Information Technology Services
 - **Margin of Safety**: 50% — PRESENT (IV $226 vs $151 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership

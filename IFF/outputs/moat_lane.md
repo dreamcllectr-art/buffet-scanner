@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-04-12 13:50 | Price: $72.52 | Mkt Cap: $19B*
+*Generated: 2026-04-12 17:55 | Price: $72.52 | Mkt Cap: $19B*
 
-## Circle of Competence: OUTSIDE
-OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
+## Sector Context
+Basic Materials / Specialty Chemicals
 
 ---
 
@@ -20,13 +20,13 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -2.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 32% (weak conversion); Gross margin: 36% (pricing power for Basic Materials) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 237% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 32% (weak conversion); Gross margin: 36% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 36% vs sector strong cutoff 30% — strong pricing power; Operating margin 5% — thin for Basic Materials | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 53%; Owner earnings yield: 16.7% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -35,7 +35,7 @@ OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
 
 ## Mental Models Applied
 
-- **Circle of Competence**: OUTSIDE circle — Basic Materials/Specialty Chemicals. Proceed with caution.
+- **Circle of Competence**: Basic Materials / Specialty Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership

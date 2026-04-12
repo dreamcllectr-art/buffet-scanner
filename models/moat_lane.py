@@ -651,18 +651,40 @@ def run_moat_lane(ticker_sym):
     print(f"  BUFFETT/MUNGER MOAT LANE: {ticker_sym}")
     print(f"{'='*60}\n")
 
+    import time
+
+    def _yf_retry(fn, retries=3, delay=0.5):
+        """yfinance can return empty or transiently fail under load.
+        Retry with backoff before giving up."""
+        for attempt in range(retries):
+            try:
+                result = fn()
+                # yfinance sometimes returns an empty DataFrame / dict on
+                # rate limit without raising — treat as failure + retry
+                if result is None:
+                    raise RuntimeError("yfinance returned None")
+                if hasattr(result, 'empty') and result.empty:
+                    raise RuntimeError("yfinance returned empty")
+                if isinstance(result, dict) and not result:
+                    raise RuntimeError("yfinance returned empty dict")
+                return result
+            except Exception:
+                if attempt == retries - 1:
+                    raise
+                time.sleep(delay * (2 ** attempt))
+
     t = yf.Ticker(ticker_sym)
-    info = t.info
+    info = _yf_retry(lambda: t.info)
 
     # Financials
-    income = t.income_stmt
-    balance = t.balance_sheet
-    cashflow = t.cashflow
+    income = _yf_retry(lambda: t.income_stmt)
+    balance = _yf_retry(lambda: t.balance_sheet)
+    cashflow = _yf_retry(lambda: t.cashflow)
 
     # 5y price history for cyclicality measurement (fetched once, passed down)
     price_history = None
     try:
-        price_history = t.history(period='5y', auto_adjust=True)
+        price_history = _yf_retry(lambda: t.history(period='5y', auto_adjust=True))
     except Exception:
         pass
 

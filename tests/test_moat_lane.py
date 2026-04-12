@@ -59,19 +59,76 @@ def _cashflow(fcf_series):
 # ---------------------------------------------------------------------------
 
 class TestCircleOfCompetence:
-    def test_technology_in_circle(self):
-        ok, _ = classify_competence("Technology", "Software")
+    """Circle of competence is now a display label, not a scoring gate.
+    Every sector comes through as 'in circle' — Buffett himself holds
+    JNJ (Healthcare), OXY (Energy), and BHE (Utilities), all of which
+    the old 1970s-circle blacklist would have capped at 7.0."""
+
+    def test_technology_surfaces_sector_label(self):
+        ok, note = classify_competence("Technology", "Semiconductors")
+        assert ok is True
+        assert "Semiconductors" in note
+
+    def test_healthcare_no_longer_capped(self):
+        ok, note = classify_competence("Healthcare", "Drug Manufacturers")
+        assert ok is True
+        assert "Healthcare" in note
+
+    def test_energy_no_longer_capped(self):
+        ok, _ = classify_competence("Energy", "Oil & Gas E&P")
         assert ok is True
 
-    def test_healthcare_outside_circle(self):
-        ok, note = classify_competence("Healthcare", "Pharma")
-        assert ok is False
-        assert "OUTSIDE" in note
 
-    def test_unknown_sector_flagged(self):
-        ok, note = classify_competence("Widget Fabrication", "Widgets")
-        assert ok is False
-        assert "review" in note.lower()
+class TestCyclicality:
+    """Two stacked signals: NI drawdown from a prior peak in the reported
+    window (short, often misses real cycles) and 5y price max drawdown
+    (the workhorse). Both penalize the Quality pillar."""
+
+    def _base_info(self):
+        return {"taxRate": 0.21, "grossMargins": 0.55, "returnOnEquity": 0.25,
+                "sector": "Technology"}
+
+    def _price_series(self, values):
+        idx = pd.date_range("2021-01-01", periods=len(values), freq="D")
+        return pd.DataFrame({"Close": values}, index=idx)
+
+    def test_ni_drawdown_flagged(self):
+        # NI goes 4 → 10 → 4 → 30 (intra-window cycle)
+        income = _income_stmt([30, 4, 10, 4], ebit_series=[40, 6, 12, 5])
+        balance = _balance([60, 50, 50, 40])
+        cashflow = _cashflow([28, 3, 9, 3])
+        score, notes = score_quality("CYC", self._base_info(), income, cashflow, balance)
+        assert "NI drawdown" in notes
+
+    def test_price_drawdown_severe_takes_penalty(self):
+        # Price: 100 up to 200, crash to 70, recover to 180.
+        # Max DD from prior peak = (200-70)/200 = 65% — severe bucket
+        prices = [100, 150, 200, 150, 100, 70, 120, 160, 180] * 15
+        ph = self._price_series(prices)
+        income = _income_stmt([88, 72, 72, 60])
+        balance = _balance([250, 240, 230, 220])
+        cashflow = _cashflow([80, 65, 65, 55])
+        score, notes = score_quality(
+            "CYC", self._base_info(), income, cashflow, balance, price_history=ph
+        )
+        assert "severe cyclicality" in notes
+        # Monotonic NI + strong ROIC base but severe price drawdown should
+        # still drop the score meaningfully (base 5.5-6 + modifiers ~-0.5)
+        assert score <= 7.5
+
+    def test_price_drawdown_stable_clean(self):
+        # Monotonic rising price — no drawdown
+        prices = [100 + i*0.5 for i in range(200)]
+        ph = self._price_series(prices)
+        income = _income_stmt([88, 72, 72, 60])
+        balance = _balance([250, 240, 230, 220])
+        cashflow = _cashflow([80, 65, 65, 55])
+        score, notes = score_quality(
+            "MON", self._base_info(), income, cashflow, balance, price_history=ph
+        )
+        assert "stable" in notes
+        assert "severe" not in notes
+        assert "moderate cyclicality" not in notes
 
 
 # ---------------------------------------------------------------------------
@@ -96,7 +153,10 @@ class TestEarningsPredictability:
         balance = _balance([200, 180, 160, 140])
         cashflow = _cashflow([55, 45, 35, 25])
         score, notes = score_quality("TEST", self._base_info(), income, cashflow, balance)
-        assert "predictable" in notes
+        assert "monotonic" in notes
+        # Must NOT take a cyclicality penalty — peak-to-trough is only
+        # counted from a prior peak, not from start-of-series
+        assert "Cyclicality" not in notes
         assert score >= 7.0  # high-quality growth
 
     def test_down_years_penalize(self):

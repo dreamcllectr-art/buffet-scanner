@@ -18,31 +18,43 @@ from datetime import datetime, timedelta
 # ---------------------------------------------------------------------------
 # Circle of Competence gate
 # ---------------------------------------------------------------------------
-COMPETENCE_YES = [
-    'Technology', 'Consumer', 'Communication Services', 'Financial Services',
-    'Consumer Cyclical', 'Consumer Defensive', 'Industrials',
-]
-COMPETENCE_ASK = [
-    'Healthcare', 'Biotechnology', 'Pharmaceutical', 'Energy', 'Utilities',
-    'Basic Materials',
-]
-
-
 def classify_competence(sector, industry):
-    """Return (in_circle: bool, note: str)."""
-    for tag in COMPETENCE_YES:
-        if tag.lower() in sector.lower() or tag.lower() in industry.lower():
-            return True, f"In circle ({sector}/{industry})"
-    for tag in COMPETENCE_ASK:
-        if tag.lower() in sector.lower() or tag.lower() in industry.lower():
-            return False, f"OUTSIDE circle — {sector}/{industry}. Proceed with caution."
-    return False, f"Unknown sector ({sector}/{industry}) — flag for review."
+    """Informational sector label for the Mental Models display.
+
+    Circle of Competence is a personal capability test, not a universal
+    sector blacklist. Buffett himself has violated any hardcoded version of
+    his own 1970s circle — he holds OXY and CVX in Energy, JNJ in Healthcare,
+    Berkshire Hathaway Energy in Utilities, and added Apple after decades.
+    We surface the sector as context but let the real filters do the work:
+    cyclicality penalty (score_quality), sector-aware moat scoring, and the
+    Munger inversion killers.
+    """
+    return True, f"{sector} / {industry}"
 
 
 # ---------------------------------------------------------------------------
 # Pillar 1: Quality (30%)
 # ---------------------------------------------------------------------------
-def score_quality(ticker_sym, info, income, cashflow, balance):
+def _max_drawdown(series):
+    """Largest peak-to-trough decline from any prior high in the series."""
+    if series is None or len(series) < 2:
+        return 0.0
+    running_peak = float(series.iloc[0])
+    max_dd = 0.0
+    for v in series.values:
+        v = float(v)
+        if v != v:  # NaN
+            continue
+        if v > running_peak:
+            running_peak = v
+        elif running_peak > 0:
+            dd = (running_peak - v) / running_peak
+            if dd > max_dd:
+                max_dd = dd
+    return max_dd
+
+
+def score_quality(ticker_sym, info, income, cashflow, balance, price_history=None):
     notes = []
     # Use a budget system: ROIC sets base (0-7), then modifiers add/subtract
     # within remaining headroom to 10. This prevents bonus stacking past ceiling.
@@ -85,9 +97,13 @@ def score_quality(ticker_sym, info, income, cashflow, balance):
     except Exception as e:
         notes.append(f"ROIC calc error: {e}")
 
-    # --- Earnings predictability (Buffett: monotonic direction, not variance) ---
-    # Count down-years in trailing series. A growing company (30→40→50) has 0
-    # down-years and should earn the bonus despite high YoY std-dev.
+    # --- Earnings predictability: direction + through-cycle drawdown ---
+    # Two signals stacked:
+    #   1. Count of down-years (directional — growth should earn the bonus)
+    #   2. Peak-to-trough drawdown (cyclical — catches NVDA-in-2023 / CAT /
+    #      commodity E&Ps even when the trailing window has 0 down-year
+    #      transitions). Buffett's actual bar is "predictable through a
+    #      downturn", which is a drawdown question, not a variance one.
     try:
         net_income = income.loc['Net Income'] if 'Net Income' in income.index else None
         if net_income is not None and len(net_income) >= 3:
@@ -97,10 +113,9 @@ def score_quality(ticker_sym, info, income, cashflow, balance):
                 diffs = np.diff(ni_values)
                 down_years = int(np.sum(diffs < 0))
                 total_transitions = len(diffs)
-                # Any negative year breaks "predictable" in Buffett's sense
                 if down_years == 0:
                     modifier += 1.0
-                    notes.append(f"Earnings: {total_transitions}/{total_transitions} up-years (predictable)")
+                    notes.append(f"Earnings: {total_transitions}/{total_transitions} up-years (monotonic)")
                 elif down_years == 1:
                     notes.append(f"Earnings: 1 down-year in {total_transitions} transitions")
                 elif down_years >= total_transitions - 1:
@@ -109,6 +124,42 @@ def score_quality(ticker_sym, info, income, cashflow, balance):
                 else:
                     modifier -= 1.0
                     notes.append(f"Earnings: {down_years}/{total_transitions} down-years (choppy)")
+
+                # Max NI drawdown from a prior peak within the reported
+                # window. yfinance usually gives 4y annual so this only
+                # catches recent cycles — price drawdown below is the
+                # workhorse signal.
+                running_peak = ni_values[0]
+                max_dd = 0.0
+                for v in ni_values[1:]:
+                    if v > running_peak:
+                        running_peak = v
+                    elif running_peak > 0:
+                        dd = (running_peak - v) / running_peak
+                        if dd > max_dd:
+                            max_dd = dd
+                if max_dd > 0.30:
+                    modifier -= 0.5
+                    notes.append(f"NI drawdown: {max_dd:.0%} from prior peak")
+    except Exception:
+        pass
+
+    # --- Cyclicality via 5y price drawdown ---
+    # The longest-horizon signal available for free. Calibrated so that
+    # real cyclicals (NVDA 66%, OXY 51%) take a meaningful hit while
+    # normal equity volatility (MSFT 37%, JNJ 18%) comes through clean.
+    try:
+        if price_history is not None and len(price_history) > 100:
+            closes = price_history['Close'] if 'Close' in price_history else price_history
+            pdd = _max_drawdown(closes)
+            if pdd > 0.55:
+                modifier -= 1.5
+                notes.append(f"5y price drawdown: {pdd:.0%} (severe cyclicality)")
+            elif pdd > 0.40:
+                modifier -= 0.5
+                notes.append(f"5y price drawdown: {pdd:.0%} (moderate cyclicality)")
+            else:
+                notes.append(f"5y price drawdown: {pdd:.0%} (stable)")
     except Exception:
         pass
 
@@ -608,6 +659,13 @@ def run_moat_lane(ticker_sym):
     balance = t.balance_sheet
     cashflow = t.cashflow
 
+    # 5y price history for cyclicality measurement (fetched once, passed down)
+    price_history = None
+    try:
+        price_history = t.history(period='5y', auto_adjust=True)
+    except Exception:
+        pass
+
     # Insider data
     insider_df = None
     try:
@@ -648,13 +706,11 @@ def run_moat_lane(ticker_sym):
     # --- Circle of Competence Gate ---
     sector = info.get('sector', '')
     industry = info.get('industry', '')
-    in_circle, circle_note = classify_competence(sector, industry)
-    print(f"Circle of Competence: {circle_note}")
-    if not in_circle:
-        print("WARNING: Outside circle of competence. Proceeding with extra caution.\n")
+    _, circle_note = classify_competence(sector, industry)
+    print(f"Sector context: {circle_note}")
 
     # --- Score Four Pillars ---
-    q_score, q_notes = score_quality(ticker_sym, info, income, cashflow, balance)
+    q_score, q_notes = score_quality(ticker_sym, info, income, cashflow, balance, price_history=price_history)
     m_score, m_notes = score_management(ticker_sym, info, insider_df)
     moat_score, moat_notes = score_moat(ticker_sym, info, peer_df)
     v_score, v_notes = score_valuation_fit(ticker_sym, info)
@@ -673,8 +729,6 @@ def run_moat_lane(ticker_sym):
     if cap_triggered:
         raw_score = min(raw_score, 6.0)
         print("INVERSION CAP TRIGGERED: Score capped at 6.0")
-    if not in_circle:
-        raw_score = min(raw_score, 7.0)  # Penalty for outside competence
 
     buffett_score = round(raw_score, 1)
 
@@ -713,7 +767,7 @@ def run_moat_lane(ticker_sym):
     report = generate_report(
         ticker_sym, info, buffett_score, alpha_adj, conviction, verdict,
         q_score, q_notes, m_score, m_notes, moat_score, moat_notes,
-        v_score, v_notes, killers, mental_models, lolla, in_circle, circle_note
+        v_score, v_notes, killers, mental_models, lolla, circle_note
     )
 
     # Save
@@ -731,13 +785,12 @@ def run_moat_lane(ticker_sym):
         'conviction': conviction,
         'verdict': verdict,
         'material_killers': material_killers,
-        'in_circle': in_circle,
     }
 
 
 def generate_report(ticker, info, score, alpha, conviction, verdict,
                     q_s, q_n, m_s, m_n, moat_s, moat_n, v_s, v_n,
-                    killers, models, lolla, in_circle, circle_note):
+                    killers, models, lolla, circle_note):
     now = datetime.now().strftime('%Y-%m-%d %H:%M')
     price = info.get('currentPrice', 'N/A')
     mc = info.get('marketCap', 0)
@@ -756,7 +809,7 @@ def generate_report(ticker, info, score, alpha, conviction, verdict,
         for w in data_warnings:
             lines.append(f"> {w}\n")
     lines += [
-        f"## Circle of Competence: {'IN' if in_circle else 'OUTSIDE'}",
+        f"## Sector Context",
         f"{circle_note}\n",
         "---\n",
         "## Inversion First: What Could Kill This?\n",

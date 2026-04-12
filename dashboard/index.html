@@ -560,7 +560,6 @@ function parseCSV(text) {
     obj.buffett_score = parseFloat(obj.buffett_score) || 0;
     obj.alpha_adj = parseFloat(obj.alpha_adj) || 0;
     obj.material_killers = parseInt(obj.material_killers, 10) || 0;
-    obj.in_circle = obj.in_circle === '' ? 1 : parseInt(obj.in_circle, 10);
     return obj;
   });
 }
@@ -767,14 +766,7 @@ function StockRow({ stock, rank, animDelay, rankDelta, scoreDelta }) {
 
         <div className="verdict-cell">
           <span className={`verdict ${verdictClass(stock.verdict)}`}>
-            {stock.verdict}
-            {stock.in_circle === 0 && (
-              <span title="Outside circle of competence — score capped at 7.0"
-                    style={{marginLeft:'6px',fontSize:'9px',color:'var(--amber)',fontFamily:'var(--mono)'}}>
-                ⊘CoC
-              </span>
-            )}
-            <span className="chevron">▾</span>
+            {stock.verdict}<span className="chevron">▾</span>
           </span>
         </div>
       </div>

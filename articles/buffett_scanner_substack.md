@@ -18,7 +18,7 @@ I spent the next two days rebuilding the thing end to end.
 – The entire S&P 500 + Russell 1000 universe, scanned every morning in under three minutes
 – Live yfinance data, committed to git, served from a free CDN
 – $0 marginal cost — GitHub Actions + GitHub Pages + free APIs
-– Sector-aware 4-pillar scoring, Munger inversion, and 19 unit tests catching the class of bug I was shipping to my own research
+– Sector-aware 4-pillar scoring, Munger inversion, cyclicality penalty, and 22 unit tests catching the class of bug I was shipping to my own research
 
 It runs on a GitHub Actions cron and does in 2m50s what takes me four hours manually.
 
@@ -34,13 +34,13 @@ I type one command:
 
 > _python3 scanner.py --universe all --top 25 --workers 4_
 
-Three minutes later I'm looking at the dashboard above. Thirteen names in Own Forever territory. NVDA leads at 9.3. APP, MSFT, GOOGL, FICO, META, ROL, CTAS — eight stars before I've finished my coffee.
+Three minutes later I'm looking at the dashboard above. Ten names in Own Forever territory: NVDA leads at 8.9, then MSFT 8.8, GOOGL 8.6, APP 8.4, CTAS 8.3, FTNT 8.3, FICO 8.2, META 8.1. Ten stars before I've finished my coffee.
 
 When I click any row, the detail panel expands inline and shows me exactly what the scorer saw:
 
 ![NVDA detail panel — four pillars, three inversion killers, five mental models, Lollapalooza check](images/02-detail-panel.png)
 
-Four pillar scores. Three inversion killers with probability and fair-value impact estimates. Five mental models. A Lollapalooza check. NVDA scored Quality 10/10, Management 9.0/10, Moat 9.5/10, Valuation Fit 8.5/10 — and the Lollapalooza model lit up on four forces aligning at once: high quality, strong moat, attractive valuation, secular growth.
+Four pillar scores. Three inversion killers with probability and fair-value impact estimates. Five mental models. A Lollapalooza check. NVDA scored Quality 8.5/10, Management 9.0/10, Moat 9.5/10, Valuation Fit 8.5/10 — and the Lollapalooza model lit up on four forces aligning at once: high quality, strong moat, attractive valuation, secular growth. Look at the Quality rationale: *"5y price drawdown: 66% (severe cyclicality)"*. The scorer docked NVDA 1.5 points for being a historically cyclical business. More on why that matters in a minute.
 
 No LLM picks any stock. The scoring is deterministic Python running against live yfinance data — reproducible across runs, auditable line by line. Gemini only writes the daily narrative the dashboard displays beneath the table. The numbers are Python. The prose is LLM.
 
@@ -62,7 +62,7 @@ I timed it. One name, done properly, took four hours. And I was still shipping t
 
 I started wondering what would happen if the whole workflow — universe selection, scoring, inversion, narrative, publish — ran end to end while I slept.
 
-After one hard refactor, 800 lines of scoring code, 19 unit tests, and an institutional-grade quality audit I ran against my own build, the answer was clear.
+After one hard refactor, 880 lines of scoring code, 22 unit tests, and a skeptical audit I ran against my own build, the answer was clear.
 
 The automated version is more rigorous than my manual process because it never skips steps and never forgets that banks don't have gross margins.
 
@@ -85,8 +85,8 @@ The rest of this post is for paid subscribers. Below the cut:
 
 *   The full 4-pillar scoring rubric, including the sector-band dictionary that fixes the bank/retailer problem
 *   The Munger inversion cap math — exact probability and impact thresholds, and the one off-by-one that was silently disabling the whole thing
-*   How I ran an institutional 11-dimension quality audit against my own system, scored 7.2/10 (BLOCKED), and fixed it to 9.3/10
-*   Today's full leaderboard analysis, including the names the sector-aware fix moved **up** (JPM, BAC, COST) and why
+*   The cyclicality penalty that knocked NVDA from 9.3 to 8.9 — why 5y price drawdown is the right proxy for "predictable through cycles" and what thresholds I calibrated
+*   Today's full leaderboard analysis, including the names that moved **up** after the sector-aware rewrite (JPM, BAC, COST) and why
 *   A link to the full source code — every file, every test, every workflow — in a Google Drive folder reserved for paid subscribers
 
 <!-- SUBSTACK_PAYWALL -->
@@ -120,23 +120,19 @@ Every name is stress-tested against three killers:
 
 If any killer crosses the red line, the Buffett score is capped at 6.0. This is the same discipline Charlie talks about in his "invert, always invert" lectures. The system's job is to talk me out of the stock before it lets me in.
 
-Today's scan flagged 49 high-score names with material killers. The dashboard's Munger Inversion Alert section lists every one explicitly — no more hand-waving about "reviewing risks."
+Today's scan flagged 42 high-score names with material killers. The dashboard's Munger Inversion Alert section lists every one explicitly — no more hand-waving about "reviewing risks."
 
 ---
 
-## The Quality Audit That Almost Broke It
+## The Audit That Almost Broke It
 
-The weirdest part of this build was running an institutional quality gate against the system. I wrote an 11-dimension rubric — functional integrity, wiring, data authenticity, numerical accuracy, expert coherence, business UX, empty/error states, feature completeness, synthesis quality, visual quality, data freshness — and scored my own build like a skeptical buyer.
+Before shipping this, I spent an afternoon auditing the system like a skeptical outside buyer — not as the person who built it. The version I thought was ready came back with three failures I would have happily published:
 
-First pass came back **7.2/10 — BLOCKED**.
+*   **The "Munger Alert" section in the dashboard was a stub.** It used "HIGH conviction" as a proxy for "has material killers" and told the user to go check for themselves. The product was asking the human to do the work the model was supposed to do.
+*   **Earnings predictability was measured as the standard deviation of YoY changes**, which mathematically penalizes growth. A company going 30 → 40 → 50 has higher std-dev than one flat at 20 and got *penalized* for it. Separately, Lollapalooza counted "absence of material killers" as a positive force, which double-counts the inversion cap. And the dashboard masthead said "S&P 100 UNIVERSE" while showing 381 Russell 1000 names.
+*   **The deploy workflow had `|| true` on `git add`**, which silently swallowed failures and shipped stale data.
 
-Three hard-gate failures:
-
-*   **Wiring integrity (6/10).** The "Munger Alert" section in the dashboard was a stub. It used "HIGH conviction" as a proxy for "has material killers" and told the user to go check for themselves. The product was asking the human to do the work the model was supposed to do.
-*   **Expert coherence (6/10).** Earnings predictability was measured as the standard deviation of YoY changes — which mathematically penalizes growth. A company going 30 → 40 → 50 has higher std-dev than one flat at 20 and got *penalized* for it. Lollapalooza counted "absence of material killers" as a positive force, which double-counts the inversion cap. The dashboard masthead said "S&P 100 UNIVERSE" while showing 381 Russell 1000 names.
-*   **Data freshness (5/10).** The deploy workflow had `|| true` on `git add`, which silently swallowed failures and shipped stale data.
-
-I fixed every one, added the 19-test suite, re-ran the gate, and came out at **9.3/10 — CONDITIONAL PASS**. Every hard gate clear. Composite held back only by empirical calibration work — sector-peer percentile scoring, dynamic owner-earnings vs bond-yield cutoff — that's new research, not leftover bugs.
+I fixed every one, added the 22-test suite, and re-ran the audit clean. The remaining gap is empirical calibration — sector-peer percentile scoring, dynamic owner-earnings vs bond-yield cutoff — not leftover bugs.
 
 The audit caught things I would have happily shipped. Watching a scoring model get torn apart on its own terms is the most useful self-correction loop I've built into anything.
 
@@ -144,16 +140,16 @@ The audit caught things I would have happily shipped. Watching a scoring model g
 
 ## What Today's Scan Actually Found
 
-The top 13 are all "Own Forever" territory (≥8.0). A few picks that would never show up on a generic quant screener:
+Ten names cleared Own Forever today. The top seven:
 
-*   **ROL (Rollins)** — 8.4. Pest control. Zero material killers. A quiet compounder running 50% operating margins — exactly the kind of business Buffett calls a toll bridge.
-*   **CTAS (Cintas)** — 8.3. Uniform rental. Boring industrial, strong insider alignment. The sector-aware moat scoring catches it where a GM-based screener would miss it entirely.
-*   **DECK (Deckers)** — 8.2. Hoka and Ugg. High ROIC, wide gross margins, tight insider ownership.
-*   **FICO** — 8.6. The credit-score toll bridge. Lollapalooza: YES — quality, moat, and secular growth all firing at once.
+*   **NVDA — 8.9.** Quality 8.5, Management 9.0, Moat 9.5, Valuation Fit 8.5. Four forces aligning on Lollapalooza. The scorer docked 1.5 points on Quality for a 66% 5-year price drawdown — cyclicality is real even though the trailing earnings series happens to be monotonic. Would Buffett actually buy it? Probably not. Chips are structurally cyclical, customers are openly trying to commoditize the moat, and "predictable through the next downturn" is a harder test than any single year's metrics can measure. The scorer flagged it. The human decides.
+*   **MSFT — 8.8.** The inverse of NVDA: zero cyclicality penalty, monotonic earnings, the kind of compounder that shows up in the same spot every scan. Notice the material killer count — 2. Tech disruption is always flagged as material for big tech, which is honest.
+*   **GOOGL — 8.6.** Same pattern. Moderate cyclicality ding for the 2022 ad-revenue drawdown, otherwise clean.
+*   **CTAS (Cintas) — 8.3.** Uniform rental. Boring industrial. Zero material killers. The sector-aware moat scoring catches it where a GM-based screener would miss it entirely — this is the trade that pays the most from getting the rubric right.
+*   **FICO — 8.2.** The credit-score toll bridge. High switching costs, regulatory moat, monopoly-adjacent pricing.
+*   **FTNT — 8.3.** Cybersecurity with 26% ROIC and tight insider ownership.
 
-The names that surprised me most were the ones that moved **up** after the sector-aware fix.
-
-JPM went from "below the cut" to **7.3 / Watchlist** the instant the scorer stopped treating financials like software companies. BAC landed at 6.1. COST climbed from 5.2 to 6.4 once the retailer scale-moat override fired.
+The names that moved **up** after the sector-aware rewrite are the more interesting story. JPM went from "below the cut" to **7.3 / Watchlist** the instant the scorer stopped treating financials like software companies. BAC landed at 6.1. COST climbed from 5.2 to 6.4 once the retailer scale-moat override fired. LLY moved to 7.7 after the circle-of-competence cap came off Healthcare entirely.
 
 Every one of those was a bug my old scorer was shipping into my own research workflow. I just didn't know it until the new one refused to ship it.
 
@@ -171,8 +167,8 @@ It's everything you need to run your own copy, tune the sector bands, or fork th
 
 Live dashboard: **https://buffet-scanner.vercel.app**
 
-The scanner runs every morning at 04:00 UTC. The dashboard updates itself. The tests run on every push. The quality gate is documented alongside the scoring code.
+The scanner runs every morning at 04:00 UTC. The dashboard updates itself. The tests run on every push.
 
 The next piece I'm building is a factor-attribution layer that tells me which pillar moved a name up or down versus yesterday — so the daily diff is readable in ten seconds instead of ten minutes.
 
-If there's a specific piece of the pipeline you want broken down in more detail — the sector-aware moat bands, the Munger inversion cap math, or the way the quality gate audits itself — reply to this post and I'll make it the next one.
+If there's a specific piece of the pipeline you want broken down in more detail — the sector-aware moat bands, the Munger inversion cap math, or the cyclicality penalty thresholds — reply to this post and I'll make it the next one.

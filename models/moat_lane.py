@@ -16,6 +16,22 @@ from datetime import datetime, timedelta
 
 
 # ---------------------------------------------------------------------------
+# Manual insider-ownership overrides
+# ---------------------------------------------------------------------------
+# yfinance's heldPercentInsiders is keyed to the individual share class and
+# misses cross-class control stakes. The canonical failure is BRK-B, where
+# Buffett's ~14% economic stake sits almost entirely in Class A and yfinance
+# reports ~0.3%. These values are the Buffett "earned skin" — update when a
+# controlling holder materially changes (rare event).
+MANUAL_INSIDER_OVERRIDES = {
+    'BRK-B': 0.14,
+    'BRK.B': 0.14,
+    'BRK-A': 0.14,
+    'BRK.A': 0.14,
+}
+
+
+# ---------------------------------------------------------------------------
 # Circle of Competence gate
 # ---------------------------------------------------------------------------
 def classify_competence(sector, industry):
@@ -60,6 +76,27 @@ def score_quality(ticker_sym, info, income, cashflow, balance, price_history=Non
     # within remaining headroom to 10. This prevents bonus stacking past ceiling.
     base_score = 5.0
     modifier = 0.0
+    sector = info.get('sector', '') or ''
+    industry = info.get('industry', '') or ''
+    # Banks, insurers, and holding cos: EBIT/InvestedCapital is meaningless
+    # (no "operating capital" in the industrial sense), FCF/NI is dominated
+    # by float accounting, and GAAP NI is whipsawed by ASU 2016-01
+    # mark-to-market on equity securities (the BRK problem). We route these
+    # through a ROE-based base and soften the noisy penalties.
+    is_financial = sector == 'Financial Services'
+
+    # --- ROE override for financials ---
+    if is_financial:
+        roe = info.get('returnOnEquity', 0) or 0
+        if roe > 0.18:
+            base_score = 7.0
+        elif roe > 0.12:
+            base_score = 5.5 + (roe - 0.12) / 0.06 * 1.5
+        elif roe > 0.08:
+            base_score = 4.5 + (roe - 0.08) / 0.04 * 1.0
+        else:
+            base_score = max(3.0, roe / 0.08 * 4.5)
+        notes.append(f"ROE: {roe:.1%} (financials — book-return proxy)")
 
     # --- ROIC history (use available years) ---
     try:
@@ -67,7 +104,9 @@ def score_quality(ticker_sym, info, income, cashflow, balance, price_history=Non
         ic_series = balance.loc['Invested Capital'] if 'Invested Capital' in balance.index else None
         tax_rate = info.get('taxRate', 0.21) or 0.21
 
-        if ebit_series is not None and ic_series is not None:
+        if is_financial:
+            pass  # ROE path above already set base_score
+        elif ebit_series is not None and ic_series is not None:
             roics = []
             for col in ebit_series.index:
                 ebit = ebit_series[col]
@@ -113,16 +152,21 @@ def score_quality(ticker_sym, info, income, cashflow, balance, price_history=Non
                 diffs = np.diff(ni_values)
                 down_years = int(np.sum(diffs < 0))
                 total_transitions = len(diffs)
+                # Financials' GAAP NI is distorted by ASU 2016-01 mark-to-market
+                # on equity securities and by insurance-reserve catch-ups, so
+                # halve the penalty (real blowups still come through).
+                penalty_mult = 0.5 if is_financial else 1.0
                 if down_years == 0:
                     modifier += 1.0
                     notes.append(f"Earnings: {total_transitions}/{total_transitions} up-years (monotonic)")
                 elif down_years == 1:
                     notes.append(f"Earnings: 1 down-year in {total_transitions} transitions")
                 elif down_years >= total_transitions - 1:
-                    modifier -= 2.0
-                    notes.append(f"Earnings: {down_years}/{total_transitions} down-years (unpredictable)")
+                    modifier -= 2.0 * penalty_mult
+                    tag = "unpredictable (GAAP mark-to-market)" if is_financial else "unpredictable"
+                    notes.append(f"Earnings: {down_years}/{total_transitions} down-years ({tag})")
                 else:
-                    modifier -= 1.0
+                    modifier -= 1.0 * penalty_mult
                     notes.append(f"Earnings: {down_years}/{total_transitions} down-years (choppy)")
 
                 # Max NI drawdown from a prior peak within the reported
@@ -138,7 +182,7 @@ def score_quality(ticker_sym, info, income, cashflow, balance, price_history=Non
                         dd = (running_peak - v) / running_peak
                         if dd > max_dd:
                             max_dd = dd
-                if max_dd > 0.30:
+                if max_dd > 0.30 and not is_financial:
                     modifier -= 0.5
                     notes.append(f"NI drawdown: {max_dd:.0%} from prior peak")
     except Exception:
@@ -164,26 +208,30 @@ def score_quality(ticker_sym, info, income, cashflow, balance, price_history=Non
         pass
 
     # --- FCF conversion ---
-    try:
-        fcf = cashflow.loc['Free Cash Flow'] if 'Free Cash Flow' in cashflow.index else None
-        ni = income.loc['Net Income'] if 'Net Income' in income.index else None
-        if fcf is not None and ni is not None:
-            conversion = (fcf / ni).mean()
-            if conversion > 0.80:
-                modifier += 1.0
-                notes.append(f"FCF/NI: {conversion:.0%} (strong)")
-            elif conversion < 0.50:
-                modifier -= 0.5
-                notes.append(f"FCF/NI: {conversion:.0%} (weak conversion)")
-            else:
-                notes.append(f"FCF/NI: {conversion:.0%}")
-    except:
-        pass
+    # Skip for financials: insurance float inflows and bank deposit flows
+    # dominate operating cash flow and make FCF/NI meaningless (BRK's
+    # reported "FCF" is frequently negative in growth years).
+    if is_financial:
+        notes.append("FCF/NI: n/a for financials (float/deposit accounting)")
+    else:
+        try:
+            fcf = cashflow.loc['Free Cash Flow'] if 'Free Cash Flow' in cashflow.index else None
+            ni = income.loc['Net Income'] if 'Net Income' in income.index else None
+            if fcf is not None and ni is not None:
+                conversion = (fcf / ni).mean()
+                if conversion > 0.80:
+                    modifier += 1.0
+                    notes.append(f"FCF/NI: {conversion:.0%} (strong)")
+                elif conversion < 0.50:
+                    modifier -= 0.5
+                    notes.append(f"FCF/NI: {conversion:.0%} (weak conversion)")
+                else:
+                    notes.append(f"FCF/NI: {conversion:.0%}")
+        except Exception:
+            pass
 
     # --- Gross margins (sector-aware — pricing power vs sector norm) ---
     gm = info.get('grossMargins', 0) or 0
-    sector = info.get('sector', '') or ''
-    industry = info.get('industry', '') or ''
     strong_gm, mod_gm = SECTOR_GM_BANDS.get(sector, (0.50, 0.30))
     if strong_gm is None:
         # Financials — gross margin is not meaningful, skip this modifier
@@ -695,26 +743,52 @@ def run_moat_lane(ticker_sym):
     except:
         pass
 
+    # --- Manual insider override (dual-class / cross-class control) ---
+    if ticker_sym in MANUAL_INSIDER_OVERRIDES:
+        override_pct = MANUAL_INSIDER_OVERRIDES[ticker_sym]
+        info = dict(info)
+        info['heldPercentInsiders'] = override_pct
+        info['_insider_override_note'] = (
+            f"Manual override: {override_pct:.1%} insider ownership "
+            f"(cross-class control not captured by yfinance)"
+        )
+        print(f"Applied manual insider override for {ticker_sym}: {override_pct:.1%}")
+
     # --- Detect yfinance insider misclassification ---
-    # yfinance sometimes counts a large institutional holder (e.g. Berkshire Hathaway)
-    # as "insiders" when their pct held ≈ heldPercentInsiders. Check top-3 holders —
-    # Berkshire isn't always at position #1.
+    # yfinance sometimes counts a large institutional holder (e.g. an index
+    # fund) as "insiders" when their pct held ≈ heldPercentInsiders. Check
+    # the top-3 holders.
+    #
+    # EXCEPTION: if the matched holder is Berkshire Hathaway, the alignment
+    # signal is real and should NOT be zeroed — a 22% Berkshire stake is
+    # permanent capital behaving like insider ownership (AXP, KO, OXY, etc.).
+    # Buffett's own holdings are the Buffett scanner's gold standard.
+    ALIGNED_HOLDERS = ('berkshire', 'buffett')
     try:
         inst_holders = t.institutional_holders
         reported_insider_pct = info.get('heldPercentInsiders', 0) or 0
-        if inst_holders is not None and len(inst_holders) and reported_insider_pct > 0.05:
+        has_manual_override = ticker_sym in MANUAL_INSIDER_OVERRIDES
+        if not has_manual_override and inst_holders is not None and len(inst_holders) and reported_insider_pct > 0.05:
             for i in range(min(3, len(inst_holders))):
                 inst_pct = float(inst_holders.iloc[i]['pctHeld'])
                 if abs(inst_pct - reported_insider_pct) < 0.025:
-                    top_name = inst_holders.iloc[i]['Holder']
-                    print(f"WARNING: heldPercentInsiders ({reported_insider_pct:.1%}) matches "
-                          f"institutional holder #{i+1} {top_name} ({inst_pct:.1%}) — "
-                          f"likely misclassification. Resetting to 0.")
-                    info = dict(info)
-                    info['heldPercentInsiders'] = 0.0
-                    info['_insider_misclassification_note'] = (
-                        f"yfinance misclassified {top_name} ({inst_pct:.1%} inst.) as insider"
-                    )
+                    top_name = str(inst_holders.iloc[i]['Holder'])
+                    if any(k in top_name.lower() for k in ALIGNED_HOLDERS):
+                        info = dict(info)
+                        info['_aligned_holder_note'] = (
+                            f"{top_name} holds {inst_pct:.1%} — aligned long-term capital"
+                        )
+                        print(f"Aligned holder match for {ticker_sym}: "
+                              f"{top_name} ({inst_pct:.1%}) — keeping as insider signal.")
+                    else:
+                        print(f"WARNING: heldPercentInsiders ({reported_insider_pct:.1%}) matches "
+                              f"institutional holder #{i+1} {top_name} ({inst_pct:.1%}) — "
+                              f"likely misclassification. Resetting to 0.")
+                        info = dict(info)
+                        info['heldPercentInsiders'] = 0.0
+                        info['_insider_misclassification_note'] = (
+                            f"yfinance misclassified {top_name} ({inst_pct:.1%} inst.) as insider"
+                        )
                     break
     except Exception:
         pass

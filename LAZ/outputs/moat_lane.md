@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LAZ
-*Generated: 2026-04-12 19:42 | Price: $46.68 | Mkt Cap: $4B*
+*Generated: 2026-04-13 06:29 | Price: $46.68 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Capital Markets

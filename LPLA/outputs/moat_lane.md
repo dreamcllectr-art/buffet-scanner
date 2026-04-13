@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LPLA
-*Generated: 2026-04-12 19:45 | Price: $312.53 | Mkt Cap: $25B*
+*Generated: 2026-04-13 06:26 | Price: $312.53 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Capital Markets

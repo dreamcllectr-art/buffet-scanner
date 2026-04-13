@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-04-12 19:32 | Price: $67.38 | Mkt Cap: $113B*
+*Generated: 2026-04-13 06:21 | Price: $67.38 | Mkt Cap: $113B*
 
 ## Sector Context
 Consumer Defensive / Tobacco

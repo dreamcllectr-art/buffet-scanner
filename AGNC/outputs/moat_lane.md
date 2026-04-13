@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGNC
-*Generated: 2026-04-12 19:39 | Price: $10.47 | Mkt Cap: $12B*
+*Generated: 2026-04-13 06:27 | Price: $10.47 | Mkt Cap: $12B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage

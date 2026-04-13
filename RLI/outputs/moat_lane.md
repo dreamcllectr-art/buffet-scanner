@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RLI
-*Generated: 2026-04-12 19:41 | Price: $58.0 | Mkt Cap: $5B*
+*Generated: 2026-04-13 06:29 | Price: $58.0 | Mkt Cap: $5B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 26.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 48% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 126% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 24% — strong franchise (Financial Services); Operating margin 27% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.3x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 21.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.5x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 21.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

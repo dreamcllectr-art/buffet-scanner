@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKSI
-*Generated: 2026-04-12 19:45 | Price: $268.77 | Mkt Cap: $18B*
+*Generated: 2026-04-13 06:26 | Price: $268.77 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

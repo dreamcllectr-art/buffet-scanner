@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SF
-*Generated: 2026-04-12 19:39 | Price: $77.24 | Mkt Cap: $12B*
+*Generated: 2026-04-13 06:27 | Price: $77.24 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Capital Markets

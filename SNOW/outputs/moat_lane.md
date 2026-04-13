@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNOW
-*Generated: 2026-04-12 19:45 | Price: $121.11 | Mkt Cap: $42B*
+*Generated: 2026-04-13 06:33 | Price: $121.11 | Mkt Cap: $42B*
 
 ## Sector Context
 Technology / Software - Application

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-04-12 19:44 | Price: $84.96 | Mkt Cap: $40B*
+*Generated: 2026-04-13 06:33 | Price: $84.96 | Mkt Cap: $40B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TREX
-*Generated: 2026-04-12 19:42 | Price: $39.05 | Mkt Cap: $4B*
+*Generated: 2026-04-13 06:29 | Price: $39.05 | Mkt Cap: $4B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

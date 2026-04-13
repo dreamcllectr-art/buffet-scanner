@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UTHR
-*Generated: 2026-04-12 19:45 | Price: $571.73 | Mkt Cap: $25B*
+*Generated: 2026-04-13 06:26 | Price: $571.73 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

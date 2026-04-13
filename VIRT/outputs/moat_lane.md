@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIRT
-*Generated: 2026-04-12 19:42 | Price: $48.6 | Mkt Cap: $10B*
+*Generated: 2026-04-13 06:30 | Price: $48.6 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (5.6% inst.) as insider
 

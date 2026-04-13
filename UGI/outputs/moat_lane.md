@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UGI
-*Generated: 2026-04-12 19:40 | Price: $37.94 | Mkt Cap: $8B*
+*Generated: 2026-04-13 06:34 | Price: $37.94 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas

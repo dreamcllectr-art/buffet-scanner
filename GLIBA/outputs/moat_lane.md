@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBA
-*Generated: 2026-04-12 18:42 | Price: $36.52 | Mkt Cap: $1B*
+*Generated: 2026-04-13 06:31 | Price: $36.52 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
 

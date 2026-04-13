@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXTA
-*Generated: 2026-04-12 19:46 | Price: $28.85 | Mkt Cap: $6B*
+*Generated: 2026-04-13 06:29 | Price: $28.85 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

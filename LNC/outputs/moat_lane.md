@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNC
-*Generated: 2026-04-12 19:46 | Price: $34.2 | Mkt Cap: $7B*
+*Generated: 2026-04-13 06:29 | Price: $34.2 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Life

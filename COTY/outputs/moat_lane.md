@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COTY
-*Generated: 2026-04-12 18:42 | Price: $2.17 | Mkt Cap: $2B*
+*Generated: 2026-04-13 06:31 | Price: $2.17 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

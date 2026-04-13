@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QXO
-*Generated: 2026-04-12 19:38 | Price: $21.93 | Mkt Cap: $16B*
+*Generated: 2026-04-13 06:27 | Price: $21.93 | Mkt Cap: $16B*
 
 ## Sector Context
 Industrials / Industrial Distribution

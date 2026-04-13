@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPD
-*Generated: 2026-04-12 19:34 | Price: $143.06 | Mkt Cap: $19B*
+*Generated: 2026-04-13 06:23 | Price: $143.06 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

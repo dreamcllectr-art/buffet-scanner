@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGLD
-*Generated: 2026-04-12 19:45 | Price: $266.82 | Mkt Cap: $23B*
+*Generated: 2026-04-13 06:26 | Price: $266.82 | Mkt Cap: $23B*
 
 ## Sector Context
 Basic Materials / Gold

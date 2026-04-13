@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-04-12 19:45 | Price: $94.9 | Mkt Cap: $36B*
+*Generated: 2026-04-13 06:26 | Price: $94.9 | Mkt Cap: $36B*
 
 ## Sector Context
 Technology / Communication Equipment

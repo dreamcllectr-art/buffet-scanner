@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-04-12 19:35 | Price: $83.16 | Mkt Cap: $47B*
+*Generated: 2026-04-13 06:24 | Price: $83.16 | Mkt Cap: $47B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.5% inst.) as insider
 

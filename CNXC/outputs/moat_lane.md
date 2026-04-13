@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNXC
-*Generated: 2026-04-12 18:42 | Price: $26.12 | Mkt Cap: $2B*
+*Generated: 2026-04-13 06:36 | Price: $26.12 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Groupe Bruxelles Lambert S.A. (14.4% inst.) as insider
 

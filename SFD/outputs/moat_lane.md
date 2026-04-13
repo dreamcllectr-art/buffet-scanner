@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SFD
-*Generated: 2026-04-12 18:42 | Price: $29.22 | Mkt Cap: $11B*
+*Generated: 2026-04-13 06:36 | Price: $29.22 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

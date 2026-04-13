@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAT
-*Generated: 2026-04-12 19:33 | Price: $790.66 | Mkt Cap: $370B*
+*Generated: 2026-04-13 06:22 | Price: $790.66 | Mkt Cap: $370B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery

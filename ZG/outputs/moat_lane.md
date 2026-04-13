@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZG
-*Generated: 2026-04-12 19:43 | Price: $39.94 | Mkt Cap: $10B*
+*Generated: 2026-04-13 06:35 | Price: $39.94 | Mkt Cap: $10B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

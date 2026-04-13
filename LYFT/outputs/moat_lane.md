@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYFT
-*Generated: 2026-04-12 18:40 | Price: $13.23 | Mkt Cap: $5B*
+*Generated: 2026-04-13 06:29 | Price: $13.23 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application

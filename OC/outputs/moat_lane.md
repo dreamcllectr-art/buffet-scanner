@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OC
-*Generated: 2026-04-12 19:39 | Price: $114.28 | Mkt Cap: $9B*
+*Generated: 2026-04-13 06:33 | Price: $114.28 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

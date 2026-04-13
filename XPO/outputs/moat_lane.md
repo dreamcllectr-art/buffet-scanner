@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XPO
-*Generated: 2026-04-12 19:45 | Price: $212.74 | Mkt Cap: $25B*
+*Generated: 2026-04-13 06:26 | Price: $212.74 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Trucking
@@ -21,7 +21,7 @@ Industrials / Trucking
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 9.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: -74% (weak conversion); Gross margin: 18% (below Industrials norm) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.1% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 8% | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.8x — expensive; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.8/10** | **100%** | **2.8** | | |

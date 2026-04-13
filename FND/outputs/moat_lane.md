@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FND
-*Generated: 2026-04-12 18:40 | Price: $51.68 | Mkt Cap: $6B*
+*Generated: 2026-04-13 06:29 | Price: $51.68 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail

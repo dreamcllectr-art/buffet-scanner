@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALSN
-*Generated: 2026-04-12 19:39 | Price: $128.51 | Mkt Cap: $11B*
+*Generated: 2026-04-13 06:27 | Price: $128.51 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

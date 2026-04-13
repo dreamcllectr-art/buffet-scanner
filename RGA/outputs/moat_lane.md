@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGA
-*Generated: 2026-04-12 19:38 | Price: $205.05 | Mkt Cap: $13B*
+*Generated: 2026-04-13 06:27 | Price: $205.05 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDAY
-*Generated: 2026-04-12 19:45 | Price: $112.5 | Mkt Cap: $30B*
+*Generated: 2026-04-13 06:33 | Price: $112.5 | Mkt Cap: $30B*
 
 ## Sector Context
 Technology / Software - Application

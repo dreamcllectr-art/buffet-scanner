@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLY
-*Generated: 2026-04-12 19:39 | Price: $41.27 | Mkt Cap: $13B*
+*Generated: 2026-04-13 06:27 | Price: $41.27 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (9.4% inst.) as insider
 

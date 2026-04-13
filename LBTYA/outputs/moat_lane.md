@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBTYA
-*Generated: 2026-04-12 19:42 | Price: $12.11 | Mkt Cap: $4B*
+*Generated: 2026-04-13 06:35 | Price: $12.11 | Mkt Cap: $4B*
 
 ## Sector Context
 Communication Services / Telecom Services

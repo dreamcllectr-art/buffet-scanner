@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CGNX
-*Generated: 2026-04-12 19:39 | Price: $53.41 | Mkt Cap: $9B*
+*Generated: 2026-04-13 06:34 | Price: $53.41 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LCID
-*Generated: 2026-04-12 18:42 | Price: $8.58 | Mkt Cap: $3B*
+*Generated: 2026-04-13 06:31 | Price: $8.58 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Uber Technologies, Inc (4.2% inst.) as insider
 

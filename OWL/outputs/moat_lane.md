@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OWL
-*Generated: 2026-04-12 19:41 | Price: $8.23 | Mkt Cap: $13B*
+*Generated: 2026-04-13 06:29 | Price: $8.23 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Asset Management

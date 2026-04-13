@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VNO
-*Generated: 2026-04-12 19:41 | Price: $27.16 | Mkt Cap: $6B*
+*Generated: 2026-04-13 06:29 | Price: $27.16 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified NORGES BANK (9.2% inst.) as insider
 
@@ -23,7 +23,7 @@ Real Estate / REIT - Office
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 3.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 322% (strong); Gross margin: 51% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Real Estate; Operating margin 14% — thin for Real Estate | - |
 | Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 93.7x — extreme premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 22.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |

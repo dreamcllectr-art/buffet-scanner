@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETN
-*Generated: 2026-04-12 19:34 | Price: $403.0 | Mkt Cap: $157B*
+*Generated: 2026-04-13 06:22 | Price: $403.0 | Mkt Cap: $157B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

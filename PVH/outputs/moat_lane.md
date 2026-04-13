@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PVH
-*Generated: 2026-04-12 19:42 | Price: $90.74 | Mkt Cap: $4B*
+*Generated: 2026-04-13 06:29 | Price: $90.74 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 96% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 552% (strong); Gross margin: 58% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 12.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 11.6% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

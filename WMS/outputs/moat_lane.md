@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMS
-*Generated: 2026-04-12 19:39 | Price: $147.18 | Mkt Cap: $11B*
+*Generated: 2026-04-13 06:33 | Price: $147.18 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.1% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-04-12 19:37 | Price: $348.95 | Mkt Cap: $1309B*
+*Generated: 2026-04-13 06:33 | Price: $348.95 | Mkt Cap: $1309B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers

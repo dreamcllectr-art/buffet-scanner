@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APG
-*Generated: 2026-04-12 19:45 | Price: $44.41 | Mkt Cap: $19B*
+*Generated: 2026-04-13 06:26 | Price: $44.41 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Engineering & Construction

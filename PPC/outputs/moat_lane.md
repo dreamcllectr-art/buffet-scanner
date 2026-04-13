@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPC
-*Generated: 2026-04-12 18:42 | Price: $35.44 | Mkt Cap: $8B*
+*Generated: 2026-04-13 06:36 | Price: $35.44 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

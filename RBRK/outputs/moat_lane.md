@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBRK
-*Generated: 2026-04-12 19:46 | Price: $43.81 | Mkt Cap: $9B*
+*Generated: 2026-04-13 06:29 | Price: $43.81 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Software - Infrastructure

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEPC
-*Generated: 2026-04-12 18:40 | Price: $42.56 | Mkt Cap: $8B*
+*Generated: 2026-04-13 06:29 | Price: $42.56 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Renewable

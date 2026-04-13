@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPG
-*Generated: 2026-04-12 19:41 | Price: $38.29 | Mkt Cap: $15B*
+*Generated: 2026-04-13 06:29 | Price: $38.29 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified Bank of America Corporation (7.9% inst.) as insider
 

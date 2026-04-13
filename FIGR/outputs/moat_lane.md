@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIGR
-*Generated: 2026-04-12 18:42 | Price: $34.08 | Mkt Cap: $7B*
+*Generated: 2026-04-13 06:36 | Price: $34.08 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Ribbit Management Company, LLC (6.3% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: URI
-*Generated: 2026-04-12 19:44 | Price: $771.93 | Mkt Cap: $49B*
+*Generated: 2026-04-13 06:33 | Price: $771.93 | Mkt Cap: $49B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services

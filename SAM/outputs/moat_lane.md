@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-04-12 19:42 | Price: $257.21 | Mkt Cap: $3B*
+*Generated: 2026-04-13 06:35 | Price: $257.21 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (12.4% inst.) as insider
 

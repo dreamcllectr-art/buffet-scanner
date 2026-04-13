@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLLI
-*Generated: 2026-04-12 18:40 | Price: $89.91 | Mkt Cap: $6B*
+*Generated: 2026-04-13 06:29 | Price: $89.91 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

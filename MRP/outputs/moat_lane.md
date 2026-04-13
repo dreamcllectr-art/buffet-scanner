@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRP
-*Generated: 2026-04-12 19:41 | Price: $30.57 | Mkt Cap: $5B*
+*Generated: 2026-04-13 06:29 | Price: $30.57 | Mkt Cap: $5B*
 
 ## Sector Context
 Real Estate / REIT - Residential

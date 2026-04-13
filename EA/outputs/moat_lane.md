@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EA
-*Generated: 2026-04-12 19:34 | Price: $202.74 | Mkt Cap: $51B*
+*Generated: 2026-04-13 06:23 | Price: $202.74 | Mkt Cap: $51B*
 
 ## Sector Context
 Communication Services / Electronic Gaming & Multimedia

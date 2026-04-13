@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNM
-*Generated: 2026-04-12 19:39 | Price: $76.67 | Mkt Cap: $13B*
+*Generated: 2026-04-13 06:27 | Price: $76.67 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -21,7 +21,7 @@ Financial Services / Insurance - Life
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.4/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 58% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 82% (strong); Gross margin: n/a for financials | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 7% — weak (Financial Services); Operating margin 8% — thin for Financial Services | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 56% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

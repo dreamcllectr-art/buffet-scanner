@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: LBTYK
-*Generated: 2026-04-12 19:43 | Price: $11.77 | Mkt Cap: $4B*
+*Generated: 2026-04-13 06:35 | Price: $11.77 | Mkt Cap: $4B*
+
+> ⚠ DATA: yfinance misclassified BAUPOST GROUP LLC/MA (14.2% inst.) as insider
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -12,7 +14,7 @@ Communication Services / Telecom Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.7x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 14.2%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,12 +23,12 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 550% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 44% (weak conversion); Gross margin: 66% (pricing power for Communication Services) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 14.2% (>10%); No insider transaction data; Restricted stock: -83.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -83.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin -3% — thin for Communication Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -3.5x — deep value; 52w range position: 65% | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +40,7 @@ Communication Services / Telecom Services
 - **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 14.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GME
-*Generated: 2026-04-12 19:39 | Price: $23.22 | Mkt Cap: $10B*
+*Generated: 2026-04-13 06:33 | Price: $23.22 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.5% inst.) as insider
 

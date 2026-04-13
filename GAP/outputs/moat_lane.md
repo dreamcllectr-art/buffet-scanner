@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GAP
-*Generated: 2026-04-12 19:46 | Price: $26.3 | Mkt Cap: $10B*
+*Generated: 2026-04-13 06:29 | Price: $26.3 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail

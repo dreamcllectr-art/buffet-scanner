@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEIC
-*Generated: 2026-04-12 19:45 | Price: $76.98 | Mkt Cap: $9B*
+*Generated: 2026-04-13 06:34 | Price: $76.98 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Asset Management

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSM
-*Generated: 2026-04-12 19:42 | Price: $95.48 | Mkt Cap: $5B*
+*Generated: 2026-04-13 06:30 | Price: $95.48 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Industrial Distribution

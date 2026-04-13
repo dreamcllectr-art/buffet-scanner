@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SIRI
-*Generated: 2026-04-12 19:41 | Price: $23.7 | Mkt Cap: $8B*
+*Generated: 2026-04-13 06:29 | Price: $23.7 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Entertainment

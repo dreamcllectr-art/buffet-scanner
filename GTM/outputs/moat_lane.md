@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GTM
-*Generated: 2026-04-12 18:42 | Price: $5.23 | Mkt Cap: $2B*
+*Generated: 2026-04-13 06:36 | Price: $5.23 | Mkt Cap: $2B*
 
 ## Sector Context
 Technology / Software - Application

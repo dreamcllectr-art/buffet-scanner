@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKL
-*Generated: 2026-04-12 19:45 | Price: $1924.82 | Mkt Cap: $24B*
+*Generated: 2026-04-13 06:26 | Price: $1924.82 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

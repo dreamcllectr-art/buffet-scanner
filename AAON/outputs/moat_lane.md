@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAON
-*Generated: 2026-04-12 19:46 | Price: $93.17 | Mkt Cap: $8B*
+*Generated: 2026-04-13 06:29 | Price: $93.17 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

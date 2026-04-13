@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-04-12 19:45 | Price: $280.14 | Mkt Cap: $26B*
+*Generated: 2026-04-13 06:33 | Price: $280.14 | Mkt Cap: $26B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

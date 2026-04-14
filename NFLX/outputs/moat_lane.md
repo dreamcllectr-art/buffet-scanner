@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-04-13 06:24 | Price: $103.01 | Mkt Cap: $437B*
+*Generated: 2026-04-14 06:07 | Price: $103.16 | Mkt Cap: $438B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 76% (severe cyclicality); FCF/NI: 82% (strong); Gross margin: 48% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat for Communication Services; Operating margin 25% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.6x — growth premium; 52w range position: 47%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.6x — growth premium; 52w range position: 48%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

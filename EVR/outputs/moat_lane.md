@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVR
-*Generated: 2026-04-13 06:27 | Price: $337.9 | Mkt Cap: $13B*
+*Generated: 2026-04-14 06:10 | Price: $350.54 | Mkt Cap: $14B*
 
 > ⚠ DATA: yfinance misclassified Wellington Management Group, LLP (4.9% inst.) as insider
 
@@ -25,11 +25,11 @@ Financial Services / Capital Markets
 | Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 30.1%; Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 183% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 30% — strong franchise (Financial Services); Operating margin 25%; Rev growth 32% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 77%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 83%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 4% — thin (IV $352 at 25x)
+- **Margin of Safety**: 0% — thin (IV $352 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
@@ -50,7 +50,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMH
-*Generated: 2026-04-13 06:33 | Price: $29.76 | Mkt Cap: $12B*
+*Generated: 2026-04-14 06:17 | Price: $29.75 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified NORGES BANK (6.1% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRA
-*Generated: 2026-04-13 06:26 | Price: $193.03 | Mkt Cap: $27B*
+*Generated: 2026-04-14 06:09 | Price: $201.9 | Mkt Cap: $29B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -23.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 21% (weak conversion); Gross margin: 65% (pricing power for Healthcare) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 65% vs sector strong cutoff 55% — strong pricing power; Operating margin -3% — thin for Healthcare; Rev growth 40% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -272.6x — deep value; 52w range position: 49%; Owner earnings yield: 0.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -285.1x — deep value; 52w range position: 56%; Owner earnings yield: 0.5% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

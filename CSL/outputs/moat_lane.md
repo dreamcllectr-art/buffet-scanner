@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSL
-*Generated: 2026-04-13 06:27 | Price: $349.27 | Mkt Cap: $14B*
+*Generated: 2026-04-14 06:10 | Price: $356.83 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,11 +23,11 @@ Industrials / Building Products & Equipment
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 44% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 107% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 39%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 44%; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 7.2 / 10
-## Alpha Adjustment: +0.22
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -26% — ABSENT ($349 > IV $257 at 15x for -15% growth)
+- **Margin of Safety**: -28% — ABSENT ($357 > IV $257 at 15x for -15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.22 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

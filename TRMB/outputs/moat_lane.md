@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRMB
-*Generated: 2026-04-13 06:33 | Price: $64.77 | Mkt Cap: $15B*
+*Generated: 2026-04-14 06:16 | Price: $66.89 | Mkt Cap: $16B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,10 +23,10 @@ Technology / Scientific & Technical Instruments
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 93% (strong); Gross margin: 71% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.0x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; 52w range position: 35%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -32% — ABSENT ($65 > IV $44 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($67 > IV $44 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

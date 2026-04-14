@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DINO
-*Generated: 2026-04-13 06:34 | Price: $57.51 | Mkt Cap: $10B*
+*Generated: 2026-04-14 06:17 | Price: $58.56 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Energy / Oil & Gas Refining & Marketing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 94% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 183% (strong); Gross margin: 9% (below Energy norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Energy moderate cutoff 15%; Operating margin -0% — thin for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 81%; Owner earnings yield: 10.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 84%; Owner earnings yield: 9.8% (>5%) | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -38,7 +38,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: -20% — ABSENT ($58 > IV $46 at 15x for -1% growth)
+- **Margin of Safety**: -21% — ABSENT ($59 > IV $46 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

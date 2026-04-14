@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOFI
-*Generated: 2026-04-13 06:26 | Price: $16.22 | Mkt Cap: $21B*
+*Generated: 2026-04-14 06:09 | Price: $17.05 | Mkt Cap: $22B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 5.7%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 913% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | ROE 6% — weak (Financial Services); Operating margin 18%; Rev growth 40% — demand pull | Weak pricing |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.6x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.7x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -64% — ABSENT ($16 > IV $6 at 15x for -57% growth)
+- **Margin of Safety**: -66% — ABSENT ($17 > IV $6 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SSD
-*Generated: 2026-04-12 19:45 | Price: $176.15 | Mkt Cap: $7B*
+*Generated: 2026-04-14 06:17 | Price: $179.8 | Mkt Cap: $7B*
 
 ## Sector Context
 Basic Materials / Lumber & Wood Production
@@ -20,14 +20,14 @@ Basic Materials / Lumber & Wood Production
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.2/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 16.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 46% (pricing power for Basic Materials) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
+| Quality | 5.7/10 | 30% | 1.7 | ROIC declining trend; Avg ROIC: 16.6% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 83% (strong); Gross margin: 46% (pricing power for Basic Materials) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: -0.0% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% vs sector strong cutoff 30% — strong pricing power; Operating margin 14% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 48%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.3x — fair price; 52w range position: 54%; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Basic Materials / Lumber & Wood Production
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Lumber & Wood Production
-- **Margin of Safety**: -30% — ABSENT ($176 > IV $124 at 15x for 3% growth)
+- **Margin of Safety**: -31% — ABSENT ($180 > IV $123 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

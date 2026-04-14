@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FHN
-*Generated: 2026-04-13 06:27 | Price: $24.05 | Mkt Cap: $12B*
+*Generated: 2026-04-14 06:10 | Price: $24.31 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 10.9%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 11% — adequate (Financial Services); Operating margin 43% — durable for Financial Services; Rev growth 24% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 75% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 94% — PRESENT (IV $47 vs $24 at 25x)
+- **Margin of Safety**: 92% — PRESENT (IV $47 vs $24 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

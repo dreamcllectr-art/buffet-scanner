@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIRT
-*Generated: 2026-04-13 06:30 | Price: $48.6 | Mkt Cap: $10B*
+*Generated: 2026-04-14 06:13 | Price: $50.89 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (5.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Capital Markets
 | Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 13.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 207% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 53% — strong franchise (Financial Services); Operating margin 51% — durable for Financial Services; Rev growth 23% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.9x — deep value; Near 52w high (94% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.3x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 164% — PRESENT (IV $128 vs $49 at 25x)
+- **Margin of Safety**: 152% — PRESENT (IV $128 vs $51 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

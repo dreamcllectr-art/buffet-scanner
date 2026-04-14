@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMRN
-*Generated: 2026-04-13 06:33 | Price: $54.53 | Mkt Cap: $10B*
+*Generated: 2026-04-14 06:17 | Price: $54.88 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 95% (strong); Gross margin: 53% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 53% — moderate moat for Healthcare; Operating margin 22% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

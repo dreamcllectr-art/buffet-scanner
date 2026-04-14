@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RRX
-*Generated: 2026-04-13 06:27 | Price: $208.33 | Mkt Cap: $14B*
+*Generated: 2026-04-14 06:10 | Price: $210.01 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,10 +23,10 @@ Industrials / Specialty Industrial Machinery
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 112% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: -98% (weak conversion); Gross margin: 38% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 84%; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -49% — ABSENT ($208 > IV $105 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($210 > IV $105 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

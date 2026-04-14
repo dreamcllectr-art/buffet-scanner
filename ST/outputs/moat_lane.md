@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ST
-*Generated: 2026-04-13 06:29 | Price: $38.95 | Mkt Cap: $6B*
+*Generated: 2026-04-14 06:12 | Price: $38.99 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

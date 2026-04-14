@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-04-13 06:22 | Price: $42.24 | Mkt Cap: $79B*
+*Generated: 2026-04-14 06:05 | Price: $42.35 | Mkt Cap: $79B*
 
 ## Sector Context
 Industrials / Railroads
@@ -23,7 +23,7 @@ Industrials / Railroads
 | Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 29% (stable); FCF/NI: 77%; Gross margin: 46% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 35% — strong pricing power; Operating margin 33% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.2x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.2x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

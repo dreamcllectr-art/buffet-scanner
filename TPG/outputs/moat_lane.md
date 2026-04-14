@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPG
-*Generated: 2026-04-13 06:29 | Price: $38.29 | Mkt Cap: $15B*
+*Generated: 2026-04-14 06:13 | Price: $39.42 | Mkt Cap: $15B*
 
 > ⚠ DATA: yfinance misclassified Bank of America Corporation (7.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Asset Management
 | Quality | 3.0/10 | 30% | 0.9 | Fallback ROE: 15.5%; Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 1264% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 24.9% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 16% — strong franchise (Financial Services); Operating margin 20%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 8.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 8.2% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +38,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -71% — ABSENT ($38 > IV $11 at 25x for 25% growth)
+- **Margin of Safety**: -71% — ABSENT ($39 > IV $11 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

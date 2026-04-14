@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PB
-*Generated: 2026-04-13 06:29 | Price: $68.82 | Mkt Cap: $7B*
+*Generated: 2026-04-14 06:12 | Price: $69.18 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 7.2%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 106% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 7% — weak (Financial Services); Operating margin 58% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 48% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 50% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SN
-*Generated: 2026-04-13 06:33 | Price: $115.07 | Mkt Cap: $16B*
+*Generated: 2026-04-14 06:17 | Price: $115.37 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances

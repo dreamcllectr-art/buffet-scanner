@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPG
-*Generated: 2026-04-13 06:32 | Price: $200.57 | Mkt Cap: $76B*
+*Generated: 2026-04-14 06:16 | Price: $200.71 | Mkt Cap: $76B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -23,7 +23,7 @@ Real Estate / REIT - Retail
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 11.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 82% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 50% — durable for Real Estate | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.0x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.0x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

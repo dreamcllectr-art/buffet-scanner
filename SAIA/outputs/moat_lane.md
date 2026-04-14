@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAIA
-*Generated: 2026-04-13 06:33 | Price: $401.85 | Mkt Cap: $11B*
+*Generated: 2026-04-14 06:17 | Price: $396.74 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,11 +23,11 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 61% (severe cyclicality); FCF/NI: -12% (weak conversion); Gross margin: 24% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.0x — growth premium; 52w range position: 83%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.4 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -64% — ABSENT ($402 > IV $143 at 15x for -38% growth)
+- **Margin of Safety**: -64% — ABSENT ($397 > IV $143 at 15x for -38% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

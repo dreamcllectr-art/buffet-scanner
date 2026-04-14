@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSGS
-*Generated: 2026-04-13 06:29 | Price: $331.07 | Mkt Cap: $8B*
+*Generated: 2026-04-14 06:12 | Price: $331.06 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Entertainment

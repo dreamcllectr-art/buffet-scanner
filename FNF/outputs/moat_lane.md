@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNF
-*Generated: 2026-04-13 06:27 | Price: $47.43 | Mkt Cap: $13B*
+*Generated: 2026-04-14 06:10 | Price: $47.09 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Windacre Partnership LLC (7.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance - Specialty
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 60% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 756% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 8% — weak (Financial Services); Operating margin 13% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 15.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 16.0% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: -7% — ABSENT ($47 > IV $44 at 20x for 12% growth)
+- **Margin of Safety**: -6% — ABSENT ($47 > IV $44 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

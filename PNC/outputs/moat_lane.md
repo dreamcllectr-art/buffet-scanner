@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNC
-*Generated: 2026-04-13 06:24 | Price: $221.13 | Mkt Cap: $89B*
+*Generated: 2026-04-14 06:08 | Price: $223.0 | Mkt Cap: $90B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 12.2%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 132% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 39% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 76% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 87% — PRESENT (IV $414 vs $221 at 25x)
+- **Margin of Safety**: 86% — PRESENT (IV $415 vs $223 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

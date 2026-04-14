@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDR
-*Generated: 2026-04-13 06:36 | Price: $28.29 | Mkt Cap: $5B*
+*Generated: 2026-04-14 06:19 | Price: $28.11 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,7 +23,7 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.9% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 71%; Gross margin: 17% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 49.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 26.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.2x — growth premium; 52w range position: 75%; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 74%; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

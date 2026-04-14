@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMN
-*Generated: 2026-04-13 06:34 | Price: $74.25 | Mkt Cap: $8B*
+*Generated: 2026-04-14 06:17 | Price: $74.01 | Mkt Cap: $8B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.1/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 48% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 68%; Gross margin: 21% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 21% — moderate moat for Basic Materials; Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 65%; Owner earnings yield: 4.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 64%; Owner earnings yield: 4.7% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNB
-*Generated: 2026-04-13 06:29 | Price: $17.69 | Mkt Cap: $6B*
+*Generated: 2026-04-14 06:12 | Price: $17.8 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 120% — PRESENT (IV $39 vs $18 at 25x)
+- **Margin of Safety**: 119% — PRESENT (IV $39 vs $18 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

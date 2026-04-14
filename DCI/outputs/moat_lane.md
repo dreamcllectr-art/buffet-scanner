@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DCI
-*Generated: 2026-04-13 06:33 | Price: $88.65 | Mkt Cap: $10B*
+*Generated: 2026-04-14 06:17 | Price: $88.92 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,7 +23,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 7.3/10 | 30% | 2.2 | Avg ROIC: 20.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 90% (strong); Gross margin: 35% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 35% — moderate moat for Industrials; Operating margin 14% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 53%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 54%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

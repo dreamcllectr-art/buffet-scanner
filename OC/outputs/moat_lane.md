@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OC
-*Generated: 2026-04-13 06:33 | Price: $114.28 | Mkt Cap: $9B*
+*Generated: 2026-04-14 06:17 | Price: $118.33 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 142% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 53%; Gross margin: 29% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 7.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 34%; Owner earnings yield: 7.4% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -39,7 +39,7 @@ Industrials / Building Products & Equipment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

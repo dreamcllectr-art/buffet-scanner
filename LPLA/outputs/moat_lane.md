@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LPLA
-*Generated: 2026-04-13 06:26 | Price: $312.53 | Mkt Cap: $25B*
+*Generated: 2026-04-14 06:09 | Price: $321.89 | Mkt Cap: $26B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 16.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 16% (weak conversion); Gross margin: n/a for financials | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 21% — strong franchise (Financial Services); Operating margin 10% — thin for Financial Services; Rev growth 42% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 33% | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,10 +36,10 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -48% — ABSENT ($313 > IV $164 at 15x for 5% growth)
+- **Margin of Safety**: -49% — ABSENT ($322 > IV $164 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RAL
-*Generated: 2026-04-13 06:29 | Price: $45.41 | Mkt Cap: $5B*
+*Generated: 2026-04-14 06:12 | Price: $46.71 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -23,7 +23,7 @@ Technology / Electronic Components
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 393% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 73%; Gross margin: 50% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Technology; Operating margin 13% — thin for Technology | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.8x — fair price; 52w range position: 41%; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.3x — fair price; 52w range position: 48%; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OZK
-*Generated: 2026-04-13 06:29 | Price: $47.94 | Mkt Cap: $5B*
+*Generated: 2026-04-14 06:12 | Price: $48.01 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Banks - Regional
 | Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 12.1%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: 115% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 59% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; 52w range position: 64% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; 52w range position: 63% | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROST
-*Generated: 2026-04-13 06:25 | Price: $221.16 | Mkt Cap: $72B*
+*Generated: 2026-04-14 06:08 | Price: $220.95 | Mkt Cap: $71B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Retail
 | Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 27.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 77%; Gross margin: 33% (thin by design for Apparel Retail) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 11% / ROE 37% — scale moat (Apparel Retail); Operating margin 12% — durable for Consumer Cyclical | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.3x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.3x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

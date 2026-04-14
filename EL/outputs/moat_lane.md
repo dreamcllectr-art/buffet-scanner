@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-04-13 06:23 | Price: $72.67 | Mkt Cap: $26B*
+*Generated: 2026-04-14 06:06 | Price: $74.55 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,10 +23,10 @@ Consumer Defensive / Household & Personal Products
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 147% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: 60%; Gross margin: 74% (pricing power for Consumer Defensive) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% vs sector strong cutoff 45% — strong pricing power; Operating margin 14% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 24.0x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 24.7x — growth premium; 52w range position: 32%; Owner earnings yield: 6.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Consumer Defensive / Household & Personal Products
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

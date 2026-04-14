@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBC
-*Generated: 2026-04-13 06:31 | Price: $24.7 | Mkt Cap: $6B*
+*Generated: 2026-04-14 06:19 | Price: $24.72 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.3%; Earnings: 3/3 up-years (monotonic); FCF/NI: 99% (strong); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 67.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 11% — adequate (Financial Services); Operating margin 50% — durable for Financial Services; Rev growth 32% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 73% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 74% | - |
 | **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
 ## Buffett Score: 8.1 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 77% — PRESENT (IV $44 vs $25 at 25x)
+- **Margin of Safety**: -97% — ABSENT ($25 > IV $1 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 67.3% insider ownership
 - **Mr. Market**: Neutral

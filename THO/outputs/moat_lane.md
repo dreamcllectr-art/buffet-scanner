@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: THO
-*Generated: 2026-04-13 06:30 | Price: $79.23 | Mkt Cap: $4B*
+*Generated: 2026-04-14 06:13 | Price: $79.29 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles

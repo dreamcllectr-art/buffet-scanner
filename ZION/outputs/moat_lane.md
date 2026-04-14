@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZION
-*Generated: 2026-04-13 06:34 | Price: $61.05 | Mkt Cap: $9B*
+*Generated: 2026-04-14 06:17 | Price: $61.53 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 13.5%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 124% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 39% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 81% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 83% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 146% — PRESENT (IV $150 vs $61 at 25x)
+- **Margin of Safety**: 144% — PRESENT (IV $150 vs $62 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

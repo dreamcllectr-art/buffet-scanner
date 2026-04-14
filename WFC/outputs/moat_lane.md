@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WFC
-*Generated: 2026-04-13 06:33 | Price: $85.4 | Mkt Cap: $264B*
+*Generated: 2026-04-14 06:16 | Price: $86.64 | Mkt Cap: $267B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -23,7 +23,7 @@ Financial Services / Banks - Diversified
 | Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.7%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 84% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 30% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; 52w range position: 65% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 68% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 47% — PRESENT (IV $125 vs $85 at 20x)
+- **Margin of Safety**: 45% — PRESENT (IV $125 vs $87 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

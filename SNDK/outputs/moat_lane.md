@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-04-13 06:25 | Price: $851.77 | Mkt Cap: $126B*
+*Generated: 2026-04-14 06:08 | Price: $952.5 | Mkt Cap: $141B*
+
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.5% inst.) as insider
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +14,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,12 +23,12 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -6.6% (2y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 40% (weak conversion); Gross margin: 35% (below Technology norm) | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.5%; No insider transaction data; Restricted stock: 5.8% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 35% — below Technology moderate cutoff 40%; Operating margin 36% — durable for Technology; Rev growth 61% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.7x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0% | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.7x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 0.9% | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +40,7 @@ Technology / Computer Hardware
 - **Circle of Competence**: Technology / Computer Hardware
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Aligned — 5.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

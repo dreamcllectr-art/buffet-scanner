@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESTC
-*Generated: 2026-04-12 19:42 | Price: $43.3 | Mkt Cap: $5B*
+*Generated: 2026-04-14 06:13 | Price: $45.59 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -9.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 275% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: -5% (weak conversion); Gross margin: 76% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.9% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 0% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.3x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 8.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.1x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 8.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

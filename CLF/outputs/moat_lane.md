@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLF
-*Generated: 2026-04-13 06:29 | Price: $9.04 | Mkt Cap: $5B*
+*Generated: 2026-04-14 06:12 | Price: $9.34 | Mkt Cap: $5B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,7 +23,7 @@ Basic Materials / Steel
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 211% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 170% (strong); Gross margin: -5% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -5% — below Basic Materials moderate cutoff 18%; Operating margin -6% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; 52w range position: 31% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; 52w range position: 34% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

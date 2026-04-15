@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DBX
-*Generated: 2026-04-14 06:13 | Price: $22.71 | Mkt Cap: $5B*
+*Generated: 2026-04-15 06:17 | Price: $22.7 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified LSV Asset Management (7.2% inst.) as insider
 

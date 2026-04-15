@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONK
-*Generated: 2026-04-14 06:10 | Price: $90.68 | Mkt Cap: $23B*
+*Generated: 2026-04-15 06:09 | Price: $90.77 | Mkt Cap: $23B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -61% — ABSENT ($91 > IV $35 at 15x for 0% growth)
+- **Margin of Safety**: -62% — ABSENT ($91 > IV $35 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership
 - **Mr. Market**: Neutral

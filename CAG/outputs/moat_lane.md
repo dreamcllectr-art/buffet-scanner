@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAG
-*Generated: 2026-04-14 06:05 | Price: $14.51 | Mkt Cap: $7B*
+*Generated: 2026-04-15 06:05 | Price: $14.28 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -20,10 +20,10 @@ Consumer Defensive / Packaged Foods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 61% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 189% (strong); Gross margin: 24% (below Consumer Defensive norm) | - |
+| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 6.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 61% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 189% (strong); Gross margin: 24% (below Consumer Defensive norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 24% — below Consumer Defensive moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 9.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.6% (>5%) | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

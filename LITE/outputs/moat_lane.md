@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-04-14 06:07 | Price: $871.18 | Mkt Cap: $62B*
+*Generated: 2026-04-15 06:06 | Price: $852.79 | Mkt Cap: $61B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,7 +23,7 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -1.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 375% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -59% (weak conversion); Gross margin: 37% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 11% — thin for Technology; Rev growth 66% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 55.0x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 53.8x — extreme premium; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.1/10** | **100%** | **2.1** | | |
 
 ## Buffett Score: 2.1 / 10
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -90% — ABSENT ($871 > IV $87 at 25x for 25% growth)
+- **Margin of Safety**: -90% — ABSENT ($853 > IV $85 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBWI
-*Generated: 2026-04-14 06:13 | Price: $18.35 | Mkt Cap: $4B*
+*Generated: 2026-04-15 06:17 | Price: $18.3 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: 154% — PRESENT (IV $47 vs $18 at 15x)
+- **Margin of Safety**: 155% — PRESENT (IV $47 vs $18 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

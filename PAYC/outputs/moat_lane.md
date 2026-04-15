@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYC
-*Generated: 2026-04-14 06:12 | Price: $119.61 | Mkt Cap: $6B*
+*Generated: 2026-04-15 06:11 | Price: $119.84 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.7% inst.) as insider
 

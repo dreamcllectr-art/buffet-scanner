@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLI
-*Generated: 2026-04-14 06:10 | Price: $123.24 | Mkt Cap: $14B*
+*Generated: 2026-04-15 06:09 | Price: $123.76 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Metal Fabrication

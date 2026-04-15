@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INGM
-*Generated: 2026-04-14 06:19 | Price: $28.27 | Mkt Cap: $7B*
+*Generated: 2026-04-15 06:13 | Price: $28.22 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 15.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 89% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 63%; Gross margin: 7% (below Technology norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 85.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Technology moderate cutoff 40%; Operating margin 2% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 18.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 18.8% (>5%) | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

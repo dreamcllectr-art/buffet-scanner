@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLUT
-*Generated: 2026-04-14 06:10 | Price: $105.33 | Mkt Cap: $18B*
+*Generated: 2026-04-15 06:09 | Price: $106.76 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Gambling
@@ -23,7 +23,7 @@ Consumer Cyclical / Gambling
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 0.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 449% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 132% (strong); Gross margin: 45% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 24.8% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 45% vs sector strong cutoff 45% — strong pricing power; Operating margin 6%; Rev growth 25% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

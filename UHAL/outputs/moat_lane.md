@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHAL
-*Generated: 2026-04-14 06:15 | Price: $52.65 | Mkt Cap: $10B*
+*Generated: 2026-04-15 06:13 | Price: $51.84 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,7 +23,7 @@ Industrials / Rental & Leasing Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 67% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: -228% (weak conversion); Gross margin: 29% | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 60.4% (>10%); No insider transaction data; Restricted stock: -449.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 42% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 38% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Industrials / Rental & Leasing Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -87% — ABSENT ($53 > IV $7 at 15x for 2% growth)
+- **Margin of Safety**: -86% — ABSENT ($52 > IV $7 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 60.4% insider ownership
 - **Mr. Market**: Neutral

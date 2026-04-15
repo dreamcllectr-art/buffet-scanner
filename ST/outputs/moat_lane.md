@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ST
-*Generated: 2026-04-14 06:12 | Price: $38.99 | Mkt Cap: $6B*
+*Generated: 2026-04-15 06:11 | Price: $39.34 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 101% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: -1251% (weak conversion); Gross margin: 29% (below Technology norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — below Technology moderate cutoff 40%; Operating margin 15% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 7.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 7.8% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLSH
-*Generated: 2026-04-14 06:19 | Price: $38.96 | Mkt Cap: $6B*
+*Generated: 2026-04-15 06:13 | Price: $40.62 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -31.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 159% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: -14% (weak conversion); Gross margin: 100% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 86.7% (>10%); No insider transaction data; Restricted stock: 65.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 100% vs sector strong cutoff 60% — strong pricing power; Operating margin -245% — thin for Technology; Rev growth 98% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 38.3x — expensive; Near 52w low (15% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.0x — expensive; Near 52w low (17% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

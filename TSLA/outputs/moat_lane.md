@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-04-14 06:16 | Price: $352.42 | Mkt Cap: $1322B*
+*Generated: 2026-04-15 06:15 | Price: $364.2 | Mkt Cap: $1367B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 18% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $147B (11.1%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 25.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $152B (11.1%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 25.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Consumer Cyclical moderate cutoff 30%; Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 127.1x — extreme premium; 52w range position: 47%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 131.4x — extreme premium; 52w range position: 51%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -95% — ABSENT ($352 > IV $16 at 15x for -61% growth)
+- **Margin of Safety**: -95% — ABSENT ($364 > IV $17 at 15x for -61% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 11.1% insider ownership
 - **Mr. Market**: Neutral

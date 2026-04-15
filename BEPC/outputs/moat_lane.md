@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEPC
-*Generated: 2026-04-14 06:12 | Price: $41.9 | Mkt Cap: $8B*
+*Generated: 2026-04-15 06:11 | Price: $42.53 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Renewable
@@ -23,7 +23,7 @@ Utilities / Utilities - Renewable
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 256% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: -108% (weak conversion); Gross margin: 60% (pricing power for Utilities) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 31.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 40% — strong pricing power; Operating margin 21% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -30.0x — deep value; 52w range position: 83%; Owner earnings yield: 20.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -30.5x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 19.8% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -39,7 +39,7 @@ Utilities / Utilities - Renewable
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

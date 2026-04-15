@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTWO
-*Generated: 2026-04-14 06:16 | Price: $201.36 | Mkt Cap: $37B*
+*Generated: 2026-04-15 06:15 | Price: $205.1 | Mkt Cap: $38B*
 
 ## Sector Context
 Communication Services / Electronic Gaming & Multimedia
@@ -23,7 +23,7 @@ Communication Services / Electronic Gaming & Multimedia
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -22.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 1172% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 13% (weak conversion); Gross margin: 59% (pricing power for Communication Services) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin -2% — thin for Communication Services; Rev growth 25% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.8x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 26.3x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

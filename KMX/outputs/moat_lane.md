@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMX
-*Generated: 2026-04-12 19:46 | Price: $46.72 | Mkt Cap: $7B*
+*Generated: 2026-04-15 06:11 | Price: $41.66 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -23,10 +23,10 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 58% from prior peak; 5y price drawdown: 80% (severe cyclicality); FCF/NI: -10% (weak conversion); Gross margin: 12% (below Consumer Cyclical norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — below Consumer Cyclical moderate cutoff 30%; Operating margin 2% — thin for Consumer Cyclical | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.9x — fair price; 52w range position: 39%; Owner earnings yield: 9.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 11.0% (>5%) | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.7 / 10
+## Buffett Score: 3.8 / 10
 ## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
@@ -36,10 +36,10 @@ Consumer Cyclical / Auto & Truck Dealerships
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto & Truck Dealerships
-- **Margin of Safety**: -2% — ABSENT ($47 > IV $46 at 15x for -47% growth)
+- **Margin of Safety**: -40% — ABSENT ($42 > IV $25 at 15x for -47% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

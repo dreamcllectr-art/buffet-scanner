@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UA
-*Generated: 2026-04-14 06:19 | Price: $5.99 | Mkt Cap: $3B*
+*Generated: 2026-04-15 06:13 | Price: $6.14 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.4% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 154% from prior peak; 5y price drawdown: 83% (severe cyclicality); FCF/NI: 78%; Gross margin: 47% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -49.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% vs sector strong cutoff 45% — strong pricing power; Operating margin -5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 52%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 55%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

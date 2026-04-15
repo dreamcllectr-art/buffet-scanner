@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QXO
-*Generated: 2026-04-14 06:10 | Price: $22.2 | Mkt Cap: $16B*
+*Generated: 2026-04-15 06:09 | Price: $23.34 | Mkt Cap: $17B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,7 +23,7 @@ Industrials / Industrial Distribution
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -3.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1098% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: -129% (weak conversion); Gross margin: 25% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin -2% — thin for Industrials; Rev growth 14725% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.4x — expensive; 52w range position: 65%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.2x — expensive; 52w range position: 73%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10

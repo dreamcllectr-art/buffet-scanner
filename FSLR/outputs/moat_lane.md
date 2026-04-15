@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-04-14 06:06 | Price: $200.35 | Mkt Cap: $22B*
+*Generated: 2026-04-15 06:05 | Price: $200.61 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Solar
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Solar
-- **Margin of Safety**: 77% — PRESENT (IV $355 vs $200 at 25x)
+- **Margin of Safety**: 77% — PRESENT (IV $355 vs $201 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

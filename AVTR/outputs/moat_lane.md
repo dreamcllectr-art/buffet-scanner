@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVTR
-*Generated: 2026-04-14 06:12 | Price: $8.18 | Mkt Cap: $6B*
+*Generated: 2026-04-15 06:11 | Price: $8.2 | Mkt Cap: $6B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

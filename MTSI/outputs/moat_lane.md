@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTSI
-*Generated: 2026-04-14 06:10 | Price: $263.63 | Mkt Cap: $20B*
+*Generated: 2026-04-15 06:09 | Price: $263.92 | Mkt Cap: $20B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (10.0% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -79% — ABSENT ($264 > IV $55 at 25x for 24% growth)
+- **Margin of Safety**: -79% — ABSENT ($264 > IV $56 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

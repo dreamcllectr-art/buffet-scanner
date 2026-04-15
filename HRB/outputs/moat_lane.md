@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRB
-*Generated: 2026-04-14 06:13 | Price: $31.17 | Mkt Cap: $4B*
+*Generated: 2026-04-15 06:17 | Price: $30.52 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -23,7 +23,7 @@ Consumer Cyclical / Personal Services
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 40.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 120% (strong); Gross margin: 44% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin -150% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.6x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 10.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.5x — deep value; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 10.9% (>5%) | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: 175% — PRESENT (IV $86 vs $31 at 20x)
+- **Margin of Safety**: 180% — PRESENT (IV $86 vs $31 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

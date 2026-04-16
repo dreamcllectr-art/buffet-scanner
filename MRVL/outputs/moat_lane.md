@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRVL
-*Generated: 2026-04-15 06:08 | Price: $133.83 | Mkt Cap: $117B*
+*Generated: 2026-04-16 06:20 | Price: $134.6 | Mkt Cap: $118B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -217% (weak conversion); Gross margin: 51% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 51% — moderate moat for Technology; Operating margin 19%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.8x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -43% — ABSENT ($134 > IV $76 at 25x for 25% growth)
+- **Margin of Safety**: -43% — ABSENT ($135 > IV $77 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

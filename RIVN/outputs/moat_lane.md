@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RIVN
-*Generated: 2026-04-15 06:15 | Price: $15.99 | Mkt Cap: $20B*
+*Generated: 2026-04-16 06:13 | Price: $16.41 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Manufacturers
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: -31.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 95% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 3% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 33.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 3% — below Consumer Cyclical moderate cutoff 30%; Operating margin -65% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -8.3x — deep value; 52w range position: 43% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -8.5x — deep value; 52w range position: 47% | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

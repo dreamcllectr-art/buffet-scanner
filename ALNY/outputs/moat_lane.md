@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALNY
-*Generated: 2026-04-15 06:08 | Price: $339.41 | Mkt Cap: $45B*
+*Generated: 2026-04-16 06:20 | Price: $333.39 | Mkt Cap: $44B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -28.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 52%; Gross margin: 82% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 12%; Rev growth 85% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.0x — growth premium; 52w range position: 42%; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.6x — growth premium; 52w range position: 39%; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -83% — ABSENT ($339 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -83% — ABSENT ($333 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

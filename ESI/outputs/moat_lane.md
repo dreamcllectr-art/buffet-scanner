@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESI
-*Generated: 2026-04-14 06:17 | Price: $38.0 | Mkt Cap: $9B*
+*Generated: 2026-04-16 06:14 | Price: $37.53 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (7.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 152% (strong); Gross margin: 42% (pricing power for Basic Materials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% vs sector strong cutoff 30% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.0x — fair price; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.8x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

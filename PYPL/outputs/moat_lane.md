@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PYPL
-*Generated: 2026-04-15 06:07 | Price: $47.97 | Mkt Cap: $44B*
+*Generated: 2026-04-16 06:10 | Price: $49.57 | Mkt Cap: $46B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 14.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 87% (severe cyclicality); FCF/NI: 145% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.1% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 26% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 7.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 7.2% (>5%) | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 182% — PRESENT (IV $135 vs $48 at 25x)
+- **Margin of Safety**: 173% — PRESENT (IV $135 vs $50 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

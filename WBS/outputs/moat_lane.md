@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBS
-*Generated: 2026-04-15 06:15 | Price: $72.6 | Mkt Cap: $12B*
+*Generated: 2026-04-16 06:13 | Price: $72.52 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 105% — PRESENT (IV $149 vs $73 at 25x)
+- **Margin of Safety**: 103% — PRESENT (IV $148 vs $73 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

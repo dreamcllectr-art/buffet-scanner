@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZS
-*Generated: 2026-04-15 06:15 | Price: $122.68 | Mkt Cap: $20B*
+*Generated: 2026-04-16 06:13 | Price: $131.01 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,11 +23,11 @@ Technology / Software - Infrastructure
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -6.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 76% (severe cyclicality); FCF/NI: -747% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 35.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin -6% — thin for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 26.7x — growth premium; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.6x — growth premium; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 4.8%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ Technology / Software - Infrastructure
 
 - **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 35.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

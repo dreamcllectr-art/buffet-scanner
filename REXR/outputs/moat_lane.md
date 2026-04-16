@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REXR
-*Generated: 2026-04-14 06:17 | Price: $34.66 | Mkt Cap: $8B*
+*Generated: 2026-04-16 06:14 | Price: $35.69 | Mkt Cap: $8B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -21,12 +21,12 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 2.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 80%; Gross margin: 77% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 55% — strong pricing power; Operating margin 37% — durable for Real Estate | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 35.1x — expensive; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.2x — expensive; 52w range position: 35%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -63% — ABSENT ($35 > IV $13 at 15x for 2% growth)
+- **Margin of Safety**: -64% — ABSENT ($36 > IV $13 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

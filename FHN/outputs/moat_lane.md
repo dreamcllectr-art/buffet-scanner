@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FHN
-*Generated: 2026-04-15 06:15 | Price: $24.25 | Mkt Cap: $12B*
+*Generated: 2026-04-16 06:13 | Price: $24.17 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,13 +20,13 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 10.9%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROE 11% — adequate (Financial Services); Operating margin 43% — durable for Financial Services; Rev growth 24% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 77% | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 11.3%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 41% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 76% | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 93% — PRESENT (IV $47 vs $24 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Margin of Safety**: 106% — PRESENT (IV $50 vs $24 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: attractive valuation)
 
 ---
 

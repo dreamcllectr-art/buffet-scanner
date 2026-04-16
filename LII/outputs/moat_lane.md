@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LII
-*Generated: 2026-04-15 06:06 | Price: $520.42 | Mkt Cap: $18B*
+*Generated: 2026-04-16 06:10 | Price: $484.29 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
 
@@ -25,11 +25,11 @@ Industrials / Building Products & Equipment
 | Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 38.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 75%; Gross margin: 33% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Industrials; Operating margin 20% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.6x — fair price; 52w range position: 34%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.2x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,10 +38,10 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -34% — ABSENT ($520 > IV $342 at 15x for -18% growth)
+- **Margin of Safety**: -34% — ABSENT ($484 > IV $318 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -50,7 +50,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

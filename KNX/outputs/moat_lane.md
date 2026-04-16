@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNX
-*Generated: 2026-04-14 06:17 | Price: $61.84 | Mkt Cap: $10B*
+*Generated: 2026-04-16 06:14 | Price: $61.56 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,13 +23,13 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 91% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 201% (strong); Gross margin: 24% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.6x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.5x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IOT
-*Generated: 2026-04-14 06:17 | Price: $26.59 | Mkt Cap: $15B*
+*Generated: 2026-04-16 06:14 | Price: $28.85 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -15.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 70% (severe cyclicality); FCF/NI: -571% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin 2% — thin for Technology; Rev growth 28% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.4x — expensive; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 34.0x — expensive; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

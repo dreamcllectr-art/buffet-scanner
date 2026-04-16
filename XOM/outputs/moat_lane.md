@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XOM
-*Generated: 2026-04-15 06:05 | Price: $149.24 | Mkt Cap: $620B*
+*Generated: 2026-04-16 06:09 | Price: $149.01 | Mkt Cap: $619B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -36,7 +36,7 @@ Energy / Oil & Gas Integrated
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Integrated
-- **Margin of Safety**: -33% — ABSENT ($149 > IV $100 at 15x for -11% growth)
+- **Margin of Safety**: -32% — ABSENT ($149 > IV $101 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

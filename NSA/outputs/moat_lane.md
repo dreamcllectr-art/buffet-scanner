@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSA
-*Generated: 2026-04-15 06:18 | Price: $42.44 | Mkt Cap: $6B*
+*Generated: 2026-04-16 06:17 | Price: $41.9 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 5.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 329% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
 | Management | 6.5/10 | 25% | 1.6 | Insider ownership: 7.8%; Insider activity: 0B/0S last 6m; Restricted stock: 7.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Real Estate | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 112.6x — extreme premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 111.1x — extreme premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

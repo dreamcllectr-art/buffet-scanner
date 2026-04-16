@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVST
-*Generated: 2026-04-14 06:13 | Price: $26.91 | Mkt Cap: $4B*
+*Generated: 2026-04-16 06:16 | Price: $27.03 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

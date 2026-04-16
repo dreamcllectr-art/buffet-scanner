@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHC
-*Generated: 2026-04-15 06:17 | Price: $15.93 | Mkt Cap: $5B*
+*Generated: 2026-04-16 06:17 | Price: $16.03 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 78% (severe cyclicality); FCF/NI: -113% (weak conversion); Gross margin: 55% (pricing power for Healthcare) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 32.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 36% — durable for Healthcare | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 60%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 61%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

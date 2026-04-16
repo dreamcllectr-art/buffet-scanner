@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAN
-*Generated: 2026-04-15 06:13 | Price: $29.23 | Mkt Cap: $1B*
+*Generated: 2026-04-16 06:18 | Price: $30.73 | Mkt Cap: $1B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services
@@ -23,7 +23,7 @@ Industrials / Staffing & Employment Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 104% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 447% (strong); Gross margin: 17% (below Industrials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.1x — deep value; Near 52w low (16% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

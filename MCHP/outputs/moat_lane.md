@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-04-15 06:06 | Price: $74.5 | Mkt Cap: $40B*
+*Generated: 2026-04-16 06:10 | Price: $74.49 | Mkt Cap: $40B*
 
 ## Sector Context
 Technology / Semiconductors

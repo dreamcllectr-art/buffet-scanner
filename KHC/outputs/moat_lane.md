@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-04-15 06:06 | Price: $22.11 | Mkt Cap: $26B*
+*Generated: 2026-04-16 06:10 | Price: $22.01 | Mkt Cap: $26B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (27.5% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 305% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 54%; Gross margin: 33% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 27.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Consumer Defensive; Operating margin 17% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 10.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 10.7% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

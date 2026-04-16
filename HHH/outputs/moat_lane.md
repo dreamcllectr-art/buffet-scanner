@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HHH
-*Generated: 2026-04-15 06:13 | Price: $64.99 | Mkt Cap: $4B*
+*Generated: 2026-04-16 06:17 | Price: $65.05 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / Real Estate - Development
@@ -23,7 +23,7 @@ Real Estate / Real Estate - Development
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 399% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 198% (strong); Gross margin: 48% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 48.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Real Estate; Operating margin 7% — thin for Real Estate | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 63.7x — extreme premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 63.8x — extreme premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 12.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
 ## Buffett Score: 3.5 / 10

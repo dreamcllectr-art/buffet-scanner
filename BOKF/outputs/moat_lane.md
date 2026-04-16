@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BOKF
-*Generated: 2026-04-15 06:17 | Price: $135.39 | Mkt Cap: $8B*
+*Generated: 2026-04-16 06:17 | Price: $134.98 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 69% — PRESENT (IV $229 vs $135 at 25x)
+- **Margin of Safety**: 70% — PRESENT (IV $229 vs $135 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 63.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

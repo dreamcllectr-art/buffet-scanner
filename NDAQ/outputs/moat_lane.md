@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-04-15 06:06 | Price: $86.71 | Mkt Cap: $50B*
+*Generated: 2026-04-16 06:10 | Price: $88.55 | Mkt Cap: $51B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.5% inst.) as insider
 
@@ -25,10 +25,10 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 137% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 15% — strong franchise (Financial Services); Operating margin 48% — durable for Financial Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 53%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 59%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,13 +38,13 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -11% — ABSENT ($87 > IV $77 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -13% — ABSENT ($89 > IV $77 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

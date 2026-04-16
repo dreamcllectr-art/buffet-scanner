@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTAI
-*Generated: 2026-04-15 06:09 | Price: $269.47 | Mkt Cap: $28B*
+*Generated: 2026-04-16 06:20 | Price: $269.83 | Mkt Cap: $28B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -36,7 +36,7 @@ Industrials / Rental & Leasing Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -57% — ABSENT ($269 > IV $115 at 25x for 25% growth)
+- **Margin of Safety**: -57% — ABSENT ($270 > IV $115 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHH
-*Generated: 2026-04-15 06:17 | Price: $116.75 | Mkt Cap: $5B*
+*Generated: 2026-04-16 06:17 | Price: $116.5 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -36,7 +36,7 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: 1% — thin (IV $118 at 15x)
+- **Margin of Safety**: 2% — thin (IV $118 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 42.9% insider ownership
 - **Mr. Market**: Neutral

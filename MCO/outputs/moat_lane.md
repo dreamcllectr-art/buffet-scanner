@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-04-15 06:06 | Price: $438.06 | Mkt Cap: $78B*
+*Generated: 2026-04-16 06:10 | Price: $446.81 | Mkt Cap: $80B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (13.9% inst.) as insider
 
@@ -25,11 +25,11 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 7.7/10 | 30% | 2.3 | Avg ROIC: 19.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 62% — strong franchise (Financial Services); Operating margin 42% — durable for Financial Services | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.4x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.9x — growth premium; 52w range position: 31%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,10 +38,10 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -22% — ABSENT ($438 > IV $342 at 25x for 25% growth)
+- **Margin of Safety**: -24% — ABSENT ($447 > IV $342 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)
@@ -50,7 +50,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

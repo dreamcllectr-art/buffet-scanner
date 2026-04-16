@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APLS
-*Generated: 2026-04-15 06:17 | Price: $40.85 | Mkt Cap: $5B*
+*Generated: 2026-04-16 06:16 | Price: $40.845 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Biotechnology

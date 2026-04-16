@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SN
-*Generated: 2026-04-14 06:17 | Price: $115.37 | Mkt Cap: $16B*
+*Generated: 2026-04-16 06:14 | Price: $115.51 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -23,7 +23,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 15.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 68%; Gross margin: 49% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 41.0% (>10%); No insider transaction data; Restricted stock: 40.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 17% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.6x — fair price; 52w range position: 71%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.7x — fair price; 52w range position: 71%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
 ## Buffett Score: 7.9 / 10

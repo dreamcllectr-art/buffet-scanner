@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMTM
-*Generated: 2026-04-15 06:17 | Price: $27.48 | Mkt Cap: $7B*
+*Generated: 2026-04-16 06:16 | Price: $27.58 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -64% — ABSENT ($27 > IV $10 at 25x for 25% growth)
+- **Margin of Safety**: -64% — ABSENT ($28 > IV $10 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

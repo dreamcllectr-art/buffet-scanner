@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPGI
-*Generated: 2026-04-15 06:15 | Price: $425.24 | Mkt Cap: $127B*
+*Generated: 2026-04-16 06:11 | Price: $430.58 | Mkt Cap: $129B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 9.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 120% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 13% — adequate (Financial Services); Operating margin 38% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.3x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -14% — ABSENT ($425 > IV $367 at 25x for 25% growth)
+- **Margin of Safety**: -15% — ABSENT ($431 > IV $366 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

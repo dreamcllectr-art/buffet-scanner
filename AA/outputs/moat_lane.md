@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AA
-*Generated: 2026-04-15 06:09 | Price: $71.84 | Mkt Cap: $19B*
+*Generated: 2026-04-16 06:20 | Price: $70.38 | Mkt Cap: $19B*
 
 ## Sector Context
 Basic Materials / Aluminum
@@ -23,7 +23,7 @@ Basic Materials / Aluminum
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 4.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 75% (severe cyclicality); FCF/NI: -23% (weak conversion); Gross margin: 18% (below Basic Materials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Basic Materials moderate cutoff 18%; Operating margin 14% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 6.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 6.4% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Basic Materials / Aluminum
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Aluminum
-- **Margin of Safety**: 3% — thin (IV $74 at 17x)
+- **Margin of Safety**: 6% — thin (IV $74 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

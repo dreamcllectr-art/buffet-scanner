@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLPI
-*Generated: 2026-04-15 06:09 | Price: $46.73 | Mkt Cap: $13B*
+*Generated: 2026-04-16 06:13 | Price: $46.75 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

@@ -1,5 +1,7 @@
 # Buffett/Munger Moat Lane: EVR
-*Generated: 2026-04-15 06:09 | Price: $357.61 | Mkt Cap: $14B*
+*Generated: 2026-04-16 06:13 | Price: $357.05 | Mkt Cap: $14B*
+
+> ⚠ DATA: yfinance misclassified Wellington Management Group, LLP (4.9% inst.) as insider
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -12,7 +14,7 @@ Financial Services / Capital Markets
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 5.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,13 +23,13 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 30.1%; Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 183% (strong); Gross margin: n/a for financials | - |
-| Management | 6.5/10 | 25% | 1.6 | Insider ownership: 5.0%; No insider transaction data; Restricted stock: 5.3% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 30% — strong franchise (Financial Services); Operating margin 25%; Rev growth 32% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 7.1 / 10
-## Alpha Adjustment: +0.21
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,9 +38,9 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -2% — ABSENT ($358 > IV $351 at 25x for 25% growth)
+- **Margin of Safety**: -1% — ABSENT ($357 > IV $352 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
-- **Incentive-Caused Bias**: Aligned — 5.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
@@ -48,7 +50,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.21 applied to composite alpha score
+Buffett Premium: +0.13 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

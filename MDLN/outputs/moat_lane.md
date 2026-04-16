@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLN
-*Generated: 2026-04-15 06:09 | Price: $47.67 | Mkt Cap: $39B*
+*Generated: 2026-04-16 06:13 | Price: $47.93 | Mkt Cap: $39B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: nan% (3y); FCF/NI: 112% (strong); Gross margin: 26% (below Healthcare norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 62.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Healthcare moderate cutoff 35%; Operating margin 6% — thin for Healthcare | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.8x — growth premium; 52w range position: 80%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.0x — growth premium; 52w range position: 82%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

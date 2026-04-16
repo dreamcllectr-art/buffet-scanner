@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MASI
-*Generated: 2026-04-14 06:17 | Price: $178.47 | Mkt Cap: $9B*
+*Generated: 2026-04-16 06:20 | Price: $178.39 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -21,7 +21,7 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 8.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 312% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: -40% (weak conversion); Gross margin: 62% (pricing power for Healthcare) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 14.1% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 14.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 19% | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.0x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

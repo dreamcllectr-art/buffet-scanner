@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-04-15 06:05 | Price: $130.04 | Mkt Cap: $17B*
+*Generated: 2026-04-16 06:08 | Price: $129.56 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 3.8/10 | 30% | 1.1 | Avg ROIC: 16.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 112% (strong); Gross margin: 22% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Technology moderate cutoff 40%; Operating margin 7% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CORT
-*Generated: 2026-04-15 06:17 | Price: $43.68 | Mkt Cap: $5B*
+*Generated: 2026-04-16 06:16 | Price: $43.9 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Healthcare / Biotechnology
 | Quality | 3.6/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 14.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 130% (strong); Gross margin: 98% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.4% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 98% vs sector strong cutoff 55% — strong pricing power; Operating margin 2% — thin for Healthcare | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.2x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.3x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

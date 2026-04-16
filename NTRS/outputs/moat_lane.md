@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-04-15 06:07 | Price: $155.82 | Mkt Cap: $29B*
+*Generated: 2026-04-16 06:10 | Price: $156.07 | Mkt Cap: $30B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 13.5%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 129% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 13% — adequate (Financial Services); Operating margin 29% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.9x — deep value; Near 52w high (98% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.9x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

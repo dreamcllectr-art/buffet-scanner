@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVY
-*Generated: 2026-04-15 06:04 | Price: $170.85 | Mkt Cap: $13B*
+*Generated: 2026-04-16 06:07 | Price: $168.03 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -23,10 +23,10 @@ Consumer Cyclical / Packaging & Containers
 | Quality | 3.3/10 | 30% | 1.0 | Avg ROIC: 14.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 34% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 98% (strong); Gross margin: 29% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 29% — below Consumer Cyclical moderate cutoff 30%; Operating margin 13% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 34%; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -23% — ABSENT ($171 > IV $132 at 15x for -1% growth)
+- **Margin of Safety**: -22% — ABSENT ($168 > IV $132 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMY
-*Generated: 2026-04-15 06:04 | Price: $58.08 | Mkt Cap: $119B*
+*Generated: 2026-04-16 06:07 | Price: $57.89 | Mkt Cap: $118B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - General
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 212% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 93% (strong); Gross margin: 73% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 55% — strong pricing power; Operating margin 28% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 76%; Owner earnings yield: 9.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 75%; Owner earnings yield: 9.4% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

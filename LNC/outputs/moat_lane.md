@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNC
-*Generated: 2026-04-15 06:11 | Price: $35.35 | Mkt Cap: $7B*
+*Generated: 2026-04-16 06:21 | Price: $36.01 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -23,7 +23,7 @@ Financial Services / Insurance - Life
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 155% from prior peak; 5y price drawdown: 73% (severe cyclicality); FCF/NI: 117% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 12% — adequate (Financial Services); Operating margin 13% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.2x — deep value; 52w range position: 36%; Owner earnings yield: 41.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; 52w range position: 39%; Owner earnings yield: 40.9% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 147% — PRESENT (IV $87 vs $35 at 15x)
+- **Margin of Safety**: 143% — PRESENT (IV $87 vs $36 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

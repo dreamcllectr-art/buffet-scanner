@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-04-15 06:04 | Price: $64.66 | Mkt Cap: $54B*
+*Generated: 2026-04-16 06:08 | Price: $58.55 | Mkt Cap: $49B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.9% inst.) as insider
 
@@ -25,32 +25,32 @@ Industrials / Building Products & Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 86% (strong); Gross margin: 26% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 26% — moderate moat for Industrials; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 47%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.5x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.4 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -61% — ABSENT ($65 > IV $25 at 15x for -98% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -57% — ABSENT ($59 > IV $25 at 15x for -98% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

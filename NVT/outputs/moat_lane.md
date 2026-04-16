@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVT
-*Generated: 2026-04-15 06:09 | Price: $134.48 | Mkt Cap: $22B*
+*Generated: 2026-04-16 06:20 | Price: $131.38 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -23,7 +23,7 @@ Industrials / Electrical Equipment & Parts
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 38% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 42% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.2x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -52% — ABSENT ($134 > IV $65 at 25x for 25% growth)
+- **Margin of Safety**: -52% — ABSENT ($131 > IV $64 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution

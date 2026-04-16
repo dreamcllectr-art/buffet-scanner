@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATI
-*Generated: 2026-04-15 06:09 | Price: $163.03 | Mkt Cap: $22B*
+*Generated: 2026-04-16 06:20 | Price: $156.83 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -23,7 +23,7 @@ Industrials / Metal Fabrication
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 12.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 32% (weak conversion); Gross margin: 22% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Industrials; Operating margin 15% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.7x — expensive; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.5x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ Industrials / Metal Fabrication
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Metal Fabrication
-- **Margin of Safety**: -74% — ABSENT ($163 > IV $43 at 15x for -26% growth)
+- **Margin of Safety**: -73% — ABSENT ($157 > IV $43 at 15x for -26% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

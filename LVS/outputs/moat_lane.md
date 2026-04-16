@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-15 06:06 | Price: $55.52 | Mkt Cap: $37B*
+*Generated: 2026-04-16 06:10 | Price: $56.26 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 80% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 45% — strong pricing power; Operating margin 24% — durable for Consumer Cyclical; Rev growth 26% — demand pull | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 62%; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 63%; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: 6% — thin (IV $59 at 25x)
+- **Margin of Safety**: 4% — thin (IV $59 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 58.4% insider ownership
 - **Mr. Market**: Neutral

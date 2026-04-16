@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-04-15 06:06 | Price: $52.84 | Mkt Cap: $21B*
+*Generated: 2026-04-16 06:10 | Price: $54.26 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.2% inst.) as insider
 
@@ -25,11 +25,11 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 156% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: -106% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -106% — below Healthcare moderate cutoff 35%; Operating margin -126% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.4x — deep value; 52w range position: 82% | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -11.7x — deep value; Near 52w high (86% of range) — Mr. Market greedy | - |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -41,7 +41,7 @@ Healthcare / Biotechnology
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -50,7 +50,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

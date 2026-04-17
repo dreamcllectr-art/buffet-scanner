@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAF
-*Generated: 2026-04-16 06:21 | Price: $63.79 | Mkt Cap: $7B*
+*Generated: 2026-04-17 06:15 | Price: $63.82 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty

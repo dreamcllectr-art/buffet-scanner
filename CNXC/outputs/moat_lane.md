@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNXC
-*Generated: 2026-04-16 06:18 | Price: $28.81 | Mkt Cap: $2B*
+*Generated: 2026-04-17 06:17 | Price: $29.6 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Groupe Bruxelles Lambert S.A. (14.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Information Technology Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 394% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: 98% (strong); Gross margin: 34% (below Technology norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 30.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 2.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 29.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 2.3x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 28.5% (>5%) | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

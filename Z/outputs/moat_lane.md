@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: Z
-*Generated: 2026-04-16 06:21 | Price: $43.5 | Mkt Cap: $11B*
+*Generated: 2026-04-17 06:15 | Price: $44.08 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Independent Franchise Partners, LLP (5.8% inst.) as insider
 
@@ -23,9 +23,9 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -0.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: -1058% (weak conversion); Gross margin: 74% (pricing power for Communication Services) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -17.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -22.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin -2% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

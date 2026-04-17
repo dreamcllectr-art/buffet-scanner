@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HST
-*Generated: 2026-04-16 06:09 | Price: $20.69 | Mkt Cap: $14B*
+*Generated: 2026-04-17 06:10 | Price: $20.57 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel
@@ -23,7 +23,7 @@ Real Estate / REIT - Hotel & Motel
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 36% (stable); FCF/NI: 125% (strong); Gross margin: 29% (below Real Estate norm) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — below Real Estate moderate cutoff 35%; Operating margin 12% — thin for Real Estate | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.5x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 8.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.4x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 8.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Hotel & Motel
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Hotel & Motel
-- **Margin of Safety**: 33% — PRESENT (IV $28 vs $21 at 25x)
+- **Margin of Safety**: 34% — PRESENT (IV $28 vs $21 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DJT
-*Generated: 2026-04-16 06:17 | Price: $10.2 | Mkt Cap: $3B*
+*Generated: 2026-04-17 06:17 | Price: $9.85 | Mkt Cap: $3B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -27.4% (2y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 1509% from prior peak; 5y price drawdown: 91% (severe cyclicality); FCF/NI: -4% (weak conversion); Gross margin: 55% | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 42.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 42.4% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 55% — moderate moat for Communication Services; Operating margin -2897% — thin for Communication Services | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | No P/E data (unprofitable?); Near 52w low (10% of range) — Mr. Market fearful | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | No P/E data (unprofitable?); Near 52w low (8% of range) — Mr. Market fearful | Expensive |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

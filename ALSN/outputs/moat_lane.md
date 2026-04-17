@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALSN
-*Generated: 2026-04-16 06:14 | Price: $125.82 | Mkt Cap: $10B*
+*Generated: 2026-04-17 06:20 | Price: $125.7 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -12% — ABSENT ($126 > IV $110 at 15x for -41% growth)
+- **Margin of Safety**: -13% — ABSENT ($126 > IV $110 at 15x for -41% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GM
-*Generated: 2026-04-16 06:09 | Price: $77.78 | Mkt Cap: $73B*
+*Generated: 2026-04-17 06:09 | Price: $78.05 | Mkt Cap: $73B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -38% — ABSENT ($78 > IV $48 at 15x for -5% growth)
+- **Margin of Safety**: -37% — ABSENT ($78 > IV $49 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

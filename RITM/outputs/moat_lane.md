@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RITM
-*Generated: 2026-04-16 06:16 | Price: $10.18 | Mkt Cap: $6B*
+*Generated: 2026-04-17 06:15 | Price: $9.96 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -23,7 +23,7 @@ Real Estate / REIT - Mortgage
 | Quality | 3.5/10 | 30% | 1.1 | Fallback ROE: 8.4%; Earnings: 2/3 down-years (unpredictable); NI drawdown: 35% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 69%; Gross margin: 100% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 100% vs sector strong cutoff 55% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.4x — deep value; 52w range position: 41% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; 52w range position: 35% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Mortgage
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Mortgage
-- **Margin of Safety**: 53% — PRESENT (IV $16 vs $10 at 15x)
+- **Margin of Safety**: 57% — PRESENT (IV $16 vs $10 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

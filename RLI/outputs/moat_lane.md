@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RLI
-*Generated: 2026-04-16 06:16 | Price: $58.35 | Mkt Cap: $5B*
+*Generated: 2026-04-17 06:15 | Price: $58.99 | Mkt Cap: $5B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 26.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 48% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 126% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 24% — strong franchise (Financial Services); Operating margin 27% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.6x — growth premium; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 21.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.8x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 21.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 87% — PRESENT (IV $109 vs $58 at 25x)
+- **Margin of Safety**: 85% — PRESENT (IV $109 vs $59 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

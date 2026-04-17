@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPM
-*Generated: 2026-04-16 06:13 | Price: $105.69 | Mkt Cap: $14B*
+*Generated: 2026-04-17 06:13 | Price: $105.65 | Mkt Cap: $14B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -17% — ABSENT ($106 > IV $88 at 17x for 9% growth)
+- **Margin of Safety**: -16% — ABSENT ($106 > IV $88 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

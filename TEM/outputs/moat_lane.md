@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEM
-*Generated: 2026-04-16 06:16 | Price: $56.41 | Mkt Cap: $10B*
+*Generated: 2026-04-17 06:15 | Price: $54.42 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Health Information Services
@@ -23,7 +23,7 @@ Healthcare / Health Information Services
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -57.1% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 78%; Gross margin: 63% (pricing power for Healthcare) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 37.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 55% — strong pricing power; Operating margin -17% — thin for Healthcare; Rev growth 83% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -623.9x — deep value; Near 52w low (27% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -601.9x — deep value; Near 52w low (24% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10

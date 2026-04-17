@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-04-16 06:21 | Price: $51.72 | Mkt Cap: $9B*
+*Generated: 2026-04-17 06:15 | Price: $50.6 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -23,7 +23,7 @@ Consumer Cyclical / Restaurants
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 70% (severe cyclicality); FCF/NI: -581% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 43.2x — expensive; Near 52w low (21% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 42.3x — expensive; Near 52w low (18% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
 ## Buffett Score: 3.6 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -69% — ABSENT ($52 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -68% — ABSENT ($51 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

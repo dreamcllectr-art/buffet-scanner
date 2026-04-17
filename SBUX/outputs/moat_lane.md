@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBUX
-*Generated: 2026-04-16 06:11 | Price: $98.34 | Mkt Cap: $112B*
+*Generated: 2026-04-17 06:19 | Price: $98.36 | Mkt Cap: $112B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

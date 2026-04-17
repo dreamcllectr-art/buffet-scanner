@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZG
-*Generated: 2026-04-16 06:17 | Price: $43.62 | Mkt Cap: $11B*
+*Generated: 2026-04-17 06:22 | Price: $44.1 | Mkt Cap: $11B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,9 +21,9 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -0.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: -1058% (weak conversion); Gross margin: 74% (pricing power for Communication Services) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: -382.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: -421.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin -2% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.1x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.3x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

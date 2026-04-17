@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JHG
-*Generated: 2026-04-16 06:21 | Price: $51.6 | Mkt Cap: $8B*
+*Generated: 2026-04-17 06:15 | Price: $51.56 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 153% — PRESENT (IV $131 vs $52 at 25x)
+- **Margin of Safety**: 154% — PRESENT (IV $131 vs $52 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

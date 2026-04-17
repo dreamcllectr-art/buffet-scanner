@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AU
-*Generated: 2026-04-16 06:20 | Price: $104.47 | Mkt Cap: $53B*
+*Generated: 2026-04-17 06:12 | Price: $104.23 | Mkt Cap: $53B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -23,7 +23,7 @@ Basic Materials / Gold
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 201% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 48% — durable for Basic Materials; Rev growth 75% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 73%; Owner earnings yield: 4.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 72%; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10

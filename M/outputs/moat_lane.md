@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: M
-*Generated: 2026-04-16 06:16 | Price: $19.15 | Mkt Cap: $5B*
+*Generated: 2026-04-17 06:15 | Price: $19.08 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Department Stores
@@ -36,7 +36,7 @@ Consumer Cyclical / Department Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Department Stores
-- **Margin of Safety**: 203% — PRESENT (IV $58 vs $19 at 25x)
+- **Margin of Safety**: 204% — PRESENT (IV $58 vs $19 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

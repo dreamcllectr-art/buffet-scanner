@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTRG
-*Generated: 2026-04-16 06:14 | Price: $38.58 | Mkt Cap: $11B*
+*Generated: 2026-04-17 06:20 | Price: $38.72 | Mkt Cap: $11B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Water
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: -79% (weak conversion); Gross margin: 58% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 40% — strong pricing power; Operating margin 32% — durable for Utilities | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 37%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 40%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

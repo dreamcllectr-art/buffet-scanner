@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VFC
-*Generated: 2026-04-17 06:15 | Price: $20.12 | Mkt Cap: $8B*
+*Generated: 2026-04-18 05:54 | Price: $21.0 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,10 +23,10 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 170% from prior peak; 5y price drawdown: 88% (severe cyclicality); FCF/NI: -246% (weak conversion); Gross margin: 51% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.1x — fair price; 52w range position: 85%; Owner earnings yield: 9.9% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 9.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -29% — ABSENT ($20 > IV $14 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($21 > IV $15 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

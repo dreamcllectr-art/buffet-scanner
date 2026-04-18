@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WH
-*Generated: 2026-04-17 06:15 | Price: $87.31 | Mkt Cap: $7B*
+*Generated: 2026-04-18 05:54 | Price: $89.28 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -23,10 +23,10 @@ Consumer Cyclical / Lodging
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 12.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 117% (strong); Gross margin: 60% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 77%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.6x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -57% — ABSENT ($87 > IV $38 at 15x for -2% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -58% — ABSENT ($89 > IV $38 at 15x for -2% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: strong moat)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MOH
-*Generated: 2026-04-17 06:15 | Price: $148.87 | Mkt Cap: $8B*
+*Generated: 2026-04-18 05:53 | Price: $148.97 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

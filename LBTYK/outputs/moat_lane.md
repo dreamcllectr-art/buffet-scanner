@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBTYK
-*Generated: 2026-04-17 06:17 | Price: $12.18 | Mkt Cap: $4B*
+*Generated: 2026-04-18 06:00 | Price: $12.19 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified BAUPOST GROUP LLC/MA (14.2% inst.) as insider
 

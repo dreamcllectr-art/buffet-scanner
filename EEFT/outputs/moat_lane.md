@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EEFT
-*Generated: 2026-04-17 06:21 | Price: $74.24 | Mkt Cap: $3B*
+*Generated: 2026-04-18 05:56 | Price: $74.4 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 57% — PRESENT (IV $116 vs $74 at 17x)
+- **Margin of Safety**: 56% — PRESENT (IV $116 vs $74 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

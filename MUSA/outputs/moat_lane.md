@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MUSA
-*Generated: 2026-04-16 06:14 | Price: $500.55 | Mkt Cap: $9B*
+*Generated: 2026-04-18 05:59 | Price: $491.13 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -22,13 +22,13 @@ Consumer Cyclical / Specialty Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 24.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 87% (strong); Gross margin: 8% (thin by design for Specialty Retail) | ROIC declining |
+| Quality | 3.4/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 24.6% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 85% (strong); Gross margin: 8% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 10% / ROE 64% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.5x — fair price; 52w range position: 84%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.2x — fair price; 52w range position: 79%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.6 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -18% — ABSENT ($501 > IV $409 at 17x for 8% growth)
+- **Margin of Safety**: -17% — ABSENT ($491 > IV $410 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

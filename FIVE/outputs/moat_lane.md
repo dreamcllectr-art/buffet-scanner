@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIVE
-*Generated: 2026-04-17 06:19 | Price: $225.06 | Mkt Cap: $12B*
+*Generated: 2026-04-18 05:58 | Price: $236.26 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,10 +23,10 @@ Consumer Cyclical / Specialty Retail
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 17.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 76% (severe cyclicality); FCF/NI: 59%; Gross margin: 36% (thin by design for Specialty Retail) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 6% / ROE 18% — adequate scale (Specialty Retail); Operating margin 18% — durable for Consumer Cyclical; Rev growth 24% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.9x — growth premium; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.1x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -28% — ABSENT ($225 > IV $162 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($236 > IV $162 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSM
-*Generated: 2026-04-17 06:12 | Price: $142.79 | Mkt Cap: $31B*
+*Generated: 2026-04-18 05:51 | Price: $144.48 | Mkt Cap: $31B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -53.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 78%; Gross margin: 80% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin -95% — thin for Healthcare; Rev growth 153% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 190.6x — extreme premium; 52w range position: 53%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 192.9x — extreme premium; 52w range position: 54%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10

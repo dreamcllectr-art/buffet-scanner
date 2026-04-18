@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUZ
-*Generated: 2026-04-17 06:21 | Price: $23.53 | Mkt Cap: $4B*
+*Generated: 2026-04-18 05:55 | Price: $24.09 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,11 +23,11 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 194% (strong); Gross margin: 68% (pricing power for Real Estate) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 78.4x — extreme premium; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 80.3x — extreme premium; 52w range position: 31%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.3 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Real Estate / REIT - Office
 - **Margin of Safety**: -80% — ABSENT ($24 > IV $5 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

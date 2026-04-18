@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VEEV
-*Generated: 2026-04-17 06:12 | Price: $167.69 | Mkt Cap: $28B*
+*Generated: 2026-04-18 05:51 | Price: $167.95 | Mkt Cap: $28B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.4% inst.) as insider
 

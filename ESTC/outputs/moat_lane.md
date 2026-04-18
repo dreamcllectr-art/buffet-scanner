@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESTC
-*Generated: 2026-04-16 06:17 | Price: $47.51 | Mkt Cap: $5B*
+*Generated: 2026-04-18 05:55 | Price: $47.56 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application

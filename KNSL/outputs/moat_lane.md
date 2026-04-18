@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNSL
-*Generated: 2026-04-16 06:20 | Price: $358.0 | Mkt Cap: $8B*
+*Generated: 2026-04-18 05:53 | Price: $360.78 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified BAMCO Inc. (7.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 8.1/10 | 30% | 2.4 | Avg ROIC: 22.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 262% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 29% — strong franchise (Financial Services); Operating margin 37% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.2x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.3x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 11.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 51% — PRESENT (IV $542 vs $358 at 25x)
+- **Margin of Safety**: 50% — PRESENT (IV $541 vs $361 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

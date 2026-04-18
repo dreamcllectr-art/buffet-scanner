@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMI
-*Generated: 2026-04-16 06:14 | Price: $411.89 | Mkt Cap: $8B*
+*Generated: 2026-04-18 05:53 | Price: $412.62 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Conglomerates

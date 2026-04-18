@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LINE
-*Generated: 2026-04-17 06:22 | Price: $36.48 | Mkt Cap: $9B*
+*Generated: 2026-04-18 05:59 | Price: $37.69 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 62% (severe cyclicality); FCF/NI: 65%; Gross margin: 32% (below Real Estate norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Real Estate moderate cutoff 35%; Operating margin 5% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -48.3x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 12.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -49.9x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 11.7% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

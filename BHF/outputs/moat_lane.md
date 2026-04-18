@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BHF
-*Generated: 2026-04-17 06:21 | Price: $62.3 | Mkt Cap: $4B*
+*Generated: 2026-04-18 05:55 | Price: $62.22 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 37% — PRESENT (IV $86 vs $62 at 15x)
+- **Margin of Safety**: 38% — PRESENT (IV $86 vs $62 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

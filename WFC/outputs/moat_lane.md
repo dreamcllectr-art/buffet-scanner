@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WFC
-*Generated: 2026-04-17 06:19 | Price: $81.25 | Mkt Cap: $250B*
+*Generated: 2026-04-18 05:50 | Price: $81.41 | Mkt Cap: $250B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -21,7 +21,7 @@ Financial Services / Banks - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 12.0%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 84% (strong); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -78.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 29% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 52% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MP
-*Generated: 2026-04-16 06:20 | Price: $59.52 | Mkt Cap: $11B*
+*Generated: 2026-04-18 05:59 | Price: $60.99 | Mkt Cap: $11B*
 
 ## Sector Context
 Basic Materials / Other Industrial Metals & Mining
@@ -23,7 +23,7 @@ Basic Materials / Other Industrial Metals & Mining
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: -42% (weak conversion); Gross margin: 30% (pricing power for Basic Materials) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.8% (>10%); No insider transaction data; Restricted stock: 19.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 30% vs sector strong cutoff 30% — strong pricing power; Operating margin -1% — thin for Basic Materials; Rev growth 70% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.5x — expensive; 52w range position: 50%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 46.5x — expensive; 52w range position: 52%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

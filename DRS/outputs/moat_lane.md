@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRS
-*Generated: 2026-04-17 06:21 | Price: $44.94 | Mkt Cap: $12B*
+*Generated: 2026-04-18 05:55 | Price: $44.57 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 0.7/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 10.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 59% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 62%; Gross margin: 24% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 71.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 71.7% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Industrials; Operating margin 12% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.9x — expensive; 52w range position: 74%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.7x — expensive; 52w range position: 72%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

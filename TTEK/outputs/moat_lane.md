@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTEK
-*Generated: 2026-04-16 06:14 | Price: $31.66 | Mkt Cap: $8B*
+*Generated: 2026-04-18 05:53 | Price: $31.61 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: 6% — thin (IV $34 at 25x)
+- **Margin of Safety**: 5% — thin (IV $33 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

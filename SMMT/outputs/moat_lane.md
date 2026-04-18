@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMMT
-*Generated: 2026-04-17 06:22 | Price: $24.42 | Mkt Cap: $19B*
+*Generated: 2026-04-18 05:56 | Price: $25.15 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -112.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 92% (severe cyclicality); FCF/NI: 40% (weak conversion); Gross margin: 0% (below Healthcare norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 82.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 82.7% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Healthcare moderate cutoff 35%; Operating margin 0% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -20.6x — deep value; 52w range position: 46%; Owner earnings yield: 0.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -21.3x — deep value; 52w range position: 49%; Owner earnings yield: 0.4% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

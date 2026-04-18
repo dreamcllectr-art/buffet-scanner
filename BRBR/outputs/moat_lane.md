@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRBR
-*Generated: 2026-04-17 06:22 | Price: $16.23 | Mkt Cap: $2B*
+*Generated: 2026-04-18 05:59 | Price: $16.14 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: 34% — PRESENT (IV $22 vs $16 at 15x)
+- **Margin of Safety**: 35% — PRESENT (IV $22 vs $16 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

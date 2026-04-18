@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LCID
-*Generated: 2026-04-17 06:17 | Price: $7.7 | Mkt Cap: $3B*
+*Generated: 2026-04-18 06:00 | Price: $7.3 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Manufacturers
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -35.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: -93% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 63.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin -93% — below Consumer Cyclical moderate cutoff 30%; Operating margin -204% — thin for Consumer Cyclical; Rev growth 123% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1.7x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

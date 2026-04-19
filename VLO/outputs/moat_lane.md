@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-04-18 05:50 | Price: $223.65 | Mkt Cap: $67B*
+*Generated: 2026-04-19 06:14 | Price: $223.65 | Mkt Cap: $67B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -23,7 +23,7 @@ Energy / Oil & Gas Refining & Marketing
 | Quality | 1.7/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 6% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 77%; Owner earnings yield: 5.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; 52w range position: 77%; Owner earnings yield: 5.6% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

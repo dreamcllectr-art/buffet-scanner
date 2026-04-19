@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FBIN
-*Generated: 2026-04-18 05:55 | Price: $40.43 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:11 | Price: $40.43 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Building Products & Equipment

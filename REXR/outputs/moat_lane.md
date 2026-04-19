@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REXR
-*Generated: 2026-04-18 05:53 | Price: $37.01 | Mkt Cap: $9B*
+*Generated: 2026-04-19 06:15 | Price: $37.01 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -64% — ABSENT ($37 > IV $13 at 15x for 2% growth)
+- **Margin of Safety**: -65% — ABSENT ($37 > IV $13 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

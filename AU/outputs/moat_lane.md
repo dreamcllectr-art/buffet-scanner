@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AU
-*Generated: 2026-04-18 05:50 | Price: $109.15 | Mkt Cap: $55B*
+*Generated: 2026-04-19 06:15 | Price: $109.15 | Mkt Cap: $55B*
 
 ## Sector Context
 Basic Materials / Gold

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JEF
-*Generated: 2026-04-18 05:54 | Price: $48.09 | Mkt Cap: $10B*
+*Generated: 2026-04-19 06:16 | Price: $48.09 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 60% — PRESENT (IV $77 vs $48 at 25x)
+- **Margin of Safety**: 55% — PRESENT (IV $74 vs $48 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 26.0% insider ownership
 - **Mr. Market**: Neutral

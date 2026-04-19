@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XRAY
-*Generated: 2026-04-18 05:59 | Price: $12.51 | Mkt Cap: $2B*
+*Generated: 2026-04-19 06:12 | Price: $12.51 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

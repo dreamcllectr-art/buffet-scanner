@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LPX
-*Generated: 2026-04-18 05:55 | Price: $76.97 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:12 | Price: $76.97 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.8% inst.) as insider
 
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.2/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 87% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 60%; Gross margin: 22% (below Industrials norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 20.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 20.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Industrials moderate cutoff 22%; Operating margin 1% — thin for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.9x — fair price; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |

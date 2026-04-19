@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BYD
-*Generated: 2026-04-18 05:55 | Price: $87.52 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:11 | Price: $87.52 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

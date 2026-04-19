@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALK
-*Generated: 2026-04-18 05:55 | Price: $45.4 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:12 | Price: $45.4 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Airlines
@@ -23,7 +23,7 @@ Industrials / Airlines
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 75% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: -229% (weak conversion); Gross margin: 22% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 22% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; 52w range position: 38% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; 52w range position: 38% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

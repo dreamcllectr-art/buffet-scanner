@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TNL
-*Generated: 2026-04-18 05:55 | Price: $78.33 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:11 | Price: $78.33 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -21,7 +21,7 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 11.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 44% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 50% (pricing power for Consumer Cyclical) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 21% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 10.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

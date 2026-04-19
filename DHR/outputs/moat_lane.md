@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-04-18 05:46 | Price: $194.75 | Mkt Cap: $138B*
+*Generated: 2026-04-19 06:04 | Price: $194.75 | Mkt Cap: $138B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.6% inst.) as insider
 

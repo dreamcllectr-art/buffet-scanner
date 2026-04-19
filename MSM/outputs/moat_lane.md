@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSM
-*Generated: 2026-04-18 05:55 | Price: $97.52 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:12 | Price: $97.52 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -33% — ABSENT ($98 > IV $65 at 17x for 9% growth)
+- **Margin of Safety**: -35% — ABSENT ($98 > IV $63 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 18.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

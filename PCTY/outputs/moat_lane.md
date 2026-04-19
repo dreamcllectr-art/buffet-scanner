@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCTY
-*Generated: 2026-04-18 05:55 | Price: $100.78 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:12 | Price: $100.78 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application

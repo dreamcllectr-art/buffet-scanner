@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STAG
-*Generated: 2026-04-18 05:53 | Price: $39.75 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:16 | Price: $39.75 | Mkt Cap: $8B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -6% — ABSENT ($40 > IV $37 at 25x for 25% growth)
+- **Margin of Safety**: -8% — ABSENT ($40 > IV $36 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

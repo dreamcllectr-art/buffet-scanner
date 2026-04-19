@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKO
-*Generated: 2026-04-18 05:50 | Price: $186.31 | Mkt Cap: $15B*
+*Generated: 2026-04-19 06:14 | Price: $186.31 | Mkt Cap: $15B*
 
 ## Sector Context
 Communication Services / Entertainment

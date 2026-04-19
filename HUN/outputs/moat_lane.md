@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUN
-*Generated: 2026-04-18 05:59 | Price: $13.35 | Mkt Cap: $2B*
+*Generated: 2026-04-19 06:12 | Price: $13.35 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (6.6% inst.) as insider
 

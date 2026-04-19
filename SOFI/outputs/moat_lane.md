@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOFI
-*Generated: 2026-04-18 05:51 | Price: $19.43 | Mkt Cap: $25B*
+*Generated: 2026-04-19 06:15 | Price: $19.43 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -69% — ABSENT ($19 > IV $6 at 15x for -57% growth)
+- **Margin of Safety**: -70% — ABSENT ($19 > IV $6 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

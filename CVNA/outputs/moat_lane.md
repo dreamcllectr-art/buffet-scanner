@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVNA
-*Generated: 2026-04-18 05:45 | Price: $387.53 | Mkt Cap: $86B*
+*Generated: 2026-04-19 06:03 | Price: $387.53 | Mkt Cap: $86B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships

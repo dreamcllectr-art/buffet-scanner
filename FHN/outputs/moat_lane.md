@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FHN
-*Generated: 2026-04-18 05:58 | Price: $24.29 | Mkt Cap: N/A*
+*Generated: 2026-04-19 06:09 | Price: $24.29 | Mkt Cap: N/A*
 
 ## Sector Context
 Financial Services / Banks - Regional

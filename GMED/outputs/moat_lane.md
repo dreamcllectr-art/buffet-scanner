@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GMED
-*Generated: 2026-04-18 05:59 | Price: $95.25 | Mkt Cap: $13B*
+*Generated: 2026-04-19 06:09 | Price: $95.25 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Medical Devices

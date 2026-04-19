@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMS
-*Generated: 2026-04-18 05:59 | Price: $153.37 | Mkt Cap: $12B*
+*Generated: 2026-04-19 06:09 | Price: $153.37 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -17% — ABSENT ($153 > IV $128 at 20x for 14% growth)
+- **Margin of Safety**: -22% — ABSENT ($153 > IV $120 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

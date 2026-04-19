@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GNRC
-*Generated: 2026-04-18 05:47 | Price: $212.1 | Mkt Cap: $12B*
+*Generated: 2026-04-19 06:05 | Price: $212.1 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -80% — ABSENT ($212 > IV $41 at 15x for -12% growth)
+- **Margin of Safety**: -81% — ABSENT ($212 > IV $40 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral

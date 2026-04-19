@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-04-18 05:45 | Price: $345.02 | Mkt Cap: $65B*
+*Generated: 2026-04-19 06:04 | Price: $345.02 | Mkt Cap: $65B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TIGO
-*Generated: 2026-04-18 05:53 | Price: $81.38 | Mkt Cap: $14B*
+*Generated: 2026-04-19 06:15 | Price: $81.38 | Mkt Cap: $14B*
 
 ## Sector Context
 Communication Services / Telecom Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTDR
-*Generated: 2026-04-18 05:54 | Price: $55.6 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:16 | Price: $55.6 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 

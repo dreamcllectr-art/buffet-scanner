@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-04-18 05:47 | Price: $392.38 | Mkt Cap: $94B*
+*Generated: 2026-04-19 06:04 | Price: $392.38 | Mkt Cap: $94B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.8% inst.) as insider
 

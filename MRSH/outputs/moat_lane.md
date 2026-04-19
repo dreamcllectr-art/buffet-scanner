@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRSH
-*Generated: 2026-04-18 05:48 | Price: $175.8 | Mkt Cap: $85B*
+*Generated: 2026-04-19 06:05 | Price: $175.8 | Mkt Cap: $85B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -11,7 +11,7 @@ Financial Services / Insurance Brokers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---

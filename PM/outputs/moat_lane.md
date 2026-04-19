@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PM
-*Generated: 2026-04-18 05:49 | Price: $157.79 | Mkt Cap: $246B*
+*Generated: 2026-04-19 06:06 | Price: $157.79 | Mkt Cap: $246B*
 
 ## Sector Context
 Consumer Defensive / Tobacco
@@ -36,7 +36,7 @@ Consumer Defensive / Tobacco
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Tobacco
-- **Margin of Safety**: -21% — ABSENT ($158 > IV $125 at 17x for 7% growth)
+- **Margin of Safety**: -22% — ABSENT ($158 > IV $123 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

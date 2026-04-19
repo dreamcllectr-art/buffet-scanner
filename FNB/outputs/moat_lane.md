@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNB
-*Generated: 2026-04-18 05:54 | Price: $17.94 | Mkt Cap: $6B*
+*Generated: 2026-04-19 06:16 | Price: $17.94 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,14 +20,14 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 8.7%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 125% (strong); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 38% — durable for Financial Services; Rev growth 26% — demand pull | Weak pricing |
+| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 8.9%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 125% (strong); Gross margin: n/a for financials | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 9% — weak (Financial Services); Operating margin 42% — durable for Financial Services | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 82% | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 126% — PRESENT (IV $40 vs $18 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Margin of Safety**: 81% — PRESENT (IV $32 vs $18 at 20x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PK
-*Generated: 2026-04-18 05:59 | Price: $11.41 | Mkt Cap: $2B*
+*Generated: 2026-04-19 06:12 | Price: $11.41 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Donald Smith & Co., Inc. (7.3% inst.) as insider
 

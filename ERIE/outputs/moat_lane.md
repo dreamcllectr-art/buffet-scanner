@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ERIE
-*Generated: 2026-04-18 05:46 | Price: $244.81 | Mkt Cap: $13B*
+*Generated: 2026-04-19 06:04 | Price: $244.81 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

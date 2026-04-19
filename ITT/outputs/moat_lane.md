@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ITT
-*Generated: 2026-04-18 05:51 | Price: $219.02 | Mkt Cap: $20B*
+*Generated: 2026-04-19 06:15 | Price: $219.02 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -52% — ABSENT ($219 > IV $104 at 17x for 6% growth)
+- **Margin of Safety**: -53% — ABSENT ($219 > IV $104 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

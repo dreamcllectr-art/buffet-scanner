@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PVH
-*Generated: 2026-04-18 05:55 | Price: $94.17 | Mkt Cap: $4B*
+*Generated: 2026-04-19 06:12 | Price: $94.17 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -90% — ABSENT ($94 > IV $9 at 17x for 6% growth)
+- **Margin of Safety**: -91% — ABSENT ($94 > IV $9 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

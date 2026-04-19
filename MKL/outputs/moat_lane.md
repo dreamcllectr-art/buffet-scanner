@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKL
-*Generated: 2026-04-18 05:51 | Price: $1988.36 | Mkt Cap: $25B*
+*Generated: 2026-04-19 06:15 | Price: $1988.36 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -21,7 +21,7 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.9/10 | 30% | 0.9 | Avg ROIC: 9.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 29% (stable); FCF/NI: -200% (weak conversion); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 19% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 57%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |

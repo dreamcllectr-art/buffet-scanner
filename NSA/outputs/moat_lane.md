@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSA
-*Generated: 2026-04-18 05:56 | Price: $43.28 | Mkt Cap: $6B*
+*Generated: 2026-04-19 06:12 | Price: $43.28 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

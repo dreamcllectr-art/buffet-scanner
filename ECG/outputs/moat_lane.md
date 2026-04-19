@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECG
-*Generated: 2026-04-18 05:54 | Price: $128.81 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:16 | Price: $128.81 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Engineering & Construction

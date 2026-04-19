@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MORN
-*Generated: 2026-04-18 05:55 | Price: $184.28 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:12 | Price: $184.28 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -26% — ABSENT ($184 > IV $136 at 15x for 4% growth)
+- **Margin of Safety**: -28% — ABSENT ($184 > IV $133 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 48.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

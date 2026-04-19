@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRS
-*Generated: 2026-04-18 05:55 | Price: $44.57 | Mkt Cap: $12B*
+*Generated: 2026-04-19 06:12 | Price: $44.57 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

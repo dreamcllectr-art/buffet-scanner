@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLY
-*Generated: 2026-04-18 05:58 | Price: $45.36 | Mkt Cap: $14B*
+*Generated: 2026-04-19 06:09 | Price: $45.36 | Mkt Cap: $14B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (9.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Credit Services
 | Quality | 2.0/10 | 30% | 0.6 | Fallback ROE: 5.8%; Earnings: 2/3 down-years (unpredictable); NI drawdown: 61% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 111% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.9% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 6% — weak (Financial Services); Operating margin 20% | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 7.2x — deep value; Near 52w high (89% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 7.1x — deep value; Near 52w high (89% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

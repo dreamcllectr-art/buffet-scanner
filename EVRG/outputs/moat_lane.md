@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVRG
-*Generated: 2026-04-18 05:46 | Price: $82.37 | Mkt Cap: $19B*
+*Generated: 2026-04-19 06:04 | Price: $82.37 | Mkt Cap: $19B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

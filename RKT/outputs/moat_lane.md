@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RKT
-*Generated: 2026-04-18 05:51 | Price: $16.63 | Mkt Cap: $47B*
+*Generated: 2026-04-19 06:09 | Price: $16.63 | Mkt Cap: $47B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -23,7 +23,7 @@ Financial Services / Mortgage Finance
 | Quality | 2.0/10 | 30% | 0.6 | Fallback ROE: -1.5%; Earnings: 2/3 down-years (unpredictable); NI drawdown: 246% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 4566% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE -1% — weak (Financial Services); Operating margin 18% — thin for Financial Services; Rev growth 53% — demand pull | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; 52w range position: 42%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 42%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

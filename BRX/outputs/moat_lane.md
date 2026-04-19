@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRX
-*Generated: 2026-04-18 05:59 | Price: $30.92 | Mkt Cap: $9B*
+*Generated: 2026-04-19 06:09 | Price: $30.92 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Retail

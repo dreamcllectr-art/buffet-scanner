@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTRA
-*Generated: 2026-04-18 05:46 | Price: $30.89 | Mkt Cap: $23B*
+*Generated: 2026-04-19 06:04 | Price: $30.89 | Mkt Cap: $23B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

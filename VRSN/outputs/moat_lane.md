@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-04-18 05:50 | Price: $274.05 | Mkt Cap: $25B*
+*Generated: 2026-04-19 06:14 | Price: $274.05 | Mkt Cap: $25B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (12.5% inst.) as insider
 

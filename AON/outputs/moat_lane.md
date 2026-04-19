@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AON
-*Generated: 2026-04-18 05:44 | Price: $331.8 | Mkt Cap: $71B*
+*Generated: 2026-04-19 06:03 | Price: $331.8 | Mkt Cap: $71B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

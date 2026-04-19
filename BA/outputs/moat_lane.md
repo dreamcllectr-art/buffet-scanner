@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-04-18 05:45 | Price: $223.38 | Mkt Cap: $176B*
+*Generated: 2026-04-19 06:03 | Price: $223.38 | Mkt Cap: $176B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,11 +23,11 @@ Industrials / Aerospace & Defense
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -2.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: -52% (weak conversion); Gross margin: 5% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 5% — below Industrials moderate cutoff 22%; Operating margin -3% — thin for Industrials; Rev growth 57% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.4x — expensive; 52w range position: 68%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 51.1x — extreme premium; 52w range position: 68%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
 
-## Buffett Score: 3.2 / 10
-## Alpha Adjustment: -0.26
+## Buffett Score: 2.8 / 10
+## Alpha Adjustment: -0.29
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.26 applied to composite alpha score
+Buffett Premium: -0.29 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

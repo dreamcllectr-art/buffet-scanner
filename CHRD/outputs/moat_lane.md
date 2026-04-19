@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHRD
-*Generated: 2026-04-18 05:53 | Price: $123.58 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:16 | Price: $123.58 | Mkt Cap: $7B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

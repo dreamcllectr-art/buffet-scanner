@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-04-18 05:45 | Price: $299.94 | Mkt Cap: $31B*
+*Generated: 2026-04-19 06:03 | Price: $299.94 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -16% — ABSENT ($300 > IV $253 at 25x for 25% growth)
+- **Margin of Safety**: -13% — ABSENT ($300 > IV $260 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

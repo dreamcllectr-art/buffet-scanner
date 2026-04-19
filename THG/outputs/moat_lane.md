@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: THG
-*Generated: 2026-04-18 05:54 | Price: $181.85 | Mkt Cap: $6B*
+*Generated: 2026-04-19 06:16 | Price: $181.85 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 103% — PRESENT (IV $370 vs $182 at 20x)
+- **Margin of Safety**: 99% — PRESENT (IV $362 vs $182 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRMB
-*Generated: 2026-04-18 05:55 | Price: $20.89 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:11 | Price: $20.89 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -79% — ABSENT ($21 > IV $4 at 20x for 11% growth)
+- **Margin of Safety**: -80% — ABSENT ($21 > IV $4 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

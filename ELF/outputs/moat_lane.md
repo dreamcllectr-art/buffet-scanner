@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELF
-*Generated: 2026-04-18 05:55 | Price: $66.82 | Mkt Cap: $4B*
+*Generated: 2026-04-19 06:12 | Price: $66.82 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,7 +23,7 @@ Consumer Defensive / Household & Personal Products
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 10.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 61% (pricing power for Consumer Defensive) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 62.9% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 61% vs sector strong cutoff 45% — strong pricing power; Operating margin 14%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.1x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

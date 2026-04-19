@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPR
-*Generated: 2026-04-18 05:55 | Price: $56.68 | Mkt Cap: $4B*
+*Generated: 2026-04-19 06:12 | Price: $56.68 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

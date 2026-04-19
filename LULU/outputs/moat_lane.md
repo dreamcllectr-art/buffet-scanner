@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-04-18 05:48 | Price: $167.28 | Mkt Cap: $20B*
+*Generated: 2026-04-19 06:05 | Price: $167.28 | Mkt Cap: $20B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: 22% — thin (IV $204 at 15x)
+- **Margin of Safety**: 19% — thin (IV $199 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

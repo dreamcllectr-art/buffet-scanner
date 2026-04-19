@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRBR
-*Generated: 2026-04-18 05:59 | Price: $16.14 | Mkt Cap: $2B*
+*Generated: 2026-04-19 06:13 | Price: $16.14 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -20,14 +20,14 @@ Consumer Defensive / Packaged Foods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 41.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 81% (severe cyclicality); FCF/NI: 88% (strong); Gross margin: 32% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
+| Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 41.0% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 88% (strong); Gross margin: 32% | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); No insider transaction data; Restricted stock: 7.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Consumer Defensive; Operating margin 15% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%) | - |
-| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
+| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
-## Buffett Score: 6.8 / 10
-## Alpha Adjustment: +0.18
+## Buffett Score: 7.3 / 10
+## Alpha Adjustment: +0.23
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -37,18 +37,18 @@ Consumer Defensive / Packaged Foods
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
 - **Margin of Safety**: 35% — PRESENT (IV $22 vs $16 at 15x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: high quality, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.18 applied to composite alpha score
+Buffett Premium: +0.23 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

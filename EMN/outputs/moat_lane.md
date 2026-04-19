@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMN
-*Generated: 2026-04-18 05:53 | Price: $73.78 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:15 | Price: $73.78 | Mkt Cap: $8B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

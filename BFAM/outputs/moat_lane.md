@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BFAM
-*Generated: 2026-04-18 05:55 | Price: $84.76 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:11 | Price: $84.76 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services

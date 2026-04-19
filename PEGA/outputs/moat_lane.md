@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEGA
-*Generated: 2026-04-18 05:55 | Price: $43.61 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:12 | Price: $43.61 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Software - Application

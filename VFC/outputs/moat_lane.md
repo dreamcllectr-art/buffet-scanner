@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VFC
-*Generated: 2026-04-18 05:54 | Price: $21.0 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:16 | Price: $21.0 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -30% — ABSENT ($21 > IV $15 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($21 > IV $14 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

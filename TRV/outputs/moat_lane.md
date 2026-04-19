@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRV
-*Generated: 2026-04-18 05:50 | Price: $300.81 | Mkt Cap: $64B*
+*Generated: 2026-04-19 06:14 | Price: $300.81 | Mkt Cap: $64B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 12.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 19% (stable); FCF/NI: 209% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 25% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 81%; Owner earnings yield: 21.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 81%; Owner earnings yield: 20.8% (>5%) | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

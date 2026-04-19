@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBS
-*Generated: 2026-04-18 05:59 | Price: $222.49 | Mkt Cap: $12B*
+*Generated: 2026-04-19 06:09 | Price: $222.49 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Software - Application

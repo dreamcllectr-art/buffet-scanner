@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRB
-*Generated: 2026-04-18 05:55 | Price: $32.16 | Mkt Cap: $4B*
+*Generated: 2026-04-19 06:12 | Price: $32.16 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: 168% — PRESENT (IV $86 vs $32 at 20x)
+- **Margin of Safety**: 166% — PRESENT (IV $86 vs $32 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-04-18 05:54 | Price: $53.44 | Mkt Cap: $9B*
+*Generated: 2026-04-19 06:16 | Price: $53.44 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -69% — ABSENT ($53 > IV $17 at 25x for 25% growth)
+- **Margin of Safety**: -70% — ABSENT ($53 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

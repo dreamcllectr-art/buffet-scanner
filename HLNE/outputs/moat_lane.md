@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLNE
-*Generated: 2026-04-18 05:55 | Price: $106.78 | Mkt Cap: $6B*
+*Generated: 2026-04-19 06:12 | Price: $106.78 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.3% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MANH
-*Generated: 2026-04-18 05:53 | Price: $132.71 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:16 | Price: $132.71 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -45% — ABSENT ($133 > IV $74 at 20x for 10% growth)
+- **Margin of Safety**: -46% — ABSENT ($133 > IV $72 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BOKF
-*Generated: 2026-04-18 05:56 | Price: $138.12 | Mkt Cap: $8B*
+*Generated: 2026-04-19 06:12 | Price: $138.12 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 10.1%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 350% (strong); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 63.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 69.4% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 10% — adequate (Financial Services); Operating margin 39% — durable for Financial Services | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.4x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10

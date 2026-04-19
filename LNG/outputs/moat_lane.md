@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNG
-*Generated: 2026-04-18 05:50 | Price: $251.07 | Mkt Cap: $53B*
+*Generated: 2026-04-19 06:15 | Price: $251.07 | Mkt Cap: $53B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -21,7 +21,7 @@ Energy / Oil & Gas Midstream
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 25.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 204% (strong); Gross margin: 53% (pricing power for Energy) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 30% — strong pricing power; Operating margin 76% — durable for Energy | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 57%; Owner earnings yield: 5.0% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |

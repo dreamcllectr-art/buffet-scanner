@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAST
-*Generated: 2026-04-18 05:46 | Price: $45.78 | Mkt Cap: $53B*
+*Generated: 2026-04-19 06:04 | Price: $45.78 | Mkt Cap: $53B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,7 +23,7 @@ Industrials / Industrial Distribution
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 32.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 86% (strong); Gross margin: 45% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 33.7x — expensive; 52w range position: 58%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 33.6x — expensive; 52w range position: 58%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

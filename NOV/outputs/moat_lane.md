@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOV
-*Generated: 2026-04-18 05:54 | Price: $19.1 | Mkt Cap: $7B*
+*Generated: 2026-04-19 06:16 | Price: $19.1 | Mkt Cap: $7B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVST
-*Generated: 2026-04-18 05:55 | Price: $27.84 | Mkt Cap: $5B*
+*Generated: 2026-04-19 06:12 | Price: $27.84 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -74% — ABSENT ($28 > IV $7 at 25x for 25% growth)
+- **Margin of Safety**: -75% — ABSENT ($28 > IV $7 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

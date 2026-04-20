@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RKLB
-*Generated: 2026-04-19 06:15 | Price: $84.8 | Mkt Cap: $49B*
+*Generated: 2026-04-20 06:34 | Price: $84.8 | Mkt Cap: $49B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

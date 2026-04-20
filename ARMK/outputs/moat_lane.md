@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARMK
-*Generated: 2026-04-19 06:09 | Price: $45.25 | Mkt Cap: $12B*
+*Generated: 2026-04-20 06:28 | Price: $45.25 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Specialty Business Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABT
-*Generated: 2026-04-19 06:02 | Price: $96.81 | Mkt Cap: $168B*
+*Generated: 2026-04-20 06:21 | Price: $96.81 | Mkt Cap: $168B*
 
 ## Sector Context
 Healthcare / Medical Devices

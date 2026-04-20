@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MHK
-*Generated: 2026-04-19 06:11 | Price: $108.83 | Mkt Cap: $7B*
+*Generated: 2026-04-20 06:30 | Price: $108.83 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances

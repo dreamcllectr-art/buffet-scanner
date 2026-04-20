@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FFIV
-*Generated: 2026-04-19 06:04 | Price: $310.87 | Mkt Cap: $18B*
+*Generated: 2026-04-20 06:23 | Price: $310.87 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Software - Infrastructure

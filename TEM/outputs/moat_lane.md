@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEM
-*Generated: 2026-04-19 06:11 | Price: $55.87 | Mkt Cap: $10B*
+*Generated: 2026-04-20 06:30 | Price: $55.87 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Health Information Services

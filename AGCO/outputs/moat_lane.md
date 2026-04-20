@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGCO
-*Generated: 2026-04-19 06:16 | Price: $118.6 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:35 | Price: $118.6 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery

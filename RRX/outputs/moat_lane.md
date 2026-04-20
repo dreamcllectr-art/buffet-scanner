@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RRX
-*Generated: 2026-04-19 06:09 | Price: $205.4 | Mkt Cap: $14B*
+*Generated: 2026-04-20 06:28 | Price: $205.4 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

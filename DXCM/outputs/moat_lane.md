@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DXCM
-*Generated: 2026-04-19 06:04 | Price: $63.98 | Mkt Cap: $25B*
+*Generated: 2026-04-20 06:23 | Price: $63.98 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Medical Devices

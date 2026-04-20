@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGM
-*Generated: 2026-04-19 06:11 | Price: $40.0 | Mkt Cap: $7B*
+*Generated: 2026-04-20 06:30 | Price: $40.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Semiconductors

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REXR
-*Generated: 2026-04-19 06:15 | Price: $37.01 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:34 | Price: $37.01 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

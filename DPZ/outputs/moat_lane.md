@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DPZ
-*Generated: 2026-04-19 06:04 | Price: $372.06 | Mkt Cap: $13B*
+*Generated: 2026-04-20 06:23 | Price: $372.06 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.6% inst.) as insider
 

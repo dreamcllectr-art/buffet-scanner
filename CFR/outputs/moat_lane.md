@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFR
-*Generated: 2026-04-19 06:15 | Price: $143.33 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:34 | Price: $143.33 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Aristotle Capital Management, LLC (8.0% inst.) as insider
 

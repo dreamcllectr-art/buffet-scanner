@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAVA
-*Generated: 2026-04-19 06:10 | Price: $94.78 | Mkt Cap: $11B*
+*Generated: 2026-04-20 06:28 | Price: $94.78 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.1% inst.) as insider
 

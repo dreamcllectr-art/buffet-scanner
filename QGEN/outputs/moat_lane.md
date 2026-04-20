@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QGEN
-*Generated: 2026-04-19 06:15 | Price: $41.24 | Mkt Cap: $8B*
+*Generated: 2026-04-20 06:34 | Price: $41.24 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

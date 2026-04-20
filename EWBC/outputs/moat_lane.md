@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EWBC
-*Generated: 2026-04-19 06:08 | Price: $118.02 | Mkt Cap: $16B*
+*Generated: 2026-04-20 06:27 | Price: $118.02 | Mkt Cap: $16B*
 
 ## Sector Context
 Financial Services / Banks - Regional

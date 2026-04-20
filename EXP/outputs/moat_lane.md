@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXP
-*Generated: 2026-04-19 06:16 | Price: $201.28 | Mkt Cap: $6B*
+*Generated: 2026-04-20 06:35 | Price: $201.28 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Building Materials

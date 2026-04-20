@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NNN
-*Generated: 2026-04-19 06:15 | Price: $45.14 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:34 | Price: $45.14 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Retail

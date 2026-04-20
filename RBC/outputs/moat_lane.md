@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBC
-*Generated: 2026-04-19 06:15 | Price: $589.77 | Mkt Cap: $19B*
+*Generated: 2026-04-20 06:27 | Price: $589.77 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Tools & Accessories

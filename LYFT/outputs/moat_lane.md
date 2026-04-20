@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYFT
-*Generated: 2026-04-18 05:54 | Price: $14.95 | Mkt Cap: $6B*
+*Generated: 2026-04-20 06:30 | Price: $14.95 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -28.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 87% (severe cyclicality); FCF/NI: 874% (strong); Gross margin: 34% (below Technology norm) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.0% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin -11% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 20.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |

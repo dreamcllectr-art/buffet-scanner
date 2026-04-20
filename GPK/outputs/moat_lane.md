@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPK
-*Generated: 2026-04-19 06:12 | Price: $9.84 | Mkt Cap: $3B*
+*Generated: 2026-04-20 06:31 | Price: $9.84 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DRI
-*Generated: 2026-04-19 06:04 | Price: $201.07 | Mkt Cap: $23B*
+*Generated: 2026-04-20 06:23 | Price: $201.07 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TNL
-*Generated: 2026-04-19 06:11 | Price: $78.33 | Mkt Cap: $5B*
+*Generated: 2026-04-20 06:30 | Price: $78.33 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALK
-*Generated: 2026-04-19 06:12 | Price: $45.4 | Mkt Cap: $5B*
+*Generated: 2026-04-20 06:30 | Price: $45.4 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Airlines

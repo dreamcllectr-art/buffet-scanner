@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLI
-*Generated: 2026-04-19 06:10 | Price: $162.5 | Mkt Cap: $11B*
+*Generated: 2026-04-20 06:34 | Price: $162.5 | Mkt Cap: $11B*
 
 ## Sector Context
 Financial Services / Capital Markets

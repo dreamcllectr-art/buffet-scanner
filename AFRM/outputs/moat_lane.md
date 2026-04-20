@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFRM
-*Generated: 2026-04-19 06:08 | Price: $64.5 | Mkt Cap: $21B*
+*Generated: 2026-04-20 06:27 | Price: $64.5 | Mkt Cap: $21B*
 
 ## Sector Context
 Financial Services / Credit Services

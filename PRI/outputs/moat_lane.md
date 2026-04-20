@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRI
-*Generated: 2026-04-19 06:10 | Price: $272.89 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:34 | Price: $272.89 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Insurance - Life

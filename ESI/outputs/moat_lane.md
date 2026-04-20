@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESI
-*Generated: 2026-04-19 06:15 | Price: $39.02 | Mkt Cap: $10B*
+*Generated: 2026-04-20 06:34 | Price: $39.02 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (7.1% inst.) as insider
 

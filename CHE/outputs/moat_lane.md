@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHE
-*Generated: 2026-04-19 06:11 | Price: $384.61 | Mkt Cap: $5B*
+*Generated: 2026-04-20 06:30 | Price: $384.61 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

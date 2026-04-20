@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KRMN
-*Generated: 2026-04-19 06:12 | Price: $83.58 | Mkt Cap: $11B*
+*Generated: 2026-04-20 06:30 | Price: $83.58 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.0% inst.) as insider
 

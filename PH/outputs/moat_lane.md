@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PH
-*Generated: 2026-04-19 06:06 | Price: $988.8 | Mkt Cap: $125B*
+*Generated: 2026-04-20 06:25 | Price: $988.8 | Mkt Cap: $125B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

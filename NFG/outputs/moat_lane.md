@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFG
-*Generated: 2026-04-19 06:15 | Price: $87.51 | Mkt Cap: $8B*
+*Generated: 2026-04-20 06:34 | Price: $87.51 | Mkt Cap: $8B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated

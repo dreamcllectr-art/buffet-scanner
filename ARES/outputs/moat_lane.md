@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARES
-*Generated: 2026-04-19 06:03 | Price: $117.78 | Mkt Cap: $39B*
+*Generated: 2026-04-20 06:22 | Price: $117.78 | Mkt Cap: $39B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.8% inst.) as insider
 

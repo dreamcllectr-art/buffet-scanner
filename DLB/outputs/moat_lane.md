@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLB
-*Generated: 2026-04-19 06:12 | Price: $64.64 | Mkt Cap: $6B*
+*Generated: 2026-04-20 06:31 | Price: $64.64 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Specialty Business Services

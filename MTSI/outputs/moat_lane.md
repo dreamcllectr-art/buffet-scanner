@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTSI
-*Generated: 2026-04-19 06:08 | Price: $276.97 | Mkt Cap: $21B*
+*Generated: 2026-04-20 06:27 | Price: $276.97 | Mkt Cap: $21B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (10.0% inst.) as insider
 

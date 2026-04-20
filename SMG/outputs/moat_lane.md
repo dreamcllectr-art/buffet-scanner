@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMG
-*Generated: 2026-04-19 06:12 | Price: $66.04 | Mkt Cap: $4B*
+*Generated: 2026-04-20 06:31 | Price: $66.04 | Mkt Cap: $4B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs

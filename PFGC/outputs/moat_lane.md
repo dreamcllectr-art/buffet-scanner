@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFGC
-*Generated: 2026-04-19 06:09 | Price: $93.5 | Mkt Cap: $15B*
+*Generated: 2026-04-20 06:27 | Price: $93.5 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution

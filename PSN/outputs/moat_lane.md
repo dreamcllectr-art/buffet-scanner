@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSN
-*Generated: 2026-04-19 06:12 | Price: $55.75 | Mkt Cap: $6B*
+*Generated: 2026-04-20 06:31 | Price: $55.75 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Information Technology Services

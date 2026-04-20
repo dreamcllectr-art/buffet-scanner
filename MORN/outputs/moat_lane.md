@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MORN
-*Generated: 2026-04-19 06:12 | Price: $184.28 | Mkt Cap: $7B*
+*Generated: 2026-04-20 06:30 | Price: $184.28 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -21,7 +21,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.1/10 | 30% | 1.5 | Avg ROIC: 12.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 57% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 45.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.9% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 26% — strong franchise (Financial Services); Operating margin 22% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 6.1% (>5%) | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |

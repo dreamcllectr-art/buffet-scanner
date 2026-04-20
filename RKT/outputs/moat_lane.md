@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RKT
-*Generated: 2026-04-19 06:09 | Price: $16.63 | Mkt Cap: $47B*
+*Generated: 2026-04-20 06:27 | Price: $16.63 | Mkt Cap: $47B*
 
 ## Sector Context
 Financial Services / Mortgage Finance

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JHX
-*Generated: 2026-04-19 06:12 | Price: $21.75 | Mkt Cap: $13B*
+*Generated: 2026-04-20 06:31 | Price: $21.75 | Mkt Cap: $13B*
 
 ## Sector Context
 Basic Materials / Building Materials

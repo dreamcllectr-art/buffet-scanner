@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BC
-*Generated: 2026-04-19 06:11 | Price: $81.23 | Mkt Cap: $5B*
+*Generated: 2026-04-20 06:30 | Price: $81.23 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles

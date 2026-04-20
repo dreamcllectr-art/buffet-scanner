@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-04-19 06:03 | Price: $183.99 | Mkt Cap: $366B*
+*Generated: 2026-04-20 06:22 | Price: $183.99 | Mkt Cap: $366B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.2% inst.) as insider
 

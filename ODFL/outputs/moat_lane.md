@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-04-19 06:06 | Price: $217.76 | Mkt Cap: $46B*
+*Generated: 2026-04-20 06:25 | Price: $217.76 | Mkt Cap: $46B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.0% inst.) as insider
 

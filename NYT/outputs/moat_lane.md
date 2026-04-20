@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NYT
-*Generated: 2026-04-19 06:09 | Price: $79.48 | Mkt Cap: $13B*
+*Generated: 2026-04-20 06:28 | Price: $79.48 | Mkt Cap: $13B*
 
 ## Sector Context
 Communication Services / Publishing

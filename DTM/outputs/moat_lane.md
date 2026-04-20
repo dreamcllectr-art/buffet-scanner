@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTM
-*Generated: 2026-04-19 06:09 | Price: $134.24 | Mkt Cap: $14B*
+*Generated: 2026-04-20 06:28 | Price: $134.24 | Mkt Cap: $14B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

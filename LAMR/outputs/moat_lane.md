@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LAMR
-*Generated: 2026-04-19 06:09 | Price: $135.04 | Mkt Cap: $14B*
+*Generated: 2026-04-20 06:28 | Price: $135.04 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

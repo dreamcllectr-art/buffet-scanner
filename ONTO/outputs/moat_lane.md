@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ONTO
-*Generated: 2026-04-19 06:09 | Price: $290.76 | Mkt Cap: $14B*
+*Generated: 2026-04-20 06:27 | Price: $290.76 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

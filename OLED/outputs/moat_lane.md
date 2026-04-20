@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLED
-*Generated: 2026-04-19 06:12 | Price: $99.55 | Mkt Cap: N/A*
+*Generated: 2026-04-20 06:30 | Price: $99.55 | Mkt Cap: N/A*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
 

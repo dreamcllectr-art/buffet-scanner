@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCCO
-*Generated: 2026-04-19 06:08 | Price: $194.32 | Mkt Cap: $161B*
+*Generated: 2026-04-20 06:27 | Price: $194.32 | Mkt Cap: $161B*
 
 ## Sector Context
 Basic Materials / Copper

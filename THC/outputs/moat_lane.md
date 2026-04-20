@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: THC
-*Generated: 2026-04-19 06:08 | Price: $196.64 | Mkt Cap: $17B*
+*Generated: 2026-04-20 06:27 | Price: $196.64 | Mkt Cap: $17B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

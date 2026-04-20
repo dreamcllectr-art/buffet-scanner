@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VKTX
-*Generated: 2026-04-19 06:12 | Price: $35.2 | Mkt Cap: $4B*
+*Generated: 2026-04-20 06:31 | Price: $35.2 | Mkt Cap: $4B*
 
 ## Sector Context
 Healthcare / Biotechnology

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMI
-*Generated: 2026-04-19 06:04 | Price: $627.18 | Mkt Cap: $87B*
+*Generated: 2026-04-20 06:23 | Price: $627.18 | Mkt Cap: $87B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

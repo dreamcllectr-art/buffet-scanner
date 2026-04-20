@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MUSA
-*Generated: 2026-04-19 06:10 | Price: $491.13 | Mkt Cap: $9B*
+*Generated: 2026-04-20 06:34 | Price: $491.13 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 

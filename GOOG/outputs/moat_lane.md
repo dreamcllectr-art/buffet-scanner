@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-04-19 06:02 | Price: $339.4 | Mkt Cap: $4106B*
+*Generated: 2026-04-20 06:22 | Price: $339.4 | Mkt Cap: $4106B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (7.7% inst.) as insider
 

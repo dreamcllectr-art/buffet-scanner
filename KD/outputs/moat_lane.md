@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KD
-*Generated: 2026-04-19 06:12 | Price: $14.4 | Mkt Cap: $3B*
+*Generated: 2026-04-20 06:31 | Price: $14.4 | Mkt Cap: $3B*
 
 ## Sector Context
 Technology / Information Technology Services

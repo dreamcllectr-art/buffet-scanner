@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNG
-*Generated: 2026-04-19 06:15 | Price: $251.07 | Mkt Cap: $53B*
+*Generated: 2026-04-20 06:34 | Price: $251.07 | Mkt Cap: $53B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

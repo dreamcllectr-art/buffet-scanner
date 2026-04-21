@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGM
-*Generated: 2026-04-20 06:30 | Price: $40.0 | Mkt Cap: $7B*
+*Generated: 2026-04-21 06:20 | Price: $40.65 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 139% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 35% (weak conversion); Gross margin: 45% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 33.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 33.1% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Technology; Operating margin 4% — thin for Technology; Rev growth 29% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 41.4x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.1x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

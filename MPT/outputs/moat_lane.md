@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPT
-*Generated: 2026-04-19 06:12 | Price: $5.23 | Mkt Cap: $3B*
+*Generated: 2026-04-21 06:16 | Price: $5.26 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -23,7 +23,7 @@ Real Estate / REIT - Healthcare Facilities
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 367% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -26% (weak conversion); Gross margin: 96% (pricing power for Real Estate) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.9% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 96% vs sector strong cutoff 55% — strong pricing power; Operating margin 66% — durable for Real Estate; Rev growth 25% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 38.7x — expensive; 52w range position: 51%; Owner earnings yield: 27.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 39.0x — expensive; 52w range position: 52%; Owner earnings yield: 27.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFX
-*Generated: 2026-04-20 06:30 | Price: $131.58 | Mkt Cap: $6B*
+*Generated: 2026-04-21 06:14 | Price: $131.95 | Mkt Cap: $6B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 349% from prior peak; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 240% (strong); Gross margin: 56% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 41% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 81%; Owner earnings yield: 0.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 82%; Owner earnings yield: 0.2% | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

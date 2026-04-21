@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAM
-*Generated: 2026-04-20 06:27 | Price: $49.32 | Mkt Cap: $81B*
+*Generated: 2026-04-21 06:12 | Price: $49.05 | Mkt Cap: $80B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 33.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: -450% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 79.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 22% — strong franchise (Financial Services); Operating margin 68% — durable for Financial Services; Rev growth 31% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.4x — growth premium; 52w range position: 33%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.3x — growth premium; 52w range position: 31%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TOST
-*Generated: 2026-04-20 06:28 | Price: $29.08 | Mkt Cap: $17B*
+*Generated: 2026-04-21 06:18 | Price: $29.18 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (8.7% inst.) as insider
 

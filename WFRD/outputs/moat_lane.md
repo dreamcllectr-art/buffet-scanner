@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WFRD
-*Generated: 2026-04-20 06:35 | Price: $102.36 | Mkt Cap: $7B*
+*Generated: 2026-04-21 06:14 | Price: $100.13 | Mkt Cap: $7B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -23,7 +23,7 @@ Energy / Oil & Gas Equipment & Services
 | Quality | 6.5/10 | 30% | 1.9 | Avg ROIC: 18.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 71% (severe cyclicality); FCF/NI: 296% (strong); Gross margin: 31% (pricing power for Energy) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 31% vs sector strong cutoff 30% — strong pricing power; Operating margin 16% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 5.3% (>5%) | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: 45% — PRESENT (IV $148 vs $102 at 25x)
+- **Margin of Safety**: 48% — PRESENT (IV $148 vs $100 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

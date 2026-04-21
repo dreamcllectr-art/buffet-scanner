@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNOW
-*Generated: 2026-04-20 06:34 | Price: $143.98 | Mkt Cap: $50B*
+*Generated: 2026-04-21 06:11 | Price: $150.44 | Mkt Cap: $52B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -17.1% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 73% (severe cyclicality); FCF/NI: -76% (weak conversion); Gross margin: 67% (pricing power for Technology) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 60% — strong pricing power; Operating margin -33% — thin for Technology; Rev growth 30% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 59.3x — extreme premium; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 61.8x — extreme premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

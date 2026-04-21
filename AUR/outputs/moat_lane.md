@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AUR
-*Generated: 2026-04-18 05:54 | Price: $5.27 | Mkt Cap: $10B*
+*Generated: 2026-04-21 06:14 | Price: $5.22 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -21,9 +21,9 @@ Technology / Information Technology Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -33.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 67%; Gross margin: 0% (below Technology norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 24.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 24.3% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 24.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 24.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Technology moderate cutoff 40%; Operating margin -23800% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.7x — deep value; 52w range position: 36% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.6x — deep value; 52w range position: 35% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGO
-*Generated: 2026-04-20 06:31 | Price: $84.8 | Mkt Cap: $4B*
+*Generated: 2026-04-21 06:20 | Price: $83.38 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified Dimensional Fund Advisors LP (7.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Insurance - Specialty
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 49% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: -468% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 10% — weak (Financial Services); Operating margin 12% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 44%; Owner earnings yield: 10.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 34%; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: 202% — PRESENT (IV $256 vs $85 at 25x)
+- **Margin of Safety**: 208% — PRESENT (IV $256 vs $83 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

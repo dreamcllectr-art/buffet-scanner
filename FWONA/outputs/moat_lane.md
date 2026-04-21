@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONA
-*Generated: 2026-04-18 06:00 | Price: $83.26 | Mkt Cap: $23B*
+*Generated: 2026-04-21 06:16 | Price: $82.81 | Mkt Cap: $23B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 371% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 94% (strong); Gross margin: 34% (below Communication Services norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -911.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Communication Services moderate cutoff 40%; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.1x — growth premium; 52w range position: 37%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 35%; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

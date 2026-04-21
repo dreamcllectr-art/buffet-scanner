@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVT
-*Generated: 2026-04-20 06:30 | Price: $73.85 | Mkt Cap: $6B*
+*Generated: 2026-04-21 06:14 | Price: $74.32 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -23,7 +23,7 @@ Technology / Electronics & Computer Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 44% (weak conversion); Gross margin: 11% (below Technology norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.4x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.8% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.5x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.8% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

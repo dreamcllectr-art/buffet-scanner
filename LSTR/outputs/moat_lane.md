@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LSTR
-*Generated: 2026-04-18 05:54 | Price: $172.87 | Mkt Cap: $6B*
+*Generated: 2026-04-21 06:14 | Price: $177.53 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 25.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 73% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 149% (strong); Gross margin: 19% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.8x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.5x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -71% — ABSENT ($173 > IV $50 at 15x for -46% growth)
+- **Margin of Safety**: -72% — ABSENT ($178 > IV $50 at 15x for -46% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

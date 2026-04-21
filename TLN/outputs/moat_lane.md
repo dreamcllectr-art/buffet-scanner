@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TLN
-*Generated: 2026-04-20 06:27 | Price: $365.35 | Mkt Cap: $17B*
+*Generated: 2026-04-21 06:12 | Price: $346.26 | Mkt Cap: $16B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -23,7 +23,7 @@ Utilities / Utilities - Independent Power Producers
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 12.8% (2y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 122% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: -39% (weak conversion); Gross margin: 38% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.5% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 38% — moderate moat for Utilities; Operating margin -36% — thin for Utilities; Rev growth 58% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 68%; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 59%; Owner earnings yield: 6.9% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

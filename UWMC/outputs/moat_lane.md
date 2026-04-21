@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UWMC
-*Generated: 2026-04-18 06:00 | Price: $3.92 | Mkt Cap: $6B*
+*Generated: 2026-04-21 06:16 | Price: $3.98 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -23,7 +23,7 @@ Financial Services / Mortgage Finance
 | Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 13.4%; Earnings: 1 down-year in 3 transitions; NI drawdown: 132% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: -8710% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.8% (>10%); No insider transaction data; Restricted stock: 17.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 13% — adequate (Financial Services); Operating margin 31% — durable for Financial Services; Rev growth 301% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 29.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 28.6% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Mortgage Finance
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Mortgage Finance
-- **Margin of Safety**: -23% — ABSENT ($4 > IV $3 at 25x for 25% growth)
+- **Margin of Safety**: -25% — ABSENT ($4 > IV $3 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 15.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

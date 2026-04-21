@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RARE
-*Generated: 2026-04-19 06:13 | Price: $24.81 | Mkt Cap: $2B*
+*Generated: 2026-04-21 06:16 | Price: $25.06 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -153.2% (3y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 80% (strong); Gross margin: -28% (below Healthcare norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin -28% — below Healthcare moderate cutoff 35%; Operating margin -55% — thin for Healthcare; Rev growth 26% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 306.6x — extreme premium; Near 52w low (27% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 309.7x — extreme premium; Near 52w low (28% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
 ## Buffett Score: 2.9 / 10

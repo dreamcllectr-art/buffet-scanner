@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAX
-*Generated: 2026-04-20 06:22 | Price: $18.71 | Mkt Cap: $10B*
+*Generated: 2026-04-21 06:07 | Price: $18.84 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 136% from prior peak; 5y price drawdown: 81% (severe cyclicality); FCF/NI: -24% (weak conversion); Gross margin: 36% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 36% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 25.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 25.0% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

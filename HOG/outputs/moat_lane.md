@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOG
-*Generated: 2026-04-19 06:12 | Price: $23.49 | Mkt Cap: $3B*
+*Generated: 2026-04-21 06:16 | Price: $23.95 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles
@@ -23,7 +23,7 @@ Consumer Cyclical / Recreational Vehicles
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 54% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 111% (strong); Gross margin: 30% (below Consumer Cyclical norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin -70% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 45% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 48%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Recreational Vehicles
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Recreational Vehicles
-- **Margin of Safety**: 78% — PRESENT (IV $42 vs $23 at 15x)
+- **Margin of Safety**: 74% — PRESENT (IV $42 vs $24 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral

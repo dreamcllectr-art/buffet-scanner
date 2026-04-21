@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIRT
-*Generated: 2026-04-20 06:30 | Price: $50.65 | Mkt Cap: $11B*
+*Generated: 2026-04-21 06:20 | Price: $50.56 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (5.6% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 153% — PRESENT (IV $128 vs $51 at 25x)
+- **Margin of Safety**: 154% — PRESENT (IV $128 vs $51 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

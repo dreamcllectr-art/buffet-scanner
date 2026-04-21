@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: V
-*Generated: 2026-04-20 06:33 | Price: $317.02 | Mkt Cap: $611B*
+*Generated: 2026-04-21 06:18 | Price: $313.94 | Mkt Cap: $605B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -20,13 +20,13 @@ Financial Services / Credit Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Fallback ROE: 54.0%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.6B (0.6%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: -3.5% (low) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 30.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 29% (stable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.5B (0.6%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: -3.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 54% — strong franchise (Financial Services); Operating margin 68% — durable for Financial Services | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.8x — growth premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.6x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
-## Buffett Score: 8.1 / 10
+## Buffett Score: 8.2 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -33% — ABSENT ($317 > IV $213 at 20x for 17% growth)
+- **Margin of Safety**: -32% — ABSENT ($314 > IV $213 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

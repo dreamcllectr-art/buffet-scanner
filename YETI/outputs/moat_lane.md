@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YETI
-*Generated: 2026-04-20 06:31 | Price: $41.17 | Mkt Cap: $3B*
+*Generated: 2026-04-21 06:20 | Price: $41.37 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -36,7 +36,7 @@ Consumer Cyclical / Leisure
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Leisure
-- **Margin of Safety**: -1% — ABSENT ($41 > IV $41 at 20x for 19% growth)
+- **Margin of Safety**: -2% — ABSENT ($41 > IV $41 at 20x for 19% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

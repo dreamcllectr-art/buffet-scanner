@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOPE
-*Generated: 2026-04-20 06:30 | Price: $174.92 | Mkt Cap: $5B*
+*Generated: 2026-04-21 06:20 | Price: $174.72 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Defensive / Education & Training Services
@@ -20,10 +20,10 @@ Consumer Defensive / Education & Training Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 29.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 38% (stable); FCF/NI: 105% (strong); Gross margin: 53% (pricing power for Consumer Defensive) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 29.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 105% (strong); Gross margin: 53% (pricing power for Consumer Defensive) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 35% — durable for Consumer Defensive | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 35%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 34%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PVH
-*Generated: 2026-04-20 06:30 | Price: $94.17 | Mkt Cap: $4B*
+*Generated: 2026-04-21 06:20 | Price: $98.38 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -21,9 +21,9 @@ Consumer Cyclical / Apparel Manufacturing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 96% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 552% (strong); Gross margin: 58% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 11.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 11.2% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -91% — ABSENT ($94 > IV $9 at 17x for 6% growth)
+- **Margin of Safety**: -91% — ABSENT ($98 > IV $9 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

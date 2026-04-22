@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NLY
-*Generated: 2026-04-21 06:12 | Price: $22.65 | Mkt Cap: $16B*
+*Generated: 2026-04-22 06:12 | Price: $22.6 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -23,7 +23,7 @@ Real Estate / REIT - Mortgage
 | Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 14.2%; Earnings: 1 down-year in 3 transitions; NI drawdown: 195% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 92% (strong); Gross margin: 97% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 97% vs sector strong cutoff 55% — strong pricing power; Operating margin 94% — durable for Real Estate; Rev growth 114% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 72% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.7x — deep value; 52w range position: 68% | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10

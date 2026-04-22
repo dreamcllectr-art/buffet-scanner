@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHD
-*Generated: 2026-04-21 06:08 | Price: $96.55 | Mkt Cap: $23B*
+*Generated: 2026-04-22 06:06 | Price: $93.21 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,11 +23,11 @@ Consumer Defensive / Household & Personal Products
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 11.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 148% (strong); Gross margin: 45% (pricing power for Consumer Defensive) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.1x — growth premium; 52w range position: 62%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 23.3x — growth premium; 52w range position: 48%; Owner earnings yield: 5.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -53% — ABSENT ($97 > IV $45 at 15x for -21% growth)
+- **Margin of Safety**: -51% — ABSENT ($93 > IV $45 at 15x for -21% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: strong moat)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

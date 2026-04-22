@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXS
-*Generated: 2026-04-21 06:14 | Price: $101.78 | Mkt Cap: $8B*
+*Generated: 2026-04-22 06:14 | Price: $102.08 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Specialty
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 9.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 22% (stable); FCF/NI: 214% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.4% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 16% — strong franchise (Financial Services); Operating margin 20% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; 52w range position: 62% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; 52w range position: 63% | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10

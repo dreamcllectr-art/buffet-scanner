@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GFS
-*Generated: 2026-04-21 06:14 | Price: $58.76 | Mkt Cap: $32B*
+*Generated: 2026-04-22 06:14 | Price: $59.245 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,11 +23,11 @@ Technology / Semiconductors
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 118% from prior peak; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -75% (weak conversion); Gross margin: 25% (below Technology norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 80.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 25% — below Technology moderate cutoff 40%; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.8x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.0x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
-## Buffett Score: 2.8 / 10
-## Alpha Adjustment: -0.29
+## Buffett Score: 2.6 / 10
+## Alpha Adjustment: -0.30
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -59% — ABSENT ($59 > IV $24 at 15x for 0% growth)
+- **Margin of Safety**: -60% — ABSENT ($59 > IV $24 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.29 applied to composite alpha score
+Buffett Premium: -0.30 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

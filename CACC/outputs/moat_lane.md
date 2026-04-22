@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CACC
-*Generated: 2026-04-21 06:16 | Price: $542.71 | Mkt Cap: $6B*
+*Generated: 2026-04-22 06:16 | Price: $521.23 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,23 +23,23 @@ Financial Services / Credit Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 54% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 339% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 49.6% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 26% — strong franchise (Financial Services); Operating margin 47% — durable for Financial Services | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.5x — deep value; Near 52w high (95% of range) — Mr. Market greedy | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 81% | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 1% — thin (IV $546 at 15x)
+- **Margin of Safety**: 5% — thin (IV $546 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 50.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

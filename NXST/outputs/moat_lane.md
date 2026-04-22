@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXST
-*Generated: 2026-04-21 06:14 | Price: $205.46 | Mkt Cap: $6B*
+*Generated: 2026-04-22 06:15 | Price: $206.0 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Dimensional Fund Advisors LP (4.6% inst.) as insider
 
@@ -38,7 +38,7 @@ Communication Services / Broadcasting
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Broadcasting
-- **Margin of Safety**: -78% — ABSENT ($205 > IV $46 at 15x for -13% growth)
+- **Margin of Safety**: -78% — ABSENT ($206 > IV $45 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

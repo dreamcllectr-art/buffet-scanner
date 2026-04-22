@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLI
-*Generated: 2026-04-21 06:18 | Price: $120.9 | Mkt Cap: $13B*
+*Generated: 2026-04-22 06:12 | Price: $134.72 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -20,14 +20,14 @@ Industrials / Metal Fabrication
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 28.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 28% (stable); FCF/NI: 98% (strong); Gross margin: 29% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 29% — moderate moat for Industrials; Operating margin 18% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 74%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 28.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 28% (stable); FCF/NI: 98% (strong); Gross margin: 30% | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 23% — durable for Industrials | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.1x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Industrials / Metal Fabrication
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Metal Fabrication
-- **Margin of Safety**: 13% — thin (IV $137 at 20x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: 42% — PRESENT (IV $191 vs $135 at 25x)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.15 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLM
-*Generated: 2026-04-21 06:20 | Price: $23.11 | Mkt Cap: $5B*
+*Generated: 2026-04-22 06:15 | Price: $22.79 | Mkt Cap: $5B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 32.3%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: -33% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 32% — strong franchise (Financial Services); Operating margin 67% — durable for Financial Services; Rev growth 68% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.1x — deep value; 52w range position: 31% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (29% of range) — Mr. Market fearful | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10
@@ -36,10 +36,10 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 274% — PRESENT (IV $86 vs $23 at 25x)
+- **Margin of Safety**: 280% — PRESENT (IV $86 vs $23 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth

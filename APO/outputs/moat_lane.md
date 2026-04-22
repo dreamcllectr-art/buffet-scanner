@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-04-21 06:07 | Price: $127.33 | Mkt Cap: $74B*
+*Generated: 2026-04-22 06:05 | Price: $127.26 | Mkt Cap: $74B*
 
 ## Sector Context
 Financial Services / Asset Management

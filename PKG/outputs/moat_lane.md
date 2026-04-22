@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PKG
-*Generated: 2026-04-21 06:10 | Price: $213.41 | Mkt Cap: $19B*
+*Generated: 2026-04-22 06:09 | Price: $210.53 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -23,7 +23,7 @@ Consumer Cyclical / Packaging & Containers
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 32% (stable); FCF/NI: 84% (strong); Gross margin: 22% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 51%; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.6x — fair price; 52w range position: 47%; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -40% — ABSENT ($213 > IV $129 at 15x for -56% growth)
+- **Margin of Safety**: -39% — ABSENT ($211 > IV $129 at 15x for -56% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NIQ
-*Generated: 2026-04-21 06:16 | Price: $11.84 | Mkt Cap: $3B*
+*Generated: 2026-04-22 06:17 | Price: $11.63 | Mkt Cap: $3B*
 
 ## Sector Context
  / 
@@ -23,7 +23,7 @@
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 37% (weak conversion); Gross margin: 0% (below  norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below  moderate cutoff 40%; Operating margin 0% — thin for  | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; Near 52w low (17% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; Near 52w low (15% of range) — Mr. Market fearful | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

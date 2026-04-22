@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESI
-*Generated: 2026-04-20 06:34 | Price: $39.02 | Mkt Cap: $10B*
+*Generated: 2026-04-22 06:13 | Price: $38.12 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (7.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 37% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 152% (strong); Gross margin: 42% (pricing power for Basic Materials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% vs sector strong cutoff 30% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.5x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.0x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -38,7 +38,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -70% — ABSENT ($39 > IV $12 at 15x for -89% growth)
+- **Margin of Safety**: -69% — ABSENT ($38 > IV $12 at 15x for -89% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

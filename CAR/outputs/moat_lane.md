@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAR
-*Generated: 2026-04-20 06:34 | Price: $493.86 | Mkt Cap: $17B*
+*Generated: 2026-04-22 06:13 | Price: $713.97 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,7 +23,7 @@ Industrials / Rental & Leasing Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 166% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 194% (strong); Gross margin: 24% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 71.3% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 70.3x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 96.8x — extreme premium; Near 52w high (92% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
 ## Buffett Score: 2.9 / 10

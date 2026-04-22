@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTN
-*Generated: 2026-04-21 06:20 | Price: $133.05 | Mkt Cap: $5B*
+*Generated: 2026-04-22 06:15 | Price: $132.68 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 1.2/10 | 30% | 0.4 | Avg ROIC: 11.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 34% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 137% (strong); Gross margin: 44% | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 32% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.3x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

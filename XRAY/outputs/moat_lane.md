@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XRAY
-*Generated: 2026-04-21 06:16 | Price: $12.79 | Mkt Cap: $3B*
+*Generated: 2026-04-22 06:16 | Price: $12.31 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: -65% (weak conversion); Gross margin: 50% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Healthcare; Operating margin 2% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; 52w range position: 40%; Owner earnings yield: 4.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 34%; Owner earnings yield: 4.3% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

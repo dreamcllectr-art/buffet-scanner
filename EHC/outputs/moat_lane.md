@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EHC
-*Generated: 2026-04-20 06:28 | Price: $106.39 | Mkt Cap: $11B*
+*Generated: 2026-04-22 06:13 | Price: $102.77 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -23,11 +23,11 @@ Healthcare / Medical Care Facilities
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 69%; Gross margin: 43% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Healthcare; Operating margin 18% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 39%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.9x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 30% — PRESENT (IV $139 vs $106 at 25x)
+- **Margin of Safety**: 35% — PRESENT (IV $139 vs $103 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPOT
-*Generated: 2026-04-21 06:11 | Price: $536.76 | Mkt Cap: $111B*
+*Generated: 2026-04-22 06:11 | Price: $522.44 | Mkt Cap: $108B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 4.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 76% (severe cyclicality); FCF/NI: 50% (weak conversion); Gross margin: 32% (below Communication Services norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Communication Services moderate cutoff 40%; Operating margin 15% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.9x — growth premium; 52w range position: 35%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.1x — growth premium; 52w range position: 31%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -42% — ABSENT ($537 > IV $310 at 25x for 25% growth)
+- **Margin of Safety**: -41% — ABSENT ($522 > IV $308 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 23.4% insider ownership
 - **Mr. Market**: Neutral

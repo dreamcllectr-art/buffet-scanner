@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EPAM
-*Generated: 2026-04-21 06:08 | Price: $131.9 | Mkt Cap: $7B*
+*Generated: 2026-04-22 06:07 | Price: $132.12 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 83% (severe cyclicality); FCF/NI: 124% (strong); Gross margin: 29% (below Technology norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 29% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 10.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 10.1% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

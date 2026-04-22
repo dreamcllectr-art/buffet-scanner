@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RHI
-*Generated: 2026-04-21 06:20 | Price: $28.02 | Mkt Cap: $3B*
+*Generated: 2026-04-22 06:16 | Price: $28.91 | Mkt Cap: $3B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services
@@ -23,7 +23,7 @@ Industrials / Staffing & Employment Services
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 22.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 145% (strong); Gross margin: 37% (pricing power for Industrials) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 5.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 5.6% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Industrials / Staffing & Employment Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Staffing & Employment Services
-- **Margin of Safety**: -29% — ABSENT ($28 > IV $20 at 15x for -40% growth)
+- **Margin of Safety**: -31% — ABSENT ($29 > IV $20 at 15x for -40% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

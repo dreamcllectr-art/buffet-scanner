@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLUT
-*Generated: 2026-04-21 06:12 | Price: $109.63 | Mkt Cap: $19B*
+*Generated: 2026-04-22 06:11 | Price: $109.5 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Gambling

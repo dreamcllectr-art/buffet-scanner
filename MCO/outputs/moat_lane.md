@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-04-21 06:09 | Price: $459.91 | Mkt Cap: $82B*
+*Generated: 2026-04-22 06:08 | Price: $459.59 | Mkt Cap: $82B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (13.9% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -26% — ABSENT ($460 > IV $342 at 25x for 25% growth)
+- **Margin of Safety**: -26% — ABSENT ($460 > IV $341 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXP
-*Generated: 2026-04-21 06:14 | Price: $206.05 | Mkt Cap: $7B*
+*Generated: 2026-04-22 06:14 | Price: $205.75 | Mkt Cap: $7B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -23,7 +23,7 @@ Basic Materials / Building Materials
 | Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 20.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 28% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 28% — moderate moat for Basic Materials; Operating margin 25% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 48%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.1x — fair price; 52w range position: 47%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

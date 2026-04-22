@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UBER
-*Generated: 2026-04-21 06:18 | Price: $77.49 | Mkt Cap: $159B*
+*Generated: 2026-04-22 06:10 | Price: $77.26 | Mkt Cap: $159B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -1.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 65% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 38% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 20% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.1x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.0x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

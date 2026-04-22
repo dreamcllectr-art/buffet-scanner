@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LECO
-*Generated: 2026-04-21 06:12 | Price: $259.47 | Mkt Cap: $14B*
+*Generated: 2026-04-22 06:12 | Price: $260.24 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -46% — ABSENT ($259 > IV $140 at 15x for -0% growth)
+- **Margin of Safety**: -46% — ABSENT ($260 > IV $140 at 15x for -0% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

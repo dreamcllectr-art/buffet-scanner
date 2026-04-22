@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WST
-*Generated: 2026-04-21 06:18 | Price: $278.0 | Mkt Cap: $20B*
+*Generated: 2026-04-22 06:10 | Price: $274.72 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -20,13 +20,13 @@ Healthcare / Medical Instruments & Supplies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: nan% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 74%; Gross margin: 36% | - |
+| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 16.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 74%; Gross margin: 36% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 36% — moderate moat for Healthcare; Operating margin 22% — durable for Healthcare | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.3x — expensive; 52w range position: 64%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.9x — expensive; 52w range position: 61%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -63% — ABSENT ($278 > IV $102 at 15x for 2% growth)
+- **Margin of Safety**: -63% — ABSENT ($275 > IV $102 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

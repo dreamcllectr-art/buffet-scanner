@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEGA
-*Generated: 2026-04-21 06:20 | Price: $43.8 | Mkt Cap: $7B*
+*Generated: 2026-04-22 06:16 | Price: $39.29 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 8.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 191% (strong); Gross margin: 76% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 46.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 7.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 8.6% (>5%) | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 22% — thin (IV $53 at 25x)
+- **Margin of Safety**: 36% — PRESENT (IV $53 vs $39 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 46.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

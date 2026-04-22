@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KBR
-*Generated: 2026-04-21 06:20 | Price: $36.46 | Mkt Cap: $5B*
+*Generated: 2026-04-22 06:15 | Price: $36.71 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -23,7 +23,7 @@ Industrials / Engineering & Construction
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 78%; Gross margin: 15% (below Industrials norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 6.4% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: 139% — PRESENT (IV $87 vs $36 at 25x)
+- **Margin of Safety**: 138% — PRESENT (IV $87 vs $37 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

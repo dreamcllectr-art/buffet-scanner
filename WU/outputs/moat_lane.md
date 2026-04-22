@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WU
-*Generated: 2026-04-21 06:16 | Price: $9.52 | Mkt Cap: $3B*
+*Generated: 2026-04-22 06:16 | Price: $9.54 | Mkt Cap: $3B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 20.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 47% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 63%; Gross margin: n/a for financials | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 52% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.9x — deep value; 52w range position: 66%; Owner earnings yield: 13.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.0x — deep value; 52w range position: 67%; Owner earnings yield: 13.5% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

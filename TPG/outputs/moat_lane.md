@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPG
-*Generated: 2026-04-21 06:14 | Price: $44.68 | Mkt Cap: $17B*
+*Generated: 2026-04-22 06:15 | Price: $45.2 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Bank of America Corporation (7.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Asset Management
 | Quality | 3.0/10 | 30% | 0.9 | Fallback ROE: 15.5%; Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 1264% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 25.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 16% — strong franchise (Financial Services); Operating margin 20%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 7.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SGI
-*Generated: 2026-04-21 06:12 | Price: $84.54 | Mkt Cap: $18B*
+*Generated: 2026-04-22 06:11 | Price: $81.95 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -23,7 +23,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 44% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 10.9% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 44% — moderate moat for Consumer Cyclical; Operating margin 23% — durable for Consumer Cyclical; Rev growth 55% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 67%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 61%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Furnishings, Fixtures & Appliances
-- **Margin of Safety**: -46% — ABSENT ($85 > IV $46 at 25x for 25% growth)
+- **Margin of Safety**: -44% — ABSENT ($82 > IV $46 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.3% insider ownership
 - **Mr. Market**: Neutral

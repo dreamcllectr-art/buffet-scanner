@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYN
-*Generated: 2026-04-21 06:14 | Price: $21.41 | Mkt Cap: $7B*
+*Generated: 2026-04-22 06:14 | Price: $21.2 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 5.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: -3% (weak conversion); Gross margin: 34% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Real Estate moderate cutoff 35%; Operating margin 28% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 34.0x — expensive; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 33.7x — expensive; Near 52w low (22% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10

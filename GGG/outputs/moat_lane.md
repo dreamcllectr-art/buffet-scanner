@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GGG
-*Generated: 2026-04-21 06:12 | Price: $87.19 | Mkt Cap: $14B*
+*Generated: 2026-04-22 06:12 | Price: $87.28 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,7 +23,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 20.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 29% (stable); FCF/NI: 90% (strong); Gross margin: 52% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 35% — strong pricing power; Operating margin 27% — durable for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.2x — growth premium; 52w range position: 54%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.2x — growth premium; 52w range position: 52%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

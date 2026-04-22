@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBA
-*Generated: 2026-04-21 06:16 | Price: $37.01 | Mkt Cap: $1B*
+*Generated: 2026-04-22 06:17 | Price: $36.75 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.8% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 21% (stable); FCF/NI: 46% (weak conversion); Gross margin: 51% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -905.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 12% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 65%; Owner earnings yield: 11.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; 52w range position: 63%; Owner earnings yield: 11.6% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLD
-*Generated: 2026-04-21 06:10 | Price: $145.03 | Mkt Cap: $135B*
+*Generated: 2026-04-22 06:09 | Price: $141.92 | Mkt Cap: $132B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -20,13 +20,13 @@ Real Estate / REIT - Industrial
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: 145% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.6% (low) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 76% (pricing power for Real Estate) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 76% vs sector strong cutoff 55% — strong pricing power; Operating margin 38% — durable for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.2x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 41.7x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -39% — ABSENT ($145 > IV $89 at 25x for 25% growth)
+- **Margin of Safety**: -37% — ABSENT ($142 > IV $89 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

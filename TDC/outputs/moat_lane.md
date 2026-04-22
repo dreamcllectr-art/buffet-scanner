@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDC
-*Generated: 2026-04-21 06:16 | Price: $27.08 | Mkt Cap: $3B*
+*Generated: 2026-04-22 06:16 | Price: $27.51 | Mkt Cap: $3B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 19.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 67% (severe cyclicality); FCF/NI: 564% (strong); Gross margin: 60% | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 60% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 33%; Owner earnings yield: 10.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 35%; Owner earnings yield: 10.6% (>5%) | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

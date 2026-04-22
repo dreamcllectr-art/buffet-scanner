@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BFAM
-*Generated: 2026-04-21 06:20 | Price: $85.02 | Mkt Cap: $5B*
+*Generated: 2026-04-22 06:15 | Price: $85.27 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -21,9 +21,9 @@ Consumer Cyclical / Personal Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 168% (strong); Gross margin: 25% (below Consumer Cyclical norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: -3.4% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 12% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 31%; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 31%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

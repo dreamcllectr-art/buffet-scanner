@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNSL
-*Generated: 2026-04-21 06:14 | Price: $358.08 | Mkt Cap: $8B*
+*Generated: 2026-04-22 06:14 | Price: $358.86 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified BAMCO Inc. (7.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 51% — PRESENT (IV $542 vs $358 at 25x)
+- **Margin of Safety**: 51% — PRESENT (IV $541 vs $359 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RITM
-*Generated: 2026-04-20 06:30 | Price: $10.16 | Mkt Cap: $6B*
+*Generated: 2026-04-22 06:15 | Price: $10.17 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -36,7 +36,7 @@ Real Estate / REIT - Mortgage
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Mortgage
-- **Margin of Safety**: 54% — PRESENT (IV $16 vs $10 at 15x)
+- **Margin of Safety**: 53% — PRESENT (IV $16 vs $10 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

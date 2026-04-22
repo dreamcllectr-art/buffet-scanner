@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKR
-*Generated: 2026-04-21 06:14 | Price: $108.45 | Mkt Cap: $8B*
+*Generated: 2026-04-22 06:14 | Price: $108.75 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.3% inst.) as insider
 
@@ -25,10 +25,10 @@ Industrials / Tools & Accessories
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 97% (strong); Gross margin: 30% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 30% — moderate moat for Industrials; Operating margin 11% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.6x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.4x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,13 +38,13 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -43% — ABSENT ($108 > IV $62 at 15x for -12% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: -43% — ABSENT ($109 > IV $62 at 15x for -12% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 

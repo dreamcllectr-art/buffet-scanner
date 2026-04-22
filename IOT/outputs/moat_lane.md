@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IOT
-*Generated: 2026-04-20 06:28 | Price: $30.62 | Mkt Cap: $18B*
+*Generated: 2026-04-22 06:13 | Price: $31.43 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,10 +23,10 @@ Technology / Software - Infrastructure
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -15.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 70% (severe cyclicality); FCF/NI: -571% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin 2% — thin for Technology; Rev growth 28% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 36.1x — expensive; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.1x — expensive; 52w range position: 32%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Technology / Software - Infrastructure
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.5% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

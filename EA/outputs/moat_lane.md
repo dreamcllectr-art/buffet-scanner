@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EA
-*Generated: 2026-04-21 06:08 | Price: $203.36 | Mkt Cap: $51B*
+*Generated: 2026-04-22 06:07 | Price: $203.55 | Mkt Cap: $51B*
 
 ## Sector Context
 Communication Services / Electronic Gaming & Multimedia
@@ -36,7 +36,7 @@ Communication Services / Electronic Gaming & Multimedia
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Electronic Gaming & Multimedia
-- **Margin of Safety**: -80% — ABSENT ($203 > IV $40 at 15x for -68% growth)
+- **Margin of Safety**: -80% — ABSENT ($204 > IV $40 at 15x for -68% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

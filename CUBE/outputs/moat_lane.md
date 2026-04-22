@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CUBE
-*Generated: 2026-04-20 06:34 | Price: $39.8 | Mkt Cap: N/A*
+*Generated: 2026-04-22 06:13 | Price: $39.59 | Mkt Cap: N/A*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 174% (strong); Gross margin: 71% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 71% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Real Estate | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.0x — growth premium; 52w range position: 52%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.9x — growth premium; 52w range position: 50%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GXO
-*Generated: 2026-04-21 06:14 | Price: $59.26 | Mkt Cap: $7B*
+*Generated: 2026-04-22 06:14 | Price: $58.62 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 178% (strong); Gross margin: 15% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.1x — fair price; 52w range position: 77%; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.9x — fair price; 52w range position: 74%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

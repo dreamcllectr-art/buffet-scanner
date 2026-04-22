@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQT
-*Generated: 2026-04-21 06:08 | Price: $57.0 | Mkt Cap: $36B*
+*Generated: 2026-04-22 06:07 | Price: $56.98 | Mkt Cap: $36B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 45% — PRESENT (IV $83 vs $57 at 25x)
+- **Margin of Safety**: 131% — PRESENT (IV $132 vs $57 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

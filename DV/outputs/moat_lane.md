@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DV
-*Generated: 2026-04-21 06:16 | Price: $10.78 | Mkt Cap: $2B*
+*Generated: 2026-04-22 06:17 | Price: $10.66 | Mkt Cap: $2B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -23,7 +23,7 @@ Communication Services / Advertising Agencies
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 6.3% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 81% (severe cyclicality); FCF/NI: 212% (strong); Gross margin: 82% (pricing power for Communication Services) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 15.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; 52w range position: 34%; Owner earnings yield: 10.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.2x — deep value; 52w range position: 33%; Owner earnings yield: 10.2% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

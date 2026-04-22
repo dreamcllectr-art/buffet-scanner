@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZS
-*Generated: 2026-04-21 06:18 | Price: $134.8 | Mkt Cap: $22B*
+*Generated: 2026-04-22 06:12 | Price: $139.61 | Mkt Cap: $22B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,13 +23,13 @@ Technology / Software - Infrastructure
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -6.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 76% (severe cyclicality); FCF/NI: -747% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 35.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin -6% — thin for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 29.4x — growth premium; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 4.7%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.4x — expensive; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

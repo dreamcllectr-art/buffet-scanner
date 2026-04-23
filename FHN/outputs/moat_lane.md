@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FHN
-*Generated: 2026-04-22 06:12 | Price: $24.67 | Mkt Cap: N/A*
+*Generated: 2026-04-23 06:17 | Price: $24.58 | Mkt Cap: N/A*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 11.3%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 153% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 41% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 80% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 79% | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

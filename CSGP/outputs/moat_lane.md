@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSGP
-*Generated: 2026-04-22 06:06 | Price: $38.91 | Mkt Cap: $16B*
+*Generated: 2026-04-23 06:12 | Price: $38.77 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -23,7 +23,7 @@ Real Estate / Real Estate Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 152% (strong); Gross margin: 79% (pricing power for Real Estate) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 79% vs sector strong cutoff 55% — strong pricing power; Operating margin 6% — thin for Real Estate; Rev growth 27% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.9x — growth premium; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.0x — growth premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 0.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

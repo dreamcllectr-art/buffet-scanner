@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VZ
-*Generated: 2026-04-22 06:10 | Price: $46.27 | Mkt Cap: $195B*
+*Generated: 2026-04-23 06:22 | Price: $45.98 | Mkt Cap: $194B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,7 +23,7 @@ Communication Services / Telecom Services
 | Quality | 2.3/10 | 30% | 0.7 | Avg ROIC: 9.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 59% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 59%; Owner earnings yield: 8.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 57%; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

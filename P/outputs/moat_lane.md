@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: P
-*Generated: 2026-04-22 06:11 | Price: $69.17 | Mkt Cap: $23B*
+*Generated: 2026-04-23 06:23 | Price: $69.36 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Computer Hardware

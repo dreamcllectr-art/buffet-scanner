@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-04-22 06:07 | Price: $1036.7 | Mkt Cap: $25B*
+*Generated: 2026-04-23 06:12 | Price: $970.17 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 47.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 119% (strong); Gross margin: 83% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 83% vs sector strong cutoff 60% — strong pricing power; Operating margin 46% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.6x — fair price; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.4x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
 ## Buffett Score: 8.2 / 10
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -56% — ABSENT ($1037 > IV $460 at 17x for 8% growth)
+- **Margin of Safety**: -53% — ABSENT ($970 > IV $458 at 17x for 8% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

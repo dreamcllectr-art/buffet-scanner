@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BPOP
-*Generated: 2026-04-22 06:13 | Price: $148.6 | Mkt Cap: $10B*
+*Generated: 2026-04-23 06:23 | Price: $148.3 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 107% — PRESENT (IV $308 vs $149 at 25x)
+- **Margin of Safety**: 107% — PRESENT (IV $308 vs $148 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

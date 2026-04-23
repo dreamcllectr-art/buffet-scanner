@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTCH
-*Generated: 2026-04-22 06:13 | Price: $35.93 | Mkt Cap: N/A*
+*Generated: 2026-04-23 06:23 | Price: $36.53 | Mkt Cap: N/A*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 17.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 146% (strong); Gross margin: 73% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; 52w range position: 74% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: 66% — PRESENT (IV $60 vs $36 at 25x)
+- **Margin of Safety**: 63% — PRESENT (IV $60 vs $37 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

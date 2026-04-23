@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDU
-*Generated: 2026-04-22 06:15 | Price: $21.42 | Mkt Cap: $4B*
+*Generated: 2026-04-23 06:19 | Price: $21.32 | Mkt Cap: $4B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Gas
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 54% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: -45% (weak conversion); Gross margin: 33% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Utilities; Operating margin 20% — durable for Utilities | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.2x — growth premium; 52w range position: 84%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 83%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10

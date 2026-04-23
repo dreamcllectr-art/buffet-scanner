@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORLY
-*Generated: 2026-04-22 06:09 | Price: $93.81 | Mkt Cap: $79B*
+*Generated: 2026-04-23 06:14 | Price: $93.92 | Mkt Cap: $79B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Parts
 | Quality | 7.0/10 | 30% | 2.1 | ROIC declining trend; Avg ROIC: 62.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 23% (stable); FCF/NI: 88% (strong); Gross margin: 52% (thin by design for Auto Parts) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 14% / ROE 0% — scale moat (Auto Parts); Operating margin 19% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 32%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 33%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10

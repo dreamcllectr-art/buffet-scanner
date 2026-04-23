@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEX
-*Generated: 2026-04-22 06:14 | Price: $143.71 | Mkt Cap: $8B*
+*Generated: 2026-04-23 06:24 | Price: $148.28 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Marine Shipping
@@ -23,7 +23,7 @@ Industrials / Marine Shipping
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: 105% (strong); Gross margin: 34% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Industrials; Operating margin 16% — durable for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.7x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.2x — fair price; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Industrials / Marine Shipping
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Marine Shipping
-- **Margin of Safety**: 10% — thin (IV $158 at 25x)
+- **Margin of Safety**: 7% — thin (IV $158 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

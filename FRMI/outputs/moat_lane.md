@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRMI
-*Generated: 2026-04-22 06:17 | Price: $5.06 | Mkt Cap: $3B*
+*Generated: 2026-04-23 06:25 | Price: $5.86 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -11.6% (1y); 5y price drawdown: 85% (severe cyclicality); FCF/NI: 124% (strong); Gross margin: 0% (below Real Estate norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 65.3% (>10%); No insider transaction data; Restricted stock: 55.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Real Estate moderate cutoff 35%; Operating margin 0% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.6x — deep value; Near 52w low (2% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w low (4% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

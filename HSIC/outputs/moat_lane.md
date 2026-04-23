@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSIC
-*Generated: 2026-04-22 06:07 | Price: $78.84 | Mkt Cap: $9B*
+*Generated: 2026-04-23 06:13 | Price: $78.11 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -23,7 +23,7 @@ Healthcare / Medical Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 116% (strong); Gross margin: 31% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 31% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 62%; Owner earnings yield: 4.2% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 59%; Owner earnings yield: 4.3% | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -17% — ABSENT ($79 > IV $65 at 20x for 14% growth)
+- **Margin of Safety**: -16% — ABSENT ($78 > IV $65 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

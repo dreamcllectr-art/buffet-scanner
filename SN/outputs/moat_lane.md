@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SN
-*Generated: 2026-04-22 06:13 | Price: $118.17 | Mkt Cap: $17B*
+*Generated: 2026-04-23 06:17 | Price: $117.3 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -12,7 +12,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 41.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 41.3%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 15.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 68%; Gross margin: 49% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 41.0% (>10%); No insider transaction data; Restricted stock: 40.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 41.3% (>10%); No insider transaction data; Restricted stock: 40.6% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 17% — durable for Consumer Cyclical | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.1x — fair price; 52w range position: 73%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.9x — fair price; 52w range position: 71%; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
 ## Buffett Score: 7.9 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 - **Circle of Competence**: Consumer Cyclical / Furnishings, Fixtures & Appliances
 - **Margin of Safety**: 5% — thin (IV $124 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 41.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 41.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

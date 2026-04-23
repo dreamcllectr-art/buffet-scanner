@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEL
-*Generated: 2026-04-22 06:10 | Price: $243.18 | Mkt Cap: $71B*
+*Generated: 2026-04-23 06:22 | Price: $221.04 | Mkt Cap: $65B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -21,12 +21,12 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 13.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 42% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 114% (strong); Gross margin: 36% (below Technology norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 21%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.6x — fair price; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.7x — fair price; 52w range position: 73%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -29% — ABSENT ($243 > IV $173 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: 11% — thin (IV $245 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 

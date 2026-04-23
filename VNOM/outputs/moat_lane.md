@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VNOM
-*Generated: 2026-04-22 06:13 | Price: $47.01 | Mkt Cap: $18B*
+*Generated: 2026-04-23 06:23 | Price: $47.66 | Mkt Cap: $18B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 32.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 119% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 570% (strong); Gross margin: 100% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 100% vs sector strong cutoff 30% — strong pricing power; Operating margin 43% — durable for Energy; Rev growth 89% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.7x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.0x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

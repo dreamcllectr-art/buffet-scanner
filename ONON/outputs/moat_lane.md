@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ONON
-*Generated: 2026-04-22 06:13 | Price: $36.73 | Mkt Cap: $12B*
+*Generated: 2026-04-23 06:24 | Price: $36.6 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -23,7 +23,7 @@ Consumer Cyclical / Footwear & Accessories
 | Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 10.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 4% (weak conversion); Gross margin: 63% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.4% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 63% vs sector strong cutoff 45% — strong pricing power; Operating margin 11%; Rev growth 23% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.8x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.7x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10

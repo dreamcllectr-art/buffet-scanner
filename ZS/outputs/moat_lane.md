@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZS
-*Generated: 2026-04-22 06:12 | Price: $139.61 | Mkt Cap: $22B*
+*Generated: 2026-04-23 06:16 | Price: $142.66 | Mkt Cap: $23B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -6.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 76% (severe cyclicality); FCF/NI: -747% (weak conversion); Gross margin: 77% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 35.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 77% vs sector strong cutoff 60% — strong pricing power; Operating margin -6% — thin for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.4x — expensive; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.1x — expensive; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

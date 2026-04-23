@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHE
-*Generated: 2026-04-22 06:15 | Price: $373.79 | Mkt Cap: $5B*
+*Generated: 2026-04-23 06:19 | Price: $373.15 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: -26% — ABSENT ($374 > IV $275 at 15x for -9% growth)
+- **Margin of Safety**: -26% — ABSENT ($373 > IV $275 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

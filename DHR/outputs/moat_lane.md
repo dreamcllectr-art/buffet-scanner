@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-04-22 06:06 | Price: $194.54 | Mkt Cap: $138B*
+*Generated: 2026-04-23 06:12 | Price: $184.04 | Mkt Cap: $130B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.6% inst.) as insider
 
@@ -13,7 +13,7 @@ Healthcare / Diagnostics & Research
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -25,7 +25,7 @@ Healthcare / Diagnostics & Research
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 126% (strong); Gross margin: 59% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 23% — durable for Healthcare | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.4x — growth premium; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.2x — growth premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -38,7 +38,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -55% — ABSENT ($195 > IV $88 at 17x for 10% growth)
+- **Margin of Safety**: -52% — ABSENT ($184 > IV $88 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHW
-*Generated: 2026-04-22 06:10 | Price: $334.61 | Mkt Cap: $83B*
+*Generated: 2026-04-23 06:14 | Price: $335.15 | Mkt Cap: $83B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 7.7/10 | 30% | 2.3 | Avg ROIC: 19.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.2% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 14% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.0x — growth premium; 52w range position: 42%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 43%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

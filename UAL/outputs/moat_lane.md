@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAL
-*Generated: 2026-04-22 06:10 | Price: $97.13 | Mkt Cap: $32B*
+*Generated: 2026-04-23 06:22 | Price: $91.71 | Mkt Cap: $30B*
 
 ## Sector Context
 Industrials / Airlines
@@ -11,7 +11,7 @@ Industrials / Airlines
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Airlines
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 9.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 34% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 34% — moderate moat for Industrials; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 59%; Owner earnings yield: 3.5% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 34% — moderate moat for Industrials; Operating margin 4% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; 52w range position: 49%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 79% — PRESENT (IV $173 vs $97 at 17x)
+- **Margin of Safety**: 178% — PRESENT (IV $255 vs $92 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

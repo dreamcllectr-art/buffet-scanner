@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-04-22 06:05 | Price: $58.5 | Mkt Cap: $10B*
+*Generated: 2026-04-23 06:11 | Price: $58.29 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -23,7 +23,7 @@ Real Estate / REIT - Office
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 98% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 2484% (strong); Gross margin: 56% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin -7% — thin for Real Estate | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 28.1x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 9.1% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 28.0x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 9.2% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

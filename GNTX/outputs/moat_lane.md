@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GNTX
-*Generated: 2026-04-22 06:15 | Price: $22.74 | Mkt Cap: $5B*
+*Generated: 2026-04-23 06:19 | Price: $22.76 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Parts
 | Quality | 4.1/10 | 30% | 1.2 | Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 87% (strong); Gross margin: 34% (thin by design for Auto Parts) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 11% / ROE 16% — scale moat (Auto Parts); Operating margin 20% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

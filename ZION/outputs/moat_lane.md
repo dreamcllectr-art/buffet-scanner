@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZION
-*Generated: 2026-04-22 06:13 | Price: $62.02 | Mkt Cap: $9B*
+*Generated: 2026-04-23 06:23 | Price: $61.94 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 14.1%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 124% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 36% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 84% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.3x — deep value; 52w range position: 81% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

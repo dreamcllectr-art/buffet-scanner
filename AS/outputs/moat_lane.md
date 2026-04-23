@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AS
-*Generated: 2026-04-22 06:15 | Price: $36.15 | Mkt Cap: $21B*
+*Generated: 2026-04-23 06:19 | Price: $36.24 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -36,7 +36,7 @@ Consumer Cyclical / Leisure
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Leisure
-- **Margin of Safety**: -47% — ABSENT ($36 > IV $19 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($36 > IV $19 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 62.6% insider ownership
 - **Mr. Market**: Neutral

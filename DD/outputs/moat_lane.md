@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DD
-*Generated: 2026-04-22 06:06 | Price: $46.71 | Mkt Cap: $19B*
+*Generated: 2026-04-23 06:12 | Price: $45.98 | Mkt Cap: $19B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 113% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: -69% (weak conversion); Gross margin: 35% (pricing power for Basic Materials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 30% — strong pricing power; Operating margin 35% — durable for Basic Materials | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.4x — fair price; 52w range position: 77%; Owner earnings yield: 70.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.1x — fair price; 52w range position: 74%; Owner earnings yield: 71.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -93% — ABSENT ($47 > IV $3 at 15x for 0% growth)
+- **Margin of Safety**: -93% — ABSENT ($46 > IV $3 at 15x for 0% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

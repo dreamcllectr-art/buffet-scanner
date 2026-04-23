@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EWBC
-*Generated: 2026-04-22 06:12 | Price: $120.9 | Mkt Cap: $17B*
+*Generated: 2026-04-23 06:16 | Price: $122.09 | Mkt Cap: $17B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,14 +20,14 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 15.9%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 135% (strong); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | ROE 16% — strong franchise (Financial Services); Operating margin 66% — durable for Financial Services; Rev growth 21% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.0x — deep value; Near 52w high (93% of range) — Mr. Market greedy | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 16.5%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 135% (strong); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 16% — strong franchise (Financial Services); Operating margin 65% — durable for Financial Services | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.9x — deep value; Near 52w high (93% of range) — Mr. Market greedy | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 107% — PRESENT (IV $250 vs $121 at 25x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: 105% — PRESENT (IV $250 vs $122 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

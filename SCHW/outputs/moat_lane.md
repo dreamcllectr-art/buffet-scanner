@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCHW
-*Generated: 2026-04-22 06:06 | Price: $91.97 | Mkt Cap: $161B*
+*Generated: 2026-04-23 06:11 | Price: $91.71 | Mkt Cap: $161B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Capital Markets
 | Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 19.1%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 19% — strong franchise (Financial Services); Operating margin 49% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 48% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; 52w range position: 47% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

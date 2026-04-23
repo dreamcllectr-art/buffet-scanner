@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLH
-*Generated: 2026-04-22 06:12 | Price: $304.82 | Mkt Cap: $16B*
+*Generated: 2026-04-23 06:16 | Price: $304.4 | Mkt Cap: $16B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -36,7 +36,7 @@ Industrials / Waste Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Waste Management
-- **Margin of Safety**: -64% — ABSENT ($305 > IV $109 at 15x for 5% growth)
+- **Margin of Safety**: -64% — ABSENT ($304 > IV $109 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 4.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

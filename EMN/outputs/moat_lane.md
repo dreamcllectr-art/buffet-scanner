@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EMN
-*Generated: 2026-04-22 06:13 | Price: $72.46 | Mkt Cap: $8B*
+*Generated: 2026-04-23 06:23 | Price: $72.53 | Mkt Cap: $8B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -15% — ABSENT ($72 > IV $61 at 15x for -68% growth)
+- **Margin of Safety**: -15% — ABSENT ($73 > IV $61 at 15x for -68% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

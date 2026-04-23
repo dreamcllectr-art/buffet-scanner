@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMB
-*Generated: 2026-04-22 06:08 | Price: $96.6 | Mkt Cap: $32B*
+*Generated: 2026-04-23 06:13 | Price: $96.75 | Mkt Cap: $32B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: 1% — thin (IV $97 at 20x)
+- **Margin of Safety**: 0% — thin (IV $97 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

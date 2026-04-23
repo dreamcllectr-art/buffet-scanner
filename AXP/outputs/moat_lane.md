@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-04-22 06:05 | Price: $329.79 | Mkt Cap: $226B*
+*Generated: 2026-04-23 06:11 | Price: $332.9 | Mkt Cap: $229B*
 
 > ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (22.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Credit Services
 | Quality | 8.5/10 | 30% | 2.5 | Fallback ROE: 34.0%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 182% (strong); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 22.2% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 34% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 56%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.6x — fair price; 52w range position: 58%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -38,7 +38,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -7% — ABSENT ($330 > IV $307 at 20x for 17% growth)
+- **Margin of Safety**: -8% — ABSENT ($333 > IV $308 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

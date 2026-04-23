@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BOKF
-*Generated: 2026-04-22 06:16 | Price: $134.13 | Mkt Cap: $8B*
+*Generated: 2026-04-23 06:20 | Price: $135.04 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -21,9 +21,9 @@ Financial Services / Banks - Regional
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 10.4%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 350% (strong); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 63.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 69.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 63.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 69.3% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 10% — adequate (Financial Services); Operating margin 38% — durable for Financial Services | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.8x — deep value; Near 52w high (89% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.8x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 84% — PRESENT (IV $247 vs $134 at 25x)
+- **Margin of Safety**: 83% — PRESENT (IV $247 vs $135 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 63.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

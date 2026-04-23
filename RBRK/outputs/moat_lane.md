@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBRK
-*Generated: 2026-04-22 06:14 | Price: $54.02 | Mkt Cap: $11B*
+*Generated: 2026-04-23 06:24 | Price: $55.24 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -40.0% (1y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 56% (severe cyclicality); FCF/NI: -14% (weak conversion); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin -22% — thin for Technology; Rev growth 46% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 92.6x — extreme premium; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 94.7x — extreme premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

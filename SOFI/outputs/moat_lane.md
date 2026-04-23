@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOFI
-*Generated: 2026-04-22 06:11 | Price: $18.83 | Mkt Cap: $24B*
+*Generated: 2026-04-23 06:23 | Price: $19.06 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 4.5/10 | 30% | 1.3 | Fallback ROE: 5.7%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 913% (strong); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | ROE 6% — weak (Financial Services); Operating margin 18%; Rev growth 40% — demand pull | Weak pricing |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.9x — growth premium; 52w range position: 34%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.2x — growth premium; 52w range position: 35%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

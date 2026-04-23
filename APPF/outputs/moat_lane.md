@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APPF
-*Generated: 2026-04-22 06:16 | Price: $158.13 | Mkt Cap: $6B*
+*Generated: 2026-04-23 06:20 | Price: $158.41 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 31% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 492% (strong); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin 18% — thin for Technology; Rev growth 22% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.9x — fair price; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.9x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

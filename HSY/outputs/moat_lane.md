@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSY
-*Generated: 2026-04-22 06:07 | Price: $188.71 | Mkt Cap: $38B*
+*Generated: 2026-04-23 06:13 | Price: $188.65 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Confectioners
@@ -36,7 +36,7 @@ Consumer Defensive / Confectioners
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Confectioners
-- **Margin of Safety**: -66% — ABSENT ($189 > IV $65 at 15x for -60% growth)
+- **Margin of Safety**: -65% — ABSENT ($189 > IV $65 at 15x for -60% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

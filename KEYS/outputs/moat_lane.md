@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-04-22 06:08 | Price: $339.3 | Mkt Cap: $58B*
+*Generated: 2026-04-23 06:13 | Price: $338.97 | Mkt Cap: $58B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 124% (strong); Gross margin: 62% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 62% vs sector strong cutoff 60% — strong pricing power; Operating margin 16% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.8x — expensive; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 32.8x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

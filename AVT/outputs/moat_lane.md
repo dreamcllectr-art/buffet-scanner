@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVT
-*Generated: 2026-04-22 06:15 | Price: $75.26 | Mkt Cap: $6B*
+*Generated: 2026-04-23 06:19 | Price: $75.63 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -36,7 +36,7 @@ Technology / Electronics & Computer Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: -51% — ABSENT ($75 > IV $37 at 15x for -24% growth)
+- **Margin of Safety**: -51% — ABSENT ($76 > IV $37 at 15x for -24% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

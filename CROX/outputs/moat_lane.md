@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CROX
-*Generated: 2026-04-22 06:15 | Price: $107.35 | Mkt Cap: $6B*
+*Generated: 2026-04-23 06:19 | Price: $105.29 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -12,7 +12,7 @@ Consumer Cyclical / Footwear & Accessories
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 3.8%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 3.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Footwear & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 19.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 109% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: -130% (weak conversion); Gross margin: 58% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.5x — deep value; 52w range position: 69%; Owner earnings yield: 8.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.4x — deep value; 52w range position: 65%; Owner earnings yield: 8.1% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Footwear & Accessories
 - **Circle of Competence**: Consumer Cyclical / Footwear & Accessories
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 3.8% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 3.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

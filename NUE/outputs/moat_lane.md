@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-04-22 06:09 | Price: $208.06 | Mkt Cap: $47B*
+*Generated: 2026-04-23 06:14 | Price: $214.26 | Mkt Cap: $49B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,32 +23,32 @@ Basic Materials / Steel
 | Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 12% (below Basic Materials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — below Basic Materials moderate cutoff 18%; Operating margin 7% — thin for Basic Materials | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.7x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.2x — fair price; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.1 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: -7% — ABSENT ($208 > IV $194 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: -12% — ABSENT ($214 > IV $188 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 3.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.22 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

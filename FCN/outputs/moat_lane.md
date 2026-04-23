@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCN
-*Generated: 2026-04-22 06:15 | Price: $187.03 | Mkt Cap: $6B*
+*Generated: 2026-04-23 06:19 | Price: $185.32 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Consulting Services
@@ -21,9 +21,9 @@ Industrials / Consulting Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 13.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 71%; Gross margin: 32% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Industrials; Operating margin 9% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.9x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.7x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Consulting Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Consulting Services
-- **Margin of Safety**: 10% — thin (IV $206 at 25x)
+- **Margin of Safety**: 11% — thin (IV $206 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

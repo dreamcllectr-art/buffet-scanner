@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFC
-*Generated: 2026-04-22 06:10 | Price: $51.07 | Mkt Cap: $64B*
+*Generated: 2026-04-23 06:22 | Price: $50.95 | Mkt Cap: $63B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 8.6%; Earnings: 1 down-year in 3 transitions; NI drawdown: 117% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: -115% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 9% — weak (Financial Services); Operating margin 39% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 74% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 73% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

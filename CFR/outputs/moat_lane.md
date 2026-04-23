@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CFR
-*Generated: 2026-04-22 06:13 | Price: $142.77 | Mkt Cap: $9B*
+*Generated: 2026-04-23 06:23 | Price: $143.03 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Aristotle Capital Management, LLC (8.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Banks - Regional
 | Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 15.3%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 82% (strong); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 15% — strong franchise (Financial Services); Operating margin 35% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 82% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 83% | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

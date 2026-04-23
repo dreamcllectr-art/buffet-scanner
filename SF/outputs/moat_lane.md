@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SF
-*Generated: 2026-04-22 06:12 | Price: $82.27 | Mkt Cap: $13B*
+*Generated: 2026-04-23 06:17 | Price: $77.37 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -20,23 +20,23 @@ Financial Services / Capital Markets
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 11.7%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 115% (strong); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | ROE 12% — adequate (Financial Services); Operating margin 27% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 79% | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 0.0%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 115% (strong); Gross margin: n/a for financials | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
+| Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 22% | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 64% | - |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.7 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -5% — ABSENT ($82 > IV $78 at 20x for 10% growth)
+- **Margin of Safety**: 66% — PRESENT (IV $128 vs $77 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

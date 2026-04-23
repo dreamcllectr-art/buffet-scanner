@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLE
-*Generated: 2026-04-22 06:05 | Price: $143.47 | Mkt Cap: $12B*
+*Generated: 2026-04-23 06:11 | Price: $144.93 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Security & Protection Services
@@ -23,23 +23,23 @@ Industrials / Security & Protection Services
 | Quality | 8.8/10 | 30% | 2.6 | Avg ROIC: 16.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: 96% (strong); Gross margin: 45% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 21% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 30%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.3 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Security & Protection Services
-- **Margin of Safety**: -22% — ABSENT ($143 > IV $112 at 15x for 3% growth)
+- **Margin of Safety**: -23% — ABSENT ($145 > IV $112 at 15x for 3% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 YES — 3 forces aligning: high quality, strong moat, attractive valuation
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

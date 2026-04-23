@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-04-22 06:09 | Price: $903.49 | Mkt Cap: $133B*
+*Generated: 2026-04-23 06:14 | Price: $979.07 | Mkt Cap: $145B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.5% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Computer Hardware
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -6.6% (2y); Earnings: 1 down-year in 2 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 40% (weak conversion); Gross margin: 35% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 35% — below Technology moderate cutoff 40%; Operating margin 36% — durable for Technology; Rev growth 61% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 7.9x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 0.9% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.6x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 0.9% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

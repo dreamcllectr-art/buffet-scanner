@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLNE
-*Generated: 2026-04-22 06:16 | Price: $106.13 | Mkt Cap: $6B*
+*Generated: 2026-04-23 06:19 | Price: $105.99 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.3% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Asset Management
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 35.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 131% (strong); Gross margin: n/a for financials | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 32% — strong franchise (Financial Services); Operating margin 43% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

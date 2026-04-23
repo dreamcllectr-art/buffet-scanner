@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLED
-*Generated: 2026-04-22 06:15 | Price: $99.03 | Mkt Cap: N/A*
+*Generated: 2026-04-23 06:19 | Price: $99.19 | Mkt Cap: N/A*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Electronic Components
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: 52%; Gross margin: 75% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 39% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.5x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 18.5x — fair price; Near 52w low (17% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

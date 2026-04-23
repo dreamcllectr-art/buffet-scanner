@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVNA
-*Generated: 2026-04-22 06:05 | Price: $400.92 | Mkt Cap: $88B*
+*Generated: 2026-04-23 06:11 | Price: $416.79 | Mkt Cap: $92B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -1.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 183% (strong); Gross margin: 21% (below Consumer Cyclical norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 21% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 58% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.0x — expensive; 52w range position: 69%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.3x — expensive; 52w range position: 74%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto & Truck Dealerships
-- **Margin of Safety**: -47% — ABSENT ($401 > IV $212 at 25x for 25% growth)
+- **Margin of Safety**: -49% — ABSENT ($417 > IV $212 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

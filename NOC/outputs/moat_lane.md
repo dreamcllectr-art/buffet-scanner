@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NOC
-*Generated: 2026-04-22 06:09 | Price: $611.13 | Mkt Cap: $87B*
+*Generated: 2026-04-23 06:14 | Price: $589.62 | Mkt Cap: $84B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Industrials / Aerospace & Defense
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 58% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 68%; Gross margin: 20% (below Industrials norm) | ROIC declining |
+| Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 58% from prior peak; 5y price drawdown: 23% (stable); FCF/NI: 68%; Gross margin: 21% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 20% — below Industrials moderate cutoff 22%; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.2x — growth premium; 52w range position: 49%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 21% — below Industrials moderate cutoff 22%; Operating margin 12% | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 43%; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.1 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -11% — ABSENT ($611 > IV $541 at 20x for 15% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: 35% — PRESENT (IV $798 vs $590 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 

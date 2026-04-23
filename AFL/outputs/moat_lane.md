@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-04-22 06:04 | Price: $115.97 | Mkt Cap: $61B*
+*Generated: 2026-04-23 06:10 | Price: $114.75 | Mkt Cap: $60B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.1% inst.) as insider
 
@@ -25,10 +25,10 @@ Financial Services / Insurance - Life
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 20% (stable); FCF/NI: 69%; Gross margin: n/a for financials | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 13% — adequate (Financial Services); Operating margin 34% — durable for Financial Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 8.5% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 80%; Owner earnings yield: 8.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: -12% — ABSENT ($116 > IV $102 at 15x for -23% growth)
+- **Margin of Safety**: -11% — ABSENT ($115 > IV $102 at 15x for -23% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

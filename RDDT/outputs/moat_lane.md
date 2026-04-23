@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RDDT
-*Generated: 2026-04-22 06:11 | Price: $156.82 | Mkt Cap: $30B*
+*Generated: 2026-04-23 06:16 | Price: $164.31 | Mkt Cap: $31B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,10 +23,10 @@ Communication Services / Internet Content & Information
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: -4.4% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 60%; Gross margin: 91% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 91% vs sector strong cutoff 55% — strong pricing power; Operating margin 32% — durable for Communication Services; Rev growth 70% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.1x — fair price; 52w range position: 33%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.0x — growth premium; 52w range position: 37%; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -58% — ABSENT ($157 > IV $66 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: -60% — ABSENT ($164 > IV $65 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 

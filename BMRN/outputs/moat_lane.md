@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMRN
-*Generated: 2026-04-22 06:13 | Price: $54.62 | Mkt Cap: $11B*
+*Generated: 2026-04-23 06:17 | Price: $54.15 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,9 +21,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 95% (strong); Gross margin: 53% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 53% — moderate moat for Healthcare; Operating margin 22% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 3.8% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -34% — ABSENT ($55 > IV $36 at 20x for 17% growth)
+- **Margin of Safety**: -34% — ABSENT ($54 > IV $36 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

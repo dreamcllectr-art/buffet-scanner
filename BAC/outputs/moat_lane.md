@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAC
-*Generated: 2026-04-22 06:05 | Price: $53.48 | Mkt Cap: $382B*
+*Generated: 2026-04-23 06:11 | Price: $53.12 | Mkt Cap: $380B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Banks - Diversified
 | Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 10.6%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 39% (weak conversion); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 11% — adequate (Financial Services); Operating margin 36% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 79% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 77% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -38,7 +38,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 88% — PRESENT (IV $100 vs $53 at 25x)
+- **Margin of Safety**: 89% — PRESENT (IV $100 vs $53 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

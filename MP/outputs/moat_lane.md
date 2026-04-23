@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MP
-*Generated: 2026-04-22 06:13 | Price: $65.76 | Mkt Cap: $12B*
+*Generated: 2026-04-23 06:23 | Price: $69.19 | Mkt Cap: $12B*
 
 ## Sector Context
 Basic Materials / Other Industrial Metals & Mining
@@ -23,10 +23,10 @@ Basic Materials / Other Industrial Metals & Mining
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 130% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: -42% (weak conversion); Gross margin: 30% (pricing power for Basic Materials) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.8% (>10%); No insider transaction data; Restricted stock: 19.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 30% vs sector strong cutoff 30% — strong pricing power; Operating margin -1% — thin for Basic Materials; Rev growth 70% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.4x — expensive; 52w range position: 58%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 52.0x — extreme premium; 52w range position: 62%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

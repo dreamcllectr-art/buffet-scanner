@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TOL
-*Generated: 2026-04-22 06:12 | Price: $148.32 | Mkt Cap: $14B*
+*Generated: 2026-04-23 06:16 | Price: $148.02 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -23,7 +23,7 @@ Consumer Cyclical / Residential Construction
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 13.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 73%; Gross margin: 25% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 72%; Owner earnings yield: 6.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 71%; Owner earnings yield: 6.2% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

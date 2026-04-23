@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-04-22 06:05 | Price: $127.26 | Mkt Cap: $74B*
+*Generated: 2026-04-23 06:11 | Price: $129.06 | Mkt Cap: $75B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 0.4/10 | 30% | 0.1 | Avg ROIC: 9.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 31% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 53%; Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROE 15% — adequate (Financial Services); Operating margin 18%; Rev growth 88% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 48% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 51% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -35% — ABSENT ($127 > IV $83 at 15x for -57% growth)
+- **Margin of Safety**: -36% — ABSENT ($129 > IV $83 at 15x for -57% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 27.0% insider ownership
 - **Mr. Market**: Neutral

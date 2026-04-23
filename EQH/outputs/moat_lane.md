@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQH
-*Generated: 2026-04-22 06:12 | Price: $41.0 | Mkt Cap: $12B*
+*Generated: 2026-04-23 06:17 | Price: $41.57 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -21,9 +21,9 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 19.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 164% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 13% (weak conversion); Gross margin: n/a for financials | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -39% — weak (Financial Services); Operating margin 12% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.6x — deep value; Near 52w low (27% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; Near 52w low (30% of range) — Mr. Market fearful | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

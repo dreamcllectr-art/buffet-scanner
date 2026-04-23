@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAR
-*Generated: 2026-04-22 06:13 | Price: $60.27 | Mkt Cap: $10B*
+*Generated: 2026-04-23 06:23 | Price: $60.25 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

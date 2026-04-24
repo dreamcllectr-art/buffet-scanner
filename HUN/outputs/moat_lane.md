@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUN
-*Generated: 2026-04-22 06:16 | Price: $13.74 | Mkt Cap: $2B*
+*Generated: 2026-04-24 06:26 | Price: $13.55 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (6.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 118% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 104.2x — extreme premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 9.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 102.8x — extreme premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 9.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.0/10** | **100%** | **2.0** | | |
 
 ## Buffett Score: 2.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-04-23 06:12 | Price: $68.41 | Mkt Cap: $45B*
+*Generated: 2026-04-24 06:14 | Price: $68.37 | Mkt Cap: $45B*
 
 ## Sector Context
 Industrials / Airlines

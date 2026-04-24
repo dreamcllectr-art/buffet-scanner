@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-04-23 06:14 | Price: $55.32 | Mkt Cap: $27B*
+*Generated: 2026-04-24 06:16 | Price: $56.99 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -21,12 +21,12 @@ Consumer Cyclical / Personal Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 39.6x — expensive; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.8x — expensive; 52w range position: 34%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
-## Buffett Score: 8.4 / 10
+## Buffett Score: 8.1 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,10 +36,10 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -67% — ABSENT ($55 > IV $19 at 17x for 10% growth)
+- **Margin of Safety**: -67% — ABSENT ($57 > IV $19 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)

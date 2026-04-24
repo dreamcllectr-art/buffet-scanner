@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BURL
-*Generated: 2026-04-23 06:23 | Price: $337.02 | Mkt Cap: $21B*
+*Generated: 2026-04-24 06:17 | Price: $329.62 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -23,10 +23,10 @@ Consumer Cyclical / Apparel Retail
 | Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 17.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 69% (severe cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 44% (thin by design for Apparel Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 6% / ROE 38% — scale moat (Apparel Retail); Operating margin 12% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.0x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 0.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.5x — growth premium; 52w range position: 83%; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: -30% — ABSENT ($337 > IV $238 at 25x for 20% growth)
+- **Margin of Safety**: -28% — ABSENT ($330 > IV $238 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

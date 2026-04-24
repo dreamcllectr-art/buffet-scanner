@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LCID
-*Generated: 2026-04-22 06:17 | Price: $7.11 | Mkt Cap: $3B*
+*Generated: 2026-04-24 06:26 | Price: $6.27 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -12,7 +12,7 @@ Consumer Cyclical / Auto Manufacturers
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -1.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 4.7%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 11.3%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,12 +21,12 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -35.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: -93% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 58.2% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 11.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 64.2% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin -93% — below Consumer Cyclical moderate cutoff 30%; Operating margin -204% — thin for Consumer Cyclical; Rev growth 123% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1.7x — deep value; Near 52w low (1% of range) — Mr. Market fearful | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -1.5x — deep value; Near 52w low (0% of range) — Mr. Market fearful | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Cyclical / Auto Manufacturers
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
+- **Incentive-Caused Bias**: Aligned — 11.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

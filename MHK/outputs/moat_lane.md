@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MHK
-*Generated: 2026-04-23 06:19 | Price: $108.4 | Mkt Cap: $7B*
+*Generated: 2026-04-24 06:20 | Price: $108.27 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -23,7 +23,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 2.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1882% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 123% (strong); Gross margin: 25% (below Consumer Cyclical norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 9.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 10.0% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

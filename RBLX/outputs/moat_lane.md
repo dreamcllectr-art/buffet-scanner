@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBLX
-*Generated: 2026-04-23 06:23 | Price: $59.64 | Mkt Cap: $43B*
+*Generated: 2026-04-24 06:24 | Price: $55.45 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.9% inst.) as insider
 
@@ -23,13 +23,13 @@ Communication Services / Electronic Gaming & Multimedia
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -62.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 83% (severe cyclicality); FCF/NI: -50% (weak conversion); Gross margin: 24% (below Communication Services norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 24% — below Communication Services moderate cutoff 40%; Operating margin -25% — thin for Communication Services; Rev growth 43% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -44.8x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 2.4% | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -41.7x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 2.6% | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -50,7 +50,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

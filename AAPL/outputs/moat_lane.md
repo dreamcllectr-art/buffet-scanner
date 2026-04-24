@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-04-23 06:11 | Price: $273.17 | Mkt Cap: $4015B*
+*Generated: 2026-04-24 06:13 | Price: $273.43 | Mkt Cap: $4014B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -23,7 +23,7 @@ Technology / Consumer Electronics
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 47% | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $66B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% — moderate moat for Technology; Operating margin 35% — durable for Technology | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.1x — growth premium; 52w range position: 84%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.2x — growth premium; 52w range position: 84%; Owner earnings yield: 2.6%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-04-23 06:12 | Price: $156.88 | Mkt Cap: $27B*
+*Generated: 2026-04-24 06:14 | Price: $159.31 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -12,7 +12,7 @@ Consumer Defensive / Beverages - Brewers
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 19.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 20.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,14 +20,14 @@ Consumer Defensive / Beverages - Brewers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 4.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 105% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: -2218% (weak conversion); Gross margin: 52% (pricing power for Consumer Defensive) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
+| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 6.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 105% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: -1153% (weak conversion); Gross margin: 52% (pricing power for Consumer Defensive) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 27% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 43%; Owner earnings yield: 7.9% (>5%) | - |
-| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 47%; Owner earnings yield: 7.9% (>5%) | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 6.4 / 10
-## Alpha Adjustment: +0.14
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,9 +36,9 @@ Consumer Defensive / Beverages - Brewers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Brewers
-- **Margin of Safety**: -8% — ABSENT ($157 > IV $144 at 15x for -11% growth)
+- **Margin of Safety**: -10% — ABSENT ($159 > IV $144 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 19.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 20.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.14 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRUS
-*Generated: 2026-04-23 06:23 | Price: $169.89 | Mkt Cap: $9B*
+*Generated: 2026-04-24 06:24 | Price: $172.81 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,23 +20,23 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.7/10 | 30% | 1.7 | Avg ROIC: 16.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 53% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 16.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 46% from prior peak; FCF/NI: 116% (strong); Gross margin: 53% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); No insider transaction data; Restricted stock: 0.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 53% — moderate moat for Technology; Operating margin 26% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 5.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 12% — thin (IV $190 at 25x)
+- **Margin of Safety**: 10% — thin (IV $190 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

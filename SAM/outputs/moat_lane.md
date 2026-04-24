@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-04-22 06:17 | Price: $244.59 | Mkt Cap: $3B*
+*Generated: 2026-04-24 06:26 | Price: $240.43 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Defensive / Beverages - Brewers
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 229% (strong); Gross margin: 48% (pricing power for Consumer Defensive) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 48% vs sector strong cutoff 45% — strong pricing power; Operating margin -8% — thin for Consumer Defensive | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 21.5x — growth premium; 52w range position: 75%; Owner earnings yield: 7.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 21.1x — growth premium; 52w range position: 70%; Owner earnings yield: 7.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -38,7 +38,7 @@ Consumer Defensive / Beverages - Brewers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Brewers
-- **Margin of Safety**: -39% — ABSENT ($245 > IV $148 at 15x for -4% growth)
+- **Margin of Safety**: -38% — ABSENT ($240 > IV $148 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

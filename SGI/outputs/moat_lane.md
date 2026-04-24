@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SGI
-*Generated: 2026-04-23 06:16 | Price: $79.68 | Mkt Cap: $17B*
+*Generated: 2026-04-24 06:18 | Price: $79.44 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -36,7 +36,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Furnishings, Fixtures & Appliances
-- **Margin of Safety**: -42% — ABSENT ($80 > IV $46 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($79 > IV $46 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 3.3% insider ownership
 - **Mr. Market**: Neutral

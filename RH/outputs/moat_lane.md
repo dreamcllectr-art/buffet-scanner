@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RH
-*Generated: 2026-04-22 06:17 | Price: $138.61 | Mkt Cap: $3B*
+*Generated: 2026-04-24 06:26 | Price: $138.09 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 0.3/10 | 30% | 0.1 | Avg ROIC: 13.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -26% (weak conversion); Gross margin: 44% (thin by design for Specialty Retail) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.5% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROA 5% / ROE 0% — adequate scale (Specialty Retail); Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 11.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

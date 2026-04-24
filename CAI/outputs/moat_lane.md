@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAI
-*Generated: 2026-04-22 06:17 | Price: $20.83 | Mkt Cap: $6B*
+*Generated: 2026-04-24 06:26 | Price: $19.79 | Mkt Cap: $6B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -0.9% (1y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 45% (weak conversion); Gross margin: 67% (pricing power for Healthcare) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 65.6% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Healthcare; Rev growth 125% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 55.8x — extreme premium; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 52.6x — extreme premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

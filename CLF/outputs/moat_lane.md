@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLF
-*Generated: 2026-04-23 06:19 | Price: $9.5 | Mkt Cap: $5B*
+*Generated: 2026-04-24 06:20 | Price: $9.09 | Mkt Cap: $5B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -11,7 +11,7 @@ Basic Materials / Steel
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 44.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 42.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Basic Materials / Steel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 211% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 170% (strong); Gross margin: -3% (below Basic Materials norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -3% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 35%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.9x — fair price; 52w range position: 31%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
 ## Buffett Score: 3.6 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRGO
-*Generated: 2026-04-22 06:17 | Price: $11.73 | Mkt Cap: $2B*
+*Generated: 2026-04-24 06:26 | Price: $11.69 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

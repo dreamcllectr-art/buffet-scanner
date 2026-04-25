@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UWMC
-*Generated: 2026-04-24 06:22 | Price: $3.67 | Mkt Cap: $1B*
+*Generated: 2026-04-25 06:01 | Price: $3.78 | Mkt Cap: $1B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -20,10 +20,10 @@ Financial Services / Mortgage Finance
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Fallback ROE: 13.4%; Earnings: 1 down-year in 3 transitions; NI drawdown: 132% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: -8710% (weak conversion); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.8% (>10%); No insider transaction data; Restricted stock: 17.3% of shares (SBC concern) | - |
+| Quality | 4.3/10 | 30% | 1.3 | ROE: 13.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.8% (>10%); No insider transaction data; Restricted stock: 17.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 13% — adequate (Financial Services); Operating margin 31% — durable for Financial Services; Rev growth 301% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 166.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.1x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 162.0% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Mortgage Finance
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Mortgage Finance
-- **Margin of Safety**: -18% — ABSENT ($4 > IV $3 at 25x for 25% growth)
+- **Margin of Safety**: -21% — ABSENT ($4 > IV $3 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 15.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

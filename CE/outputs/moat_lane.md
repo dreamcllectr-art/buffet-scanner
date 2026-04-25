@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CE
-*Generated: 2026-04-23 06:24 | Price: $65.48 | Mkt Cap: $7B*
+*Generated: 2026-04-25 05:58 | Price: $65.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 179% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 8% (weak conversion); Gross margin: 21% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 21% — moderate moat for Basic Materials; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

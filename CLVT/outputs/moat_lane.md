@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLVT
-*Generated: 2026-04-24 06:26 | Price: $2.5 | Mkt Cap: $2B*
+*Generated: 2026-04-25 06:01 | Price: $2.45 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Leonard Green & Partners, L.P. (18.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Information Technology Services
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -9.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 95% (severe cyclicality); FCF/NI: -75% (weak conversion); Gross margin: 66% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); No insider transaction data; Restricted stock: 26.2% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 60% — strong pricing power; Operating margin 9% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.2x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 32.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.1x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 33.1% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

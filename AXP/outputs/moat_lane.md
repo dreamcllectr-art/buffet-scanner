@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: AXP
-*Generated: 2026-04-24 06:13 | Price: $318.55 | Mkt Cap: $217B*
-
-> ⚠ DATA: yfinance misclassified Berkshire Hathaway, Inc (22.1% inst.) as insider
+*Generated: 2026-04-25 05:51 | Price: $314.08 | Mkt Cap: $214B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -14,7 +12,7 @@ Financial Services / Credit Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 22.2%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -22,14 +20,14 @@ Financial Services / Credit Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Fallback ROE: 34.0%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: 182% (strong); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 21.8% of shares (SBC concern) | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 34.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.8% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 34% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 47%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 44%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
-## Buffett Score: 6.9 / 10
-## Alpha Adjustment: +0.19
+## Buffett Score: 8.0 / 10
+## Alpha Adjustment: +0.30
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,9 +36,9 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 1% — thin (IV $320 at 20x)
+- **Margin of Safety**: 2% — thin (IV $320 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 22.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -50,7 +48,7 @@ No (2 forces only: high quality, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.19 applied to composite alpha score
+Buffett Premium: +0.30 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEU
-*Generated: 2026-04-23 06:20 | Price: $641.6 | Mkt Cap: $6B*
+*Generated: 2026-04-25 06:04 | Price: $696.88 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -12,7 +12,7 @@ Basic Materials / Specialty Chemicals
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 18.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 19.2%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,34 +21,34 @@ Basic Materials / Specialty Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.2/10 | 30% | 2.5 | Avg ROIC: 20.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 93% (strong); Gross margin: 31% (pricing power for Basic Materials) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.9% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 31% vs sector strong cutoff 30% — strong pricing power; Operating margin 20% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 24.8x — growth premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.5/10** | **100%** | **8.5** | | |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.9% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 31% vs sector strong cutoff 30% — strong pricing power; Operating margin 21% — durable for Basic Materials | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.0x — growth premium; 52w range position: 39%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
-## Buffett Score: 8.5 / 10
-## Alpha Adjustment: +0.40
-## Conviction: HIGH
-## Verdict: Own Forever
+## Buffett Score: 7.9 / 10
+## Alpha Adjustment: +0.29
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: 4% — thin (IV $667 at 15x)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
-- **Incentive-Caused Bias**: Aligned — 18.8% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Margin of Safety**: -4% — ABSENT ($697 > IV $670 at 15x for -5% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
+- **Incentive-Caused Bias**: Aligned — 19.2% insider ownership
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.40 applied to composite alpha score
-Conviction Gate: HIGH — Proceed
-Half-life adjustment: None
+Buffett Premium: +0.29 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

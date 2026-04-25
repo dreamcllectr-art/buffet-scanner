@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WCC
-*Generated: 2026-04-24 06:18 | Price: $318.19 | Mkt Cap: $16B*
+*Generated: 2026-04-25 05:56 | Price: $316.68 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -18% — ABSENT ($318 > IV $261 at 20x for 10% growth)
+- **Margin of Safety**: -18% — ABSENT ($317 > IV $261 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

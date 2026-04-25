@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAR
-*Generated: 2026-04-23 06:17 | Price: $443.94 | Mkt Cap: $16B*
+*Generated: 2026-04-25 06:04 | Price: $204.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,13 +23,13 @@ Industrials / Rental & Leasing Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 166% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 194% (strong); Gross margin: 24% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 71.3% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 60.2x — extreme premium; 52w range position: 47%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.8x — growth premium; Near 52w low (15% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 3.0 / 10
-## Alpha Adjustment: -0.28
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -39,7 +39,7 @@ Industrials / Rental & Leasing Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

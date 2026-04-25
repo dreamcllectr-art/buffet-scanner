@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNG
-*Generated: 2026-04-24 06:24 | Price: $257.19 | Mkt Cap: $54B*
+*Generated: 2026-04-25 05:56 | Price: $257.09 | Mkt Cap: $54B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: 134% — PRESENT (IV $603 vs $257 at 25x)
+- **Margin of Safety**: 135% — PRESENT (IV $604 vs $257 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

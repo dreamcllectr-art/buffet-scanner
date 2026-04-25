@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LCID
-*Generated: 2026-04-24 06:26 | Price: $6.27 | Mkt Cap: $2B*
+*Generated: 2026-04-25 06:01 | Price: $6.25 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers

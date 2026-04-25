@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFX
-*Generated: 2026-04-24 06:20 | Price: $136.65 | Mkt Cap: $6B*
+*Generated: 2026-04-25 05:58 | Price: $136.56 | Mkt Cap: $6B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

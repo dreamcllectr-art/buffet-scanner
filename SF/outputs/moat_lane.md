@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SF
-*Generated: 2026-04-24 06:18 | Price: $76.89 | Mkt Cap: $12B*
+*Generated: 2026-04-25 06:03 | Price: $77.19 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -20,13 +20,13 @@ Financial Services / Capital Markets
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 0.0%; Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 115% (strong); Gross margin: n/a for financials | - |
+| Quality | 2.0/10 | 30% | 0.6 | ROE: 0.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 36% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 23% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 62% | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 63% | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 67% — PRESENT (IV $128 vs $77 at 25x)
+- **Margin of Safety**: 66% — PRESENT (IV $128 vs $77 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
 - **Mr. Market**: Neutral

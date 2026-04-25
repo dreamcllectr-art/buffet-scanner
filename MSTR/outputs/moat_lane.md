@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSTR
-*Generated: 2026-04-24 06:24 | Price: $172.47 | Mkt Cap: $60B*
+*Generated: 2026-04-25 05:56 | Price: $171.02 | Mkt Cap: $60B*
 
 ## Sector Context
 Technology / Software - Application

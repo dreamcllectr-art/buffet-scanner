@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYAN
-*Generated: 2026-04-23 06:20 | Price: $36.29 | Mkt Cap: $10B*
+*Generated: 2026-04-25 06:05 | Price: $34.61 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -20,10 +20,10 @@ Financial Services / Insurance - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.6/10 | 30% | 0.2 | Avg ROIC: 9.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 33% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 665% (strong); Gross margin: n/a for financials | - |
+| Quality | 4.5/10 | 30% | 1.3 | ROE: 18.2% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 58% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Specialty
-- **Margin of Safety**: -74% — ABSENT ($36 > IV $9 at 20x for 14% growth)
+- **Margin of Safety**: -73% — ABSENT ($35 > IV $9 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 13.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

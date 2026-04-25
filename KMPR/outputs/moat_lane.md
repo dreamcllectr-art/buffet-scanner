@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMPR
-*Generated: 2026-04-24 06:26 | Price: $32.63 | Mkt Cap: $2B*
+*Generated: 2026-04-25 06:00 | Price: $32.82 | Mkt Cap: $2B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -20,13 +20,13 @@ Financial Services / Insurance - Property & Casualty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 0.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 55% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 161% (strong); Gross margin: n/a for financials | - |
+| Quality | 1.5/10 | 30% | 0.4 | ROE: 4.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 61% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 5% — weak (Financial Services); Operating margin 3% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 135.8% (>5%) | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 135.0% (>5%) | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VOYA
-*Generated: 2026-04-23 06:24 | Price: $75.75 | Mkt Cap: $7B*
+*Generated: 2026-04-25 05:58 | Price: $80.35 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Financial Conglomerates
@@ -20,13 +20,13 @@ Financial Services / Financial Conglomerates
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.6/10 | 30% | 1.4 | Avg ROIC: 9.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: 189% (strong); Gross margin: n/a for financials | - |
+| Quality | 5.3/10 | 30% | 1.6 | ROE: 11.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 11% — adequate (Financial Services); Operating margin 11% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; 52w range position: 81%; Owner earnings yield: 21.5% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 20.3% (>5%) | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Financial Services / Financial Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Conglomerates
-- **Margin of Safety**: 108% — PRESENT (IV $157 vs $76 at 25x)
+- **Margin of Safety**: 96% — PRESENT (IV $157 vs $80 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

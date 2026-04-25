@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BHF
-*Generated: 2026-04-23 06:20 | Price: $62.08 | Mkt Cap: $4B*
+*Generated: 2026-04-25 06:05 | Price: $62.04 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -20,13 +20,13 @@ Financial Services / Insurance - Life
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 10.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 129% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: -9% (weak conversion); Gross margin: n/a for financials | ROIC declining |
+| Quality | 4.2/10 | 30% | 1.3 | ROE: 7.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 7% — weak (Financial Services); Operating margin 21% | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.2x — deep value; 52w range position: 82% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

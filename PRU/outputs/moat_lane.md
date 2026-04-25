@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-04-24 06:16 | Price: $94.35 | Mkt Cap: $33B*
+*Generated: 2026-04-25 05:54 | Price: $94.21 | Mkt Cap: $33B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -20,10 +20,10 @@ Financial Services / Insurance - Life
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Fallback ROE: 11.4%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 109% (strong); Gross margin: n/a for financials | - |
+| Quality | 6.3/10 | 30% | 1.9 | ROE: 11.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 11% — adequate (Financial Services); Operating margin 10% — thin for Financial Services; Rev growth 31% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 38.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 38.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

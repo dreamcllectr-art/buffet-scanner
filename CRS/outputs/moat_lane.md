@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRS
-*Generated: 2026-04-24 06:18 | Price: $426.66 | Mkt Cap: $21B*
+*Generated: 2026-04-25 05:56 | Price: $427.48 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -36,7 +36,7 @@ Industrials / Metal Fabrication
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Metal Fabrication
-- **Margin of Safety**: -49% — ABSENT ($427 > IV $215 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($427 > IV $215 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

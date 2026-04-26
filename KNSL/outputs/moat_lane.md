@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNSL
-*Generated: 2026-04-25 05:58 | Price: $345.08 | Mkt Cap: $8B*
+*Generated: 2026-04-26 06:25 | Price: $345.08 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified BAMCO Inc. (7.7% inst.) as insider
 
@@ -22,10 +22,10 @@ Financial Services / Insurance - Property & Casualty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | ROE: 29.3% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 29% — strong franchise (Financial Services); Operating margin 37% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.7x — fair price; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 12.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| Quality | 7.5/10 | 30% | 2.2 | ROE: 29.7% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.5% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 30% — strong franchise (Financial Services); Operating margin 31% — durable for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.7x — fair price; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 12.3% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10

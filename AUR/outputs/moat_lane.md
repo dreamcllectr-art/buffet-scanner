@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AUR
-*Generated: 2026-04-25 05:59 | Price: $4.91 | Mkt Cap: $10B*
+*Generated: 2026-04-26 06:20 | Price: $4.91 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Information Technology Services

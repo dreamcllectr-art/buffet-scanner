@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLD
-*Generated: 2026-04-25 05:56 | Price: $453.71 | Mkt Cap: $13B*
+*Generated: 2026-04-26 06:18 | Price: $453.71 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -41% — ABSENT ($454 > IV $267 at 15x for -27% growth)
+- **Margin of Safety**: -40% — ABSENT ($454 > IV $274 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

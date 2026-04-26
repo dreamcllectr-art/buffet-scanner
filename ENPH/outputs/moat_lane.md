@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ENPH
-*Generated: 2026-04-24 06:20 | Price: $36.16 | Mkt Cap: $5B*
+*Generated: 2026-04-26 06:20 | Price: $35.77 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Solar
@@ -21,9 +21,9 @@ Technology / Solar
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 77% from prior peak; 5y price drawdown: 92% (severe cyclicality); FCF/NI: 208% (strong); Gross margin: 30% (below Technology norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 36%; Owner earnings yield: 0.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 35%; Owner earnings yield: 0.8% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

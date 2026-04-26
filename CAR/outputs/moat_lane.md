@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAR
-*Generated: 2026-04-25 06:04 | Price: $204.0 | Mkt Cap: $7B*
+*Generated: 2026-04-26 06:20 | Price: $204.0 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services

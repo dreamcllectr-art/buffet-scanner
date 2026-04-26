@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: THC
-*Generated: 2026-04-25 05:56 | Price: $180.81 | Mkt Cap: $16B*
+*Generated: 2026-04-26 06:17 | Price: $180.81 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -36,7 +36,7 @@ Healthcare / Medical Care Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
-- **Margin of Safety**: 114% — PRESENT (IV $387 vs $181 at 25x)
+- **Margin of Safety**: 114% — PRESENT (IV $388 vs $181 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

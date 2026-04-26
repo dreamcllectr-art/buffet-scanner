@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KBR
-*Generated: 2026-04-24 06:20 | Price: $35.23 | Mkt Cap: $4B*
+*Generated: 2026-04-26 06:20 | Price: $35.23 | Mkt Cap: $4B*
 
 ## Sector Context
 Industrials / Engineering & Construction

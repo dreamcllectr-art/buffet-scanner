@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONK
-*Generated: 2026-04-25 05:56 | Price: $88.6 | Mkt Cap: $22B*
+*Generated: 2026-04-26 06:17 | Price: $88.6 | Mkt Cap: $22B*
 
 ## Sector Context
 Communication Services / Entertainment

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLF
-*Generated: 2026-04-24 06:20 | Price: $9.09 | Mkt Cap: $5B*
+*Generated: 2026-04-26 06:20 | Price: $9.76 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,11 +23,11 @@ Basic Materials / Steel
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 211% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 170% (strong); Gross margin: -3% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -3% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.9x — fair price; 52w range position: 31%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 37%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -37,18 +37,18 @@ Basic Materials / Steel
 
 - **Circle of Competence**: Basic Materials / Steel
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

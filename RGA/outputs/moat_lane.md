@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGA
-*Generated: 2026-04-25 05:56 | Price: $209.07 | Mkt Cap: $14B*
+*Generated: 2026-04-26 06:17 | Price: $209.07 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance
@@ -11,7 +11,7 @@ Financial Services / Insurance - Reinsurance
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---

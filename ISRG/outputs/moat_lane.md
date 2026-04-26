@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-04-25 05:53 | Price: $482.22 | Mkt Cap: $171B*
+*Generated: 2026-04-26 06:14 | Price: $482.22 | Mkt Cap: $171B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -21,9 +21,9 @@ Healthcare / Medical Instruments & Supplies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.5% (4y); 5y price drawdown: 50% (moderate cyclicality); Gross margin: 66% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 31% — durable for Healthcare; Rev growth 23% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.1x — expensive; 52w range position: 31%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.9x — expensive; 52w range position: 31%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

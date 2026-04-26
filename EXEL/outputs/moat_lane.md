@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXEL
-*Generated: 2026-04-25 06:03 | Price: $44.94 | Mkt Cap: $11B*
+*Generated: 2026-04-26 06:18 | Price: $44.94 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,7 +21,7 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.3/10 | 30% | 2.5 | Avg ROIC: 17.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 109% (strong); Gross margin: 96% (pricing power for Healthcare) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 16.8% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 17.2% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 96% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 70%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |

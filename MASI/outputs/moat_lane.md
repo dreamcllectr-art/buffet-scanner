@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MASI
-*Generated: 2026-04-23 06:24 | Price: $178.53 | Mkt Cap: $9B*
+*Generated: 2026-04-26 06:25 | Price: $178.63 | Mkt Cap: $9B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -57% — ABSENT ($179 > IV $77 at 20x for 12% growth)
+- **Margin of Safety**: -57% — ABSENT ($179 > IV $76 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

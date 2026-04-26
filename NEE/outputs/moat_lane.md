@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEE
-*Generated: 2026-04-25 05:54 | Price: $95.28 | Mkt Cap: $199B*
+*Generated: 2026-04-26 06:15 | Price: $95.28 | Mkt Cap: $199B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

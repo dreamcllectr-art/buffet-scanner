@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HALO
-*Generated: 2026-04-25 05:58 | Price: $65.36 | Mkt Cap: $8B*
+*Generated: 2026-04-26 06:25 | Price: $65.36 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -4% — ABSENT ($65 > IV $63 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($65 > IV $64 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

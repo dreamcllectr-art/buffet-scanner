@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADC
-*Generated: 2026-04-24 06:24 | Price: $77.25 | Mkt Cap: $9B*
+*Generated: 2026-04-26 06:24 | Price: $76.69 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -23,7 +23,7 @@ Real Estate / REIT - Retail
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 2.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 30% (stable); FCF/NI: 236% (strong); Gross margin: 88% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% vs sector strong cutoff 55% — strong pricing power; Operating margin 49% — durable for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.6x — expensive; 52w range position: 61%; Owner earnings yield: 4.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.4x — expensive; 52w range position: 57%; Owner earnings yield: 4.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

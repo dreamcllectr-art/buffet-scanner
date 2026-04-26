@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETSY
-*Generated: 2026-04-25 05:58 | Price: $62.79 | Mkt Cap: $6B*
+*Generated: 2026-04-26 06:20 | Price: $62.79 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail

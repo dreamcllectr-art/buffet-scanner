@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IONS
-*Generated: 2026-04-25 06:03 | Price: $73.27 | Mkt Cap: $12B*
+*Generated: 2026-04-26 06:18 | Price: $73.27 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Biotechnology

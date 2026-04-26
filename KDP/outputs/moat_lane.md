@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-04-25 05:53 | Price: $29.22 | Mkt Cap: $40B*
+*Generated: 2026-04-26 06:14 | Price: $29.22 | Mkt Cap: $40B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -11,7 +11,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 5.0%; key-man / succession risk | 15% | -20% | No |
 
 ---

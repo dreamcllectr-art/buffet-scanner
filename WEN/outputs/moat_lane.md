@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEN
-*Generated: 2026-04-25 06:01 | Price: $7.14 | Mkt Cap: $1B*
+*Generated: 2026-04-26 06:26 | Price: $7.14 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.0% inst.) as insider
 
@@ -23,7 +23,7 @@ Consumer Cyclical / Restaurants
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 9.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 71% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 35% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.6% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 35% — moderate moat for Consumer Cyclical; Operating margin 12% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 12.6% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDR
-*Generated: 2026-04-25 06:00 | Price: $30.28 | Mkt Cap: $5B*
+*Generated: 2026-04-26 06:26 | Price: $30.28 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Trucking

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EHC
-*Generated: 2026-04-24 06:24 | Price: $101.86 | Mkt Cap: $10B*
+*Generated: 2026-04-26 06:24 | Price: $101.98 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

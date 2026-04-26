@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-04-25 06:02 | Price: $56.15 | Mkt Cap: $84B*
+*Generated: 2026-04-26 06:15 | Price: $56.15 | Mkt Cap: $84B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -20,13 +20,13 @@ Energy / Oil & Gas Equipment & Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 19% | - |
+| Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 18% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 19% — moderate moat for Energy; Operating margin 16% — durable for Energy | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.8x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 18% — moderate moat for Energy; Operating margin 12% | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.8x — fair price; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: -39% — ABSENT ($56 > IV $34 at 15x for -29% growth)
+- **Margin of Safety**: -39% — ABSENT ($56 > IV $34 at 15x for -14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

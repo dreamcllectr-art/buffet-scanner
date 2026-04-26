@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TEAM
-*Generated: 2026-04-25 06:03 | Price: $71.55 | Mkt Cap: $19B*
+*Generated: 2026-04-26 06:18 | Price: $71.55 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Software - Application
@@ -12,7 +12,7 @@ Technology / Software - Application
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: -52.9x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -10.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 88% (severe cyclicality); FCF/NI: -335% (weak conversion); Gross margin: 84% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 84% vs sector strong cutoff 60% — strong pricing power; Operating margin -3% — thin for Technology; Rev growth 23% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 8.1% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
@@ -38,7 +38,7 @@ Technology / Software - Application
 - **Circle of Competence**: Technology / Software - Application
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

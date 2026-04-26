@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLH
-*Generated: 2026-04-25 05:56 | Price: $308.99 | Mkt Cap: $16B*
+*Generated: 2026-04-26 06:17 | Price: $308.99 | Mkt Cap: $16B*
 
 ## Sector Context
 Industrials / Waste Management
@@ -21,7 +21,7 @@ Industrials / Waste Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.9/10 | 30% | 0.9 | Avg ROIC: 10.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 31% (stable); FCF/NI: 86% (strong); Gross margin: 31% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.1% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 31% — moderate moat for Industrials; Operating margin 11% | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.1x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

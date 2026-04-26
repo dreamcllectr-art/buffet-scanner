@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSCO
-*Generated: 2026-04-25 06:02 | Price: $36.74 | Mkt Cap: $19B*
+*Generated: 2026-04-26 06:23 | Price: $36.74 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -23,7 +23,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 30.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 58%; Gross margin: 36% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 8% / ROE 46% — scale moat (Specialty Retail); Operating margin 6% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.7x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.8x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

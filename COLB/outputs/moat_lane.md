@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLB
-*Generated: 2026-04-23 06:23 | Price: $29.0 | Mkt Cap: $9B*
+*Generated: 2026-04-26 06:24 | Price: $29.22 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,10 +20,10 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Fallback ROE: 8.5%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 186% (strong); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | ROE 8% — weak (Financial Services); Operating margin 53% — durable for Financial Services; Rev growth 51% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 66% | - |
+| Quality | 4.5/10 | 30% | 1.3 | ROE: 10.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 10% — adequate (Financial Services); Operating margin 51% — durable for Financial Services; Rev growth 40% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 68% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 35% — PRESENT (IV $39 vs $29 at 17x)
+- **Margin of Safety**: 118% — PRESENT (IV $64 vs $29 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

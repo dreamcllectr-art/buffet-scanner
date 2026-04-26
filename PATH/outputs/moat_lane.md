@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PATH
-*Generated: 2026-04-25 06:04 | Price: $10.37 | Mkt Cap: $5B*
+*Generated: 2026-04-26 06:20 | Price: $10.37 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.7% inst.) as insider
 
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -6.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 89% (severe cyclicality); FCF/NI: -151% (weak conversion); Gross margin: 83% (pricing power for Technology) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 83% vs sector strong cutoff 60% — strong pricing power; Operating margin 17% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |

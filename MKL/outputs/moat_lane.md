@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MKL
-*Generated: 2026-04-25 05:56 | Price: $1912.45 | Mkt Cap: $24B*
+*Generated: 2026-04-26 06:17 | Price: $1912.45 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 119% — PRESENT (IV $4193 vs $1912 at 25x)
+- **Margin of Safety**: 121% — PRESENT (IV $4231 vs $1912 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

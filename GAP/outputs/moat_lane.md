@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GAP
-*Generated: 2026-04-25 05:58 | Price: $24.99 | Mkt Cap: $9B*
+*Generated: 2026-04-26 06:20 | Price: $24.99 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: 27% — thin (IV $32 at 15x)
+- **Margin of Safety**: 28% — thin (IV $32 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 39.2% insider ownership
 - **Mr. Market**: Neutral

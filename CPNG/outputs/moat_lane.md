@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPNG
-*Generated: 2026-04-25 05:56 | Price: $20.51 | Mkt Cap: $37B*
+*Generated: 2026-04-26 06:24 | Price: $20.51 | Mkt Cap: $37B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MEDP
-*Generated: 2026-04-24 06:18 | Price: $393.42 | Mkt Cap: $11B*
+*Generated: 2026-04-26 06:25 | Price: $410.54 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -20,10 +20,10 @@ Healthcare / Diagnostics & Research
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 58.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 71% (pricing power for Healthcare) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.9% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% — durable for Healthcare; Rev growth 32% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 32%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
+| Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 58.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 72% (pricing power for Healthcare) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.4% of shares (SBC concern) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% — durable for Healthcare; Rev growth 26% — demand pull | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.0x — growth premium; 52w range position: 37%; Owner earnings yield: 4.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.6/10** | **100%** | **8.6** | | |
 
 ## Buffett Score: 8.6 / 10
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -3% — ABSENT ($393 > IV $382 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($411 > IV $318 at 20x for 17% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 19.4% insider ownership
 - **Mr. Market**: Neutral

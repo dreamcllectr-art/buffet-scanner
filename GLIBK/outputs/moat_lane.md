@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBK
-*Generated: 2026-04-25 06:01 | Price: $36.28 | Mkt Cap: $1B*
+*Generated: 2026-04-26 06:26 | Price: $36.28 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified UBS Group AG (9.0% inst.) as insider
 

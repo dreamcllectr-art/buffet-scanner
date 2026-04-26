@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEN
-*Generated: 2026-04-25 06:03 | Price: $329.89 | Mkt Cap: $13B*
+*Generated: 2026-04-26 06:18 | Price: $329.89 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Medical Devices

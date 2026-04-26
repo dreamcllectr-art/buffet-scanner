@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SUI
-*Generated: 2026-04-25 05:56 | Price: $129.83 | Mkt Cap: $17B*
+*Generated: 2026-04-26 06:17 | Price: $129.83 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Residential

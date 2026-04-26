@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INGM
-*Generated: 2026-04-25 06:01 | Price: $30.35 | Mkt Cap: $7B*
+*Generated: 2026-04-26 06:27 | Price: $30.35 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Information Technology Services

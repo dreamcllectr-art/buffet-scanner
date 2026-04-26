@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBA
-*Generated: 2026-04-25 05:56 | Price: $106.75 | Mkt Cap: $20B*
+*Generated: 2026-04-26 06:17 | Price: $106.75 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Specialty Business Services

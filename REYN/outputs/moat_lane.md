@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REYN
-*Generated: 2026-04-25 06:01 | Price: $21.06 | Mkt Cap: $4B*
+*Generated: 2026-04-26 06:26 | Price: $21.06 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers

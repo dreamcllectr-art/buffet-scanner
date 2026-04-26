@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARW
-*Generated: 2026-04-24 06:24 | Price: $187.5 | Mkt Cap: $10B*
+*Generated: 2026-04-26 06:24 | Price: $187.02 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -36,7 +36,7 @@ Technology / Electronics & Computer Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: 46% — PRESENT (IV $273 vs $188 at 25x)
+- **Margin of Safety**: 46% — PRESENT (IV $273 vs $187 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGO
-*Generated: 2026-04-25 06:05 | Price: $83.4 | Mkt Cap: $4B*
+*Generated: 2026-04-26 06:21 | Price: $83.4 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified Dimensional Fund Advisors LP (7.0% inst.) as insider
 

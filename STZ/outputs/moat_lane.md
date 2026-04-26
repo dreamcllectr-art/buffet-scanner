@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-04-25 05:52 | Price: $156.0 | Mkt Cap: $27B*
+*Generated: 2026-04-26 06:13 | Price: $156.0 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers
@@ -11,7 +11,7 @@ Consumer Defensive / Beverages - Brewers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 20.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,9 +21,9 @@ Consumer Defensive / Beverages - Brewers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 6.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 105% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: -1153% (weak conversion); Gross margin: 52% (pricing power for Consumer Defensive) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.3% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 27% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 42%; Owner earnings yield: 8.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 42%; Owner earnings yield: 7.6% (>5%) | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
 ## Buffett Score: 7.1 / 10

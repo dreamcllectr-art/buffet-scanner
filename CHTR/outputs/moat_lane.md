@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-04-25 05:52 | Price: $180.13 | Mkt Cap: $25B*
+*Generated: 2026-04-26 06:13 | Price: $180.13 | Mkt Cap: $25B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -11,7 +11,7 @@ Communication Services / Telecom Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.4x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 31.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,9 +21,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 78% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 55% (pricing power for Communication Services) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.6% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 10.8% (>5%) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.3% of shares (SBC concern) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 24% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 12.9% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 208% — PRESENT (IV $554 vs $180 at 15x)
+- **Margin of Safety**: 249% — PRESENT (IV $628 vs $180 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 31.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

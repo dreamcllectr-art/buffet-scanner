@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FAF
-*Generated: 2026-04-25 05:58 | Price: $70.87 | Mkt Cap: $7B*
+*Generated: 2026-04-26 06:19 | Price: $70.87 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -11,7 +11,7 @@ Financial Services / Insurance - Specialty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,13 +20,13 @@ Financial Services / Insurance - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROE: 0.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 4.2/10 | 30% | 1.3 | ROE: 12.8% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 0% — weak (Financial Services); Operating margin 11% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.9x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 13% — adequate (Financial Services); Operating margin 11% — thin for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 23.6% (>5%) | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELAN
-*Generated: 2026-04-25 06:03 | Price: $22.75 | Mkt Cap: $11B*
+*Generated: 2026-04-26 06:18 | Price: $22.75 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

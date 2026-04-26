@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-04-25 05:54 | Price: $26.2 | Mkt Cap: $14B*
+*Generated: 2026-04-26 06:15 | Price: $26.2 | Mkt Cap: $14B*
 
 ## Sector Context
 Communication Services / Entertainment

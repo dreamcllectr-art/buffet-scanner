@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPL
-*Generated: 2026-04-25 05:54 | Price: $38.75 | Mkt Cap: $29B*
+*Generated: 2026-04-26 06:15 | Price: $38.75 | Mkt Cap: $29B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

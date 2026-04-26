@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRDM
-*Generated: 2026-04-25 06:05 | Price: $38.96 | Mkt Cap: $4B*
+*Generated: 2026-04-26 06:21 | Price: $38.96 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (13.1% inst.) as insider
 
@@ -13,7 +13,7 @@ Communication Services / Telecom Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 75% (severe cyclicality); FCF/NI: 1309% (strong); Gross margin: 72% (pricing power for Communication Services) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 23% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.3x — growth premium; 52w range position: 81%; Owner earnings yield: 6.2% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 27.3x — growth premium; 52w range position: 81%; Owner earnings yield: 6.1% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

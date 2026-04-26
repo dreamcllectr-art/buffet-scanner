@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VEEV
-*Generated: 2026-04-25 05:56 | Price: $161.13 | Mkt Cap: $26B*
+*Generated: 2026-04-26 06:17 | Price: $161.13 | Mkt Cap: $26B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.4% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -13% — ABSENT ($161 > IV $140 at 25x for 23% growth)
+- **Margin of Safety**: -15% — ABSENT ($161 > IV $136 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXS
-*Generated: 2026-04-26 06:25 | Price: $99.31 | Mkt Cap: $7B*
+*Generated: 2026-04-27 06:43 | Price: $99.31 | Mkt Cap: $7B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty

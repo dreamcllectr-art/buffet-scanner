@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVR
-*Generated: 2026-04-26 06:15 | Price: $6503.95 | Mkt Cap: $18B*
+*Generated: 2026-04-27 06:38 | Price: $6503.95 | Mkt Cap: $18B*
 
 > ⚠ DATA: yfinance misclassified Capital Research Global Investors (4.8% inst.) as insider
 

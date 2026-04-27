@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RARE
-*Generated: 2026-04-25 06:00 | Price: $24.1 | Mkt Cap: $2B*
+*Generated: 2026-04-27 06:49 | Price: $24.1 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Biotechnology

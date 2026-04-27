@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VICI
-*Generated: 2026-04-26 06:24 | Price: $28.42 | Mkt Cap: $30B*
+*Generated: 2026-04-27 06:40 | Price: $28.42 | Mkt Cap: $30B*
 
 ## Sector Context
 Real Estate / REIT - Diversified

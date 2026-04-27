@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FMC
-*Generated: 2026-04-25 06:00 | Price: $14.88 | Mkt Cap: $2B*
+*Generated: 2026-04-27 06:50 | Price: $14.88 | Mkt Cap: $2B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs

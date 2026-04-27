@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWW
-*Generated: 2026-04-26 06:24 | Price: $1147.99 | Mkt Cap: $54B*
+*Generated: 2026-04-27 06:40 | Price: $1147.99 | Mkt Cap: $54B*
 
 > ⚠ DATA: yfinance misclassified State Street Corporation (4.3% inst.) as insider
 

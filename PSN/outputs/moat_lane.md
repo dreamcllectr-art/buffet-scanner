@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSN
-*Generated: 2026-04-25 06:05 | Price: $53.45 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:49 | Price: $53.45 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -28% — ABSENT ($53 > IV $39 at 17x for 5% growth)
+- **Margin of Safety**: -30% — ABSENT ($53 > IV $37 at 17x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

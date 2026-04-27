@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AME
-*Generated: 2026-04-26 06:12 | Price: $232.95 | Mkt Cap: $53B*
+*Generated: 2026-04-27 06:34 | Price: $232.95 | Mkt Cap: $53B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

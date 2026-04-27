@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RNG
-*Generated: 2026-04-25 06:05 | Price: $40.9 | Mkt Cap: $4B*
+*Generated: 2026-04-27 06:49 | Price: $40.9 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Software - Application

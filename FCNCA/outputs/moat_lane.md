@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCNCA
-*Generated: 2026-04-26 06:17 | Price: $1931.94 | Mkt Cap: $22B*
+*Generated: 2026-04-27 06:47 | Price: $1931.94 | Mkt Cap: $22B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -21,7 +21,7 @@ Financial Services / Banks - Regional
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | ROE: 10.2% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 21.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 22.1% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 10% — adequate (Financial Services); Operating margin 34% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 51% | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |

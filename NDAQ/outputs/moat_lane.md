@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDAQ
-*Generated: 2026-04-26 06:15 | Price: $89.9 | Mkt Cap: $51B*
+*Generated: 2026-04-27 06:38 | Price: $89.9 | Mkt Cap: $51B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.5% inst.) as insider
 
@@ -13,7 +13,7 @@ Financial Services / Financial Data & Stock Exchanges
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,9 +23,9 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.6/10 | 30% | 2.0 | ROE: 16.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.3% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 16% — strong franchise (Financial Services); Operating margin 48% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 57%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 57%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

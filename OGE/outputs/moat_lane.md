@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OGE
-*Generated: 2026-04-26 06:24 | Price: $47.1 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:42 | Price: $47.1 | Mkt Cap: $10B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

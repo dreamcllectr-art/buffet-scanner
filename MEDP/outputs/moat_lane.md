@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MEDP
-*Generated: 2026-04-26 06:25 | Price: $410.54 | Mkt Cap: $12B*
+*Generated: 2026-04-27 06:42 | Price: $410.54 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

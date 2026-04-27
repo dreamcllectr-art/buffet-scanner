@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSL
-*Generated: 2026-04-26 06:17 | Price: $360.07 | Mkt Cap: $15B*
+*Generated: 2026-04-27 06:48 | Price: $360.07 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -11,7 +11,7 @@ Industrials / Building Products & Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 44% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 107% (strong); Gross margin: 36% (pricing power for Industrials) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 47%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 47%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASH
-*Generated: 2026-04-25 06:05 | Price: $57.4 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $57.4 | Mkt Cap: $3B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

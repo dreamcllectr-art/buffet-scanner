@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JAZZ
-*Generated: 2026-04-26 06:18 | Price: $196.52 | Mkt Cap: $12B*
+*Generated: 2026-04-27 06:48 | Price: $196.52 | Mkt Cap: $12B*
 
 ## Sector Context
 Healthcare / Biotechnology

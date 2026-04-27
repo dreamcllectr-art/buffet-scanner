@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IAC
-*Generated: 2026-04-25 06:05 | Price: $44.48 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $44.5 | Mkt Cap: $3B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

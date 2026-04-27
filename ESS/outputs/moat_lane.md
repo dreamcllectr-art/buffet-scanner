@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESS
-*Generated: 2026-04-26 06:13 | Price: $255.37 | Mkt Cap: $16B*
+*Generated: 2026-04-27 06:36 | Price: $255.37 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Residential

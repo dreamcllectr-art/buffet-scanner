@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVT
-*Generated: 2026-04-26 06:17 | Price: $142.17 | Mkt Cap: $23B*
+*Generated: 2026-04-27 06:40 | Price: $142.17 | Mkt Cap: $23B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts

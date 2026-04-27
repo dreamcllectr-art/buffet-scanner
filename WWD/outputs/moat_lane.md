@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WWD
-*Generated: 2026-04-26 06:17 | Price: $364.95 | Mkt Cap: $22B*
+*Generated: 2026-04-27 06:40 | Price: $364.95 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

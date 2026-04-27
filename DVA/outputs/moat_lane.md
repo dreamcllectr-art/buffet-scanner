@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVA
-*Generated: 2026-04-26 06:13 | Price: $151.85 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:36 | Price: $151.85 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities

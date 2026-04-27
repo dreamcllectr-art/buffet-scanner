@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOAR
-*Generated: 2026-04-25 06:05 | Price: $57.32 | Mkt Cap: $5B*
+*Generated: 2026-04-27 06:49 | Price: $57.32 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

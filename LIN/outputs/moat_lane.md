@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LIN
-*Generated: 2026-04-26 06:14 | Price: $510.3 | Mkt Cap: $236B*
+*Generated: 2026-04-27 06:37 | Price: $510.3 | Mkt Cap: $236B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

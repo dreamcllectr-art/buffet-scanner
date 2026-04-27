@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPT
-*Generated: 2026-04-25 06:05 | Price: $5.14 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $5.14 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

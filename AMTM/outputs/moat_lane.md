@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMTM
-*Generated: 2026-04-26 06:20 | Price: $25.85 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:45 | Price: $25.85 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Specialty Business Services

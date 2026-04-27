@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCC
-*Generated: 2026-04-25 06:05 | Price: $4.98 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $4.98 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Principal Financial Group, Inc. (5.9% inst.) as insider
 

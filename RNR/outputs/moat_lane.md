@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RNR
-*Generated: 2026-04-26 06:17 | Price: $309.38 | Mkt Cap: $13B*
+*Generated: 2026-04-27 06:48 | Price: $309.38 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance

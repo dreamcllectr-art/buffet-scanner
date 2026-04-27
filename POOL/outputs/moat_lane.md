@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: POOL
-*Generated: 2026-04-26 06:15 | Price: $232.55 | Mkt Cap: $9B*
+*Generated: 2026-04-27 06:38 | Price: $232.55 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Industrial Distribution
 | Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 24.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 108% (strong); Gross margin: 30% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.4x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.3x — fair price; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

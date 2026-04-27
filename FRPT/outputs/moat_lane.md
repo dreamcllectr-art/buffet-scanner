@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRPT
-*Generated: 2026-04-25 06:05 | Price: $66.15 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $66.15 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

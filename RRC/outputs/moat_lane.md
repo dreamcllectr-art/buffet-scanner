@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RRC
-*Generated: 2026-04-26 06:24 | Price: $42.36 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:49 | Price: $42.36 | Mkt Cap: $10B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

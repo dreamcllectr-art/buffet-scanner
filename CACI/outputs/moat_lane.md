@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CACI
-*Generated: 2026-04-26 06:18 | Price: $516.54 | Mkt Cap: $11B*
+*Generated: 2026-04-27 06:48 | Price: $516.54 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services

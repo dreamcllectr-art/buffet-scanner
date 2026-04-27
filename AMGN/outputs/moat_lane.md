@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMGN
-*Generated: 2026-04-26 06:12 | Price: $344.55 | Mkt Cap: $186B*
+*Generated: 2026-04-27 06:34 | Price: $344.55 | Mkt Cap: $186B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

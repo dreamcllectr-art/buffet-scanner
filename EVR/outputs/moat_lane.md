@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVR
-*Generated: 2026-04-26 06:18 | Price: $344.3 | Mkt Cap: $14B*
+*Generated: 2026-04-27 06:48 | Price: $344.3 | Mkt Cap: $14B*
 
 > ⚠ DATA: yfinance misclassified Wellington Management Group, LLP (4.9% inst.) as insider
 

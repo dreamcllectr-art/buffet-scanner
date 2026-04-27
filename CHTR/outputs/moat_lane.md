@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-04-26 06:13 | Price: $180.13 | Mkt Cap: $25B*
+*Generated: 2026-04-27 06:35 | Price: $180.13 | Mkt Cap: $25B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -21,9 +21,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 78% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 55% (pricing power for Communication Services) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.3% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 24% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.8x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 12.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.0x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

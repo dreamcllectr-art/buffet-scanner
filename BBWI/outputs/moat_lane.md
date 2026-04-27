@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBWI
-*Generated: 2026-04-26 06:20 | Price: $20.09 | Mkt Cap: $4B*
+*Generated: 2026-04-27 06:45 | Price: $20.09 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

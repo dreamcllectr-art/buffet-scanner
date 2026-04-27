@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFG
-*Generated: 2026-04-26 06:25 | Price: $88.18 | Mkt Cap: $8B*
+*Generated: 2026-04-27 06:43 | Price: $88.18 | Mkt Cap: $8B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -23,7 +23,7 @@ Energy / Oil & Gas Integrated
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 9.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 64%; Gross margin: 66% (pricing power for Energy) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 66% vs sector strong cutoff 30% — strong pricing power; Operating margin 43% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; 52w range position: 58% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 58% | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

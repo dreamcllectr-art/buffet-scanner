@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIRK
-*Generated: 2026-04-25 06:05 | Price: $39.4 | Mkt Cap: $7B*
+*Generated: 2026-04-27 06:49 | Price: $39.4 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -23,7 +23,7 @@ Consumer Cyclical / Footwear & Accessories
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 60% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 175% (strong); Gross margin: 59% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.7% (>10%); No insider transaction data; Restricted stock: 69.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 2.5% | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10

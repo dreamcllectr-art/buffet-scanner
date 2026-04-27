@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIX
-*Generated: 2026-04-26 06:13 | Price: $1726.12 | Mkt Cap: $61B*
+*Generated: 2026-04-27 06:35 | Price: $1726.12 | Mkt Cap: $61B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -20,10 +20,10 @@ Industrials / Engineering & Construction
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 24% | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 25% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: -2.0% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 39.4x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 25% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 39.4x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

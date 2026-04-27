@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIGR
-*Generated: 2026-04-26 06:26 | Price: $32.15 | Mkt Cap: $7B*
+*Generated: 2026-04-27 06:50 | Price: $32.165 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Ribbit Management Company, LLC (6.3% inst.) as insider
 
@@ -23,9 +23,9 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.2/10 | 30% | 1.9 | ROE: 16.8% (financials — book-return proxy); Earnings: 2/2 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 27.3% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 26.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 17% — strong franchise (Financial Services); Operating margin 13% — thin for Financial Services; Rev growth 99% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.6x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 24.6x — growth premium; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

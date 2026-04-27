@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VNOM
-*Generated: 2026-04-26 06:24 | Price: $47.57 | Mkt Cap: $18B*
+*Generated: 2026-04-27 06:43 | Price: $47.57 | Mkt Cap: $18B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

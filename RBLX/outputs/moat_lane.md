@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBLX
-*Generated: 2026-04-26 06:24 | Price: $56.09 | Mkt Cap: $40B*
+*Generated: 2026-04-27 06:40 | Price: $56.09 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.9% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-04-26 06:14 | Price: $227.5 | Mkt Cap: $548B*
+*Generated: 2026-04-27 06:37 | Price: $227.5 | Mkt Cap: $548B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

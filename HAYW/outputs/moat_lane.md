@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAYW
-*Generated: 2026-04-25 06:05 | Price: $15.36 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $15.36 | Mkt Cap: $3B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESAB
-*Generated: 2026-04-26 06:20 | Price: $101.28 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:44 | Price: $101.28 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.9% inst.) as insider
 

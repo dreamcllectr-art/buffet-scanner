@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BYD
-*Generated: 2026-04-26 06:20 | Price: $83.88 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:44 | Price: $83.88 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -21,7 +21,7 @@ Consumer Cyclical / Resorts & Casinos
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 22.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 35% (stable); FCF/NI: 78%; Gross margin: 59% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 31.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 31.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 45% — strong pricing power; Operating margin 16% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 73% | - |
 | **TOTAL** | **8.1/10** | **100%** | **8.1** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PG
-*Generated: 2026-04-26 06:15 | Price: $148.18 | Mkt Cap: $346B*
+*Generated: 2026-04-27 06:38 | Price: $148.18 | Mkt Cap: $346B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products

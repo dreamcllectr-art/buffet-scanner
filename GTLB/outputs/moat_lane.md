@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GTLB
-*Generated: 2026-04-25 06:05 | Price: $21.51 | Mkt Cap: $4B*
+*Generated: 2026-04-27 06:49 | Price: $21.51 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Software - Infrastructure

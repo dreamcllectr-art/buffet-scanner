@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RS
-*Generated: 2026-04-26 06:17 | Price: $351.68 | Mkt Cap: $18B*
+*Generated: 2026-04-27 06:41 | Price: $351.68 | Mkt Cap: $18B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,7 +23,7 @@ Basic Materials / Steel
 | Quality | 2.1/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 15.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 60% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 92% (strong); Gross margin: 29% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Basic Materials; Operating margin 9% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.5x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.4x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

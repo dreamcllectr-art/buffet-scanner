@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GNTX
-*Generated: 2026-04-26 06:20 | Price: $23.88 | Mkt Cap: $5B*
+*Generated: 2026-04-27 06:44 | Price: $23.88 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

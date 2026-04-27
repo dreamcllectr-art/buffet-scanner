@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-04-25 06:00 | Price: $236.4 | Mkt Cap: $2B*
+*Generated: 2026-04-27 06:50 | Price: $236.4 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Defensive / Beverages - Brewers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Brewers
-- **Margin of Safety**: -38% — ABSENT ($236 > IV $146 at 15x for -4% growth)
+- **Margin of Safety**: -37% — ABSENT ($236 > IV $148 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

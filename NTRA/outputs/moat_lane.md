@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRA
-*Generated: 2026-04-26 06:24 | Price: $203.75 | Mkt Cap: $29B*
+*Generated: 2026-04-27 06:40 | Price: $203.75 | Mkt Cap: $29B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

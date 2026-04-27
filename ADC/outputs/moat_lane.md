@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADC
-*Generated: 2026-04-26 06:24 | Price: $76.69 | Mkt Cap: $9B*
+*Generated: 2026-04-27 06:43 | Price: $76.69 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Retail

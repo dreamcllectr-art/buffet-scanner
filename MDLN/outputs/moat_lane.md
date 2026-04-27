@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLN
-*Generated: 2026-04-26 06:17 | Price: $44.76 | Mkt Cap: $38B*
+*Generated: 2026-04-27 06:48 | Price: $44.76 | Mkt Cap: $38B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

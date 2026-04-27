@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBD
-*Generated: 2026-04-26 06:24 | Price: $27.07 | Mkt Cap: $68B*
+*Generated: 2026-04-27 06:40 | Price: $27.07 | Mkt Cap: $68B*
 
 ## Sector Context
 Communication Services / Entertainment

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMPR
-*Generated: 2026-04-25 06:00 | Price: $32.82 | Mkt Cap: $2B*
+*Generated: 2026-04-27 06:49 | Price: $32.82 | Mkt Cap: $2B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

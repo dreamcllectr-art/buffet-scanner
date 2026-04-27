@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AM
-*Generated: 2026-04-25 05:58 | Price: $21.37 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:43 | Price: $21.37 | Mkt Cap: $10B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -12,7 +12,7 @@ Energy / Oil & Gas Midstream
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 30.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 30.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Energy / Oil & Gas Midstream
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 10.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 22% (stable); FCF/NI: 138% (strong); Gross margin: 82% (pricing power for Energy) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 30.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 30.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 30.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 30.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 82% vs sector strong cutoff 30% — strong pricing power; Operating margin 59% — durable for Energy | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 68%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
@@ -38,7 +38,7 @@ Energy / Oil & Gas Midstream
 - **Circle of Competence**: Energy / Oil & Gas Midstream
 - **Margin of Safety**: -40% — ABSENT ($21 > IV $13 at 15x for -53% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 30.8% insider ownership
+- **Incentive-Caused Bias**: Aligned — 30.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

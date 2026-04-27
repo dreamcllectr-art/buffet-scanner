@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEA
-*Generated: 2026-04-25 05:58 | Price: $128.32 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:43 | Price: $128.32 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RAL
-*Generated: 2026-04-26 06:20 | Price: $44.63 | Mkt Cap: $5B*
+*Generated: 2026-04-27 06:44 | Price: $44.63 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Electronic Components

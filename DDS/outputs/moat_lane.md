@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDS
-*Generated: 2026-04-25 06:00 | Price: $595.2 | Mkt Cap: $9B*
+*Generated: 2026-04-27 06:50 | Price: $595.2 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Department Stores

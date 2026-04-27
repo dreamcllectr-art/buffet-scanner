@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNA
-*Generated: 2026-04-26 06:26 | Price: $48.18 | Mkt Cap: $13B*
+*Generated: 2026-04-27 06:50 | Price: $48.18 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

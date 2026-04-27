@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GXO
-*Generated: 2026-04-26 06:19 | Price: $56.27 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:43 | Price: $56.27 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHDN
-*Generated: 2026-04-26 06:20 | Price: $101.55 | Mkt Cap: $7B*
+*Generated: 2026-04-27 06:43 | Price: $101.55 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (4.4% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBC
-*Generated: 2026-04-26 06:27 | Price: $25.94 | Mkt Cap: $6B*
+*Generated: 2026-04-27 06:46 | Price: $25.94 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional

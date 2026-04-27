@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEIC
-*Generated: 2026-04-26 06:24 | Price: $88.84 | Mkt Cap: $11B*
+*Generated: 2026-04-27 06:42 | Price: $88.84 | Mkt Cap: $11B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -21,7 +21,7 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 29.6% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 15.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.2% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 30% — strong franchise (Financial Services); Operating margin 30% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 73% | - |
 | **TOTAL** | **8.3/10** | **100%** | **8.3** | | |

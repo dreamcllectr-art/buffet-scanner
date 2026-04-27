@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRS
-*Generated: 2026-04-26 06:17 | Price: $427.48 | Mkt Cap: $21B*
+*Generated: 2026-04-27 06:40 | Price: $427.48 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Metal Fabrication

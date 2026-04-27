@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BURL
-*Generated: 2026-04-26 06:17 | Price: $331.77 | Mkt Cap: $21B*
+*Generated: 2026-04-27 06:40 | Price: $331.77 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail

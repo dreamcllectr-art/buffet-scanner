@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPRX
-*Generated: 2026-04-26 06:17 | Price: $49.38 | Mkt Cap: $29B*
+*Generated: 2026-04-27 06:41 | Price: $49.38 | Mkt Cap: $29B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (7.0% inst.) as insider
 

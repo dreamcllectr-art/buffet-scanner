@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONA
-*Generated: 2026-04-25 06:00 | Price: $81.39 | Mkt Cap: $20B*
+*Generated: 2026-04-27 06:49 | Price: $81.39 | Mkt Cap: $20B*
 
 ## Sector Context
 Communication Services / Entertainment

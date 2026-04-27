@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-04-26 06:14 | Price: $52.81 | Mkt Cap: $35B*
+*Generated: 2026-04-27 06:37 | Price: $52.81 | Mkt Cap: $35B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -20,10 +20,10 @@ Consumer Cyclical / Resorts & Casinos
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 78% (pricing power for Consumer Cyclical) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.0% of shares (SBC concern) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 78% vs sector strong cutoff 45% — strong pricing power; Operating margin 25% — durable for Consumer Cyclical; Rev growth 25% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 50%; Earnings yield < 7% — tight vs index | - |
+| Quality | 3.2/10 | 30% | 1.0 | Avg ROIC: 8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 33% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 74%; Gross margin: 80% (pricing power for Consumer Cyclical) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.7% of shares (SBC concern) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 45% — strong pricing power; Operating margin 25% — durable for Consumer Cyclical; Rev growth 25% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 50%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10

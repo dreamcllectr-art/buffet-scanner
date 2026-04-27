@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MIDD
-*Generated: 2026-04-25 05:58 | Price: $141.93 | Mkt Cap: $7B*
+*Generated: 2026-04-27 06:43 | Price: $141.93 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

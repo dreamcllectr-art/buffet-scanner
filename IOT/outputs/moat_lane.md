@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IOT
-*Generated: 2026-04-26 06:24 | Price: $29.96 | Mkt Cap: $17B*
+*Generated: 2026-04-27 06:42 | Price: $29.96 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Software - Infrastructure

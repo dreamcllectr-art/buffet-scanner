@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCS
-*Generated: 2026-04-25 06:05 | Price: $24.01 | Mkt Cap: $5B*
+*Generated: 2026-04-27 06:49 | Price: $24.01 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Health Information Services

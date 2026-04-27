@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: W
-*Generated: 2026-04-25 05:58 | Price: $78.78 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:43 | Price: $78.78 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -21,7 +21,7 @@ Consumer Cyclical / Internet Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -103.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 93% (severe cyclicality); FCF/NI: -9% (weak conversion); Gross margin: 30% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Consumer Cyclical; Operating margin 2% — thin for Consumer Cyclical | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.8x — growth premium; 52w range position: 55%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |

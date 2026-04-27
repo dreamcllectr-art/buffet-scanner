@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KNSL
-*Generated: 2026-04-26 06:25 | Price: $345.08 | Mkt Cap: $8B*
+*Generated: 2026-04-27 06:43 | Price: $345.08 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified BAMCO Inc. (7.7% inst.) as insider
 

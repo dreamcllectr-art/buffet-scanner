@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EEFT
-*Generated: 2026-04-25 06:05 | Price: $74.23 | Mkt Cap: $3B*
+*Generated: 2026-04-27 06:49 | Price: $74.23 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.1% inst.) as insider
 

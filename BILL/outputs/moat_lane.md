@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BILL
-*Generated: 2026-04-25 06:05 | Price: $37.19 | Mkt Cap: $4B*
+*Generated: 2026-04-27 06:49 | Price: $37.19 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (10.3% inst.) as insider
 

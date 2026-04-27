@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-04-26 06:13 | Price: $27.56 | Mkt Cap: $98B*
+*Generated: 2026-04-27 06:35 | Price: $27.515 | Mkt Cap: $98B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,7 +23,7 @@ Communication Services / Telecom Services
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 123% (strong); Gross margin: 70% (pricing power for Communication Services) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 70% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 34%; Owner earnings yield: 4.1% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 33%; Owner earnings yield: 4.1% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

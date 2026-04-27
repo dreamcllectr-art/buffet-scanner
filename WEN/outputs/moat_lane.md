@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEN
-*Generated: 2026-04-26 06:26 | Price: $7.14 | Mkt Cap: $1B*
+*Generated: 2026-04-27 06:50 | Price: $7.14 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.0% inst.) as insider
 

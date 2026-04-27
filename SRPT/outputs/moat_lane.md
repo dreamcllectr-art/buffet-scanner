@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRPT
-*Generated: 2026-04-25 06:00 | Price: $20.3 | Mkt Cap: $2B*
+*Generated: 2026-04-27 06:50 | Price: $20.3 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (7.4% inst.) as insider
 
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -15.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 403% from prior peak; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 14% (weak conversion); Gross margin: -7% (below Healthcare norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.6% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -7% — below Healthcare moderate cutoff 35%; Operating margin -93% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 4.5% | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |

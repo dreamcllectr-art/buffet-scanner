@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BPOP
-*Generated: 2026-04-26 06:24 | Price: $147.04 | Mkt Cap: $10B*
+*Generated: 2026-04-27 06:42 | Price: $147.04 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Banks - Regional

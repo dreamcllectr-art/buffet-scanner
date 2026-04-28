@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAG
-*Generated: 2026-04-27 06:49 | Price: $160.42 | Mkt Cap: $11B*
+*Generated: 2026-04-28 06:48 | Price: $160.14 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships

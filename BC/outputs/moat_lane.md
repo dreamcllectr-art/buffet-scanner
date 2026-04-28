@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BC
-*Generated: 2026-04-27 06:44 | Price: $79.37 | Mkt Cap: $5B*
+*Generated: 2026-04-28 06:42 | Price: $80.19 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles
@@ -23,7 +23,7 @@ Consumer Cyclical / Recreational Vehicles
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 120% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 12% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 76%; Owner earnings yield: 8.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 78%; Owner earnings yield: 8.1% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

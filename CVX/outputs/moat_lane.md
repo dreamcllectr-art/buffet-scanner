@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-04-27 06:35 | Price: $185.21 | Mkt Cap: $369B*
+*Generated: 2026-04-28 06:35 | Price: $184.78 | Mkt Cap: $368B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Energy / Oil & Gas Integrated
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 105% (strong); Gross margin: 42% (pricing power for Energy) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.9% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 42% vs sector strong cutoff 30% — strong pricing power; Operating margin 9% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 64%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.7x — fair price; 52w range position: 63%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

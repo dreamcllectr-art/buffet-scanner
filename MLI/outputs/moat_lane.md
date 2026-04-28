@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLI
-*Generated: 2026-04-27 06:48 | Price: $136.02 | Mkt Cap: $15B*
+*Generated: 2026-04-28 06:40 | Price: $136.5 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -23,7 +23,7 @@ Industrials / Metal Fabrication
 | Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 28.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 28% (stable); FCF/NI: 98% (strong); Gross margin: 30% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 23% — durable for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.5x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.6x — fair price; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10

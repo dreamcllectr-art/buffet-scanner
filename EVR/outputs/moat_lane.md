@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EVR
-*Generated: 2026-04-27 06:48 | Price: $344.3 | Mkt Cap: $14B*
+*Generated: 2026-04-28 06:46 | Price: $347.79 | Mkt Cap: $14B*
 
 > ⚠ DATA: yfinance misclassified Wellington Management Group, LLP (4.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Financial Services / Capital Markets
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 30.1% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROE 30% — strong franchise (Financial Services); Operating margin 25%; Rev growth 32% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 77%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 2% — thin (IV $351 at 25x)
+- **Margin of Safety**: 1% — thin (IV $351 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKE
-*Generated: 2026-04-27 06:38 | Price: $87.5 | Mkt Cap: $55B*
+*Generated: 2026-04-28 06:37 | Price: $87.75 | Mkt Cap: $55B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 93% (strong); Gross margin: 30% (pricing power for Energy) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 30% vs sector strong cutoff 30% — strong pricing power; Operating margin 17% — durable for Energy; Rev growth 30% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 75%; Owner earnings yield: 1.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; 52w range position: 76%; Owner earnings yield: 1.3% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

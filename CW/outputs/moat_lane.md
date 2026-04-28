@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CW
-*Generated: 2026-04-27 06:40 | Price: $717.53 | Mkt Cap: $26B*
+*Generated: 2026-04-28 06:39 | Price: $717.16 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -64% — ABSENT ($718 > IV $257 at 20x for 20% growth)
+- **Margin of Safety**: -64% — ABSENT ($717 > IV $257 at 20x for 20% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

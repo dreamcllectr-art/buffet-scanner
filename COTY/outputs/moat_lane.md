@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COTY
-*Generated: 2026-04-27 06:50 | Price: $2.42 | Mkt Cap: $2B*
+*Generated: 2026-04-28 06:44 | Price: $2.4 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,7 +23,7 @@ Consumer Defensive / Household & Personal Products
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 172% from prior peak; 5y price drawdown: 85% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 64% (pricing power for Consumer Defensive) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 59.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 57.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 45% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 17.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 18.0% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

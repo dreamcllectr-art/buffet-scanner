@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-04-27 06:37 | Price: $151.15 | Mkt Cap: $11B*
+*Generated: 2026-04-28 06:37 | Price: $151.01 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 15% — thin (IV $174 at 25x)
+- **Margin of Safety**: 16% — thin (IV $174 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

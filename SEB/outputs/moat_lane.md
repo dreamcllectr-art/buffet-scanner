@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SEB
-*Generated: 2026-04-27 06:50 | Price: $5833.06 | Mkt Cap: $6B*
+*Generated: 2026-04-28 06:44 | Price: $5870.53 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -23,7 +23,7 @@ Industrials / Conglomerates
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 7% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 74.6% (>10%); No insider transaction data; Restricted stock: 74.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.3x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.4x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 121% — PRESENT (IV $12862 vs $5833 at 25x)
+- **Margin of Safety**: 119% — PRESENT (IV $12856 vs $5871 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 74.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ENTG
-*Generated: 2026-04-27 06:40 | Price: $155.98 | Mkt Cap: $24B*
+*Generated: 2026-04-28 06:39 | Price: $156.44 | Mkt Cap: $24B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -20,14 +20,14 @@ Technology / Semiconductor Equipment & Materials
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 4.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 59% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 45% | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 83% (strong); Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 45% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 35.2x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 35.3x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.1 / 10
-## Alpha Adjustment: -0.27
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.27 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SSNC
-*Generated: 2026-04-27 06:48 | Price: $67.29 | Mkt Cap: $16B*
+*Generated: 2026-04-28 06:40 | Price: $68.63 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Software - Application
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 158% (strong); Gross margin: 48% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 48% — moderate moat for Technology; Operating margin 24% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.0x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 7.7% (>5%) | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -38,7 +38,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -20% — ABSENT ($67 > IV $54 at 17x for 8% growth)
+- **Margin of Safety**: -22% — ABSENT ($69 > IV $54 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

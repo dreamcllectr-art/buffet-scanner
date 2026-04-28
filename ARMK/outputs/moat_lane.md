@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARMK
-*Generated: 2026-04-27 06:48 | Price: $46.28 | Mkt Cap: $12B*
+*Generated: 2026-04-28 06:46 | Price: $45.6 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -23,7 +23,7 @@ Industrials / Specialty Business Services
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 61% from prior peak; 5y price drawdown: 28% (stable); FCF/NI: 86% (strong); Gross margin: 15% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.7x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.4x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10

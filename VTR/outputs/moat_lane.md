@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-04-27 06:40 | Price: $83.62 | Mkt Cap: $40B*
+*Generated: 2026-04-28 06:46 | Price: $84.7 | Mkt Cap: $40B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -23,11 +23,11 @@ Real Estate / REIT - Healthcare Facilities
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -319% (weak conversion); Gross margin: 41% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 41% — moderate moat for Real Estate; Operating margin 20%; Rev growth 21% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 87.4x — extreme premium; 52w range position: 82%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 88.5x — extreme premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -87% — ABSENT ($84 > IV $11 at 20x for 10% growth)
+- **Margin of Safety**: -87% — ABSENT ($85 > IV $11 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

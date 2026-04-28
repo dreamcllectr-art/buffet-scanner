@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SIRI
-*Generated: 2026-04-27 06:44 | Price: $26.61 | Mkt Cap: $9B*
+*Generated: 2026-04-28 06:42 | Price: $26.55 | Mkt Cap: $9B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 283% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 104% (strong); Gross margin: 47% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 47.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 47% — moderate moat for Communication Services; Operating margin 22% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 77%; Owner earnings yield: 10.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; 52w range position: 76%; Owner earnings yield: 10.4% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

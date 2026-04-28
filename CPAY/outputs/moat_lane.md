@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPAY
-*Generated: 2026-04-27 06:35 | Price: $312.91 | Mkt Cap: $21B*
+*Generated: 2026-04-28 06:35 | Price: $312.77 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -18% — ABSENT ($313 > IV $255 at 17x for 9% growth)
+- **Margin of Safety**: -18% — ABSENT ($313 > IV $256 at 17x for 9% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 3.8% insider ownership
 - **Mr. Market**: Neutral

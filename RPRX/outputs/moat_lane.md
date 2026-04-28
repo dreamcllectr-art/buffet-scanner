@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPRX
-*Generated: 2026-04-27 06:41 | Price: $49.38 | Mkt Cap: $29B*
+*Generated: 2026-04-28 06:39 | Price: $49.65 | Mkt Cap: $29B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (7.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Healthcare / Biotechnology
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 32% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 1479% (strong); Gross margin: 112% (pricing power for Healthcare) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 112% vs sector strong cutoff 55% — strong pricing power; Operating margin 58% — durable for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.9x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.0x — deep value; Near 52w high (98% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -38,7 +38,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -39% — ABSENT ($49 > IV $30 at 17x for 9% growth)
+- **Margin of Safety**: -39% — ABSENT ($50 > IV $30 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

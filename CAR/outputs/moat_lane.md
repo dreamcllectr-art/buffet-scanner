@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAR
-*Generated: 2026-04-27 06:45 | Price: $204.0 | Mkt Cap: $7B*
+*Generated: 2026-04-28 06:48 | Price: $187.07 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -20,10 +20,10 @@ Industrials / Rental & Leasing Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 166% from prior peak; FCF/NI: 194% (strong); Gross margin: 24% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); No insider transaction data; Restricted stock: 71.3% of shares (SBC concern) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 166% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 194% (strong); Gross margin: 24% | ROIC declining |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 73.5% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 24% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.8x — growth premium; Near 52w low (15% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.5x — growth premium; Near 52w low (13% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10

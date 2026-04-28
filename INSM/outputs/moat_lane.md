@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSM
-*Generated: 2026-04-27 06:40 | Price: $135.17 | Mkt Cap: $29B*
+*Generated: 2026-04-28 06:39 | Price: $135.98 | Mkt Cap: $29B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -20,10 +20,10 @@ Healthcare / Biotechnology
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -53.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 78%; Gross margin: 80% (pricing power for Healthcare) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -53.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 78%; Gross margin: 80% (pricing power for Healthcare) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin -95% — thin for Healthcare; Rev growth 153% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 180.4x — extreme premium; 52w range position: 48%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 181.5x — extreme premium; 52w range position: 48%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
 ## Buffett Score: 3.2 / 10

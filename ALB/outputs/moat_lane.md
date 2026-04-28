@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALB
-*Generated: 2026-04-27 06:34 | Price: $188.33 | Mkt Cap: $22B*
+*Generated: 2026-04-28 06:34 | Price: $199.53 | Mkt Cap: $24B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,11 +23,11 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 144% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: -20% (weak conversion); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin 2% — thin for Basic Materials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 83%; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.6x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
 
-## Buffett Score: 3.1 / 10
-## Alpha Adjustment: -0.27
+## Buffett Score: 2.9 / 10
+## Alpha Adjustment: -0.28
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Basic Materials / Specialty Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.27 applied to composite alpha score
+Buffett Premium: -0.28 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

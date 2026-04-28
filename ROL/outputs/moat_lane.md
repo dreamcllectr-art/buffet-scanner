@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROL
-*Generated: 2026-04-27 06:39 | Price: $56.6 | Mkt Cap: $27B*
+*Generated: 2026-04-28 06:45 | Price: $55.97 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services
@@ -23,10 +23,10 @@ Consumer Cyclical / Personal Services
 | Quality | 10.0/10 | 30% | 3.0 | Avg ROIC: 29.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 120% (strong); Gross margin: 53% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 35.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 16% — durable for Consumer Cyclical | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.6x — expensive; 52w range position: 31%; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 40.1x — expensive; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 1.9%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
-## Buffett Score: 8.1 / 10
+## Buffett Score: 8.4 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,10 +36,10 @@ Consumer Cyclical / Personal Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Personal Services
-- **Margin of Safety**: -71% — ABSENT ($57 > IV $16 at 15x for 1% growth)
+- **Margin of Safety**: -71% — ABSENT ($56 > IV $16 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 38.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (2 forces only: high quality, strong moat)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAIL
-*Generated: 2026-04-27 06:50 | Price: $11.95 | Mkt Cap: $7B*
+*Generated: 2026-04-28 06:44 | Price: $11.87 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: -14.3% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 26% (weak conversion); Gross margin: 64% (pricing power for Technology) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 87.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 64% vs sector strong cutoff 60% — strong pricing power; Operating margin -14% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.9x — expensive; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 30.7x — expensive; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 4.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBS
-*Generated: 2026-04-27 06:48 | Price: $71.81 | Mkt Cap: $12B*
+*Generated: 2026-04-28 06:46 | Price: $71.84 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Banks - Regional

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTRA
-*Generated: 2026-04-27 06:35 | Price: $33.53 | Mkt Cap: $25B*
+*Generated: 2026-04-28 06:35 | Price: $33.67 | Mkt Cap: $26B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -23,7 +23,7 @@ Energy / Oil & Gas E&P
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 14.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 94% (strong); Gross margin: 74% (pricing power for Energy) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 74% vs sector strong cutoff 30% — strong pricing power; Operating margin 33% — durable for Energy; Rev growth 23% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 77%; Owner earnings yield: 4.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 78%; Owner earnings yield: 4.8% | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 67% — PRESENT (IV $56 vs $34 at 25x)
+- **Margin of Safety**: 66% — PRESENT (IV $56 vs $34 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

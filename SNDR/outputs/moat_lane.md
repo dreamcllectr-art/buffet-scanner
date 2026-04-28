@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDR
-*Generated: 2026-04-27 06:50 | Price: $30.28 | Mkt Cap: $5B*
+*Generated: 2026-04-28 06:44 | Price: $30.56 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Trucking
@@ -23,7 +23,7 @@ Industrials / Trucking
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.9% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 71%; Gross margin: 17% (below Industrials norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 26.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 17% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.4x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.6x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -71% — ABSENT ($30 > IV $9 at 15x for -30% growth)
+- **Margin of Safety**: -71% — ABSENT ($31 > IV $9 at 15x for -30% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 50.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

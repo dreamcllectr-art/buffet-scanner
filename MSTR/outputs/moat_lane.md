@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSTR
-*Generated: 2026-04-27 06:40 | Price: $171.02 | Mkt Cap: $60B*
+*Generated: 2026-04-28 06:39 | Price: $169.2 | Mkt Cap: $59B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,12 +21,12 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 997% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 516% (strong); Gross margin: 69% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.6% (low) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 69% vs sector strong cutoff 60% — strong pricing power; Operating margin -4402% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; Near 52w low (19% of range) — Mr. Market fearful | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; Near 52w low (18% of range) — Mr. Market fearful | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

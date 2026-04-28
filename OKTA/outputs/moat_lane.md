@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OKTA
-*Generated: 2026-04-27 06:48 | Price: $75.98 | Mkt Cap: $13B*
+*Generated: 2026-04-28 06:46 | Price: $76.14 | Mkt Cap: $13B*
 
 ## Sector Context
 Technology / Software - Infrastructure

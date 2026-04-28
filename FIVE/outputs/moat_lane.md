@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIVE
-*Generated: 2026-04-27 06:48 | Price: $234.01 | Mkt Cap: $13B*
+*Generated: 2026-04-28 06:40 | Price: $234.25 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

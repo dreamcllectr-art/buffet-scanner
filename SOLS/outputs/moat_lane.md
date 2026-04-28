@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SOLS
-*Generated: 2026-04-27 06:48 | Price: $81.3 | Mkt Cap: $13B*
+*Generated: 2026-04-28 06:40 | Price: $81.37 | Mkt Cap: $13B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 17.7% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 67% from prior peak; 5y price drawdown: 17% (stable); FCF/NI: 70%; Gross margin: 32% (pricing power for Basic Materials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 32% vs sector strong cutoff 30% — strong pricing power; Operating margin 12% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.8x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.9x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

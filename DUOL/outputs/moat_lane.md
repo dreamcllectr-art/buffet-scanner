@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DUOL
-*Generated: 2026-04-27 06:45 | Price: $103.45 | Mkt Cap: $5B*
+*Generated: 2026-04-28 06:48 | Price: $103.3 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Application

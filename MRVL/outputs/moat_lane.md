@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRVL
-*Generated: 2026-04-27 06:40 | Price: $164.31 | Mkt Cap: $144B*
+*Generated: 2026-04-28 06:39 | Price: $158.21 | Mkt Cap: $138B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,11 +23,11 @@ Technology / Semiconductors
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -217% (weak conversion); Gross margin: 51% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 51% — moderate moat for Technology; Operating margin 19%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.3x — expensive; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.2x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -53% — ABSENT ($164 > IV $77 at 25x for 25% growth)
+- **Margin of Safety**: -51% — ABSENT ($158 > IV $77 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

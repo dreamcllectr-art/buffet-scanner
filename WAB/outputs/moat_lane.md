@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAB
-*Generated: 2026-04-27 06:40 | Price: $267.06 | Mkt Cap: $45B*
+*Generated: 2026-04-28 06:46 | Price: $267.22 | Mkt Cap: $45B*
 
 ## Sector Context
 Industrials / Railroads
@@ -23,7 +23,7 @@ Industrials / Railroads
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 7.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 137% (strong); Gross margin: 35% (pricing power for Industrials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 19% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.1x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 22.0x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

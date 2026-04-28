@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYAN
-*Generated: 2026-04-27 06:49 | Price: $34.61 | Mkt Cap: $9B*
+*Generated: 2026-04-28 06:48 | Price: $34.74 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty

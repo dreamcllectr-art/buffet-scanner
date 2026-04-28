@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMMT
-*Generated: 2026-04-27 06:49 | Price: $22.08 | Mkt Cap: $17B*
+*Generated: 2026-04-28 06:48 | Price: $22.12 | Mkt Cap: $17B*
 
 ## Sector Context
 Healthcare / Biotechnology

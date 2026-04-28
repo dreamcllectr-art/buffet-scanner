@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACN
-*Generated: 2026-04-27 06:34 | Price: $178.36 | Mkt Cap: $110B*
+*Generated: 2026-04-28 06:34 | Price: $176.97 | Mkt Cap: $109B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,10 +20,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Fallback ROE: 24.8%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 32% (below Technology norm) | - |
+| Quality | 5.0/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 27.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 32% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 11.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 11.2% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

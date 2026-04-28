@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLPI
-*Generated: 2026-04-27 06:48 | Price: $47.31 | Mkt Cap: $13B*
+*Generated: 2026-04-28 06:40 | Price: $47.27 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -23,7 +23,7 @@ Real Estate / REIT - Specialty
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 8.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 17% (stable); FCF/NI: 123% (strong); Gross margin: 99% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 99% vs sector strong cutoff 55% — strong pricing power; Operating margin 79% — durable for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 70%; Owner earnings yield: 3.6% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 69%; Owner earnings yield: 3.6% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

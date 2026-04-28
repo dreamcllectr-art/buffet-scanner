@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFL
-*Generated: 2026-04-27 06:34 | Price: $114.62 | Mkt Cap: $59B*
+*Generated: 2026-04-28 06:34 | Price: $114.68 | Mkt Cap: $59B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.1% inst.) as insider
 

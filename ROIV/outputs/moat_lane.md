@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROIV
-*Generated: 2026-04-27 06:48 | Price: $27.41 | Mkt Cap: $20B*
+*Generated: 2026-04-28 06:46 | Price: $27.85 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,9 +21,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -27.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 104% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 160% (strong); Gross margin: 0% (below Healthcare norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 25.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 22.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 25.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Healthcare moderate cutoff 35%; Operating margin -16965% — thin for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -23.7x — deep value; Near 52w high (85% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -24.0x — deep value; Near 52w high (87% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

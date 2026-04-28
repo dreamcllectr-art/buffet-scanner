@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-04-27 06:34 | Price: $95.25 | Mkt Cap: $14B*
+*Generated: 2026-04-28 06:34 | Price: $95.93 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 147% (strong); Gross margin: 59% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 59% — moderate moat for Technology; Operating margin 14% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 50%; Owner earnings yield: 4.1% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 51%; Owner earnings yield: 4.1% | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -52% — ABSENT ($95 > IV $46 at 15x for -37% growth)
+- **Margin of Safety**: -52% — ABSENT ($96 > IV $46 at 15x for -37% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

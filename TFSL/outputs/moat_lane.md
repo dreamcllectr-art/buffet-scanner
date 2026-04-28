@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFSL
-*Generated: 2026-04-27 06:50 | Price: $14.68 | Mkt Cap: $4B*
+*Generated: 2026-04-28 06:44 | Price: $14.96 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 3.5/10 | 30% | 1.1 | ROE: 4.8% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 82.1% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 37% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.4x — expensive; 52w range position: 74%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 42.1x — expensive; 52w range position: 84%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: -67% — ABSENT ($15 > IV $5 at 15x for -1% growth)
+- **Margin of Safety**: -68% — ABSENT ($15 > IV $5 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-04-28 06:35 | Price: $43.5 | Mkt Cap: $21B*
+*Generated: 2026-04-29 06:30 | Price: $49.57 | Mkt Cap: $24B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -11,7 +11,7 @@ Healthcare / Healthcare Plans
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,14 +20,14 @@ Healthcare / Healthcare Plans
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 302% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 10% (below Healthcare norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 302% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 11% (below Healthcare norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Healthcare moderate cutoff 35%; Operating margin -2% — thin for Healthcare; Rev growth 23% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 47%; Owner earnings yield: 23.6% (>5%) | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; 52w range position: 63%; Owner earnings yield: 27.9% (>5%) | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -37,18 +37,18 @@ Healthcare / Healthcare Plans
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSY
-*Generated: 2026-04-28 06:36 | Price: $186.49 | Mkt Cap: $38B*
+*Generated: 2026-04-29 06:31 | Price: $187.92 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Confectioners
@@ -23,7 +23,7 @@ Consumer Defensive / Confectioners
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 18.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 60% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 34% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 15% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.9x — fair price; 52w range position: 41%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 42%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Confectioners
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Confectioners
-- **Margin of Safety**: -65% — ABSENT ($186 > IV $65 at 15x for -60% growth)
+- **Margin of Safety**: -65% — ABSENT ($188 > IV $65 at 15x for -60% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

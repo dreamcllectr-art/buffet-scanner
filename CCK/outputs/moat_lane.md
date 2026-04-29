@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCK
-*Generated: 2026-04-28 06:46 | Price: $101.61 | Mkt Cap: $11B*
+*Generated: 2026-04-29 06:41 | Price: $100.17 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -21,12 +21,12 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 11.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 42% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 22% (below Consumer Cyclical norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
-| Moat | 5.0/10 | 25% | 1.2 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 12% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; 52w range position: 45%; Owner earnings yield: 8.0% (>5%) | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 22% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 40%; Owner earnings yield: 6.3% (>5%) | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: -7% — ABSENT ($102 > IV $94 at 15x for -56% growth)
+- **Margin of Safety**: -6% — ABSENT ($100 > IV $94 at 15x for -6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UWMC
-*Generated: 2026-04-28 06:44 | Price: $3.74 | Mkt Cap: $1B*
+*Generated: 2026-04-29 06:39 | Price: $3.65 | Mkt Cap: $1B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -12,7 +12,7 @@ Financial Services / Mortgage Finance
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 17.4x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 13.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 13.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Financial Services / Mortgage Finance
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | ROE: 13.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.6% (>10%); No insider transaction data; Restricted stock: 23.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.5% (>10%); No insider transaction data; Restricted stock: 23.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 13% — adequate (Financial Services); Operating margin 31% — durable for Financial Services; Rev growth 301% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 150.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 154.1% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Financial Services / Mortgage Finance
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Mortgage Finance
-- **Margin of Safety**: -20% — ABSENT ($4 > IV $3 at 25x for 25% growth)
+- **Margin of Safety**: -18% — ABSENT ($4 > IV $3 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Aligned — 13.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 13.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

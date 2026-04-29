@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-04-28 06:35 | Price: $321.53 | Mkt Cap: $60B*
+*Generated: 2026-04-29 06:30 | Price: $303.97 | Mkt Cap: $57B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,11 +23,11 @@ Technology / Scientific & Technical Instruments
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 211% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 57%; Gross margin: 36% (below Technology norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.3x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.2/10** | **100%** | **2.2** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 40.0x — expensive; 52w range position: 80%; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.5/10** | **100%** | **2.5** | | |
 
-## Buffett Score: 2.2 / 10
-## Alpha Adjustment: -0.33
+## Buffett Score: 2.5 / 10
+## Alpha Adjustment: -0.31
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -92% — ABSENT ($322 > IV $26 at 25x for 25% growth)
+- **Margin of Safety**: -92% — ABSENT ($304 > IV $26 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.33 applied to composite alpha score
+Buffett Premium: -0.31 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

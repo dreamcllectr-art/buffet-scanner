@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRPT
-*Generated: 2026-04-28 06:48 | Price: $65.45 | Mkt Cap: $3B*
+*Generated: 2026-04-29 06:43 | Price: $65.65 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -21,9 +21,9 @@ Consumer Defensive / Packaged Foods
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 0.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 221% (strong); Gross margin: 41% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 41% — moderate moat for Consumer Defensive; Operating margin 16% — durable for Consumer Defensive | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.7x — expensive; 52w range position: 43%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 33.0x — expensive; 52w range position: 44%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

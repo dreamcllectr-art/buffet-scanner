@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOUR
-*Generated: 2026-04-28 06:48 | Price: $45.0 | Mkt Cap: $4B*
+*Generated: 2026-04-29 06:43 | Price: $46.23 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,9 +21,9 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 4.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 48% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 135% (strong); Gross margin: 34% (below Technology norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.2% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 11% — thin for Technology; Rev growth 34% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 12.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 12.8% (>5%) | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -64% — ABSENT ($45 > IV $16 at 15x for -72% growth)
+- **Margin of Safety**: -65% — ABSENT ($46 > IV $16 at 15x for -72% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 28.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

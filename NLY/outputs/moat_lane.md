@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NLY
-*Generated: 2026-04-28 06:40 | Price: $22.84 | Mkt Cap: $17B*
+*Generated: 2026-04-29 06:34 | Price: $22.83 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage

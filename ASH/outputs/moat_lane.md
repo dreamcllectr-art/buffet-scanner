@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASH
-*Generated: 2026-04-28 06:48 | Price: $57.7 | Mkt Cap: $3B*
+*Generated: 2026-04-29 06:43 | Price: $57.0 | Mkt Cap: $3B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,7 +23,7 @@ Basic Materials / Specialty Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 191% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 42% (weak conversion); Gross margin: 34% (pricing power for Basic Materials) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% vs sector strong cutoff 30% — strong pricing power; Operating margin 1% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 59%; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 55%; Owner earnings yield: 5.2% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

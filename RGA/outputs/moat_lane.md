@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RGA
-*Generated: 2026-04-28 06:40 | Price: $209.66 | Mkt Cap: $14B*
+*Generated: 2026-04-29 06:35 | Price: $209.93 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance
@@ -23,7 +23,7 @@ Financial Services / Insurance - Reinsurance
 | Quality | 4.9/10 | 30% | 1.5 | ROE: 9.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROE 10% — weak (Financial Services); Operating margin 9% — thin for Financial Services; Rev growth 27% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 69%; Owner earnings yield: 13.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 70%; Owner earnings yield: 13.1% (>5%) | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

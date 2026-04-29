@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-04-28 06:36 | Price: $267.88 | Mkt Cap: $76B*
+*Generated: 2026-04-29 06:31 | Price: $266.96 | Mkt Cap: $75B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -20,10 +20,10 @@ Basic Materials / Specialty Chemicals
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 45% (pricing power for Basic Materials) | - |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 44% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 30% — strong pricing power; Operating margin 19% — durable for Basic Materials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.6x — growth premium; 52w range position: 39%; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 44% vs sector strong cutoff 30% — strong pricing power; Operating margin 16% — durable for Basic Materials | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.5x — growth premium; 52w range position: 35%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -32% — ABSENT ($268 > IV $182 at 25x for 20% growth)
+- **Margin of Safety**: -54% — ABSENT ($267 > IV $124 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

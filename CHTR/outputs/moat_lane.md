@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-04-28 06:35 | Price: $174.61 | Mkt Cap: $25B*
+*Generated: 2026-04-29 06:30 | Price: $173.11 | Mkt Cap: $24B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -12,7 +12,7 @@ Communication Services / Telecom Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.4x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 31.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 36.3%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 83% (strong); Gross margin: 55% (pricing power for Communication Services) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 31.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 43.4% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 36.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 44.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 24% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.0x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.9x — deep value; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 9.8% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 260% — PRESENT (IV $628 vs $175 at 17x)
+- **Margin of Safety**: 263% — PRESENT (IV $628 vs $173 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 31.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 36.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

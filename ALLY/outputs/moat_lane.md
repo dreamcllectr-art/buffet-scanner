@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALLY
-*Generated: 2026-04-28 06:46 | Price: $44.4 | Mkt Cap: $14B*
+*Generated: 2026-04-29 06:35 | Price: $44.41 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Credit Services

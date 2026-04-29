@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NUE
-*Generated: 2026-04-28 06:37 | Price: $215.0 | Mkt Cap: $49B*
+*Generated: 2026-04-29 06:32 | Price: $225.11 | Mkt Cap: $51B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -11,7 +11,7 @@ Basic Materials / Steel
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.2%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,35 +20,35 @@ Basic Materials / Steel
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 12% (below Basic Materials norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 12% — below Basic Materials moderate cutoff 18%; Operating margin 7% — thin for Basic Materials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.2x — fair price; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 61%; Gross margin: 14% (below Basic Materials norm) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 14% — below Basic Materials moderate cutoff 18%; Operating margin 12%; Rev growth 21% — demand pull | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.9x — fair price; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.1 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 17% — thin (IV $252 at 25x)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: 12% — thin (IV $252 at 25x)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

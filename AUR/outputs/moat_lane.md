@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AUR
-*Generated: 2026-04-28 06:42 | Price: $5.01 | Mkt Cap: $10B*
+*Generated: 2026-04-29 06:37 | Price: $4.95 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -33.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 67%; Gross margin: 0% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 24.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 24.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Technology moderate cutoff 40%; Operating margin -23800% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.1x — deep value; 52w range position: 30% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.0x — deep value; Near 52w low (29% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -39,7 +39,7 @@ Technology / Information Technology Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 24.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

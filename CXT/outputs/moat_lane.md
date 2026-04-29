@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CXT
-*Generated: 2026-04-28 06:48 | Price: $44.32 | Mkt Cap: $3B*
+*Generated: 2026-04-29 06:43 | Price: $44.3 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (15.0% inst.) as insider
 

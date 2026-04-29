@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INGR
-*Generated: 2026-04-28 06:41 | Price: $113.01 | Mkt Cap: $7B*
+*Generated: 2026-04-29 06:36 | Price: $113.01 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

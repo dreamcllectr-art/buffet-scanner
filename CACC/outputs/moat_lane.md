@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CACC
-*Generated: 2026-04-28 06:48 | Price: $515.24 | Mkt Cap: $6B*
+*Generated: 2026-04-29 06:43 | Price: $516.79 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -23,7 +23,7 @@ Financial Services / Credit Services
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 25.9% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 50.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 49.5% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 26% — strong franchise (Financial Services); Operating margin 47% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 77% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
 ## Buffett Score: 7.9 / 10

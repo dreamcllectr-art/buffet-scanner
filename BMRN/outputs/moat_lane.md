@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BMRN
-*Generated: 2026-04-27 06:49 | Price: $53.18 | Mkt Cap: $10B*
+*Generated: 2026-04-29 06:41 | Price: $53.3 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Biotechnology

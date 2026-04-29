@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEGA
-*Generated: 2026-04-28 06:48 | Price: $36.77 | Mkt Cap: $6B*
+*Generated: 2026-04-29 06:43 | Price: $35.96 | Mkt Cap: $6B*
 
 ## Sector Context
 Technology / Software - Application
@@ -12,7 +12,7 @@ Technology / Software - Application
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Application | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.3x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 46.7%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 47.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 8.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 191% (strong); Gross margin: 75% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 46.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 47.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 46.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 9% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,9 +36,9 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -25% — ABSENT ($37 > IV $28 at 15x for -61% growth)
+- **Margin of Safety**: -23% — ABSENT ($36 > IV $28 at 15x for -61% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 46.7% insider ownership
+- **Incentive-Caused Bias**: Aligned — 47.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

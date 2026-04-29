@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TMUS
-*Generated: 2026-04-28 06:45 | Price: $182.75 | Mkt Cap: $201B*
+*Generated: 2026-04-29 06:40 | Price: $186.72 | Mkt Cap: $202B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -21,9 +21,9 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 7.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 75%; Gross margin: 63% (pricing power for Communication Services) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 55.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 53.2% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 55.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 52.4% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 4.0% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 4.0% | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: -20% — ABSENT ($183 > IV $146 at 15x for -27% growth)
+- **Margin of Safety**: -24% — ABSENT ($187 > IV $141 at 15x for -27% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 55.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

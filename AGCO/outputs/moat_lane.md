@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGCO
-*Generated: 2026-04-28 06:41 | Price: $117.51 | Mkt Cap: $9B*
+*Generated: 2026-04-29 06:36 | Price: $115.26 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -23,7 +23,7 @@ Industrials / Farm & Heavy Construction Machinery
 | Quality | 0.2/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 136% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 33% (weak conversion); Gross margin: 25% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 57%; Owner earnings yield: 10.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 54%; Owner earnings yield: 10.2% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: 24% — thin (IV $146 at 15x)
+- **Margin of Safety**: 27% — thin (IV $146 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 17.4% insider ownership
 - **Mr. Market**: Neutral

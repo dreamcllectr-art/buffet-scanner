@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHDN
-*Generated: 2026-04-28 06:42 | Price: $100.39 | Mkt Cap: $7B*
+*Generated: 2026-04-29 06:37 | Price: $99.52 | Mkt Cap: $7B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (4.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Gambling
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 11.3% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 34% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Cyclical; Operating margin 22% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 53%; Owner earnings yield: 1.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; 52w range position: 50%; Owner earnings yield: 1.8% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Gambling
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Gambling
-- **Margin of Safety**: 8% — thin (IV $109 at 20x)
+- **Margin of Safety**: 9% — thin (IV $109 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

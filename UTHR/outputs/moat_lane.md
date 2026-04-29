@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UTHR
-*Generated: 2026-04-28 06:39 | Price: $566.99 | Mkt Cap: $25B*
+*Generated: 2026-04-29 06:34 | Price: $569.11 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - Specialty & Generic
-- **Margin of Safety**: 23% — thin (IV $696 at 25x)
+- **Margin of Safety**: 23% — thin (IV $697 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

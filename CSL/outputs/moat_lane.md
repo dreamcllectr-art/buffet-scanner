@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSL
-*Generated: 2026-04-28 06:40 | Price: $361.28 | Mkt Cap: $15B*
+*Generated: 2026-04-29 06:35 | Price: $357.06 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Quality | 5.4/10 | 30% | 1.6 | Avg ROIC: 17.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 44% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 107% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 48%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.2x — fair price; 52w range position: 45%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -29% — ABSENT ($361 > IV $257 at 15x for -3% growth)
+- **Margin of Safety**: -28% — ABSENT ($357 > IV $257 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

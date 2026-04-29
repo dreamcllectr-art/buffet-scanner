@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGNC
-*Generated: 2026-04-28 06:46 | Price: $11.1 | Mkt Cap: $13B*
+*Generated: 2026-04-29 06:41 | Price: $11.08 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -23,7 +23,7 @@ Real Estate / REIT - Mortgage
 | Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 13.2%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: -28% (weak conversion); Gross margin: 100% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 100% vs sector strong cutoff 55% — strong pricing power; Operating margin 130% — durable for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 70% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 69% | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

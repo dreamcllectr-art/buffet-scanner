@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLM
-*Generated: 2026-04-28 06:42 | Price: $23.43 | Mkt Cap: $4B*
+*Generated: 2026-04-29 06:37 | Price: $23.43 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Credit Services

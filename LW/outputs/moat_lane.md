@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LW
-*Generated: 2026-04-28 06:42 | Price: $43.32 | Mkt Cap: $6B*
+*Generated: 2026-04-29 06:37 | Price: $43.08 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

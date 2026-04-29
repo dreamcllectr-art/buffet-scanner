@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-04-28 06:37 | Price: $100.7 | Mkt Cap: $93B*
+*Generated: 2026-04-29 06:32 | Price: $101.4 | Mkt Cap: $94B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 3.1/10 | 30% | 0.9 | ROE: 8.6% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 33% — durable for Financial Services; Rev growth 76% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; Near 52w low (26% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

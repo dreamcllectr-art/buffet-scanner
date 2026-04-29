@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INSP
-*Generated: 2026-04-28 06:44 | Price: $55.07 | Mkt Cap: $2B*
+*Generated: 2026-04-29 06:39 | Price: $55.11 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Devices

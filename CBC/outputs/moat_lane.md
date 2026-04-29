@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBC
-*Generated: 2026-04-28 06:44 | Price: $26.41 | Mkt Cap: $6B*
+*Generated: 2026-04-29 06:39 | Price: $25.89 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,11 +23,11 @@ Financial Services / Banks - Regional
 | Quality | 6.3/10 | 30% | 1.9 | ROE: 11.3% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 7% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 66.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 66.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 11% — adequate (Financial Services); Operating margin 50% — durable for Financial Services; Rev growth 32% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.2x — deep value; Near 52w high (98% of range) — Mr. Market greedy | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; 52w range position: 80% | - |
+| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 7.9 / 10
+## Alpha Adjustment: +0.29
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: -97% — ABSENT ($26 > IV $1 at 25x for 25% growth)
+- **Margin of Safety**: -96% — ABSENT ($26 > IV $1 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 66.7% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.29 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

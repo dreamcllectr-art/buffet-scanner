@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-04-28 06:37 | Price: $108.44 | Mkt Cap: $21B*
+*Generated: 2026-04-29 06:32 | Price: $108.28 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Software - Infrastructure

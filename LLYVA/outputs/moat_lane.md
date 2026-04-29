@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLYVA
-*Generated: 2026-04-28 06:44 | Price: $91.35 | Mkt Cap: $8B*
+*Generated: 2026-04-29 06:39 | Price: $90.71 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -7.3% (3y); Earnings: 2/2 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 22% (weak conversion); Gross margin: 19% (below Communication Services norm) | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 23.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -87.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Communication Services moderate cutoff 40%; Operating margin -11% — thin for Communication Services; Rev growth 29% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.1x — expensive; 52w range position: 73%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 48.8x — expensive; 52w range position: 71%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

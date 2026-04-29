@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DKNG
-*Generated: 2026-04-28 06:46 | Price: $23.53 | Mkt Cap: $12B*
+*Generated: 2026-04-29 06:41 | Price: $23.4 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Gambling
@@ -23,7 +23,7 @@ Consumer Cyclical / Gambling
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -23.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 84% (severe cyclicality); FCF/NI: 3428% (strong); Gross margin: 76% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 76% vs sector strong cutoff 45% — strong pricing power; Operating margin 8%; Rev growth 43% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

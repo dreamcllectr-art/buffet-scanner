@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JAZZ
-*Generated: 2026-04-28 06:46 | Price: $201.22 | Mkt Cap: $13B*
+*Generated: 2026-04-29 06:41 | Price: $203.98 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -12,7 +12,7 @@ Healthcare / Biotechnology
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Biotechnology | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 3.1%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 3.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 164% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: -43% (weak conversion); Gross margin: 92% (pricing power for Healthcare) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 92% vs sector strong cutoff 55% — strong pricing power; Operating margin 27% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 10.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.1x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 10.6% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +38,7 @@ Healthcare / Biotechnology
 - **Circle of Competence**: Healthcare / Biotechnology
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 3.1% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

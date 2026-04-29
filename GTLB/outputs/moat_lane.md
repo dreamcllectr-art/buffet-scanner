@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GTLB
-*Generated: 2026-04-28 06:48 | Price: $21.45 | Mkt Cap: $4B*
+*Generated: 2026-04-29 06:43 | Price: $22.44 | Mkt Cap: $4B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -17.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 85% (severe cyclicality); FCF/NI: 179% (strong); Gross margin: 87% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 87% vs sector strong cutoff 60% — strong pricing power; Operating margin -1% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 21.9x — growth premium; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 22.9x — growth premium; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 7.4% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

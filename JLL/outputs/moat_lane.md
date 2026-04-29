@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JLL
-*Generated: 2026-04-28 06:40 | Price: $341.87 | Mkt Cap: $16B*
+*Generated: 2026-04-29 06:34 | Price: $341.55 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / Real Estate Services

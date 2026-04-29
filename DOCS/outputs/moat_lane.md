@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOCS
-*Generated: 2026-04-28 06:48 | Price: $24.66 | Mkt Cap: $5B*
+*Generated: 2026-04-29 06:43 | Price: $24.57 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Health Information Services
@@ -36,7 +36,7 @@ Healthcare / Health Information Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Health Information Services
-- **Margin of Safety**: -28% — ABSENT ($25 > IV $18 at 15x for -16% growth)
+- **Margin of Safety**: -27% — ABSENT ($25 > IV $18 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OWL
-*Generated: 2026-04-29 06:37 | Price: $8.86 | Mkt Cap: $6B*
+*Generated: 2026-04-30 06:42 | Price: $8.88 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 1.5/10 | 30% | 0.4 | ROE: 5.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 67% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 32% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 22.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 9.7% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

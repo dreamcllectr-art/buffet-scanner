@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AIT
-*Generated: 2026-04-29 06:41 | Price: $301.24 | Mkt Cap: $11B*
+*Generated: 2026-04-30 06:39 | Price: $296.57 | Mkt Cap: $11B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -12,7 +12,7 @@ Industrials / Industrial Distribution
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Industrial Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 17.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 91% (strong); Gross margin: 30% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 30% — moderate moat for Industrials; Operating margin 11% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.9x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.3x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10
@@ -36,9 +36,9 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -47% — ABSENT ($301 > IV $159 at 15x for 3% growth)
+- **Margin of Safety**: -46% — ABSENT ($297 > IV $159 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

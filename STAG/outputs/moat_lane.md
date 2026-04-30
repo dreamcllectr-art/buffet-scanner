@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STAG
-*Generated: 2026-04-29 06:36 | Price: $39.56 | Mkt Cap: $8B*
+*Generated: 2026-04-30 06:46 | Price: $38.09 | Mkt Cap: $7B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -11,7 +11,7 @@ Real Estate / REIT - Industrial
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.3x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Real Estate / REIT - Industrial
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 182% (strong); Gross margin: 80% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin 38% — durable for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 45.0x — expensive; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 182% (strong); Gross margin: 80% (pricing power for Real Estate) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin 37% — durable for Real Estate | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 43.3x — expensive; 52w range position: 74%; Owner earnings yield: 6.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -8% — ABSENT ($40 > IV $36 at 25x for 25% growth)
+- **Margin of Safety**: -49% — ABSENT ($38 > IV $19 at 15x for -35% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-04-29 06:30 | Price: $454.99 | Mkt Cap: $115B*
+*Generated: 2026-04-30 06:34 | Price: $452.38 | Mkt Cap: $115B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 325% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin 1% — thin for Technology; Rev growth 23% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 73.7x — extreme premium; 52w range position: 50%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 73.3x — extreme premium; 52w range position: 49%; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10

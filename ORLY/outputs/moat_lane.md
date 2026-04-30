@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORLY
-*Generated: 2026-04-29 06:32 | Price: $91.57 | Mkt Cap: $77B*
+*Generated: 2026-04-30 06:36 | Price: $91.69 | Mkt Cap: $77B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

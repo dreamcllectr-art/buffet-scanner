@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HII
-*Generated: 2026-04-29 06:31 | Price: $361.4 | Mkt Cap: $14B*
+*Generated: 2026-04-30 06:35 | Price: $362.17 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: 7% — thin (IV $385 at 25x)
+- **Margin of Safety**: 6% — thin (IV $385 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

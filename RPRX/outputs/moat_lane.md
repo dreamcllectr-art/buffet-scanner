@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RPRX
-*Generated: 2026-04-29 06:34 | Price: $49.54 | Mkt Cap: $29B*
+*Generated: 2026-04-30 06:46 | Price: $49.49 | Mkt Cap: $29B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (7.0% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -39% — ABSENT ($50 > IV $30 at 17x for 9% growth)
+- **Margin of Safety**: -39% — ABSENT ($49 > IV $30 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

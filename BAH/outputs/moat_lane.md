@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAH
-*Generated: 2026-04-27 06:42 | Price: $78.74 | Mkt Cap: $9B*
+*Generated: 2026-04-30 06:40 | Price: $76.45 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Consulting Services
@@ -23,7 +23,7 @@ Industrials / Consulting Services
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 16.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 42% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 116% (strong); Gross margin: 22% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Industrials; Operating margin 10% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 8.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 8.8% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Industrials / Consulting Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Consulting Services
-- **Margin of Safety**: 71% — PRESENT (IV $135 vs $79 at 20x)
+- **Margin of Safety**: 76% — PRESENT (IV $135 vs $76 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

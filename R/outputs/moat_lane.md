@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: R
-*Generated: 2026-04-27 06:49 | Price: $253.34 | Mkt Cap: $10B*
+*Generated: 2026-04-30 06:40 | Price: $245.42 | Mkt Cap: $9B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,20 +23,20 @@ Industrials / Rental & Leasing Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: -62% (weak conversion); Gross margin: 20% (below Industrials norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Industrials moderate cutoff 22%; Operating margin 7% — thin for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 7.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 7.6% (>5%) | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -29% — ABSENT ($253 > IV $180 at 15x for 2% growth)
+- **Margin of Safety**: -26% — ABSENT ($245 > IV $181 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

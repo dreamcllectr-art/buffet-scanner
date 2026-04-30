@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEPC
-*Generated: 2026-04-29 06:37 | Price: $40.24 | Mkt Cap: $7B*
+*Generated: 2026-04-30 06:42 | Price: $35.2 | Mkt Cap: $6B*
 
 ## Sector Context
 Utilities / Utilities - Renewable
@@ -23,7 +23,7 @@ Utilities / Utilities - Renewable
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 256% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: -108% (weak conversion); Gross margin: 60% (pricing power for Utilities) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 31.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 40% — strong pricing power; Operating margin 21% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -28.0x — deep value; 52w range position: 72%; Owner earnings yield: 20.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -24.5x — deep value; 52w range position: 44%; Owner earnings yield: 23.9% (>5%) | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

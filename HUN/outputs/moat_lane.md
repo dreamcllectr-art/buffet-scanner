@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUN
-*Generated: 2026-04-29 06:43 | Price: $13.66 | Mkt Cap: $2B*
+*Generated: 2026-04-30 06:43 | Price: $13.25 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (6.6% inst.) as insider
 
@@ -25,11 +25,11 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 118% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 12.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 103.6x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 9.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.0/10** | **100%** | **2.0** | | |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 100.5x — extreme premium; 52w range position: 84%; Owner earnings yield: 9.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.2/10** | **100%** | **2.2** | | |
 
-## Buffett Score: 2.0 / 10
-## Alpha Adjustment: -0.35
+## Buffett Score: 2.2 / 10
+## Alpha Adjustment: -0.33
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -41,7 +41,7 @@ Basic Materials / Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.35 applied to composite alpha score
+Buffett Premium: -0.33 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

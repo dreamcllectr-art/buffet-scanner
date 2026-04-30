@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMKR
-*Generated: 2026-04-27 06:42 | Price: $78.11 | Mkt Cap: $19B*
+*Generated: 2026-04-30 06:40 | Price: $70.605 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -11,7 +11,7 @@ Technology / Semiconductor Equipment & Materials
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductor Equipment & Materials | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 49.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -22,12 +22,12 @@ Technology / Semiconductor Equipment & Materials
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 54% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 80%; Gross margin: 14% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 49.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 45.9% of shares (SBC concern) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 14% — below Technology moderate cutoff 40%; Operating margin 10% — thin for Technology | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 34.1x — expensive; Near 52w high (98% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 14% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology; Rev growth 28% — demand pull | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.8x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,19 +36,19 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -52% — ABSENT ($78 > IV $38 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -38% — ABSENT ($71 > IV $44 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Aligned — 49.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNX
-*Generated: 2026-04-29 06:34 | Price: $223.35 | Mkt Cap: $18B*
+*Generated: 2026-04-30 06:39 | Price: $224.04 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -36,7 +36,7 @@ Technology / Electronics & Computer Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: 35% — PRESENT (IV $300 vs $223 at 25x)
+- **Margin of Safety**: 34% — PRESENT (IV $300 vs $224 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-04-29 06:32 | Price: $221.77 | Mkt Cap: $46B*
+*Generated: 2026-04-30 06:36 | Price: $209.35 | Mkt Cap: $44B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 
@@ -13,7 +13,7 @@ Industrials / Trucking
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.1x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,12 +23,12 @@ Industrials / Trucking
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 30.5% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 75%; Gross margin: 39% (pricing power for Industrials) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 35% — strong pricing power; Operating margin 23% — durable for Industrials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.5x — expensive; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.3% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.4x — expensive; 52w range position: 77%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -67% — ABSENT ($222 > IV $72 at 15x for -10% growth)
+- **Margin of Safety**: -65% — ABSENT ($209 > IV $72 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

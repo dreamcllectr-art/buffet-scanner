@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTAI
-*Generated: 2026-04-29 06:34 | Price: $216.0 | Mkt Cap: $22B*
+*Generated: 2026-04-30 06:46 | Price: $213.11 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -23,7 +23,7 @@ Industrials / Rental & Leasing Services
 | Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 8.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 96% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: -3880% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 29% — durable for Industrials; Rev growth 33% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.4x — fair price; 52w range position: 55%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 53%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10
@@ -36,7 +36,7 @@ Industrials / Rental & Leasing Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -47% — ABSENT ($216 > IV $115 at 25x for 25% growth)
+- **Margin of Safety**: -41% — ABSENT ($213 > IV $125 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

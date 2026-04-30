@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GL
-*Generated: 2026-04-29 06:31 | Price: $152.67 | Mkt Cap: $12B*
+*Generated: 2026-04-30 06:35 | Price: $152.54 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -23,7 +23,7 @@ Financial Services / Insurance - Life
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 20.5% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 20% — strong franchise (Financial Services); Operating margin 24% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.2x — deep value; Near 52w high (95% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 9.2x — deep value; Near 52w high (94% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

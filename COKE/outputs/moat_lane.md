@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COKE
-*Generated: 2026-04-29 06:41 | Price: $200.97 | Mkt Cap: $13B*
+*Generated: 2026-04-30 06:39 | Price: $201.94 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,7 +23,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 28.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 93% (strong); Gross margin: 40% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 85.9% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 40% — moderate moat for Consumer Defensive; Operating margin 7% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 84%; Owner earnings yield: 3.6% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 85%; Owner earnings yield: 3.6% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -15% — ABSENT ($201 > IV $170 at 25x for 25% growth)
+- **Margin of Safety**: -16% — ABSENT ($202 > IV $170 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

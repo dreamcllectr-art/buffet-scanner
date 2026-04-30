@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-04-29 06:32 | Price: $31.79 | Mkt Cap: $71B*
+*Generated: 2026-04-30 06:35 | Price: $31.84 | Mkt Cap: $71B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -20,7 +20,7 @@ Energy / Oil & Gas Midstream
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 20% (stable); FCF/NI: 129% (strong); Gross margin: 49% (pricing power for Energy) | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 129% (strong); Gross margin: 49% (pricing power for Energy) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 12.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 30% — durable for Energy | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.5x — growth premium; 52w range position: 68%; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |

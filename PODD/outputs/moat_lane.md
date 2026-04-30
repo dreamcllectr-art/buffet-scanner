@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PODD
-*Generated: 2026-04-29 06:31 | Price: $182.87 | Mkt Cap: $13B*
+*Generated: 2026-04-30 06:35 | Price: $160.02 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,10 +23,10 @@ Healthcare / Medical Devices
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: -151% (weak conversion); Gross margin: 72% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.2% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 72% vs sector strong cutoff 55% — strong pricing power; Operating margin 19%; Rev growth 31% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 22.6x — growth premium; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 1.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -72% — ABSENT ($183 > IV $52 at 15x for 4% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -67% — ABSENT ($160 > IV $52 at 15x for 4% growth)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

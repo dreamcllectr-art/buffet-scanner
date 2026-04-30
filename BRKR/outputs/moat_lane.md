@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRKR
-*Generated: 2026-04-29 06:43 | Price: $36.26 | Mkt Cap: $6B*
+*Generated: 2026-04-30 06:42 | Price: $34.29 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,7 +23,7 @@ Healthcare / Medical Devices
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 102% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 16% (weak conversion); Gross margin: 48% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.0% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10

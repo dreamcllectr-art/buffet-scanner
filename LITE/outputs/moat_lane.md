@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-04-29 06:32 | Price: $791.37 | Mkt Cap: $57B*
+*Generated: 2026-04-30 06:36 | Price: $858.32 | Mkt Cap: $61B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,11 +23,11 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -1.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 375% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -59% (weak conversion); Gross margin: 37% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 11% — thin for Technology; Rev growth 66% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 48.4x — expensive; 52w range position: 81%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.7/10** | **100%** | **2.7** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 52.5x — extreme premium; Near 52w high (89% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.1/10** | **100%** | **2.1** | | |
 
-## Buffett Score: 2.7 / 10
-## Alpha Adjustment: -0.30
+## Buffett Score: 2.1 / 10
+## Alpha Adjustment: -0.34
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -89% — ABSENT ($791 > IV $87 at 25x for 25% growth)
+- **Margin of Safety**: -90% — ABSENT ($858 > IV $86 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.30 applied to composite alpha score
+Buffett Premium: -0.34 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

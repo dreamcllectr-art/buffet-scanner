@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JHG
-*Generated: 2026-04-29 06:37 | Price: $51.57 | Mkt Cap: $8B*
+*Generated: 2026-04-30 06:46 | Price: $51.57 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 6.1/10 | 30% | 1.8 | ROE: 16.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 57% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 21.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 16% — strong franchise (Financial Services); Operating margin 43% — durable for Financial Services; Rev growth 61% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 5.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 5.9% (>5%) | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

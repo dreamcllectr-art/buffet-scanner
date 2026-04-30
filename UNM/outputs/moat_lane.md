@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNM
-*Generated: 2026-04-29 06:35 | Price: $77.82 | Mkt Cap: $13B*
+*Generated: 2026-04-30 06:39 | Price: $81.29 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -20,13 +20,13 @@ Financial Services / Insurance - Life
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.8/10 | 30% | 0.8 | ROE: 6.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.6% of shares (SBC concern) | - |
+| Quality | 2.8/10 | 30% | 0.8 | ROE: 6.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.2% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 7% — weak (Financial Services); Operating margin 8% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.0x — deep value; 52w range position: 64% | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 8.4x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: -11% — ABSENT ($78 > IV $69 at 15x for -46% growth)
+- **Margin of Safety**: -15% — ABSENT ($81 > IV $69 at 15x for -46% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

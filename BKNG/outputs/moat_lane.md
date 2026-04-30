@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKNG
-*Generated: 2026-04-29 06:30 | Price: $173.38 | Mkt Cap: $135B*
+*Generated: 2026-04-30 06:33 | Price: $173.98 | Mkt Cap: $135B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -11,7 +11,7 @@ Consumer Cyclical / Travel Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 42.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 40% (stable); FCF/NI: 167% (strong); Gross margin: 87% (pricing power for Consumer Cyclical) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -1.4% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 32% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 4.9% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 23% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 5.3% (>5%) | - |
 | **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
 
 ## Buffett Score: 7.9 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -5% — ABSENT ($173 > IV $166 at 25x for 25% growth)
+- **Margin of Safety**: 9% — thin (IV $190 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

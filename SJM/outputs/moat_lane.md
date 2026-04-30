@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-04-29 06:40 | Price: $98.05 | Mkt Cap: $10B*
+*Generated: 2026-04-30 06:37 | Price: $96.8 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -163% (weak conversion); Gross margin: 34% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; 52w range position: 31%; Owner earnings yield: 8.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 8.6% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -39,7 +39,7 @@ Consumer Defensive / Packaged Foods
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

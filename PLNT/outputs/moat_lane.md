@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLNT
-*Generated: 2026-04-29 06:37 | Price: $64.46 | Mkt Cap: $5B*
+*Generated: 2026-04-30 06:42 | Price: $64.19 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Leisure
@@ -23,7 +23,7 @@ Consumer Cyclical / Leisure
 | Quality | 7.4/10 | 30% | 2.2 | Avg ROIC: 13.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 127% (strong); Gross margin: 59% (pricing power for Consumer Cyclical) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 59% vs sector strong cutoff 45% — strong pricing power; Operating margin 30% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.9x — fair price; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.9x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

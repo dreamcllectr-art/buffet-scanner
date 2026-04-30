@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSTR
-*Generated: 2026-04-29 06:34 | Price: $165.71 | Mkt Cap: $58B*
+*Generated: 2026-04-30 06:45 | Price: $158.19 | Mkt Cap: $55B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 997% from prior peak; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 516% (strong); Gross margin: 69% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 69% vs sector strong cutoff 60% — strong pricing power; Operating margin -4402% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.6x — deep value; Near 52w low (17% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.3x — deep value; Near 52w low (15% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

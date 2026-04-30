@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AGNC
-*Generated: 2026-04-29 06:41 | Price: $11.08 | Mkt Cap: $13B*
+*Generated: 2026-04-30 06:39 | Price: $10.97 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage
@@ -20,14 +20,14 @@ Real Estate / REIT - Mortgage
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Fallback ROE: 13.2%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: -28% (weak conversion); Gross margin: 100% (pricing power for Real Estate) | - |
+| Quality | 6.5/10 | 30% | 1.9 | Fallback ROE: 13.2%; Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: -28% (weak conversion); Gross margin: 100% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 100% vs sector strong cutoff 55% — strong pricing power; Operating margin 130% — durable for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; 52w range position: 69% | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 66% | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Real Estate / REIT - Mortgage
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Mortgage
-- **Margin of Safety**: 73% — PRESENT (IV $19 vs $11 at 15x)
+- **Margin of Safety**: 75% — PRESENT (IV $19 vs $11 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

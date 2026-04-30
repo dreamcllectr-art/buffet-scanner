@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTM
-*Generated: 2026-04-29 06:35 | Price: $138.7 | Mkt Cap: $14B*
+*Generated: 2026-04-30 06:39 | Price: $138.79 | Mkt Cap: $14B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -22% — ABSENT ($139 > IV $108 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($139 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

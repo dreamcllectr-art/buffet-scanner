@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOW
-*Generated: 2026-04-29 06:31 | Price: $38.01 | Mkt Cap: $27B*
+*Generated: 2026-04-30 06:34 | Price: $39.55 | Mkt Cap: $29B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -23,11 +23,11 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 157% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: 6% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Basic Materials moderate cutoff 18%; Operating margin 0% — thin for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.4x — fair price; 52w range position: 79%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.1x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.4 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -37,18 +37,18 @@ Basic Materials / Chemicals
 
 - **Circle of Competence**: Basic Materials / Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

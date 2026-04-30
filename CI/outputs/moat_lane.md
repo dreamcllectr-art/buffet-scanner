@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-04-29 06:30 | Price: $284.92 | Mkt Cap: $75B*
+*Generated: 2026-04-30 06:34 | Price: $292.32 | Mkt Cap: $77B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,7 +23,7 @@ Healthcare / Healthcare Plans
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 49% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 177% (strong); Gross margin: 9% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; 52w range position: 41%; Owner earnings yield: 13.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.7x — deep value; 52w range position: 48%; Owner earnings yield: 12.7% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: 17% — thin (IV $333 at 15x)
+- **Margin of Safety**: 14% — thin (IV $333 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

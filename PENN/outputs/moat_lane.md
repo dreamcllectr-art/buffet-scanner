@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PENN
-*Generated: 2026-04-29 06:43 | Price: $18.0 | Mkt Cap: $2B*
+*Generated: 2026-04-30 06:43 | Price: $17.82 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -12,7 +12,7 @@ Consumer Cyclical / Resorts & Casinos
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 14.4x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 1.9%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Resorts & Casinos
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 480% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: 84% (strong); Gross margin: 35% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 35% — moderate moat for Consumer Cyclical; Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 71% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 69% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Resorts & Casinos
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

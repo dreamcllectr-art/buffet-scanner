@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVMD
-*Generated: 2026-04-29 06:34 | Price: $144.83 | Mkt Cap: $31B*
+*Generated: 2026-04-30 06:45 | Price: $140.55 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -30.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 58% (severe cyclicality); FCF/NI: 88% (strong); Gross margin: 0% (below Healthcare norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 15.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Healthcare moderate cutoff 35%; Operating margin 0% — thin for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -27.6x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -26.8x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UGI
-*Generated: 2026-04-27 06:43 | Price: $36.92 | Mkt Cap: $8B*
+*Generated: 2026-04-30 06:46 | Price: $37.57 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Gas
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 240% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 49% (pricing power for Utilities) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 40% — strong pricing power; Operating margin 20% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 55%; Owner earnings yield: 1.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 61%; Owner earnings yield: 1.8% | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Gas
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Gas
-- **Margin of Safety**: 9% — thin (IV $40 at 15x)
+- **Margin of Safety**: 7% — thin (IV $40 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

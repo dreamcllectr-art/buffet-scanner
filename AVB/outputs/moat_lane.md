@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVB
-*Generated: 2026-04-29 06:30 | Price: $183.5 | Mkt Cap: $26B*
+*Generated: 2026-04-30 06:33 | Price: $184.37 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,7 +23,7 @@ Real Estate / REIT - Residential
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 38% (stable); FCF/NI: 130% (strong); Gross margin: 63% (pricing power for Real Estate) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.1x — expensive; 52w range position: 44%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 37.3x — expensive; 52w range position: 46%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LSCC
-*Generated: 2026-04-29 06:34 | Price: $113.91 | Mkt Cap: $16B*
+*Generated: 2026-04-30 06:39 | Price: $115.67 | Mkt Cap: $16B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,11 +23,11 @@ Technology / Semiconductors
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 14.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 99% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 1010% (strong); Gross margin: 68% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin 2% — thin for Technology; Rev growth 24% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 56.2x — extreme premium; 52w range position: 85%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 57.0x — extreme premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -100% — ABSENT ($114 > IV $0 at 25x for 24% growth)
+- **Margin of Safety**: -100% — ABSENT ($116 > IV $0 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

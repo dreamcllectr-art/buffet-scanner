@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KRC
-*Generated: 2026-04-29 06:43 | Price: $34.12 | Mkt Cap: $4B*
+*Generated: 2026-04-30 06:42 | Price: $32.9 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -21,9 +21,9 @@ Real Estate / REIT - Office
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 3.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 65% (severe cyclicality); FCF/NI: 1% (weak conversion); Gross margin: 66% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 18.5% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 68.2x — extreme premium; 52w range position: 38%; Owner earnings yield: 9.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 65.8x — extreme premium; 52w range position: 31%; Owner earnings yield: 7.8% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.4/10** | **100%** | **3.4** | | |
 
 ## Buffett Score: 3.4 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Office
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Office
-- **Margin of Safety**: -20% — ABSENT ($34 > IV $27 at 15x for -0% growth)
+- **Margin of Safety**: -17% — ABSENT ($33 > IV $27 at 15x for -0% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

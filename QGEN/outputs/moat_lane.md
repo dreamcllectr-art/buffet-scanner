@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QGEN
-*Generated: 2026-04-27 06:43 | Price: $38.41 | Mkt Cap: $8B*
+*Generated: 2026-04-30 06:46 | Price: $33.61 | Mkt Cap: $7B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -20,13 +20,13 @@ Healthcare / Diagnostics & Research
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 6.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 232% (strong); Gross margin: 66% (pricing power for Healthcare) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 232% (strong); Gross margin: 66% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); No insider transaction data; Restricted stock: 0.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 27% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; Near 52w low (5% of range) — Mr. Market fearful; Owner earnings yield: 3.2% | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.7% | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: 33% — PRESENT (IV $51 vs $38 at 25x)
+- **Margin of Safety**: 52% — PRESENT (IV $51 vs $34 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

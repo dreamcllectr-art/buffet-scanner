@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYZ
-*Generated: 2026-04-29 06:30 | Price: $69.54 | Mkt Cap: $41B*
+*Generated: 2026-04-30 06:33 | Price: $69.46 | Mkt Cap: $41B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -55% — ABSENT ($70 > IV $32 at 15x for -94% growth)
+- **Margin of Safety**: -55% — ABSENT ($69 > IV $32 at 15x for -94% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

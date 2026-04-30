@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALNY
-*Generated: 2026-04-29 06:34 | Price: $302.11 | Mkt Cap: $40B*
+*Generated: 2026-04-30 06:45 | Price: $301.19 | Mkt Cap: $40B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -81% — ABSENT ($302 > IV $58 at 25x for 25% growth)
+- **Margin of Safety**: -81% — ABSENT ($301 > IV $58 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

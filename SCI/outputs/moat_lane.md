@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCI
-*Generated: 2026-04-29 06:41 | Price: $86.35 | Mkt Cap: $12B*
+*Generated: 2026-04-30 06:39 | Price: $86.39 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Personal Services

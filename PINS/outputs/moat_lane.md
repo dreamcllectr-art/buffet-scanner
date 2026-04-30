@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PINS
-*Generated: 2026-04-29 06:41 | Price: $19.88 | Mkt Cap: $13B*
+*Generated: 2026-04-30 06:39 | Price: $19.73 | Mkt Cap: $13B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-04-29 06:30 | Price: $205.93 | Mkt Cap: $134B*
+*Generated: 2026-04-30 06:34 | Price: $205.66 | Mkt Cap: $134B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.9% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 5% — thin (IV $217 at 25x)
+- **Margin of Safety**: 6% — thin (IV $217 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

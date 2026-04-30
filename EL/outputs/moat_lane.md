@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-04-29 06:31 | Price: $77.1 | Mkt Cap: $28B*
+*Generated: 2026-04-30 06:35 | Price: $75.69 | Mkt Cap: $27B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,10 +23,10 @@ Consumer Defensive / Household & Personal Products
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 147% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: 60%; Gross margin: 74% (pricing power for Consumer Defensive) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% vs sector strong cutoff 45% — strong pricing power; Operating margin 14% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 25.6x — growth premium; 52w range position: 31%; Owner earnings yield: 6.1% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.1x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Consumer Defensive / Household & Personal Products
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 

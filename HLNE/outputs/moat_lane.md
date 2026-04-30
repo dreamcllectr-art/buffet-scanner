@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLNE
-*Generated: 2026-04-29 06:43 | Price: $90.75 | Mkt Cap: $4B*
+*Generated: 2026-04-30 06:42 | Price: $88.62 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.3% inst.) as insider
 
@@ -22,14 +22,14 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | ROE: 31.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 5.5/10 | 30% | 1.6 | ROE: 31.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 55% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 32% — strong franchise (Financial Services); Operating margin 43% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 5.7% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -38,7 +38,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -7% — ABSENT ($91 > IV $84 at 15x for 4% growth)
+- **Margin of Safety**: -5% — ABSENT ($89 > IV $84 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -50,7 +50,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

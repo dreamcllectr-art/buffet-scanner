@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BEN
-*Generated: 2026-04-29 06:31 | Price: $29.46 | Mkt Cap: $15B*
+*Generated: 2026-04-30 06:35 | Price: $29.45 | Mkt Cap: $15B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -11,8 +11,8 @@ Financial Services / Asset Management
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 48.4%; key-man / succession risk | 8% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 3 | Management / Governance Failure | Insider ownership 48.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,13 +20,13 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.5/10 | 30% | 0.4 | ROE: 4.5% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.6% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 4% — weak (Financial Services); Operating margin 17% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 2.1% | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Quality | 2.3/10 | 30% | 0.7 | ROE: 6.7% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 48.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 41.7% of shares (SBC concern) | - |
+| Moat | 4.0/10 | 25% | 1.0 | ROE 7% — weak (Financial Services); Operating margin 14% — thin for Financial Services | Weak pricing |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.0x — deep value; Near 52w high (93% of range) — Mr. Market greedy | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Financial Services / Asset Management
 - **Circle of Competence**: Financial Services / Asset Management
 - **Margin of Safety**: 11% — thin (IV $33 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 48.4% insider ownership
+- **Incentive-Caused Bias**: Aligned — 48.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

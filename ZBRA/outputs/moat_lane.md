@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBRA
-*Generated: 2026-04-29 06:41 | Price: $219.24 | Mkt Cap: $11B*
+*Generated: 2026-04-30 06:45 | Price: $215.54 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,7 +23,7 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 109% (strong); Gross margin: 48% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Technology; Operating margin 15% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 6.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -44% — ABSENT ($219 > IV $123 at 15x for -56% growth)
+- **Margin of Safety**: -43% — ABSENT ($216 > IV $123 at 15x for -56% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

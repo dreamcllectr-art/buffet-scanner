@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BWA
-*Generated: 2026-04-29 06:41 | Price: $54.31 | Mkt Cap: $11B*
+*Generated: 2026-04-30 06:39 | Price: $54.21 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

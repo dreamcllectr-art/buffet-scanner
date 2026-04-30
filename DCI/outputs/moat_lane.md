@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DCI
-*Generated: 2026-04-29 06:41 | Price: $87.87 | Mkt Cap: $10B*
+*Generated: 2026-04-30 06:40 | Price: $87.0 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -23,32 +23,32 @@ Industrials / Specialty Industrial Machinery
 | Quality | 7.3/10 | 30% | 2.2 | Avg ROIC: 20.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 90% (strong); Gross margin: 35% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 35% — moderate moat for Industrials; Operating margin 14% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 49%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.9x — fair price; 52w range position: 46%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.5 / 10
+## Alpha Adjustment: +0.15
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -45% — ABSENT ($88 > IV $48 at 15x for -1% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -45% — ABSENT ($87 > IV $48 at 15x for -1% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.15 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

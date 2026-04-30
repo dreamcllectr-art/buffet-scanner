@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LNG
-*Generated: 2026-04-29 06:34 | Price: $264.98 | Mkt Cap: $56B*
+*Generated: 2026-04-30 06:45 | Price: $272.23 | Mkt Cap: $57B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,11 +23,11 @@ Energy / Oil & Gas Midstream
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 25.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 204% (strong); Gross margin: 53% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 30% — strong pricing power; Operating margin 76% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 69%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 75%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 7.5 / 10
+## Alpha Adjustment: +0.25
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: 128% — PRESENT (IV $604 vs $265 at 25x)
+- **Margin of Safety**: 122% — PRESENT (IV $603 vs $272 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.25 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

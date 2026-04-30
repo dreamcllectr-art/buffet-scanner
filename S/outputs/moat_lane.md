@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: S
-*Generated: 2026-04-27 06:45 | Price: $14.24 | Mkt Cap: $5B*
+*Generated: 2026-04-30 06:42 | Price: $14.7 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,10 +23,10 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -17.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: 17% (weak conversion); Gross margin: 74% (pricing power for Technology) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 74% vs sector strong cutoff 60% — strong pricing power; Operating margin -28% — thin for Technology; Rev growth 20% — demand pull | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 29.9x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 5.9% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 30.8x — expensive; 52w range position: 30%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Technology / Software - Infrastructure
 
 - **Circle of Competence**: Technology / Software - Infrastructure
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYAN
-*Generated: 2026-04-30 06:42 | Price: $35.26 | Mkt Cap: $9B*
+*Generated: 2026-05-01 06:55 | Price: $34.77 | Mkt Cap: $9B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Specialty
 | Quality | 4.5/10 | 30% | 1.3 | ROE: 18.2% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 58% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.5% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 19% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 5.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; Near 52w low (8% of range) — Mr. Market fearful; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

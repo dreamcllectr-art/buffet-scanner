@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LINE
-*Generated: 2026-04-30 06:43 | Price: $35.99 | Mkt Cap: $9B*
+*Generated: 2026-05-01 06:55 | Price: $36.88 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 62% (severe cyclicality); FCF/NI: 65%; Gross margin: 32% (below Real Estate norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 68.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 74.8% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Real Estate moderate cutoff 35%; Operating margin 5% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -67.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 12.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -69.0x — deep value; 52w range position: 32%; Owner earnings yield: 12.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -39,7 +39,7 @@ Real Estate / REIT - Industrial
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 68.6% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

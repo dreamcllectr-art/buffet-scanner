@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMPR
-*Generated: 2026-04-30 06:43 | Price: $33.27 | Mkt Cap: $2B*
+*Generated: 2026-05-01 06:50 | Price: $33.69 | Mkt Cap: $2B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -22,8 +22,8 @@ Financial Services / Insurance - Property & Casualty
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROE: 4.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 59% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 1.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | ROE 5% — weak (Financial Services); Operating margin 3% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 133.2% (>5%) | - |
+| Moat | 4.0/10 | 25% | 1.0 | ROE 5% — weak (Financial Services); Operating margin 0% — thin for Financial Services | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; Near 52w low (14% of range) — Mr. Market fearful; Owner earnings yield: 131.5% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 3% — thin (IV $34 at 15x)
+- **Margin of Safety**: 2% — thin (IV $34 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

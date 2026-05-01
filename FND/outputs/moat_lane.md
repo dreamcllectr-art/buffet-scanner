@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FND
-*Generated: 2026-04-30 06:42 | Price: $47.67 | Mkt Cap: $5B*
+*Generated: 2026-05-01 06:49 | Price: $48.4 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail
@@ -23,13 +23,13 @@ Consumer Cyclical / Home Improvement Retail
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 31% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 24% (weak conversion); Gross margin: 45% (thin by design for Home Improvement Retail) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROA 3% / ROE 9% — weak for Home Improvement Retail; Operating margin 5% — thin for Consumer Cyclical | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.8x — fair price; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.1x — growth premium; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 0.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.4 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -37,18 +37,18 @@ Consumer Cyclical / Home Improvement Retail
 
 - **Circle of Competence**: Consumer Cyclical / Home Improvement Retail
 - **Margin of Safety**: -40% — ABSENT ($48 > IV $29 at 15x for -18% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

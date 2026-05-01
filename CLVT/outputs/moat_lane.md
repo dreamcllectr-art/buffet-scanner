@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLVT
-*Generated: 2026-04-29 06:39 | Price: $2.51 | Mkt Cap: $2B*
+*Generated: 2026-05-01 06:51 | Price: $2.87 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Leonard Green & Partners, L.P. (18.2% inst.) as insider
 
@@ -13,7 +13,7 @@ Technology / Information Technology Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Information Technology Services | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,10 +22,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -9.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 95% (severe cyclicality); FCF/NI: -75% (weak conversion); Gross margin: 66% (pricing power for Technology) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); No insider transaction data; Restricted stock: 26.2% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 66% vs sector strong cutoff 60% — strong pricing power; Operating margin 9% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.2x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 32.3% (>5%) | - |
+| Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -9.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 95% (severe cyclicality); FCF/NI: -75% (weak conversion); Gross margin: 67% (pricing power for Technology) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); No insider transaction data; Restricted stock: 26.0% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 67% vs sector strong cutoff 60% — strong pricing power; Operating margin 5% — thin for Technology | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 3.6x — deep value; 52w range position: 39%; Owner earnings yield: 25.8% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -41,7 +41,7 @@ Technology / Information Technology Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

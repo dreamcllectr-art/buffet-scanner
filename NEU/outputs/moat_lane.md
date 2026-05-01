@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEU
-*Generated: 2026-04-30 06:42 | Price: $668.77 | Mkt Cap: $6B*
+*Generated: 2026-05-01 06:55 | Price: $675.62 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -23,10 +23,10 @@ Basic Materials / Specialty Chemicals
 | Quality | 8.2/10 | 30% | 2.5 | Avg ROIC: 20.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: 93% (strong); Gross margin: 31% (pricing power for Basic Materials) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.3% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 31% vs sector strong cutoff 30% — strong pricing power; Operating margin 24% — durable for Basic Materials | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.9x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 6.7% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.2x — growth premium; 52w range position: 32%; Owner earnings yield: 6.7% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **8.1/10** | **100%** | **8.1** | | |
 
-## Buffett Score: 8.4 / 10
+## Buffett Score: 8.1 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,13 +36,13 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -2% — ABSENT ($669 > IV $657 at 15x for -5% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
+- **Margin of Safety**: -3% — ABSENT ($676 > IV $657 at 15x for -5% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 19.2% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, attractive valuation
+No (2 forces only: high quality, strong moat)
 
 ---
 

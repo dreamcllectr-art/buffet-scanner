@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-04-30 06:35 | Price: $19.14 | Mkt Cap: $12B*
+*Generated: 2026-05-01 06:43 | Price: $19.29 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Software - Infrastructure
 | Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 13.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 174% (strong); Gross margin: 79% (pricing power for Technology) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 23.8% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 79% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 11.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.7x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 11.3% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -38,7 +38,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 27% — thin (IV $24 at 25x)
+- **Margin of Safety**: 26% — thin (IV $24 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

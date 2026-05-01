@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PR
-*Generated: 2026-04-30 06:39 | Price: $21.65 | Mkt Cap: $19B*
+*Generated: 2026-05-01 06:46 | Price: $21.62 | Mkt Cap: $19B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -23,7 +23,7 @@ Energy / Oil & Gas E&P
 | Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 73%; Gross margin: 73% (pricing power for Energy) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 30% — strong pricing power; Operating margin 41% — durable for Energy | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.6x — deep value; Near 52w high (97% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

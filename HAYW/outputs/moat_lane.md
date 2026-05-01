@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HAYW
-*Generated: 2026-04-30 06:42 | Price: $14.9 | Mkt Cap: $3B*
+*Generated: 2026-05-01 06:55 | Price: $15.01 | Mkt Cap: $3B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -11,7 +11,7 @@ Industrials / Electrical Equipment & Parts
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 2.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,12 +21,12 @@ Industrials / Electrical Equipment & Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 7.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 55% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 136% (strong); Gross margin: 48% (pricing power for Industrials) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 48% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.8x — fair price; 52w range position: 40%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 48% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.8x — fair price; 52w range position: 42%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JLL
-*Generated: 2026-04-30 06:39 | Price: $338.66 | Mkt Cap: $16B*
+*Generated: 2026-05-01 06:46 | Price: $318.13 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -11,7 +11,7 @@ Real Estate / Real Estate Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Real Estate / Real Estate Services
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 66% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 101% (strong); Gross margin: 51% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Real Estate; Operating margin 7% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 84%; Owner earnings yield: 6.3% (>5%) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Real Estate; Operating margin 3% — thin for Real Estate | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; 52w range position: 70%; Owner earnings yield: 1.8% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: 21% — thin (IV $410 at 25x)
+- **Margin of Safety**: 46% — PRESENT (IV $464 vs $318 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

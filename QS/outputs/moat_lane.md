@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QS
-*Generated: 2026-04-30 06:43 | Price: $6.84 | Mkt Cap: $4B*
+*Generated: 2026-05-01 06:55 | Price: $7.29 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto Parts
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -28.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 91% (severe cyclicality); FCF/NI: 75%; Gross margin: 0% (thin by design for Auto Parts) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 15.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROA -23% / ROE -38% — weak for Auto Parts; Operating margin 0% — thin for Consumer Cyclical | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.1x — deep value; Near 52w low (20% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.8x — deep value; Near 52w low (23% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

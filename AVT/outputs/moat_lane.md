@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVT
-*Generated: 2026-04-29 06:37 | Price: $78.28 | Mkt Cap: $6B*
+*Generated: 2026-05-01 06:48 | Price: $82.51 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -11,7 +11,7 @@ Technology / Electronics & Computer Distribution
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronics & Computer Distribution | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,35 +20,35 @@ Technology / Electronics & Computer Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 44% (weak conversion); Gross margin: 11% (below Technology norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.1x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.7% | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 44% (weak conversion); Gross margin: 10% (below Technology norm) | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology; Rev growth 34% — demand pull | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.0x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.3% | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: -53% — ABSENT ($78 > IV $37 at 15x for -24% growth)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: -37% — ABSENT ($83 > IV $52 at 20x for 13% growth)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

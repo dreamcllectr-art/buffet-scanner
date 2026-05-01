@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DJT
-*Generated: 2026-04-29 06:39 | Price: $9.16 | Mkt Cap: $3B*
+*Generated: 2026-05-01 06:51 | Price: $9.15 | Mkt Cap: $3B*
 
 ## Sector Context
 Communication Services / Internet Content & Information

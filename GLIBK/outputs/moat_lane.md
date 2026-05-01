@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLIBK
-*Generated: 2026-04-29 06:39 | Price: $34.74 | Mkt Cap: $1B*
+*Generated: 2026-05-01 06:51 | Price: $34.25 | Mkt Cap: $1B*
 
 > ⚠ DATA: yfinance misclassified UBS Group AG (9.0% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.6% (3y); Earnings: 1 down-year in 2 transitions; NI drawdown: 541% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 46% (weak conversion); Gross margin: 51% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.7% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 51% — moderate moat for Communication Services; Operating margin 12% — thin for Communication Services | - |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | No P/E data (unprofitable?); 52w range position: 47%; Owner earnings yield: 12.3% (>5%) | Expensive |
+| Valuation Fit | 4.0/10 | 20% | 0.8 | No P/E data (unprofitable?); 52w range position: 43%; Owner earnings yield: 12.5% (>5%) | Expensive |
 | **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
 ## Buffett Score: 3.3 / 10

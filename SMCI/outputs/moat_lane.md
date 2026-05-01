@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-04-30 06:37 | Price: $26.32 | Mkt Cap: $16B*
+*Generated: 2026-05-01 06:52 | Price: $27.4 | Mkt Cap: $16B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Computer Hardware
 | Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 15.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -38% (weak conversion); Gross margin: 8% (below Technology norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 8% — below Technology moderate cutoff 40%; Operating margin 4% — thin for Technology; Rev growth 123% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 0.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 0.6% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -38,7 +38,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 4% — thin (IV $27 at 20x)
+- **Margin of Safety**: 0% — thin (IV $27 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

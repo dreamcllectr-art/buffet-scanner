@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLTO
-*Generated: 2026-04-30 06:45 | Price: $89.47 | Mkt Cap: $22B*
+*Generated: 2026-05-01 06:52 | Price: $88.2 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Pollution & Treatment Controls
@@ -21,9 +21,9 @@ Industrials / Pollution & Treatment Controls
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 21.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 25% (stable); FCF/NI: 103% (strong); Gross margin: 60% (pricing power for Industrials) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.0x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Industrials / Pollution & Treatment Controls
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Pollution & Treatment Controls
-- **Margin of Safety**: -13% — ABSENT ($89 > IV $78 at 20x for 13% growth)
+- **Margin of Safety**: -12% — ABSENT ($88 > IV $78 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

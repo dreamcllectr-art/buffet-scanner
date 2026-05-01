@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HALO
-*Generated: 2026-04-30 06:46 | Price: $63.06 | Mkt Cap: $7B*
+*Generated: 2026-05-01 06:48 | Price: $63.66 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 18.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 117% (strong); Gross margin: 78% (pricing power for Healthcare) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 56% — durable for Healthcare; Rev growth 52% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; 52w range position: 45%; Owner earnings yield: 2.5% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; 52w range position: 47%; Owner earnings yield: 2.5% | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10

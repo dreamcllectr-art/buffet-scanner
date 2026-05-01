@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-04-30 06:33 | Price: $270.17 | Mkt Cap: $3966B*
+*Generated: 2026-05-01 06:41 | Price: $271.35 | Mkt Cap: $3984B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -11,7 +11,7 @@ Technology / Consumer Electronics
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Consumer Electronics | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.5x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Technology / Consumer Electronics
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 47% | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $65B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% — moderate moat for Technology; Operating margin 35% — durable for Technology | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.8x — growth premium; 52w range position: 81%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 48% | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $65B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 48% — moderate moat for Technology; Operating margin 32% — durable for Technology | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.9x — growth premium; 52w range position: 82%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10
@@ -36,7 +36,7 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -42% — ABSENT ($270 > IV $158 at 20x for 18% growth)
+- **Margin of Safety**: -27% — ABSENT ($271 > IV $198 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral

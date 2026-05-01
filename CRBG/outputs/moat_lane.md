@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRBG
-*Generated: 2026-04-29 06:39 | Price: $26.93 | Mkt Cap: $12B*
+*Generated: 2026-05-01 06:50 | Price: $27.54 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -23,7 +23,7 @@ Financial Services / Asset Management
 | Quality | 2.0/10 | 30% | 0.6 | ROE: -3.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 36% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 40.7% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -3% — weak (Financial Services); Operating margin 15% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.6x — deep value; 52w range position: 33% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; 52w range position: 37% | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

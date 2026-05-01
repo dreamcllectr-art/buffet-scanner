@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-04-30 06:36 | Price: $209.25 | Mkt Cap: $5086B*
+*Generated: 2026-05-01 06:44 | Price: $199.57 | Mkt Cap: $4851B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,12 +21,12 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 51.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 66% (severe cyclicality); FCF/NI: 85% (strong); Gross margin: 71% (pricing power for Technology) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $214B (4.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $204B (4.2%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 71% vs sector strong cutoff 60% — strong pricing power; Operating margin 65% — durable for Technology; Rev growth 73% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.6x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.7/10** | **100%** | **8.7** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 84%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.9/10** | **100%** | **8.9** | | |
 
-## Buffett Score: 8.7 / 10
+## Buffett Score: 8.9 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,13 +36,13 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -41% — ABSENT ($209 > IV $123 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
+- **Margin of Safety**: -38% — ABSENT ($200 > IV $123 at 25x for 25% growth)
+- **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: high quality, strong moat, secular growth
+YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 
 ---
 

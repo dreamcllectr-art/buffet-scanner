@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FMC
-*Generated: 2026-04-29 06:43 | Price: $15.26 | Mkt Cap: $2B*
+*Generated: 2026-05-01 06:50 | Price: $15.38 | Mkt Cap: $2B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -11,7 +11,7 @@ Basic Materials / Agricultural Inputs
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 10.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,16 +20,16 @@ Basic Materials / Agricultural Inputs
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 90% (severe cyclicality); FCF/NI: 51%; Gross margin: 34% (pricing power for Basic Materials) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 34% vs sector strong cutoff 30% — strong pricing power; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 5.0% | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 90% (severe cyclicality); FCF/NI: 51%; Gross margin: 0% (below Basic Materials norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Basic Materials moderate cutoff 18%; Operating margin -1% — thin for Basic Materials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w low (10% of range) — Mr. Market fearful | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 5.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -37,18 +37,18 @@ Basic Materials / Agricultural Inputs
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

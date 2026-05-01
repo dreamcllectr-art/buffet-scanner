@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFSL
-*Generated: 2026-04-29 06:39 | Price: $15.08 | Mkt Cap: $4B*
+*Generated: 2026-05-01 06:51 | Price: $15.04 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 3.5/10 | 30% | 1.1 | ROE: 4.8% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 82.1% of shares (SBC concern) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 37% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.5x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.4x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

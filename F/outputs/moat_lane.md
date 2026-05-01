@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: F
-*Generated: 2026-04-30 06:35 | Price: $12.24 | Mkt Cap: $49B*
+*Generated: 2026-05-01 06:43 | Price: $12.08 | Mkt Cap: $48B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -11,7 +11,7 @@ Consumer Cyclical / Auto Manufacturers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 30.7x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 20.7x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Consumer Cyclical / Auto Manufacturers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 6% (below Consumer Cyclical norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.1% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 29% (weak conversion); Gross margin: 7% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 6% — below Consumer Cyclical moderate cutoff 30%; Operating margin -7% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.6x — deep value; 52w range position: 48%; Owner earnings yield: 3.6% | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Consumer Cyclical moderate cutoff 30%; Operating margin 6% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; 52w range position: 45% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

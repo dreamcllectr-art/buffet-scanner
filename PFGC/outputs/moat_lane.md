@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFGC
-*Generated: 2026-04-30 06:39 | Price: $88.15 | Mkt Cap: $14B*
+*Generated: 2026-05-01 06:46 | Price: $90.56 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution
@@ -20,10 +20,10 @@ Consumer Defensive / Food Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 145% (strong); Gross margin: 13% (thin by design for Food Distribution) | - |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 6.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 145% (strong); Gross margin: 13% (thin by design for Food Distribution) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROA 3% / ROE 8% — weak for Food Distribution; Operating margin 1% — thin for Consumer Defensive | Weak pricing |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; 52w range position: 34%; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 42%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Food Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Food Distribution
-- **Margin of Safety**: -37% — ABSENT ($88 > IV $55 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($91 > IV $55 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Neutral

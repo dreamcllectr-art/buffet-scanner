@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-04-30 06:45 | Price: $251.3 | Mkt Cap: $75B*
+*Generated: 2026-05-01 06:52 | Price: $252.58 | Mkt Cap: $76B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -23,7 +23,7 @@ Energy / Oil & Gas Refining & Marketing
 | Quality | 1.7/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 6% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.6x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 4.9% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.7x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
 ## Buffett Score: 4.3 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: -25% — ABSENT ($251 > IV $189 at 25x for 25% growth)
+- **Margin of Safety**: 36% — PRESENT (IV $342 vs $253 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

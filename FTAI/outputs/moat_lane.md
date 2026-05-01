@@ -1,8 +1,8 @@
 # Buffett/Munger Moat Lane: FTAI
-*Generated: 2026-04-30 06:46 | Price: $213.11 | Mkt Cap: $22B*
+*Generated: 2026-05-01 06:46 | Price: $249.67 | Mkt Cap: $26B*
 
 ## Sector Context
-Industrials / Rental & Leasing Services
+Industrials / Aerospace & Defense
 
 ---
 
@@ -11,7 +11,7 @@ Industrials / Rental & Leasing Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,35 +20,35 @@ Industrials / Rental & Leasing Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 8.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 96% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: -3880% (weak conversion); Gross margin: 40% (pricing power for Industrials) | - |
+| Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 8.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 96% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: -3880% (weak conversion); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 29% — durable for Industrials; Rev growth 33% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 53%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 22% — durable for Industrials; Rev growth 66% — demand pull | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 69%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.3 / 10
-## Alpha Adjustment: +0.13
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
-- **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -41% — ABSENT ($213 > IV $125 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Circle of Competence**: Industrials / Aerospace & Defense
+- **Margin of Safety**: -50% — ABSENT ($250 > IV $125 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.13 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

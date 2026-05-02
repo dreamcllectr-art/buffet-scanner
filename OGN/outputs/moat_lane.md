@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OGN
-*Generated: 2026-05-01 06:55 | Price: $13.25 | Mkt Cap: $3B*
+*Generated: 2026-05-02 06:26 | Price: $13.29 | Mkt Cap: $3B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - General
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 82% from prior peak; 5y price drawdown: 83% (severe cyclicality); FCF/NI: 93% (strong); Gross margin: 54% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Healthcare; Operating margin 18% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 3.6x — deep value; Near 52w high (98% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 3.6x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

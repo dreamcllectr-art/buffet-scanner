@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCOR
-*Generated: 2026-05-01 06:48 | Price: $56.58 | Mkt Cap: $9B*
+*Generated: 2026-05-02 06:19 | Price: $59.32 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified ICONIQ Capital, LLC (9.7% inst.) as insider
 
@@ -25,10 +25,10 @@ Technology / Software - Application
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -11.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 62% (severe cyclicality); FCF/NI: -87% (weak conversion); Gross margin: 80% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin -12% — thin for Technology | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.1x — growth premium; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 37%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -41,7 +41,7 @@ Technology / Software - Application
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)

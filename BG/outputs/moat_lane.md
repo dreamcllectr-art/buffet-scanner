@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BG
-*Generated: 2026-05-01 06:42 | Price: $127.07 | Mkt Cap: $25B*
+*Generated: 2026-05-02 06:13 | Price: $124.61 | Mkt Cap: $24B*
 
 > ⚠ DATA: yfinance misclassified Glencore Plc (16.9% inst.) as insider
 
@@ -23,12 +23,12 @@ Consumer Defensive / Farm Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: -86% (weak conversion); Gross margin: 4% (below Consumer Defensive norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 4% — below Consumer Defensive moderate cutoff 30%; Operating margin 1% — thin for Consumer Defensive; Rev growth 88% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.1x — deep value; Near 52w high (92% of range) — Mr. Market greedy | - |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.9x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.7 / 10
+## Buffett Score: 3.8 / 10
 ## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
@@ -38,7 +38,7 @@ Consumer Defensive / Farm Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Farm Products
-- **Margin of Safety**: -55% — ABSENT ($127 > IV $57 at 15x for -77% growth)
+- **Margin of Safety**: -54% — ABSENT ($125 > IV $57 at 15x for -76% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

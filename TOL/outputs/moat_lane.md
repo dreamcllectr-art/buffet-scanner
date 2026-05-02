@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TOL
-*Generated: 2026-05-01 06:46 | Price: $142.14 | Mkt Cap: $13B*
+*Generated: 2026-05-02 06:18 | Price: $139.84 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -23,7 +23,7 @@ Consumer Cyclical / Residential Construction
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 13.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 73%; Gross margin: 25% (below Consumer Cyclical norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 61%; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 58%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: 145% — PRESENT (IV $348 vs $142 at 25x)
+- **Margin of Safety**: 149% — PRESENT (IV $348 vs $140 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

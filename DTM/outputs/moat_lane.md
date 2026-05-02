@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTM
-*Generated: 2026-05-01 06:46 | Price: $147.99 | Mkt Cap: $15B*
+*Generated: 2026-05-02 06:17 | Price: $147.46 | Mkt Cap: $15B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -11,7 +11,7 @@ Energy / Oil & Gas Midstream
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.9x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Energy / Oil & Gas Midstream
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 24% (stable); FCF/NI: 82% (strong); Gross margin: 75% (pricing power for Energy) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 75% vs sector strong cutoff 30% — strong pricing power; Operating margin 49% — durable for Energy; Rev growth 27% — demand pull | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.6x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 30% — strong pricing power; Operating margin 50% — durable for Energy | - |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -24% — ABSENT ($148 > IV $113 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -39% — ABSENT ($147 > IV $90 at 20x for 20% growth)
+- **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (1 forces only: strong moat)
 
 ---
 

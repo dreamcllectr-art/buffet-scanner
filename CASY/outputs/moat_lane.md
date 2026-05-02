@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CASY
-*Generated: 2026-05-01 06:42 | Price: $822.15 | Mkt Cap: $30B*
+*Generated: 2026-05-02 06:13 | Price: $835.92 | Mkt Cap: $31B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -20,10 +20,10 @@ Consumer Cyclical / Specialty Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 102% (strong); Gross margin: 25% (thin by design for Specialty Retail) | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 24% (stable); FCF/NI: 102% (strong); Gross margin: 25% (thin by design for Specialty Retail) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 7% / ROE 18% — adequate scale (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 41.2x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 41.9x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -47% — ABSENT ($822 > IV $436 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($836 > IV $435 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

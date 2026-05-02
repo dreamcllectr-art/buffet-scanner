@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-05-01 06:53 | Price: $131.93 | Mkt Cap: $1052B*
+*Generated: 2026-05-02 06:24 | Price: $131.6 | Mkt Cap: $1049B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -21,9 +21,9 @@ Consumer Defensive / Discount Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 83% (strong); Gross margin: 25% (thin by design for Discount Stores) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $473B (44.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $471B (44.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.1% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 7% / ROE 22% — scale moat (Discount Stores); Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.2x — expensive; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.1x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

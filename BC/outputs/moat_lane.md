@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BC
-*Generated: 2026-05-01 06:49 | Price: $79.45 | Mkt Cap: $5B*
+*Generated: 2026-05-02 06:20 | Price: $79.42 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Recreational Vehicles
@@ -21,13 +21,13 @@ Consumer Cyclical / Recreational Vehicles
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 120% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 12% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.1x — fair price; 52w range position: 76%; Owner earnings yield: 8.2% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 76%; Owner earnings yield: 7.3% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

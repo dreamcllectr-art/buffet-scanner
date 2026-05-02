@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LBRDA
-*Generated: 2026-05-01 06:51 | Price: $38.43 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:22 | Price: $39.99 | Mkt Cap: $6B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -2.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 313% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: -16% (weak conversion); Gross margin: 0% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -616.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Communication Services moderate cutoff 40%; Operating margin 0% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.5x — deep value; Near 52w low (3% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (5% of range) — Mr. Market fearful | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

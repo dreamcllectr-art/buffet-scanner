@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COR
-*Generated: 2026-05-01 06:42 | Price: $308.01 | Mkt Cap: $60B*
+*Generated: 2026-05-02 06:13 | Price: $304.0 | Mkt Cap: $59B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -20,10 +20,10 @@ Healthcare / Medical Distribution
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 18% (stable); FCF/NI: 183% (strong); Gross margin: 4% (below Healthcare norm) | ROIC declining |
+| Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 32.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 19% (stable); FCF/NI: 183% (strong); Gross margin: 4% (below Healthcare norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.7x — fair price; 52w range position: 35%; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 31%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -46% — ABSENT ($308 > IV $166 at 20x for 15% growth)
+- **Margin of Safety**: -45% — ABSENT ($304 > IV $167 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Neutral

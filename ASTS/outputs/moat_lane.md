@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-01 06:46 | Price: $73.9 | Mkt Cap: $29B*
+*Generated: 2026-05-02 06:17 | Price: $70.89 | Mkt Cap: $28B*
 
 > ⚠ DATA: yfinance misclassified Rakuten Group, Inc. (10.4% inst.) as insider
 
@@ -25,7 +25,7 @@ Technology / Communication Equipment
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: -59.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 86% (severe cyclicality); FCF/NI: 358% (strong); Gross margin: 50% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.3% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Technology; Operating margin -133% — thin for Technology; Rev growth 2731% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -489.1x — deep value; 52w range position: 48% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -469.2x — deep value; 52w range position: 45% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

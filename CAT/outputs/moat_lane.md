@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAT
-*Generated: 2026-05-01 06:42 | Price: $890.11 | Mkt Cap: $414B*
+*Generated: 2026-05-02 06:13 | Price: $889.67 | Mkt Cap: $414B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -23,7 +23,7 @@ Industrials / Farm & Heavy Construction Machinery
 | Quality | 6.7/10 | 30% | 2.0 | Avg ROIC: 16.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 84% (strong); Gross margin: 29% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 29% — moderate moat for Industrials; Operating margin 16% — durable for Industrials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.8x — expensive; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 30.7x — expensive; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10

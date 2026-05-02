@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-05-01 06:41 | Price: $401.76 | Mkt Cap: $32B*
+*Generated: 2026-05-02 06:13 | Price: $402.31 | Mkt Cap: $32B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 5.7% (1y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 86% (strong); Gross margin: 60% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin -3% — thin for Industrials; Rev growth 38% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 38.0x — expensive; Near 52w low (11% of range) — Mr. Market fearful; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 38.2x — expensive; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

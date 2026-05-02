@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNX
-*Generated: 2026-05-01 06:46 | Price: $228.18 | Mkt Cap: $18B*
+*Generated: 2026-05-02 06:17 | Price: $228.2 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -23,7 +23,7 @@ Technology / Electronics & Computer Distribution
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 124% (strong); Gross margin: 7% (below Technology norm) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 6.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

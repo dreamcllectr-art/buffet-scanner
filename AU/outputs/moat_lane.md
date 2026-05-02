@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AU
-*Generated: 2026-05-01 06:46 | Price: $93.73 | Mkt Cap: $47B*
+*Generated: 2026-05-02 06:17 | Price: $92.76 | Mkt Cap: $47B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -23,7 +23,7 @@ Basic Materials / Gold
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 15.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 201% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 144% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 48% — durable for Basic Materials; Rev growth 75% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 61%; Owner earnings yield: 5.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 60%; Owner earnings yield: 5.5% (>5%) | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Basic Materials / Gold
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Gold
-- **Margin of Safety**: 38% — PRESENT (IV $130 vs $94 at 25x)
+- **Margin of Safety**: 40% — PRESENT (IV $130 vs $93 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COP
-*Generated: 2026-05-01 06:42 | Price: $125.78 | Mkt Cap: $153B*
+*Generated: 2026-05-02 06:13 | Price: $123.19 | Mkt Cap: $150B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -21,9 +21,9 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 20.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 57% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 89% (strong); Gross margin: 46% (pricing power for Energy) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 30% — strong pricing power; Operating margin 16% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 80%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 30% — strong pricing power; Operating margin 22% — durable for Energy | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 75%; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: -30% — ABSENT ($126 > IV $88 at 15x for -39% growth)
+- **Margin of Safety**: -28% — ABSENT ($123 > IV $88 at 15x for -20% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

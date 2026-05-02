@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VFC
-*Generated: 2026-05-01 06:48 | Price: $18.93 | Mkt Cap: $7B*
+*Generated: 2026-05-02 06:19 | Price: $19.01 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -23,7 +23,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 170% from prior peak; 5y price drawdown: 88% (severe cyclicality); FCF/NI: -246% (weak conversion); Gross margin: 51% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.0x — fair price; 52w range position: 70%; Owner earnings yield: 10.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.1x — fair price; 52w range position: 71%; Owner earnings yield: 10.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

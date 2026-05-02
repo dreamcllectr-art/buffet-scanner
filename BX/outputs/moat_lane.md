@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BX
-*Generated: 2026-05-01 06:42 | Price: $125.58 | Mkt Cap: $153B*
+*Generated: 2026-05-02 06:13 | Price: $126.35 | Mkt Cap: $154B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,14 +20,14 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | ROE: 29.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 6.5/10 | 30% | 1.9 | ROE: 29.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 30% — strong franchise (Financial Services); Operating margin 38% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.6x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
+## Buffett Score: 7.5 / 10
+## Alpha Adjustment: +0.25
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -53% — ABSENT ($126 > IV $59 at 15x for 4% growth)
+- **Margin of Safety**: -54% — ABSENT ($126 > IV $58 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
+Buffett Premium: +0.25 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

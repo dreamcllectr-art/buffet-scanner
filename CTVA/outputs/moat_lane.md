@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-05-01 06:42 | Price: $81.01 | Mkt Cap: $54B*
+*Generated: 2026-05-02 06:13 | Price: $80.85 | Mkt Cap: $54B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -23,13 +23,13 @@ Basic Materials / Agricultural Inputs
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 36% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 153% (strong); Gross margin: 47% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 47% vs sector strong cutoff 30% — strong pricing power; Operating margin 6% — thin for Basic Materials | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 20.0x — growth premium; 52w range position: 82%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 20.0x — fair price; 52w range position: 81%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
-## Buffett Score: 5.6 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
@@ -37,18 +37,18 @@ Basic Materials / Agricultural Inputs
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
 - **Margin of Safety**: -68% — ABSENT ($81 > IV $26 at 15x for -2% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.11 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

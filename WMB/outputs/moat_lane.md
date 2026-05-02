@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMB
-*Generated: 2026-05-01 06:53 | Price: $76.31 | Mkt Cap: $93B*
+*Generated: 2026-05-02 06:24 | Price: $75.54 | Mkt Cap: $92B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 9.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 30% from prior peak; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 62% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 30% — strong pricing power; Operating margin 41% — durable for Energy | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (97% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.1x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
 ## Buffett Score: 5.6 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -30% — ABSENT ($76 > IV $54 at 25x for 25% growth)
+- **Margin of Safety**: -29% — ABSENT ($76 > IV $54 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

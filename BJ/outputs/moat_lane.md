@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BJ
-*Generated: 2026-05-01 06:53 | Price: $93.89 | Mkt Cap: $12B*
+*Generated: 2026-05-02 06:24 | Price: $93.51 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -23,7 +23,7 @@ Consumer Defensive / Discount Stores
 | Quality | 6.0/10 | 30% | 1.8 | ROIC declining trend; Avg ROIC: 27.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 27% (stable); FCF/NI: 60%; Gross margin: 19% (thin by design for Discount Stores) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 7% / ROE 29% — scale moat (Discount Stores); Operating margin 3% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.1x — fair price; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.1x — fair price; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
 ## Buffett Score: 6.7 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWI
-*Generated: 2026-05-01 06:48 | Price: $170.39 | Mkt Cap: $7B*
+*Generated: 2026-05-02 06:19 | Price: $168.46 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -12,7 +12,7 @@ Industrials / Building Products & Equipment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.3x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.5%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Building Products & Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.2/10 | 30% | 2.5 | Avg ROIC: 22.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 67%; Gross margin: 40% (pricing power for Industrials) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.2x — fair price; 52w range position: 38%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.0x — fair price; 52w range position: 35%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
 ## Buffett Score: 7.8 / 10
@@ -36,9 +36,9 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -38% — ABSENT ($170 > IV $106 at 15x for -2% growth)
+- **Margin of Safety**: -37% — ABSENT ($168 > IV $106 at 15x for -2% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
-- **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

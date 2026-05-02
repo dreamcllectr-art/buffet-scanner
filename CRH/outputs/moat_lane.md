@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRH
-*Generated: 2026-05-01 06:42 | Price: $118.42 | Mkt Cap: $79B*
+*Generated: 2026-05-02 06:13 | Price: $115.45 | Mkt Cap: $77B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -23,7 +23,7 @@ Basic Materials / Building Materials
 | Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 10.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 77%; Gross margin: 36% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 30% — strong pricing power; Operating margin 15% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.0x — fair price; 52w range position: 71%; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.4x — fair price; 52w range position: 64%; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Basic Materials / Building Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Building Materials
-- **Margin of Safety**: 14% — thin (IV $135 at 25x)
+- **Margin of Safety**: 17% — thin (IV $135 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

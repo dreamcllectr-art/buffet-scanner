@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRBG
-*Generated: 2026-05-01 06:50 | Price: $27.54 | Mkt Cap: $13B*
+*Generated: 2026-05-02 06:26 | Price: $27.52 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Asset Management

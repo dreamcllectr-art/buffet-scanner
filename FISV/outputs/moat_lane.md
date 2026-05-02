@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FISV
-*Generated: 2026-05-01 06:43 | Price: $62.65 | Mkt Cap: $34B*
+*Generated: 2026-05-02 06:14 | Price: $62.14 | Mkt Cap: $33B*
 
 ## Sector Context
  / 

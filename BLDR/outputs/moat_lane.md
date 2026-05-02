@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-05-01 06:42 | Price: $79.09 | Mkt Cap: $9B*
+*Generated: 2026-05-02 06:13 | Price: $75.72 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -11,7 +11,7 @@ Industrials / Building Products & Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.4x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 2.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Industrials / Building Products & Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 84% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 143% (strong); Gross margin: 30% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 2% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 7.3% (>5%) | - |
+| Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 84% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 143% (strong); Gross margin: 30% | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 30% — moderate moat for Industrials; Operating margin 1% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 7.9% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -50% — ABSENT ($79 > IV $39 at 15x for -83% growth)
+- **Margin of Safety**: -48% — ABSENT ($76 > IV $39 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

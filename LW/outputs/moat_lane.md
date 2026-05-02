@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LW
-*Generated: 2026-05-01 06:49 | Price: $43.55 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:20 | Price: $43.86 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 30% (weak conversion); Gross margin: 21% (below Consumer Defensive norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 21% — below Consumer Defensive moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 9.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.6x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 9.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

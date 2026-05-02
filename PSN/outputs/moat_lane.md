@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSN
-*Generated: 2026-05-01 06:55 | Price: $50.41 | Mkt Cap: $5B*
+*Generated: 2026-05-02 06:26 | Price: $50.87 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 204% (strong); Gross margin: 23% (below Technology norm) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 64.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 23% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -38% — ABSENT ($50 > IV $31 at 15x for -18% growth)
+- **Margin of Safety**: -38% — ABSENT ($51 > IV $31 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

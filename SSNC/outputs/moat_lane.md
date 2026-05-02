@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SSNC
-*Generated: 2026-05-01 06:46 | Price: $69.3 | Mkt Cap: $17B*
+*Generated: 2026-05-02 06:17 | Price: $69.29 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.6% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -21% — ABSENT ($69 > IV $55 at 17x for 8% growth)
+- **Margin of Safety**: -21% — ABSENT ($69 > IV $55 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

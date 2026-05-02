@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PENN
-*Generated: 2026-05-01 06:55 | Price: $17.46 | Mkt Cap: $2B*
+*Generated: 2026-05-02 06:26 | Price: $17.27 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -23,7 +23,7 @@ Consumer Cyclical / Resorts & Casinos
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 480% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: 84% (strong); Gross margin: 35% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 35% — moderate moat for Consumer Cyclical; Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 65% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 63% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

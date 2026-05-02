@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPL
-*Generated: 2026-05-01 06:44 | Price: $37.44 | Mkt Cap: $28B*
+*Generated: 2026-05-02 06:15 | Price: $37.6 | Mkt Cap: $28B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: -78% (weak conversion); Gross margin: 43% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 43% vs sector strong cutoff 40% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.7x — fair price; 52w range position: 62%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 64%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

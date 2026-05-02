@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OLN
-*Generated: 2026-05-01 06:55 | Price: $28.48 | Mkt Cap: $3B*
+*Generated: 2026-05-02 06:26 | Price: $28.61 | Mkt Cap: $3B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -23,11 +23,11 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 108% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: 7% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 7% — below Basic Materials moderate cutoff 18%; Operating margin -4% — thin for Basic Materials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 36.1x — expensive; 52w range position: 84%; Owner earnings yield: 11.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.3x — expensive; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 11.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
-## Buffett Score: 2.8 / 10
-## Alpha Adjustment: -0.29
+## Buffett Score: 2.6 / 10
+## Alpha Adjustment: -0.30
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Basic Materials / Chemicals
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.29 applied to composite alpha score
+Buffett Premium: -0.30 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

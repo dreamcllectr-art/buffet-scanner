@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CWEN
-*Generated: 2026-05-01 06:55 | Price: $40.36 | Mkt Cap: $8B*
+*Generated: 2026-05-02 06:26 | Price: $40.3 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Renewable

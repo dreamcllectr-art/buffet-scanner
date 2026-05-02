@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVT
-*Generated: 2026-05-01 06:48 | Price: $82.51 | Mkt Cap: $7B*
+*Generated: 2026-05-02 06:19 | Price: $80.53 | Mkt Cap: $7B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution
@@ -23,7 +23,7 @@ Technology / Electronics & Computer Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 44% (weak conversion); Gross margin: 10% (below Technology norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Technology moderate cutoff 40%; Operating margin 3% — thin for Technology; Rev growth 34% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.0x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 1.3% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 1.4% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Technology / Electronics & Computer Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronics & Computer Distribution
-- **Margin of Safety**: -37% — ABSENT ($83 > IV $52 at 20x for 13% growth)
+- **Margin of Safety**: -36% — ABSENT ($81 > IV $52 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

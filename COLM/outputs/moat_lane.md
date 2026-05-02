@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLM
-*Generated: 2026-05-01 06:50 | Price: $60.92 | Mkt Cap: $3B*
+*Generated: 2026-05-02 06:22 | Price: $62.35 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -20,10 +20,10 @@ Consumer Cyclical / Apparel Manufacturing
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 51% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 49.8% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.8x — fair price; 52w range position: 56%; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 50% (pricing power for Consumer Cyclical) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 49.6% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 5% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 61%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,13 +36,13 @@ Consumer Cyclical / Apparel Manufacturing
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Manufacturing
-- **Margin of Safety**: -20% — ABSENT ($61 > IV $49 at 15x for -4% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -25% — ABSENT ($62 > IV $47 at 15x for -13% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 58.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 

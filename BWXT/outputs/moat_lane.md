@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BWXT
-*Generated: 2026-05-01 06:46 | Price: $216.39 | Mkt Cap: $20B*
+*Generated: 2026-05-02 06:17 | Price: $216.31 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -59% — ABSENT ($216 > IV $89 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($216 > IV $90 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

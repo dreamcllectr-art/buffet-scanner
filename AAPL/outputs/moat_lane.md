@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-05-01 06:41 | Price: $271.35 | Mkt Cap: $3984B*
+*Generated: 2026-05-02 06:12 | Price: $280.14 | Mkt Cap: $4109B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -21,13 +21,13 @@ Technology / Consumer Electronics
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 48% | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider value: $65B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider value: $67B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 48% — moderate moat for Technology; Operating margin 32% — durable for Technology | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.9x — growth premium; 52w range position: 82%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.8 / 10
+## Alpha Adjustment: +0.18
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -27% — ABSENT ($271 > IV $198 at 25x for 22% growth)
+- **Margin of Safety**: -26% — ABSENT ($280 > IV $206 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.18 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

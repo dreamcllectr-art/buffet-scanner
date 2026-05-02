@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSGS
-*Generated: 2026-05-01 06:49 | Price: $342.46 | Mkt Cap: $8B*
+*Generated: 2026-05-02 06:20 | Price: $340.75 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 124.7% (3y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 138% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 106% (strong); Gross margin: 33% (below Communication Services norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Communication Services moderate cutoff 40%; Operating margin 5% — thin for Communication Services | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 1832.3x — extreme premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 1823.2x — extreme premium; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
 ## Buffett Score: 3.1 / 10

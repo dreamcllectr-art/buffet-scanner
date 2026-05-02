@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRPT
-*Generated: 2026-05-01 06:50 | Price: $20.88 | Mkt Cap: $2B*
+*Generated: 2026-05-02 06:22 | Price: $21.49 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -23,7 +23,7 @@ Healthcare / Biotechnology
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -15.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 403% from prior peak; 5y price drawdown: 93% (severe cyclicality); FCF/NI: 14% (weak conversion); Gross margin: -7% (below Healthcare norm) | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.0% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -7% — below Healthcare moderate cutoff 35%; Operating margin -93% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 4.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
 ## Buffett Score: 4.1 / 10

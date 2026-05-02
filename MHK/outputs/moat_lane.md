@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MHK
-*Generated: 2026-05-01 06:49 | Price: $105.56 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:20 | Price: $99.93 | Mkt Cap: $6B*
 
 ## Sector Context
 Consumer Cyclical / Furnishings, Fixtures & Appliances
@@ -21,12 +21,12 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 2.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1882% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 123% (strong); Gross margin: 25% (below Consumer Cyclical norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.0% of shares (SBC concern) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 7% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 10.2% (>5%) | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.1% of shares (SBC concern) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 25% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; Near 52w low (11% of range) — Mr. Market fearful | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Furnishings, Fixtures & Appliances
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Furnishings, Fixtures & Appliances
-- **Margin of Safety**: -16% — ABSENT ($106 > IV $89 at 15x for -52% growth)
+- **Margin of Safety**: 67% — PRESENT (IV $167 vs $100 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 18.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

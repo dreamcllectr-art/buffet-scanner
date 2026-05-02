@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNXC
-*Generated: 2026-05-01 06:51 | Price: $23.82 | Mkt Cap: $1B*
+*Generated: 2026-05-02 06:22 | Price: $24.53 | Mkt Cap: $1B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,7 +23,7 @@ Technology / Information Technology Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 394% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: 98% (strong); Gross margin: 34% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 31.9% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 1.9x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 35.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 1.9x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 34.6% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWK
-*Generated: 2026-05-01 06:41 | Price: $128.42 | Mkt Cap: $25B*
+*Generated: 2026-05-02 06:12 | Price: $127.38 | Mkt Cap: $25B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Water
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: -114% (weak conversion); Gross margin: 61% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 40% — strong pricing power; Operating margin 32% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.5x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.4x — fair price; Near 52w low (21% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Water
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Water
-- **Margin of Safety**: -25% — ABSENT ($128 > IV $96 at 17x for 6% growth)
+- **Margin of Safety**: -25% — ABSENT ($127 > IV $96 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

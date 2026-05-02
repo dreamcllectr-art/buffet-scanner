@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBC
-*Generated: 2026-05-01 06:51 | Price: $27.02 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:22 | Price: $27.09 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 6.4/10 | 30% | 1.9 | ROE: 11.6% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 7% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 66.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 66.5% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 53% — durable for Financial Services | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.2x — deep value; Near 52w high (95% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.3x — deep value; Near 52w high (95% of range) — Mr. Market greedy | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
 ## Buffett Score: 7.6 / 10

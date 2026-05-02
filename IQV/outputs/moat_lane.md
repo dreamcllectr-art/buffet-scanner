@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IQV
-*Generated: 2026-05-01 06:43 | Price: $158.37 | Mkt Cap: $27B*
+*Generated: 2026-05-02 06:14 | Price: $157.77 | Mkt Cap: $26B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 3.1/10 | 30% | 0.9 | Avg ROIC: 8.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 140% (strong); Gross margin: 33% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 33% — below Healthcare moderate cutoff 35%; Operating margin 15% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 8.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 8.4% (>5%) | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

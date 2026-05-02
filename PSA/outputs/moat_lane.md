@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-05-01 06:44 | Price: $302.45 | Mkt Cap: $53B*
+*Generated: 2026-05-02 06:15 | Price: $301.55 | Mkt Cap: $53B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.6% inst.) as insider
 
@@ -25,10 +25,10 @@ Real Estate / REIT - Industrial
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 121% (strong); Gross margin: 75% (pricing power for Real Estate) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.3% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.0x — expensive; 52w range position: 81%; Owner earnings yield: 4.4%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.9x — growth premium; 52w range position: 79%; Owner earnings yield: 4.4%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

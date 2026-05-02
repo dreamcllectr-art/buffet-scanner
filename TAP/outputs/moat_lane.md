@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TAP
-*Generated: 2026-05-01 06:44 | Price: $42.74 | Mkt Cap: $8B*
+*Generated: 2026-05-02 06:15 | Price: $42.14 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.6% inst.) as insider
 
@@ -13,7 +13,7 @@ Consumer Defensive / Beverages - Brewers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,10 +22,10 @@ Consumer Defensive / Beverages - Brewers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 291% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: -68% (weak conversion); Gross margin: 38% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 38% — moderate moat for Consumer Defensive; Operating margin 14% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 291% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: -68% (weak conversion); Gross margin: 39% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 39% — moderate moat for Consumer Defensive; Operating margin 12% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 9.8% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

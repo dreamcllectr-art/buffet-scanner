@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAL
-*Generated: 2026-05-01 06:48 | Price: $11.71 | Mkt Cap: $8B*
+*Generated: 2026-05-02 06:19 | Price: $11.84 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Airlines
@@ -23,7 +23,7 @@ Industrials / Airlines
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 7.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 87% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: -417% (weak conversion); Gross margin: 23% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 23% — moderate moat for Industrials; Operating margin -0% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 11.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: -47% — ABSENT ($12 > IV $6 at 20x for 11% growth)
+- **Margin of Safety**: -48% — ABSENT ($12 > IV $6 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

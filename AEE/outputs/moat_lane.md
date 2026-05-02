@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AEE
-*Generated: 2026-05-01 06:41 | Price: $113.65 | Mkt Cap: $31B*
+*Generated: 2026-05-02 06:12 | Price: $113.56 | Mkt Cap: $31B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 5.3% (4y); 5y price drawdown: 27% (stable); Gross margin: 49% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 40% — strong pricing power; Operating margin 25% — durable for Utilities | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.6x — fair price; Near 52w high (92% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.6x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-05-01 06:41 | Price: $69.67 | Mkt Cap: $69B*
+*Generated: 2026-05-02 06:13 | Price: $69.12 | Mkt Cap: $69B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -23,10 +23,10 @@ Energy / Oil & Gas Equipment & Services
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 8.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 28% (weak conversion); Gross margin: 24% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Energy; Operating margin 12% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.0x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 4.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: 12% — thin (IV $78 at 25x)
+- **Margin of Safety**: 13% — thin (IV $78 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-05-01 06:43 | Price: $20.86 | Mkt Cap: $19B*
+*Generated: 2026-05-02 06:14 | Price: $20.83 | Mkt Cap: $19B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,7 +23,7 @@ Technology / Computer Hardware
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 36.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 108% (strong); Gross margin: 20% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 14.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 14.8% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

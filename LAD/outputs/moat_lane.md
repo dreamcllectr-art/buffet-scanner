@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LAD
-*Generated: 2026-05-01 06:48 | Price: $290.12 | Mkt Cap: $7B*
+*Generated: 2026-05-02 06:19 | Price: $290.9 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto & Truck Dealerships
-- **Margin of Safety**: 48% — PRESENT (IV $430 vs $290 at 15x)
+- **Margin of Safety**: 48% — PRESENT (IV $430 vs $291 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

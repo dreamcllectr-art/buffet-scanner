@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFSL
-*Generated: 2026-05-01 06:51 | Price: $15.04 | Mkt Cap: $4B*
+*Generated: 2026-05-02 06:22 | Price: $15.03 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -20,10 +20,10 @@ Financial Services / Banks - Regional
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | ROE: 4.8% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 82.1% of shares (SBC concern) | - |
-| Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 37% — durable for Financial Services | Weak pricing |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.4x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| Quality | 3.5/10 | 30% | 1.1 | ROE: 4.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 78.6% of shares (SBC concern) | - |
+| Moat | 5.5/10 | 25% | 1.4 | ROE 5% — weak (Financial Services); Operating margin 39% — durable for Financial Services | Weak pricing |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 42.3x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: -68% — ABSENT ($15 > IV $5 at 15x for -1% growth)
+- **Margin of Safety**: -56% — ABSENT ($15 > IV $7 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

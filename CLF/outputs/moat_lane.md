@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLF
-*Generated: 2026-05-01 06:49 | Price: $10.2 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:20 | Price: $10.51 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Steel
@@ -23,11 +23,11 @@ Basic Materials / Steel
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 211% from prior peak; 5y price drawdown: 82% (severe cyclicality); FCF/NI: 170% (strong); Gross margin: -3% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -3% — below Basic Materials moderate cutoff 18%; Operating margin -3% — thin for Basic Materials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; 52w range position: 41%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.0/10** | **100%** | **3.0** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.7x — growth premium; 52w range position: 44%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.1/10** | **100%** | **3.1** | | |
 
-## Buffett Score: 3.0 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 3.1 / 10
+## Alpha Adjustment: -0.27
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.27 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

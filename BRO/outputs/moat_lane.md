@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-05-01 06:42 | Price: $60.15 | Mkt Cap: $20B*
+*Generated: 2026-05-02 06:13 | Price: $57.63 | Mkt Cap: $20B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.1% inst.) as insider
 
@@ -22,10 +22,10 @@ Financial Services / Insurance Brokers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROE: 11.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 51% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 6.0/10 | 30% | 1.8 | ROE: 11.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 53% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 12% — adequate (Financial Services); Operating margin 47% — durable for Financial Services; Rev growth 36% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 7.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (0% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -38,7 +38,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -23% — ABSENT ($60 > IV $46 at 15x for -8% growth)
+- **Margin of Safety**: -20% — ABSENT ($58 > IV $46 at 15x for -8% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

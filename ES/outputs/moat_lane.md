@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ES
-*Generated: 2026-05-01 06:43 | Price: $70.7 | Mkt Cap: $27B*
+*Generated: 2026-05-02 06:14 | Price: $71.07 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Electric
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 131% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 61%; Gross margin: 54% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 54% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 69%; Owner earnings yield: 2.9% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 70%; Owner earnings yield: 2.9% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 61% — PRESENT (IV $114 vs $71 at 25x)
+- **Margin of Safety**: 60% — PRESENT (IV $114 vs $71 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

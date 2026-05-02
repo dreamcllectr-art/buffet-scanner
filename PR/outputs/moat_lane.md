@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PR
-*Generated: 2026-05-01 06:46 | Price: $21.62 | Mkt Cap: $19B*
+*Generated: 2026-05-02 06:17 | Price: $22.1 | Mkt Cap: $19B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -12,7 +12,7 @@ Energy / Oil & Gas E&P
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 4.7%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.6%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.6/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 11.2% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 73%; Gross margin: 73% (pricing power for Energy) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 30% — strong pricing power; Operating margin 41% — durable for Energy | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.8x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,9 +36,9 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 48% — PRESENT (IV $32 vs $22 at 25x)
+- **Margin of Safety**: 45% — PRESENT (IV $32 vs $22 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

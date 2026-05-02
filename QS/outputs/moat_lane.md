@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QS
-*Generated: 2026-05-01 06:55 | Price: $7.29 | Mkt Cap: $4B*
+*Generated: 2026-05-02 06:26 | Price: $7.26 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

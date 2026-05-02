@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIS
-*Generated: 2026-05-01 06:43 | Price: $46.53 | Mkt Cap: $24B*
+*Generated: 2026-05-02 06:14 | Price: $46.54 | Mkt Cap: $24B*
 
 ## Sector Context
 Technology / Information Technology Services

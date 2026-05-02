@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTI
-*Generated: 2026-05-01 06:46 | Price: $75.57 | Mkt Cap: $30B*
+*Generated: 2026-05-02 06:17 | Price: $75.79 | Mkt Cap: $30B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -11,7 +11,7 @@ Energy / Oil & Gas Equipment & Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.2x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -22,8 +22,8 @@ Energy / Oil & Gas Equipment & Services
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 220% (strong); Gross margin: 22% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Energy; Operating margin 13% | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.9x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 22% — moderate moat for Energy; Operating margin 14% | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.9x — growth premium; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Energy / Oil & Gas Equipment & Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: -31% — ABSENT ($76 > IV $52 at 20x for 16% growth)
+- **Margin of Safety**: -14% — ABSENT ($76 > IV $65 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

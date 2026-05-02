@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-05-01 06:43 | Price: $30.42 | Mkt Cap: $16B*
+*Generated: 2026-05-02 06:14 | Price: $31.76 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -11,7 +11,7 @@ Consumer Cyclical / Packaging & Containers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,15 +21,15 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 30% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 6%; Rev growth 53% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 3.4% | - |
-| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.5% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 3% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 11.4% (>5%) | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.1 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
@@ -37,18 +37,18 @@ Consumer Cyclical / Packaging & Containers
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
-No (2 forces only: attractive valuation, secular growth)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-05-01 06:52 | Price: $56.88 | Mkt Cap: $85B*
+*Generated: 2026-05-02 06:23 | Price: $56.92 | Mkt Cap: $85B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -11,7 +11,7 @@ Energy / Oil & Gas Equipment & Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,7 +23,7 @@ Energy / Oil & Gas Equipment & Services
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 18% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 18% — moderate moat for Energy; Operating margin 12% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.0x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.0x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

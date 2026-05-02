@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-05-01 06:44 | Price: $155.58 | Mkt Cap: $33B*
+*Generated: 2026-05-02 06:15 | Price: $153.37 | Mkt Cap: $33B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -20,10 +20,10 @@ Utilities / Utilities - Independent Power Producers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Utilities moderate cutoff 25%; Operating margin 4% — thin for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; 52w range position: 55%; Owner earnings yield: 3.3% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 52%; Owner earnings yield: 3.3% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
 ## Buffett Score: 4.2 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -61% — ABSENT ($156 > IV $60 at 15x for -91% growth)
+- **Margin of Safety**: -61% — ABSENT ($153 > IV $60 at 15x for -91% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Neutral

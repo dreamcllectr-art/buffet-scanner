@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STAG
-*Generated: 2026-05-01 06:48 | Price: $38.58 | Mkt Cap: $8B*
+*Generated: 2026-05-02 06:19 | Price: $38.58 | Mkt Cap: $8B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

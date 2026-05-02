@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACHC
-*Generated: 2026-05-01 06:55 | Price: $25.895 | Mkt Cap: $2B*
+*Generated: 2026-05-02 06:26 | Price: $27.85 | Mkt Cap: $3B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -23,10 +23,10 @@ Healthcare / Medical Care Facilities
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 504% from prior peak; 5y price drawdown: 87% (severe cyclicality); FCF/NI: -81% (weak conversion); Gross margin: 42% | ROIC declining |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat for Healthcare; Operating margin 10% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 84%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.1x — fair price; Near 52w high (96% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -37,12 +37,12 @@ Healthcare / Medical Care Facilities
 
 - **Circle of Competence**: Healthcare / Medical Care Facilities
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (0 forces only: none)
 
 ---
 

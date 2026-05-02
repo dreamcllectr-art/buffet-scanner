@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SBAC
-*Generated: 2026-05-01 06:52 | Price: $221.2 | Mkt Cap: $23B*
+*Generated: 2026-05-02 06:23 | Price: $218.58 | Mkt Cap: $23B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -11,7 +11,7 @@ Real Estate / REIT - Specialty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.4x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 12.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 185% (strong); Gross margin: 74% (pricing power for Real Estate) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 52% — durable for Real Estate | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.7x — growth premium; 52w range position: 71%; Owner earnings yield: 3.9%; Earnings yield < 4% — worse than bonds | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 53% — durable for Real Estate | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 68%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: 7% — thin (IV $237 at 25x)
+- **Margin of Safety**: -35% — ABSENT ($219 > IV $142 at 15x for -15% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

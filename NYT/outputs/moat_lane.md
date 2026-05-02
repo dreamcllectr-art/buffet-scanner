@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NYT
-*Generated: 2026-05-01 06:46 | Price: $79.03 | Mkt Cap: $13B*
+*Generated: 2026-05-02 06:18 | Price: $78.72 | Mkt Cap: $13B*
 
 ## Sector Context
 Communication Services / Publishing
@@ -23,7 +23,7 @@ Communication Services / Publishing
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 125% (strong); Gross margin: 50% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 50% — moderate moat for Communication Services; Operating margin 21% | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.1x — growth premium; 52w range position: 78%; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.0x — growth premium; 52w range position: 77%; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10

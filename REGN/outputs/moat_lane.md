@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REGN
-*Generated: 2026-05-01 06:52 | Price: $707.06 | Mkt Cap: $74B*
+*Generated: 2026-05-02 06:23 | Price: $701.42 | Mkt Cap: $74B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -20,13 +20,13 @@ Healthcare / Biotechnology
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 84% (strong); Gross margin: 45% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.1% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 45% — moderate moat for Healthcare; Operating margin 23% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; 52w range position: 67% | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 84% (strong); Gross margin: 44% | ROIC declining |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.2% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Healthcare; Operating margin 21% — durable for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.9x — deep value; 52w range position: 65%; Owner earnings yield: 4.5% | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -13% — ABSENT ($707 > IV $614 at 15x for -7% growth)
+- **Margin of Safety**: -12% — ABSENT ($701 > IV $614 at 15x for -7% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.0% insider ownership
 - **Mr. Market**: Neutral

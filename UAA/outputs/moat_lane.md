@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAA
-*Generated: 2026-05-01 06:51 | Price: $6.29 | Mkt Cap: $3B*
+*Generated: 2026-05-02 06:22 | Price: $6.29 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing

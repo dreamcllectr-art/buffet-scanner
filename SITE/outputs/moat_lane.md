@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SITE
-*Generated: 2026-05-01 06:49 | Price: $126.05 | Mkt Cap: $6B*
+*Generated: 2026-05-02 06:20 | Price: $125.61 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,7 +23,7 @@ Industrials / Industrial Distribution
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 144% (strong); Gross margin: 35% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 35% — moderate moat for Industrials; Operating margin -3% — thin for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.4x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.3x — growth premium; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

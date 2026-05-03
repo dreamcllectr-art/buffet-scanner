@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLD
-*Generated: 2026-05-02 06:18 | Price: $438.98 | Mkt Cap: $12B*
+*Generated: 2026-05-03 06:37 | Price: $438.98 | Mkt Cap: $12B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -20,13 +20,13 @@ Industrials / Engineering & Construction
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.8/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 1 down-year in 3 transitions; FCF/NI: 113% (strong); Gross margin: 29% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); No insider transaction data; Restricted stock: 0.8% (low) | - |
+| Quality | 4.3/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 113% (strong); Gross margin: 29% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 29% — moderate moat for Industrials; Operating margin 14% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.0x — growth premium; 52w range position: 58%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

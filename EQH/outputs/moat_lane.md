@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQH
-*Generated: 2026-05-02 06:18 | Price: $42.17 | Mkt Cap: $12B*
+*Generated: 2026-05-03 06:37 | Price: $42.17 | Mkt Cap: $12B*
 
 ## Sector Context
 Financial Services / Asset Management

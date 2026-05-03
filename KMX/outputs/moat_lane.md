@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMX
-*Generated: 2026-05-02 06:20 | Price: $38.53 | Mkt Cap: $5B*
+*Generated: 2026-05-03 06:39 | Price: $38.53 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships

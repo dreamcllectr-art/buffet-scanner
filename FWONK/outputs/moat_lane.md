@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FWONK
-*Generated: 2026-05-02 06:17 | Price: $87.94 | Mkt Cap: $22B*
+*Generated: 2026-05-03 06:37 | Price: $87.94 | Mkt Cap: $22B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,7 +21,7 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 3.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 371% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 94% (strong); Gross margin: 34% (below Communication Services norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -8.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -7.1% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 34% — below Communication Services moderate cutoff 40%; Operating margin 13% — thin for Communication Services | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 41.9x — expensive; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

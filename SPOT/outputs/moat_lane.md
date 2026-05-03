@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPOT
-*Generated: 2026-05-02 06:17 | Price: $441.51 | Mkt Cap: $91B*
+*Generated: 2026-05-03 06:43 | Price: $441.51 | Mkt Cap: $91B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 4.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 76% (severe cyclicality); FCF/NI: 50% (weak conversion); Gross margin: 32% (below Communication Services norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 23.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Communication Services moderate cutoff 40%; Operating margin 16% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.6x — growth premium; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 23.5x — growth premium; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

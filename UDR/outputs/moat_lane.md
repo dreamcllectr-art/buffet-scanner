@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UDR
-*Generated: 2026-05-02 06:23 | Price: $36.39 | Mkt Cap: $14B*
+*Generated: 2026-05-03 06:43 | Price: $36.39 | Mkt Cap: $14B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -20,13 +20,13 @@ Real Estate / REIT - Residential
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 3.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 80% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 407% (strong); Gross margin: 66% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.9% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 66% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 60.6x — extreme premium; 52w range position: 32%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 3.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 80% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 407% (strong); Gross margin: 67% (pricing power for Real Estate) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.2% of shares (SBC concern) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 22% | - |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 60.6x — extreme premium; 52w range position: 32%; Owner earnings yield: 7.4% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXEL
-*Generated: 2026-05-02 06:24 | Price: $43.68 | Mkt Cap: $11B*
+*Generated: 2026-05-03 06:37 | Price: $43.68 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Biotechnology

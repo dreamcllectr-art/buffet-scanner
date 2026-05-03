@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VVV
-*Generated: 2026-04-30 06:42 | Price: $32.3 | Mkt Cap: $4B*
+*Generated: 2026-05-03 06:40 | Price: $32.61 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -23,10 +23,10 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Quality | 2.7/10 | 30% | 0.8 | Avg ROIC: 16.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 85% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: 14% (weak conversion); Gross margin: 39% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 39% — moderate moat for Consumer Cyclical; Operating margin 1% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.1x — fair price; Near 52w low (30% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.2x — fair price; 52w range position: 32%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 5.3 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Consumer Cyclical / Auto & Truck Dealerships
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto & Truck Dealerships
-- **Margin of Safety**: -57% — ABSENT ($32 > IV $14 at 20x for 12% growth)
+- **Margin of Safety**: -58% — ABSENT ($33 > IV $14 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

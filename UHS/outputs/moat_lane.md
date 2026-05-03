@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-05-02 06:24 | Price: $167.0 | Mkt Cap: $10B*
+*Generated: 2026-05-03 06:43 | Price: $167.0 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified First Eagle Investment Management, LLC (8.0% inst.) as insider
 

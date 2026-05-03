@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBH
-*Generated: 2026-05-02 06:17 | Price: $82.9 | Mkt Cap: $16B*
+*Generated: 2026-05-03 06:43 | Price: $82.9 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Medical Devices

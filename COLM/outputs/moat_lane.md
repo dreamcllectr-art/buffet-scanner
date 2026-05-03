@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLM
-*Generated: 2026-05-02 06:22 | Price: $62.35 | Mkt Cap: $3B*
+*Generated: 2026-05-03 06:46 | Price: $62.35 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -21,7 +21,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 43% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 50% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 49.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 58.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 50.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 50% vs sector strong cutoff 45% — strong pricing power; Operating margin 5% — thin for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 61%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |

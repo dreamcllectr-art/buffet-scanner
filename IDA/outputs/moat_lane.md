@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IDA
-*Generated: 2026-05-02 06:19 | Price: $147.09 | Mkt Cap: $8B*
+*Generated: 2026-05-03 06:44 | Price: $147.09 | Mkt Cap: $8B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

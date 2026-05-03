@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSC
-*Generated: 2026-05-02 06:26 | Price: $22.69 | Mkt Cap: $4B*
+*Generated: 2026-05-03 06:40 | Price: $22.69 | Mkt Cap: $4B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services

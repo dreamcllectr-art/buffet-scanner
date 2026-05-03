@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UWMC
-*Generated: 2026-05-02 06:22 | Price: $3.66 | Mkt Cap: $6B*
+*Generated: 2026-05-03 06:41 | Price: $3.66 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Mortgage Finance
@@ -21,7 +21,7 @@ Financial Services / Mortgage Finance
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | ROE: 13.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 69% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.5% (>10%); No insider transaction data; Restricted stock: 23.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.5% (>10%); No insider transaction data; Restricted stock: 21.0% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROE 13% — adequate (Financial Services); Operating margin 31% — durable for Financial Services; Rev growth 301% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 30.6% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

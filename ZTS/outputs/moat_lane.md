@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZTS
-*Generated: 2026-05-02 06:17 | Price: $114.16 | Mkt Cap: $48B*
+*Generated: 2026-05-03 06:43 | Price: $114.16 | Mkt Cap: $48B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic

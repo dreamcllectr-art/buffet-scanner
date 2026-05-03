@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXTA
-*Generated: 2026-05-02 06:20 | Price: $27.73 | Mkt Cap: $6B*
+*Generated: 2026-05-03 06:39 | Price: $27.73 | Mkt Cap: $6B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -22,8 +22,8 @@ Basic Materials / Specialty Chemicals
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 8.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 38% (stable); FCF/NI: 117% (strong); Gross margin: 34% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 34% vs sector strong cutoff 30% — strong pricing power; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 8.9% (>5%) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 34% vs sector strong cutoff 30% — strong pricing power; Operating margin 14% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 9.0% (>5%) | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

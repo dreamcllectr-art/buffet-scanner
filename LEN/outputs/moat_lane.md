@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-05-02 06:14 | Price: $88.45 | Mkt Cap: $22B*
+*Generated: 2026-05-03 06:34 | Price: $88.45 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified Eagle Capital Management LLC (5.1% inst.) as insider
 

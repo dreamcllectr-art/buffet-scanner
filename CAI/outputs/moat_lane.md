@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAI
-*Generated: 2026-05-02 06:22 | Price: $18.47 | Mkt Cap: $5B*
+*Generated: 2026-05-03 06:46 | Price: $18.47 | Mkt Cap: $5B*
 
 ## Sector Context
 Healthcare / Biotechnology

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STZ
-*Generated: 2026-05-02 06:13 | Price: $152.82 | Mkt Cap: $26B*
+*Generated: 2026-05-03 06:32 | Price: $152.82 | Mkt Cap: $26B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Brewers

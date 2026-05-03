@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRMB
-*Generated: 2026-05-02 06:20 | Price: $20.03 | Mkt Cap: $7B*
+*Generated: 2026-05-03 06:39 | Price: $20.03 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic

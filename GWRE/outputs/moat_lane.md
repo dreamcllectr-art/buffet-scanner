@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWRE
-*Generated: 2026-05-02 06:24 | Price: $141.26 | Mkt Cap: $12B*
+*Generated: 2026-05-03 06:37 | Price: $141.26 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Software - Application

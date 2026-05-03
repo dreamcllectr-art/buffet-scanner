@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ITT
-*Generated: 2026-05-02 06:17 | Price: $209.89 | Mkt Cap: $19B*
+*Generated: 2026-05-03 06:37 | Price: $209.89 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNB
-*Generated: 2026-05-02 06:19 | Price: $17.66 | Mkt Cap: $6B*
+*Generated: 2026-05-03 06:39 | Price: $17.66 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Banks - Regional

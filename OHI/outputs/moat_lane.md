@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OHI
-*Generated: 2026-05-02 06:17 | Price: $46.98 | Mkt Cap: $15B*
+*Generated: 2026-05-03 06:37 | Price: $46.98 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

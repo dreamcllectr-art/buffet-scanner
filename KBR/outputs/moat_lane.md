@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KBR
-*Generated: 2026-05-02 06:20 | Price: $37.45 | Mkt Cap: $5B*
+*Generated: 2026-05-03 06:40 | Price: $37.45 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -21,7 +21,7 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 239% from prior peak; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 78%; Gross margin: 15% (below Industrials norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Industrials moderate cutoff 22%; Operating margin 8% — thin for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%) | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |

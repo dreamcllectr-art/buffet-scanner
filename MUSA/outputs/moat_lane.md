@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MUSA
-*Generated: 2026-04-30 06:40 | Price: $514.45 | Mkt Cap: $10B*
+*Generated: 2026-05-03 06:44 | Price: $596.92 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -13,7 +13,7 @@ Consumer Cyclical / Specialty Retail
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,13 +22,13 @@ Consumer Cyclical / Specialty Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.9/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 24.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 36% (stable); FCF/NI: 87% (strong); Gross margin: 8% (thin by design for Specialty Retail) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.8% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROA 10% / ROE 64% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.5x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
+| Quality | 3.4/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 24.6% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 85% (strong); Gross margin: 8% (thin by design for Specialty Retail) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROA 11% / ROE 80% — scale moat (Specialty Retail); Operating margin 5% — thin for Consumer Cyclical | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.4x — growth premium; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 5.4 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -20% — ABSENT ($514 > IV $409 at 17x for 8% growth)
+- **Margin of Safety**: 20% — thin (IV $719 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

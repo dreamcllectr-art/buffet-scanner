@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HR
-*Generated: 2026-05-02 06:20 | Price: $19.25 | Mkt Cap: $7B*
+*Generated: 2026-05-03 06:39 | Price: $19.25 | Mkt Cap: $7B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

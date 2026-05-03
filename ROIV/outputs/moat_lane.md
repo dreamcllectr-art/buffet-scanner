@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROIV
-*Generated: 2026-05-02 06:24 | Price: $27.83 | Mkt Cap: $20B*
+*Generated: 2026-05-03 06:37 | Price: $27.83 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Biotechnology

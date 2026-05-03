@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBM
-*Generated: 2026-05-02 06:14 | Price: $232.2 | Mkt Cap: $218B*
+*Generated: 2026-05-03 06:33 | Price: $232.2 | Mkt Cap: $218B*
 
 ## Sector Context
 Technology / Information Technology Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CDW
-*Generated: 2026-05-02 06:13 | Price: $136.03 | Mkt Cap: $18B*
+*Generated: 2026-05-03 06:32 | Price: $136.03 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Information Technology Services

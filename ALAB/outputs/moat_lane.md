@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALAB
-*Generated: 2026-05-02 06:17 | Price: $202.68 | Mkt Cap: $35B*
+*Generated: 2026-05-03 06:36 | Price: $202.68 | Mkt Cap: $35B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 0.3% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 33% (weak conversion); Gross margin: 76% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.1% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.0% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 25%; Rev growth 92% — demand pull | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 56.5x — extreme premium; 52w range position: 70%; Owner earnings yield: 0.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |

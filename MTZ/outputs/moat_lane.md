@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTZ
-*Generated: 2026-05-02 06:17 | Price: $417.41 | Mkt Cap: $33B*
+*Generated: 2026-05-03 06:36 | Price: $417.41 | Mkt Cap: $33B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -12,7 +12,7 @@ Industrials / Engineering & Construction
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 21.6%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 21.5%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 5.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 250% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: -13% (weak conversion); Gross margin: 13% (below Industrials norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 21.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.2% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 21.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.2% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 13% — below Industrials moderate cutoff 22%; Operating margin 4% — thin for Industrials; Rev growth 34% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.8x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.6x — expensive; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
 ## Buffett Score: 3.6 / 10
@@ -38,7 +38,7 @@ Industrials / Engineering & Construction
 - **Circle of Competence**: Industrials / Engineering & Construction
 - **Margin of Safety**: -70% — ABSENT ($417 > IV $126 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
-- **Incentive-Caused Bias**: Aligned — 21.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 21.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check

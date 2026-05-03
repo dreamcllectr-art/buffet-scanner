@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-05-02 06:23 | Price: $156.2 | Mkt Cap: $30B*
+*Generated: 2026-05-03 06:35 | Price: $156.2 | Mkt Cap: $30B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (11.0% inst.) as insider
 

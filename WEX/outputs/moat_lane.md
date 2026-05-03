@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEX
-*Generated: 2026-05-02 06:20 | Price: $151.14 | Mkt Cap: $5B*
+*Generated: 2026-05-03 06:39 | Price: $151.14 | Mkt Cap: $5B*
 
 ## Sector Context
 Technology / Software - Infrastructure

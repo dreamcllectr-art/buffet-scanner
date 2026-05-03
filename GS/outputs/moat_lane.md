@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GS
-*Generated: 2026-05-02 06:14 | Price: $923.71 | Mkt Cap: $274B*
+*Generated: 2026-05-03 06:33 | Price: $923.71 | Mkt Cap: $274B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -20,9 +20,9 @@ Financial Services / Capital Markets
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.1/10 | 30% | 1.8 | ROE: 14.6% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.4% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 15% — adequate (Financial Services); Operating margin 38% — durable for Financial Services | - |
+| Quality | 6.1/10 | 30% | 1.8 | ROE: 14.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 33% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.3% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 15% — adequate (Financial Services); Operating margin 39% — durable for Financial Services | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.1x — deep value; Near 52w high (86% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 

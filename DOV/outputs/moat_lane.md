@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOV
-*Generated: 2026-05-02 06:13 | Price: $225.79 | Mkt Cap: $30B*
+*Generated: 2026-05-03 06:33 | Price: $225.79 | Mkt Cap: $30B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

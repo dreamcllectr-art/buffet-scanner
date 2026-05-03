@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTG
-*Generated: 2026-05-02 06:20 | Price: $26.26 | Mkt Cap: $6B*
+*Generated: 2026-05-03 06:39 | Price: $26.26 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty

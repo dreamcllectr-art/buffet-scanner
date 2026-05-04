@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTRG
-*Generated: 2026-05-03 06:37 | Price: $38.03 | Mkt Cap: $11B*
+*Generated: 2026-05-04 06:53 | Price: $38.03 | Mkt Cap: $11B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water

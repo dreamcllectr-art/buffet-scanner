@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAG
-*Generated: 2026-05-02 06:26 | Price: $169.84 | Mkt Cap: $11B*
+*Generated: 2026-05-04 07:01 | Price: $169.84 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -11,7 +11,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 21.2%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -23,7 +23,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 13.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 32% from prior peak; 5y price drawdown: 24% (stable); FCF/NI: 78%; Gross margin: 16% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 21.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 73.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 60% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 60%; Owner earnings yield: 2.0% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

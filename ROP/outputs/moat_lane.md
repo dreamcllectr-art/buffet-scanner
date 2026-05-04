@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ROP
-*Generated: 2026-05-03 06:35 | Price: $358.22 | Mkt Cap: $37B*
+*Generated: 2026-05-04 06:50 | Price: $358.22 | Mkt Cap: $37B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 6.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 70% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 115% (strong); Gross margin: 69% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 69% vs sector strong cutoff 60% — strong pricing power; Operating margin 27% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.0x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |

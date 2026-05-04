@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EBAY
-*Generated: 2026-05-03 06:33 | Price: $104.07 | Mkt Cap: $46B*
+*Generated: 2026-05-04 06:47 | Price: $104.07 | Mkt Cap: $46B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail

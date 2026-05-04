@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATI
-*Generated: 2026-05-03 06:36 | Price: $155.26 | Mkt Cap: $21B*
+*Generated: 2026-05-04 06:59 | Price: $155.26 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -21,12 +21,12 @@ Industrials / Metal Fabrication
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 12.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 32% (weak conversion); Gross margin: 23% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 23% — moderate moat for Industrials; Operating margin 14% | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 23% — moderate moat for Industrials; Operating margin 16% — durable for Industrials | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.8x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.2 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALNY
-*Generated: 2026-05-03 06:43 | Price: $296.11 | Mkt Cap: $40B*
+*Generated: 2026-05-04 06:52 | Price: $296.11 | Mkt Cap: $40B*
 
 ## Sector Context
 Healthcare / Biotechnology

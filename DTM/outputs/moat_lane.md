@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DTM
-*Generated: 2026-05-03 06:37 | Price: $147.46 | Mkt Cap: $15B*
+*Generated: 2026-05-04 06:59 | Price: $147.46 | Mkt Cap: $15B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 6.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 24% (stable); FCF/NI: 82% (strong); Gross margin: 75% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 30% — strong pricing power; Operating margin 50% — durable for Energy | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.6x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10

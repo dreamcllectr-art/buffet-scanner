@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ENTG
-*Generated: 2026-05-03 06:36 | Price: $142.29 | Mkt Cap: $22B*
+*Generated: 2026-05-04 06:59 | Price: $142.29 | Mkt Cap: $22B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials

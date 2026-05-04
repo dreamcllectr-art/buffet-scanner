@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRBR
-*Generated: 2026-05-02 06:26 | Price: $17.2 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $17.2 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

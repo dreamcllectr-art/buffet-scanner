@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BROS
-*Generated: 2026-05-02 06:19 | Price: $56.95 | Mkt Cap: $9B*
+*Generated: 2026-05-04 06:54 | Price: $56.95 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (8.7% inst.) as insider
 
@@ -23,13 +23,13 @@ Consumer Cyclical / Restaurants
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 70% (severe cyclicality); FCF/NI: -581% (weak conversion); Gross margin: 26% (below Consumer Cyclical norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.6% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 8%; Rev growth 29% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.4x — expensive; 52w range position: 37%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 47.3x — expensive; 52w range position: 37%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.2/10** | **100%** | **3.2** | | |
 
-## Buffett Score: 3.3 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.2 / 10
+## Alpha Adjustment: -0.26
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -50,7 +50,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.26 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

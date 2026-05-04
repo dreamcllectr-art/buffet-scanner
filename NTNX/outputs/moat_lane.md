@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTNX
-*Generated: 2026-05-03 06:44 | Price: $42.6 | Mkt Cap: $11B*
+*Generated: 2026-05-04 06:53 | Price: $42.6 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Software - Infrastructure

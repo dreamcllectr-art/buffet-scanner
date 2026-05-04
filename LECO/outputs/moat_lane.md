@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LECO
-*Generated: 2026-05-03 06:37 | Price: $266.25 | Mkt Cap: $15B*
+*Generated: 2026-05-04 06:59 | Price: $266.25 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -11,7 +11,7 @@ Industrials / Tools & Accessories
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -23,7 +23,7 @@ Industrials / Tools & Accessories
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 21.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 94% (strong); Gross margin: 36% (pricing power for Industrials) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 36% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.2x — growth premium; 52w range position: 66%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.2x — growth premium; 52w range position: 66%; Owner earnings yield: 1.2%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
 
 ## Buffett Score: 7.4 / 10
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -45% — ABSENT ($266 > IV $145 at 15x for -0% growth)
+- **Margin of Safety**: -27% — ABSENT ($266 > IV $194 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

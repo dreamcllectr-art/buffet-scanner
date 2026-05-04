@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXR
-*Generated: 2026-05-03 06:33 | Price: $142.02 | Mkt Cap: $31B*
+*Generated: 2026-05-04 06:48 | Price: $142.02 | Mkt Cap: $31B*
 
 ## Sector Context
 Real Estate / REIT - Industrial

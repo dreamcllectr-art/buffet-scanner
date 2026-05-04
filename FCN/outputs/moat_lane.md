@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCN
-*Generated: 2026-05-03 06:39 | Price: $173.82 | Mkt Cap: $5B*
+*Generated: 2026-05-04 06:55 | Price: $173.82 | Mkt Cap: $5B*
 
 ## Sector Context
 Industrials / Consulting Services

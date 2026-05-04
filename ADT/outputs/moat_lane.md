@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADT
-*Generated: 2026-05-03 06:40 | Price: $7.55 | Mkt Cap: $6B*
+*Generated: 2026-05-04 07:01 | Price: $7.55 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Security & Protection Services

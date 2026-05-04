@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VIK
-*Generated: 2026-05-03 06:37 | Price: $81.5 | Mkt Cap: $36B*
+*Generated: 2026-05-04 06:59 | Price: $81.5 | Mkt Cap: $36B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

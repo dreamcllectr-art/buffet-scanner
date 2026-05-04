@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TKR
-*Generated: 2026-05-02 06:19 | Price: $109.0 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:55 | Price: $109.0 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Group Inc (9.3% inst.) as insider
 

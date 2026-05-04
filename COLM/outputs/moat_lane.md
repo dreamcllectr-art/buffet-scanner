@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COLM
-*Generated: 2026-05-03 06:46 | Price: $62.35 | Mkt Cap: $3B*
+*Generated: 2026-05-04 06:57 | Price: $62.35 | Mkt Cap: $3B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing

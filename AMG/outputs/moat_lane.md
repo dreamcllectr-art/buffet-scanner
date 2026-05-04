@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMG
-*Generated: 2026-05-03 06:44 | Price: $291.07 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:54 | Price: $291.07 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Asset Management

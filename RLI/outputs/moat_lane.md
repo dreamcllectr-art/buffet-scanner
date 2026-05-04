@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RLI
-*Generated: 2026-05-03 06:40 | Price: $51.5 | Mkt Cap: $5B*
+*Generated: 2026-05-04 07:00 | Price: $51.5 | Mkt Cap: $5B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

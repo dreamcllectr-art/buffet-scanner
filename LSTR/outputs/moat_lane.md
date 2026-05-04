@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LSTR
-*Generated: 2026-05-03 06:39 | Price: $181.56 | Mkt Cap: $6B*
+*Generated: 2026-05-04 06:55 | Price: $181.56 | Mkt Cap: $6B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics

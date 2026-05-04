@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AFG
-*Generated: 2026-05-03 06:44 | Price: $131.64 | Mkt Cap: $11B*
+*Generated: 2026-05-04 06:54 | Price: $131.64 | Mkt Cap: $11B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -11,7 +11,7 @@ Financial Services / Insurance - Property & Casualty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.4x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 20.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,14 +20,14 @@ Financial Services / Insurance - Property & Casualty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | ROE: 18.1% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 24% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.5% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 21% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 38%; Owner earnings yield: 2.8% | - |
-| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
+| Quality | 6.0/10 | 30% | 1.8 | ROE: 19.4% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 24% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.7% of shares (SBC concern) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 19% — strong franchise (Financial Services); Operating margin 15% — thin for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 38% | - |
+| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
-## Buffett Score: 7.8 / 10
-## Alpha Adjustment: +0.28
+## Buffett Score: 7.7 / 10
+## Alpha Adjustment: +0.27
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 60% — PRESENT (IV $211 vs $132 at 20x)
+- **Margin of Safety**: 100% — PRESENT (IV $263 vs $132 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 20.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.28 applied to composite alpha score
+Buffett Premium: +0.27 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

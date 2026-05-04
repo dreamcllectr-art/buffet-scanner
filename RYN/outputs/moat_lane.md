@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RYN
-*Generated: 2026-05-03 06:39 | Price: $20.95 | Mkt Cap: $6B*
+*Generated: 2026-05-04 06:55 | Price: $20.95 | Mkt Cap: $6B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

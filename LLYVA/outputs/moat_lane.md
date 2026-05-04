@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLYVA
-*Generated: 2026-05-02 06:22 | Price: $92.5 | Mkt Cap: $9B*
+*Generated: 2026-05-04 06:57 | Price: $92.5 | Mkt Cap: $9B*
 
 ## Sector Context
 Communication Services / Entertainment

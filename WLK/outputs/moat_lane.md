@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WLK
-*Generated: 2026-05-02 06:26 | Price: $114.99 | Mkt Cap: $15B*
+*Generated: 2026-05-04 07:01 | Price: $114.99 | Mkt Cap: $15B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

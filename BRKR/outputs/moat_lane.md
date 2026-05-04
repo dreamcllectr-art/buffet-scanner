@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRKR
-*Generated: 2026-05-02 06:26 | Price: $36.79 | Mkt Cap: $6B*
+*Generated: 2026-05-04 07:01 | Price: $36.79 | Mkt Cap: $6B*
 
 ## Sector Context
 Healthcare / Medical Devices

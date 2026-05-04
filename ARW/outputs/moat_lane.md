@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARW
-*Generated: 2026-05-03 06:44 | Price: $184.52 | Mkt Cap: $9B*
+*Generated: 2026-05-04 06:54 | Price: $184.52 | Mkt Cap: $9B*
 
 ## Sector Context
 Technology / Electronics & Computer Distribution

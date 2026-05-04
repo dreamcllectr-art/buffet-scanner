@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GLW
-*Generated: 2026-05-03 06:32 | Price: $158.26 | Mkt Cap: $136B*
+*Generated: 2026-05-04 06:47 | Price: $158.26 | Mkt Cap: $136B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.4% inst.) as insider
 
@@ -13,7 +13,7 @@ Technology / Electronic Components
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Electronic Components | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,13 +23,13 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 7.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 116% (strong); Gross margin: 36% (below Technology norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.1% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.1% of shares (SBC concern) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 36% — below Technology moderate cutoff 40%; Operating margin 16% — thin for Technology | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 39.3x — expensive; 52w range position: 85%; Owner earnings yield: 0.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **2.9/10** | **100%** | **2.9** | | |
+| **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
 
-## Buffett Score: 2.9 / 10
-## Alpha Adjustment: -0.28
+## Buffett Score: 2.8 / 10
+## Alpha Adjustment: -0.29
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -50,7 +50,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.28 applied to composite alpha score
+Buffett Premium: -0.29 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

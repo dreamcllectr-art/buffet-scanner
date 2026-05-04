@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HHH
-*Generated: 2026-05-02 06:21 | Price: $62.32 | Mkt Cap: $4B*
+*Generated: 2026-05-04 06:57 | Price: $62.32 | Mkt Cap: $4B*
 
 ## Sector Context
 Real Estate / Real Estate - Development

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FNF
-*Generated: 2026-05-03 06:37 | Price: $51.63 | Mkt Cap: $14B*
+*Generated: 2026-05-04 06:59 | Price: $51.63 | Mkt Cap: $14B*
 
 > ⚠ DATA: yfinance misclassified Windacre Partnership LLC (7.3% inst.) as insider
 

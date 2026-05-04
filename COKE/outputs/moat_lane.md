@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COKE
-*Generated: 2026-05-03 06:37 | Price: $203.92 | Mkt Cap: $14B*
+*Generated: 2026-05-04 07:00 | Price: $203.92 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic

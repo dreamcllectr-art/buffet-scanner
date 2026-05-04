@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FHB
-*Generated: 2026-05-02 06:26 | Price: $27.47 | Mkt Cap: $3B*
+*Generated: 2026-05-04 07:01 | Price: $27.47 | Mkt Cap: $3B*
 
 ## Sector Context
 Financial Services / Banks - Regional

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SAM
-*Generated: 2026-05-02 06:22 | Price: $214.3 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $214.3 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 

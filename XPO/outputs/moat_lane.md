@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XPO
-*Generated: 2026-05-03 06:36 | Price: $215.28 | Mkt Cap: $25B*
+*Generated: 2026-05-04 06:59 | Price: $215.28 | Mkt Cap: $25B*
 
 ## Sector Context
 Industrials / Trucking
@@ -11,7 +11,7 @@ Industrials / Trucking
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 2.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Trucking
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 9.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: -74% (weak conversion); Gross margin: 19% (below Industrials norm) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.1% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 9% | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.3x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 36.3x — expensive; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.8/10** | **100%** | **2.8** | | |
 
 ## Buffett Score: 2.8 / 10

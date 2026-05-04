@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-05-03 06:32 | Price: $195.24 | Mkt Cap: $46B*
+*Generated: 2026-05-04 06:46 | Price: $195.24 | Mkt Cap: $46B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -21,7 +21,7 @@ Healthcare / Medical Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 26.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 25% (stable); FCF/NI: 230% (strong); Gross margin: 4% (below Healthcare norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.4x — fair price; 52w range position: 60%; Owner earnings yield: 10.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |

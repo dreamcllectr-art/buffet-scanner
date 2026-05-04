@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AM
-*Generated: 2026-05-02 06:19 | Price: $21.7 | Mkt Cap: $10B*
+*Generated: 2026-05-04 06:54 | Price: $21.7 | Mkt Cap: $10B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -21,9 +21,9 @@ Energy / Oil & Gas Midstream
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 10.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 22% (stable); FCF/NI: 138% (strong); Gross margin: 81% (pricing power for Energy) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 30.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 30.4% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 30% — strong pricing power; Operating margin 59% — durable for Energy | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 70%; Owner earnings yield: 4.5% | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 30.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 30.3% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 30% — strong pricing power; Operating margin 55% — durable for Energy | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; 52w range position: 70%; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10

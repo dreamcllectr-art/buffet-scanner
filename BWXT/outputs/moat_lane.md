@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BWXT
-*Generated: 2026-05-03 06:36 | Price: $216.31 | Mkt Cap: $20B*
+*Generated: 2026-05-04 06:59 | Price: $216.31 | Mkt Cap: $20B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

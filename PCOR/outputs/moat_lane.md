@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCOR
-*Generated: 2026-05-02 06:19 | Price: $59.32 | Mkt Cap: $9B*
+*Generated: 2026-05-04 06:54 | Price: $59.32 | Mkt Cap: $9B*
 
 > ⚠ DATA: yfinance misclassified ICONIQ Capital, LLC (9.7% inst.) as insider
 

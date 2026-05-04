@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAN
-*Generated: 2026-05-03 06:46 | Price: $30.52 | Mkt Cap: $1B*
+*Generated: 2026-05-04 06:57 | Price: $30.52 | Mkt Cap: $1B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services

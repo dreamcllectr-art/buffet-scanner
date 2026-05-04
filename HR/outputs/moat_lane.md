@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HR
-*Generated: 2026-05-03 06:39 | Price: $19.25 | Mkt Cap: $7B*
+*Generated: 2026-05-04 06:55 | Price: $19.25 | Mkt Cap: $7B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -11,7 +11,7 @@ Real Estate / REIT - Healthcare Facilities
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.9x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Real Estate / REIT - Healthcare Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 1700% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 20% (weak conversion); Gross margin: 62% (pricing power for Real Estate) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 12% — thin for Real Estate | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -192.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 1.6% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E -192.5x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 2.1% | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

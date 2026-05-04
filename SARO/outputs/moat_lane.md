@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SARO
-*Generated: 2026-05-03 06:39 | Price: $24.53 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:55 | Price: $24.53 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

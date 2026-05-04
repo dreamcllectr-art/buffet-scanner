@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BJ
-*Generated: 2026-05-03 06:37 | Price: $93.51 | Mkt Cap: $12B*
+*Generated: 2026-05-04 07:00 | Price: $93.51 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores

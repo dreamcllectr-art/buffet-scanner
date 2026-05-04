@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLGN
-*Generated: 2026-05-02 06:26 | Price: $39.72 | Mkt Cap: $4B*
+*Generated: 2026-05-04 07:01 | Price: $39.72 | Mkt Cap: $4B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (15.0% inst.) as insider
 

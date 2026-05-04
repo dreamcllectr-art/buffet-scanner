@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XOM
-*Generated: 2026-05-03 06:33 | Price: $152.75 | Mkt Cap: $635B*
+*Generated: 2026-05-04 06:48 | Price: $152.75 | Mkt Cap: $635B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -20,13 +20,13 @@ Energy / Oil & Gas Integrated
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.3/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 17.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 21% (stable); FCF/NI: 93% (strong); Gross margin: 31% (pricing power for Energy) | ROIC declining |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 31% vs sector strong cutoff 30% — strong pricing power; Operating margin 10% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.0x — fair price; 52w range position: 69%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 17.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 21% (stable); FCF/NI: 93% (strong); Gross margin: 30% | ROIC declining |
+| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 30% — moderate moat for Energy; Operating margin 6% | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 69%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Energy / Oil & Gas Integrated
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Integrated
-- **Margin of Safety**: -42% — ABSENT ($153 > IV $89 at 15x for -11% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
+- **Margin of Safety**: -42% — ABSENT ($153 > IV $89 at 15x for -43% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, attractive valuation)
+No (1 forces only: attractive valuation)
 
 ---
 

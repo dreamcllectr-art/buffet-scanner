@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNXC
-*Generated: 2026-05-03 06:46 | Price: $24.53 | Mkt Cap: $1B*
+*Generated: 2026-05-04 06:57 | Price: $24.53 | Mkt Cap: $1B*
 
 ## Sector Context
 Technology / Information Technology Services

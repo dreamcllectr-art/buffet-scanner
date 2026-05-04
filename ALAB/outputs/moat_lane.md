@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALAB
-*Generated: 2026-05-03 06:36 | Price: $202.68 | Mkt Cap: $35B*
+*Generated: 2026-05-04 06:52 | Price: $202.68 | Mkt Cap: $35B*
 
 ## Sector Context
 Technology / Semiconductors

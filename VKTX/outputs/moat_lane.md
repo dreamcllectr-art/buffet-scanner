@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VKTX
-*Generated: 2026-05-02 06:26 | Price: $30.0 | Mkt Cap: $3B*
+*Generated: 2026-05-04 07:01 | Price: $30.0 | Mkt Cap: $3B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -21,7 +21,7 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -30.8% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 79% (severe cyclicality); FCF/NI: 78%; Gross margin: 0% (below Healthcare norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 0% — below Healthcare moderate cutoff 35%; Operating margin 0% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -7.3x — deep value; 52w range position: 35% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

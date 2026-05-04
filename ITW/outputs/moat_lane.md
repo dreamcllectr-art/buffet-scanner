@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ITW
-*Generated: 2026-05-03 06:33 | Price: $255.47 | Mkt Cap: $74B*
+*Generated: 2026-05-04 06:48 | Price: $255.47 | Mkt Cap: $74B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

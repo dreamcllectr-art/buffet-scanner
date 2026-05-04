@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVNA
-*Generated: 2026-05-03 06:32 | Price: $382.6 | Mkt Cap: $85B*
+*Generated: 2026-05-04 06:46 | Price: $382.6 | Mkt Cap: $85B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -1.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 183% (strong); Gross margin: 20% (below Consumer Cyclical norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 20% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9%; Rev growth 52% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.0x — expensive; 52w range position: 55%; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 36.3x — expensive; 52w range position: 55%; Owner earnings yield: 0.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10

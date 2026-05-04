@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CW
-*Generated: 2026-05-03 06:44 | Price: $713.14 | Mkt Cap: $26B*
+*Generated: 2026-05-04 06:52 | Price: $713.14 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

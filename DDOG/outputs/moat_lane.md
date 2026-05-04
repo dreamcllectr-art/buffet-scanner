@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DDOG
-*Generated: 2026-05-03 06:32 | Price: $140.53 | Mkt Cap: $50B*
+*Generated: 2026-05-04 06:47 | Price: $140.53 | Mkt Cap: $50B*
 
 ## Sector Context
 Technology / Software - Application

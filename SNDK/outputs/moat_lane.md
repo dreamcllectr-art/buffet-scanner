@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-05-03 06:35 | Price: $1187.0 | Mkt Cap: $176B*
+*Generated: 2026-05-04 06:50 | Price: $1187.0 | Mkt Cap: $176B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.5% inst.) as insider
 

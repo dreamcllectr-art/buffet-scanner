@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CL
-*Generated: 2026-05-03 06:32 | Price: $87.26 | Mkt Cap: $70B*
+*Generated: 2026-05-04 06:47 | Price: $87.26 | Mkt Cap: $70B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -11,7 +11,7 @@ Consumer Defensive / Household & Personal Products
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Defensive / Household & Personal Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 32.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 29% (stable); FCF/NI: 132% (strong); Gross margin: 60% (pricing power for Consumer Defensive) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Defensive | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.4x — growth premium; 52w range position: 51%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.5% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 45% — strong pricing power; Operating margin 21% — durable for Consumer Defensive | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.5x — growth premium; 52w range position: 51%; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
 ## Buffett Score: 7.0 / 10

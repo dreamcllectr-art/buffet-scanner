@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XRAY
-*Generated: 2026-05-02 06:26 | Price: $11.81 | Mkt Cap: $2B*
+*Generated: 2026-05-04 07:01 | Price: $11.81 | Mkt Cap: $2B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -21,12 +21,12 @@ Healthcare / Medical Instruments & Supplies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 84% (severe cyclicality); FCF/NI: -65% (weak conversion); Gross margin: 50% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.7% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 50% — moderate moat for Healthcare; Operating margin 2% — thin for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.6x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 4.5% | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

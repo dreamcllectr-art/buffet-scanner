@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OSK
-*Generated: 2026-05-03 06:44 | Price: $155.29 | Mkt Cap: $10B*
+*Generated: 2026-05-04 06:53 | Price: $155.29 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery

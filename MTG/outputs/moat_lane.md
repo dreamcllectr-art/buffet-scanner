@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTG
-*Generated: 2026-05-03 06:39 | Price: $26.26 | Mkt Cap: $6B*
+*Generated: 2026-05-04 06:55 | Price: $26.26 | Mkt Cap: $6B*
 
 ## Sector Context
 Financial Services / Insurance - Specialty
@@ -21,7 +21,7 @@ Financial Services / Insurance - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | ROE: 14.1% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.0% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 73% — durable for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.9x — deep value; Near 52w low (29% of range) — Mr. Market fearful; Owner earnings yield: 8.5% (>5%) | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ONON
-*Generated: 2026-05-02 06:19 | Price: $34.54 | Mkt Cap: $11B*
+*Generated: 2026-05-04 06:54 | Price: $34.54 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories

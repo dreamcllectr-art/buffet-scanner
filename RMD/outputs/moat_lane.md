@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RMD
-*Generated: 2026-05-03 06:35 | Price: $205.02 | Mkt Cap: $30B*
+*Generated: 2026-05-04 06:50 | Price: $205.02 | Mkt Cap: $30B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -20,10 +20,10 @@ Healthcare / Medical Instruments & Supplies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.6/10 | 30% | 2.6 | Avg ROIC: 18.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 61% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
+| Quality | 8.6/10 | 30% | 2.6 | Avg ROIC: 18.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 62% (pricing power for Healthcare) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 62% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.9x — fair price; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
 ## Buffett Score: 7.8 / 10

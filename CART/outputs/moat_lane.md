@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CART
-*Generated: 2026-05-02 06:19 | Price: $42.19 | Mkt Cap: $10B*
+*Generated: 2026-05-04 06:54 | Price: $42.19 | Mkt Cap: $10B*
 
 > ⚠ DATA: yfinance misclassified Sc Us (ttgp), Ltd. (11.8% inst.) as insider
 

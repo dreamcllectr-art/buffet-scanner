@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OZK
-*Generated: 2026-05-03 06:39 | Price: $48.57 | Mkt Cap: $5B*
+*Generated: 2026-05-04 06:55 | Price: $48.57 | Mkt Cap: $5B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 

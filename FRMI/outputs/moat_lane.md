@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRMI
-*Generated: 2026-05-03 06:41 | Price: $5.17 | Mkt Cap: $3B*
+*Generated: 2026-05-04 06:58 | Price: $5.17 | Mkt Cap: $3B*
 
 ## Sector Context
 Real Estate / REIT - Specialty

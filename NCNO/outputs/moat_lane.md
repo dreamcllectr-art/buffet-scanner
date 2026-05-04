@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCNO
-*Generated: 2026-05-02 06:22 | Price: $18.13 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $18.13 | Mkt Cap: $2B*
 
 ## Sector Context
 Technology / Software - Application

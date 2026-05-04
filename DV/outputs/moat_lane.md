@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DV
-*Generated: 2026-05-03 06:46 | Price: $11.31 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $11.31 | Mkt Cap: $2B*
 
 ## Sector Context
 Communication Services / Advertising Agencies

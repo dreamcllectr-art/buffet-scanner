@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTEK
-*Generated: 2026-05-03 06:44 | Price: $31.67 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:54 | Price: $31.67 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Engineering & Construction

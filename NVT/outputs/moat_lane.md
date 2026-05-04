@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVT
-*Generated: 2026-05-03 06:36 | Price: $158.92 | Mkt Cap: $26B*
+*Generated: 2026-05-04 06:52 | Price: $158.92 | Mkt Cap: $26B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -11,7 +11,7 @@ Industrials / Electrical Equipment & Parts
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Industrials / Electrical Equipment & Parts
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 38% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 42% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.0x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 8.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 41% from prior peak; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 37% (pricing power for Industrials) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials; Rev growth 54% — demand pull | - |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 31.0x — expensive; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -54% — ABSENT ($159 > IV $74 at 25x for 25% growth)
+- **Margin of Safety**: -72% — ABSENT ($159 > IV $44 at 15x for -60% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Greedy — exercise caution

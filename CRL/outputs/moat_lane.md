@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRL
-*Generated: 2026-05-03 06:32 | Price: $165.78 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:47 | Price: $165.78 | Mkt Cap: $8B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research

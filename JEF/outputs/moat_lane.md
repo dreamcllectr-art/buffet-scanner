@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JEF
-*Generated: 2026-05-02 06:19 | Price: $49.29 | Mkt Cap: $10B*
+*Generated: 2026-05-04 06:54 | Price: $49.29 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Capital Markets

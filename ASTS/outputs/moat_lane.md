@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ASTS
-*Generated: 2026-05-03 06:37 | Price: $70.89 | Mkt Cap: $28B*
+*Generated: 2026-05-04 06:59 | Price: $70.89 | Mkt Cap: $28B*
 
 > ⚠ DATA: yfinance misclassified Rakuten Group, Inc. (10.4% inst.) as insider
 

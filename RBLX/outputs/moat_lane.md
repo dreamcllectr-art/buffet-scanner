@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RBLX
-*Generated: 2026-05-03 06:43 | Price: $45.13 | Mkt Cap: $32B*
+*Generated: 2026-05-04 06:52 | Price: $45.13 | Mkt Cap: $32B*
 
 > ⚠ DATA: yfinance misclassified FMR, LLC (6.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Electronic Gaming & Multimedia
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -62.9% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 83% (severe cyclicality); FCF/NI: -50% (weak conversion); Gross margin: 24% (below Communication Services norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 24% — below Communication Services moderate cutoff 40%; Operating margin -16% — thin for Communication Services; Rev growth 39% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -35.9x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 3.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -34.6x — deep value; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 3.7% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10

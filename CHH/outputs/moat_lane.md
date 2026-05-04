@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHH
-*Generated: 2026-05-02 06:26 | Price: $100.7 | Mkt Cap: $5B*
+*Generated: 2026-05-04 07:01 | Price: $100.7 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -11,8 +11,8 @@ Consumer Cyclical / Lodging
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 38.6%; key-man / succession risk | 8% | -15% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.3x | 30% | -40% | YES |
+| 3 | Management / Governance Failure | Insider ownership 38.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,16 +20,16 @@ Consumer Cyclical / Lodging
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 61%; Gross margin: 91% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.4% of shares (SBC concern) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 91% vs sector strong cutoff 45% — strong pricing power; Operating margin 45% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; 52w range position: 32%; Owner earnings yield: 3.7% | - |
-| **TOTAL** | **7.9/10** | **100%** | **7.9** | | |
+| Quality | 5.1/10 | 30% | 1.5 | ROIC declining trend; Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 61%; Gross margin: 90% (pricing power for Consumer Cyclical) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 38.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.3% of shares (SBC concern) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 45% — strong pricing power; Operating margin 28% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; 52w range position: 32%; Owner earnings yield: 4.2% | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 7.9 / 10
-## Alpha Adjustment: +0.29
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Lodging
 - **Circle of Competence**: Consumer Cyclical / Lodging
 - **Margin of Safety**: 10% — thin (IV $111 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 38.6% insider ownership
+- **Incentive-Caused Bias**: Aligned — 38.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.29 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

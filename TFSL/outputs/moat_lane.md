@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFSL
-*Generated: 2026-05-03 06:46 | Price: $15.03 | Mkt Cap: $4B*
+*Generated: 2026-05-04 06:58 | Price: $15.03 | Mkt Cap: $4B*
 
 ## Sector Context
 Financial Services / Banks - Regional

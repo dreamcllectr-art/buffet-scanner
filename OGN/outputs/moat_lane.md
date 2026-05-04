@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OGN
-*Generated: 2026-05-02 06:26 | Price: $13.29 | Mkt Cap: $3B*
+*Generated: 2026-05-04 07:01 | Price: $13.29 | Mkt Cap: $3B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -11,7 +11,7 @@ Healthcare / Drug Manufacturers - General
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,7 +22,7 @@ Healthcare / Drug Manufacturers - General
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 82% from prior peak; 5y price drawdown: 83% (severe cyclicality); FCF/NI: 93% (strong); Gross margin: 54% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Healthcare; Operating margin 18% | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Healthcare; Operating margin 19% | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 3.6x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 

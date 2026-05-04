@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-05-03 06:32 | Price: $455.64 | Mkt Cap: $116B*
+*Generated: 2026-05-04 06:47 | Price: $455.64 | Mkt Cap: $116B*
 
 ## Sector Context
 Technology / Software - Infrastructure

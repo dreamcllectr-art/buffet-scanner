@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAL
-*Generated: 2026-05-02 06:19 | Price: $11.84 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:54 | Price: $11.845 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Airlines

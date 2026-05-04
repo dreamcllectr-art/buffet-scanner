@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MA
-*Generated: 2026-05-03 06:34 | Price: $495.46 | Mkt Cap: $438B*
+*Generated: 2026-05-04 06:49 | Price: $495.46 | Mkt Cap: $438B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -21,7 +21,7 @@ Financial Services / Credit Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 232.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 232% — strong franchise (Financial Services); Operating margin 61% — durable for Financial Services | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.8x — growth premium; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |

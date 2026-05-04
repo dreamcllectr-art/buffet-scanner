@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-05-03 06:31 | Price: $74.55 | Mkt Cap: $125B*
+*Generated: 2026-05-04 06:46 | Price: $74.55 | Mkt Cap: $125B*
 
 ## Sector Context
 Consumer Defensive / Tobacco
@@ -21,13 +21,13 @@ Consumer Defensive / Tobacco
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 40.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 115% (strong); Gross margin: 87% (pricing power for Consumer Defensive) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 62% — durable for Consumer Defensive | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.7x — deep value; Near 52w high (100% of range) — Mr. Market greedy | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w high (100% of range) — Mr. Market greedy; Owner earnings yield: 6.9% (>5%) | - |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
+Buffett Premium: +0.28 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

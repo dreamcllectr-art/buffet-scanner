@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BOKF
-*Generated: 2026-05-02 06:26 | Price: $133.51 | Mkt Cap: $8B*
+*Generated: 2026-05-04 07:01 | Price: $133.51 | Mkt Cap: $8B*
 
 ## Sector Context
 Financial Services / Banks - Regional

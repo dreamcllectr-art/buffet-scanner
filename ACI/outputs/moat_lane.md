@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACI
-*Generated: 2026-05-03 06:39 | Price: $16.62 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:55 | Price: $16.62 | Mkt Cap: $8B*
 
 ## Sector Context
 Consumer Defensive / Grocery Stores
@@ -21,7 +21,7 @@ Consumer Defensive / Grocery Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 13.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 86% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 104% (strong); Gross margin: 27% (thin by design for Grocery Stores) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 31.2% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 32.4% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROA 4% / ROE 8% — weak for Grocery Stores; Operating margin 2% — thin for Consumer Defensive | Weak pricing |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.8x — deep value; Near 52w low (12% of range) — Mr. Market fearful; Owner earnings yield: 18.6% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |

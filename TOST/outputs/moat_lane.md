@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TOST
-*Generated: 2026-05-03 06:37 | Price: $29.11 | Mkt Cap: $17B*
+*Generated: 2026-05-04 07:00 | Price: $29.11 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (8.8% inst.) as insider
 
@@ -23,7 +23,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: -8.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 81% (severe cyclicality); FCF/NI: 455% (strong); Gross margin: 26% (below Technology norm) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.4% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 26% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology; Rev growth 22% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLVT
-*Generated: 2026-05-03 06:46 | Price: $2.79 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $2.79 | Mkt Cap: $2B*
 
 > ⚠ DATA: yfinance misclassified Leonard Green & Partners, L.P. (18.2% inst.) as insider
 

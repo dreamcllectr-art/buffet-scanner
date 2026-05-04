@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNH
-*Generated: 2026-05-03 06:44 | Price: $10.48 | Mkt Cap: $13B*
+*Generated: 2026-05-04 06:54 | Price: $10.48 | Mkt Cap: $13B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -11,7 +11,7 @@ Industrials / Farm & Heavy Construction Machinery
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 25.3x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 24.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 29.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Farm & Heavy Construction Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 78% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 73%; Gross margin: 18% (below Industrials norm) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 29.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 1% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (28% of range) — Mr. Market fearful | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 29.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 3% — thin for Industrials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 1.9% | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10

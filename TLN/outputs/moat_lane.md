@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TLN
-*Generated: 2026-05-03 06:37 | Price: $372.16 | Mkt Cap: $17B*
+*Generated: 2026-05-04 06:59 | Price: $372.16 | Mkt Cap: $17B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers

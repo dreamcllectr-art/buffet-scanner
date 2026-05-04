@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XEL
-*Generated: 2026-05-03 06:43 | Price: $82.58 | Mkt Cap: $52B*
+*Generated: 2026-05-04 06:51 | Price: $82.58 | Mkt Cap: $52B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -21,7 +21,7 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: -137% (weak conversion); Gross margin: 46% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% vs sector strong cutoff 40% — strong pricing power; Operating margin 18% | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 18.2x — fair price; Near 52w high (91% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |

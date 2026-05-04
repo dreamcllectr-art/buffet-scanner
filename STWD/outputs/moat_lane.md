@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STWD
-*Generated: 2026-05-03 06:39 | Price: $18.3 | Mkt Cap: $7B*
+*Generated: 2026-05-04 06:55 | Price: $18.3 | Mkt Cap: $7B*
 
 ## Sector Context
 Real Estate / REIT - Mortgage

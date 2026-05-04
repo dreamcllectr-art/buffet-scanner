@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MANH
-*Generated: 2026-05-03 06:44 | Price: $140.13 | Mkt Cap: $8B*
+*Generated: 2026-05-04 06:54 | Price: $140.13 | Mkt Cap: $8B*
 
 ## Sector Context
 Technology / Software - Application

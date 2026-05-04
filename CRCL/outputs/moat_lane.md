@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRCL
-*Generated: 2026-05-03 06:44 | Price: $99.7 | Mkt Cap: $27B*
+*Generated: 2026-05-04 06:53 | Price: $99.7 | Mkt Cap: $27B*
 
 ## Sector Context
 Financial Services / Capital Markets

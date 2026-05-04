@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LOPE
-*Generated: 2026-05-03 06:40 | Price: $163.41 | Mkt Cap: $4B*
+*Generated: 2026-05-04 07:00 | Price: $163.41 | Mkt Cap: $4B*
 
 ## Sector Context
 Consumer Defensive / Education & Training Services
@@ -23,7 +23,7 @@ Consumer Defensive / Education & Training Services
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 29.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 35% (stable); FCF/NI: 105% (strong); Gross margin: 53% (pricing power for Consumer Defensive) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 45% — strong pricing power; Operating margin 31% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.5x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 5.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
 
 ## Buffett Score: 8.3 / 10

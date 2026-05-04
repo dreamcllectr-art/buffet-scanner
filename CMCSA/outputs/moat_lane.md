@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMCSA
-*Generated: 2026-05-03 06:32 | Price: $27.19 | Mkt Cap: $97B*
+*Generated: 2026-05-04 06:47 | Price: $27.165 | Mkt Cap: $97B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 181% — PRESENT (IV $76 vs $27 at 15x)
+- **Margin of Safety**: 182% — PRESENT (IV $76 vs $27 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

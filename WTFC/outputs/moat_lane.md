@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTFC
-*Generated: 2026-05-03 06:44 | Price: $149.57 | Mkt Cap: $10B*
+*Generated: 2026-05-04 06:54 | Price: $149.57 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Banks - Regional

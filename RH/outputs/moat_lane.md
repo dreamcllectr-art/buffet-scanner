@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RH
-*Generated: 2026-05-02 06:21 | Price: $129.97 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $129.97 | Mkt Cap: $2B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail

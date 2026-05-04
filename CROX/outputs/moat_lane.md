@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CROX
-*Generated: 2026-05-03 06:39 | Price: $103.88 | Mkt Cap: $5B*
+*Generated: 2026-05-04 06:55 | Price: $103.88 | Mkt Cap: $5B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories

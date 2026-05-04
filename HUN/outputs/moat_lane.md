@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUN
-*Generated: 2026-05-02 06:26 | Price: $14.63 | Mkt Cap: $3B*
+*Generated: 2026-05-04 07:01 | Price: $14.63 | Mkt Cap: $3B*
 
 > ⚠ DATA: yfinance misclassified AQR Capital Management, LLC (6.6% inst.) as insider
 
@@ -13,7 +13,7 @@ Basic Materials / Chemicals
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.1x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -25,7 +25,7 @@ Basic Materials / Chemicals
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 118% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin -1% — thin for Basic Materials | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 105.4x — extreme premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 13.8% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 71.6x — extreme premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 13.9% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.0/10** | **100%** | **2.0** | | |
 
 ## Buffett Score: 2.0 / 10

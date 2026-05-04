@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-05-03 06:33 | Price: $242.42 | Mkt Cap: $47B*
+*Generated: 2026-05-04 06:48 | Price: $242.42 | Mkt Cap: $47B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

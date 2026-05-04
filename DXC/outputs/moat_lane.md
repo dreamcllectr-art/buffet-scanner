@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DXC
-*Generated: 2026-05-02 06:21 | Price: $11.88 | Mkt Cap: $2B*
+*Generated: 2026-05-04 06:57 | Price: $11.88 | Mkt Cap: $2B*
 
 ## Sector Context
 Technology / Information Technology Services

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRS
-*Generated: 2026-05-03 06:36 | Price: $429.41 | Mkt Cap: $21B*
+*Generated: 2026-05-04 06:59 | Price: $429.41 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Metal Fabrication
@@ -23,7 +23,7 @@ Industrials / Metal Fabrication
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 56%; Gross margin: 30% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 30% — moderate moat for Industrials; Operating margin 23% — durable for Industrials | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 34.2x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 33.8x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 1.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

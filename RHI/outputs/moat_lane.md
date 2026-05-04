@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RHI
-*Generated: 2026-05-02 06:26 | Price: $27.02 | Mkt Cap: $3B*
+*Generated: 2026-05-04 07:01 | Price: $27.02 | Mkt Cap: $3B*
 
 ## Sector Context
 Industrials / Staffing & Employment Services
@@ -11,7 +11,7 @@ Industrials / Staffing & Employment Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.7%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Staffing & Employment Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 22.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 145% (strong); Gross margin: 37% (pricing power for Industrials) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 12.7% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.7% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; Near 52w low (19% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; Near 52w low (19% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%) | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIRK
-*Generated: 2026-05-02 06:21 | Price: $38.71 | Mkt Cap: $7B*
+*Generated: 2026-05-04 06:57 | Price: $38.71 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories

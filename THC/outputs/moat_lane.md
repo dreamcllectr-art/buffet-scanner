@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: THC
-*Generated: 2026-05-03 06:37 | Price: $183.27 | Mkt Cap: $16B*
+*Generated: 2026-05-04 06:59 | Price: $183.27 | Mkt Cap: $16B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -11,7 +11,7 @@ Healthcare / Medical Care Facilities
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,14 +20,14 @@ Healthcare / Medical Care Facilities
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 16.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 56% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 140% (strong); Gross margin: 42% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 42% — moderate moat for Healthcare; Operating margin 23% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 37%; Owner earnings yield: 20.6% (>5%) | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 16.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 56% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 140% (strong); Gross margin: 41% | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 41% — moderate moat for Healthcare; Operating margin 18% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 37%; Owner earnings yield: 19.1% (>5%) | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBRE
-*Generated: 2026-07-24 06:32 | Price: $135.55 | Mkt Cap: $40B*
+*Generated: 2026-07-25 06:24 | Price: $139.46 | Mkt Cap: $41B*
 
 ## Sector Context
 Real Estate / Real Estate Services
@@ -23,11 +23,11 @@ Real Estate / Real Estate Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 31% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 91% (strong); Gross margin: 19% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Real Estate moderate cutoff 35%; Operating margin 3% — thin for Real Estate | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.3x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.7x — fair price; 52w range position: 34%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Real Estate / Real Estate Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / Real Estate Services
-- **Margin of Safety**: -20% — ABSENT ($136 > IV $108 at 25x for 25% growth)
+- **Margin of Safety**: -19% — ABSENT ($139 > IV $112 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

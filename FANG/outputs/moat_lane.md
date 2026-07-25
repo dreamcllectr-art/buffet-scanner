@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FANG
-*Generated: 2026-07-24 06:32 | Price: $205.49 | Mkt Cap: $58B*
+*Generated: 2026-07-25 06:24 | Price: $204.68 | Mkt Cap: $58B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -23,7 +23,7 @@ Energy / Oil & Gas E&P
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -26% (weak conversion); Gross margin: 72% (pricing power for Energy) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 30% — strong pricing power; Operating margin 6% | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.0x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 2.4% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.0x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 2.4% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
 ## Buffett Score: 5.9 / 10

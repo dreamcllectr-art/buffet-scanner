@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BNY
-*Generated: 2026-07-24 06:31 | Price: $160.11 | Mkt Cap: $109B*
+*Generated: 2026-07-25 06:23 | Price: $158.91 | Mkt Cap: $108B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -23,7 +23,7 @@ Financial Services / Banks - Diversified
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 14.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 40% — durable for Financial Services | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.7x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.5x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 34% — PRESENT (IV $214 vs $160 at 25x)
+- **Margin of Safety**: 35% — PRESENT (IV $214 vs $159 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYK
-*Generated: 2026-07-24 06:37 | Price: $318.97 | Mkt Cap: $122B*
+*Generated: 2026-07-25 06:28 | Price: $330.25 | Mkt Cap: $127B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Healthcare / Medical Devices
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 9.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: 108% (strong); Gross margin: 65% (pricing power for Healthcare) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 65% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.1x — fair price; 52w range position: 31%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 40%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -38,7 +38,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -44% — ABSENT ($319 > IV $178 at 20x for 14% growth)
+- **Margin of Safety**: -46% — ABSENT ($330 > IV $179 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

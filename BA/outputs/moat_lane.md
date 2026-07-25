@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BA
-*Generated: 2026-07-24 06:31 | Price: $209.23 | Mkt Cap: $165B*
+*Generated: 2026-07-25 06:23 | Price: $209.52 | Mkt Cap: $165B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -76% — ABSENT ($209 > IV $51 at 20x for 14% growth)
+- **Margin of Safety**: -76% — ABSENT ($210 > IV $51 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

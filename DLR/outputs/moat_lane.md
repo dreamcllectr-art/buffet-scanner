@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-07-24 06:32 | Price: $179.34 | Mkt Cap: $67B*
+*Generated: 2026-07-25 06:24 | Price: $199.08 | Mkt Cap: $75B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -11,7 +11,7 @@ Real Estate / REIT - Specialty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.7x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Real Estate / REIT - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 2.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 293% (strong); Gross margin: 55% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.8% of shares (SBC concern) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 17% | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 66.4x — extreme premium; 52w range position: 53%; Owner earnings yield: 4.9%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 2.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 293% (strong); Gross margin: 57% (pricing power for Real Estate) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.0% of shares (SBC concern) | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 24%; Rev growth 30% — demand pull | - |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 67.9x — extreme premium; Near 52w high (85% of range) — Mr. Market greedy; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 4.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -47% — ABSENT ($179 > IV $94 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -69% — ABSENT ($199 > IV $63 at 15x for -59% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, secular growth)
 
 ---
 

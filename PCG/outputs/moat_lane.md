@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCG
-*Generated: 2026-07-24 06:34 | Price: $17.54 | Mkt Cap: $47B*
+*Generated: 2026-07-25 06:27 | Price: $17.85 | Mkt Cap: $48B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -11,7 +11,7 @@ Utilities / Utilities - Regulated Electric
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Utilities / Utilities - Regulated Electric
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (stable); FCF/NI: -187% (weak conversion); Gross margin: 39% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 18.1% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 39% — moderate moat for Utilities; Operating margin 24% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 72% | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (stable); FCF/NI: -187% (weak conversion); Gross margin: 40% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 40% — moderate moat for Utilities; Operating margin 24% — durable for Utilities | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 78% | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: 78% — PRESENT (IV $31 vs $18 at 25x)
+- **Margin of Safety**: 95% — PRESENT (IV $35 vs $18 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

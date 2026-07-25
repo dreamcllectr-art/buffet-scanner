@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWW
-*Generated: 2026-07-24 06:37 | Price: $1367.46 | Mkt Cap: $65B*
+*Generated: 2026-07-25 06:28 | Price: $1382.6 | Mkt Cap: $65B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 
@@ -23,9 +23,9 @@ Industrials / Industrial Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 35.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: 79%; Gross margin: 39% (pricing power for Industrials) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); No insider transaction data; Restricted stock: 8.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 35% — strong pricing power; Operating margin 17% — durable for Industrials | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.1x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.4x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -38,7 +38,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -45% — ABSENT ($1367 > IV $752 at 20x for 18% growth)
+- **Margin of Safety**: -46% — ABSENT ($1383 > IV $752 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

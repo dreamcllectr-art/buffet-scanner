@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-07-24 06:34 | Price: $348.55 | Mkt Cap: $78B*
+*Generated: 2026-07-25 06:27 | Price: $350.66 | Mkt Cap: $79B*
 
 ## Sector Context
 Industrials / Railroads
@@ -11,7 +11,7 @@ Industrials / Railroads
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Industrials / Railroads
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 44% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 64%; Gross margin: 46% (pricing power for Industrials) | ROIC declining |
+| Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 44% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 64%; Gross margin: 45% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 46% vs sector strong cutoff 35% — strong pricing power; Operating margin 32% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 25.0x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 1.7%; Earnings yield < 7% — tight vs index | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 34% — durable for Industrials | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -46% — ABSENT ($349 > IV $188 at 15x for -27% growth)
+- **Margin of Safety**: -50% — ABSENT ($351 > IV $177 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

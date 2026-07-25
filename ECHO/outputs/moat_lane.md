@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-07-24 06:32 | Price: $91.51 | Mkt Cap: $27B*
+*Generated: 2026-07-25 06:25 | Price: $87.88 | Mkt Cap: $25B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.9% inst.) as insider
 
@@ -25,7 +25,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 27% (below Communication Services norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 13.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 27% — below Communication Services moderate cutoff 40%; Operating margin 9% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -802.7x — deep value; 52w range position: 54% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -770.9x — deep value; 52w range position: 51% | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

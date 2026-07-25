@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-07-24 06:34 | Price: $166.14 | Mkt Cap: $32B*
+*Generated: 2026-07-25 06:27 | Price: $169.3 | Mkt Cap: $33B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -12,7 +12,7 @@ Financial Services / Asset Management
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 10.4%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 10.6%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROE: 0.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
-| Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 22% | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 70% | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.7% of shares (SBC concern) | - |
+| Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 19% | Weak pricing |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,9 +36,9 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 71% — PRESENT (IV $284 vs $166 at 25x)
+- **Margin of Safety**: 72% — PRESENT (IV $292 vs $169 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Aligned — 10.4% insider ownership
+- **Incentive-Caused Bias**: Aligned — 10.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

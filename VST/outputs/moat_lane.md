@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VST
-*Generated: 2026-07-24 06:37 | Price: $168.98 | Mkt Cap: $57B*
+*Generated: 2026-07-25 06:28 | Price: $163.38 | Mkt Cap: $55B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -23,7 +23,7 @@ Utilities / Utilities - Independent Power Producers
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 138% (strong); Gross margin: 39% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 39% — moderate moat for Utilities; Operating margin 27% — durable for Utilities; Rev growth 43% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; 52w range position: 42%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 35%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Independent Power Producers
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
-- **Margin of Safety**: -10% — ABSENT ($169 > IV $152 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($163 > IV $144 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

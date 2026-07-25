@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-07-24 06:34 | Price: $283.41 | Mkt Cap: N/A*
+*Generated: 2026-07-25 06:27 | Price: $293.54 | Mkt Cap: $79B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -21,13 +21,13 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 8.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 68% (severe cyclicality); FCF/NI: 59%; Gross margin: 51% (pricing power for Consumer Cyclical) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 26% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 38% | - |
-| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 46%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.7 / 10
-## Alpha Adjustment: +0.17
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 43% — PRESENT (IV $406 vs $283 at 25x)
+- **Margin of Safety**: 40% — PRESENT (IV $410 vs $294 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.17 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

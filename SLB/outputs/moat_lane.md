@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SLB
-*Generated: 2026-07-24 06:37 | Price: $47.22 | Mkt Cap: $71B*
+*Generated: 2026-07-25 06:27 | Price: $52.42 | Mkt Cap: $78B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -21,22 +21,22 @@ Energy / Oil & Gas Equipment & Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 100% (strong); Gross margin: 18% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 18% — moderate moat for Energy; Operating margin 12% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 57%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 76%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.9 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Equipment & Services
-- **Margin of Safety**: -29% — ABSENT ($47 > IV $34 at 15x for -14% growth)
+- **Margin of Safety**: -28% — ABSENT ($52 > IV $38 at 15x for -14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

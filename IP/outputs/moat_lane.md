@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-07-24 06:33 | Price: $37.91 | Mkt Cap: $20B*
+*Generated: 2026-07-25 06:26 | Price: $42.16 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -23,11 +23,11 @@ Consumer Cyclical / Packaging & Containers
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 30% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 32%; Owner earnings yield: 8.5% (>5%) | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.0x — fair price; 52w range position: 48%; Owner earnings yield: 7.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.8 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

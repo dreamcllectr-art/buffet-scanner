@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NI
-*Generated: 2026-07-24 06:34 | Price: $46.75 | Mkt Cap: $22B*
+*Generated: 2026-07-25 06:27 | Price: $46.68 | Mkt Cap: $22B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -23,7 +23,7 @@ Utilities / Utilities - Regulated Gas
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 5.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: -99% (weak conversion); Gross margin: 51% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 40% — strong pricing power; Operating margin 35% — durable for Utilities | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 77%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 76%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

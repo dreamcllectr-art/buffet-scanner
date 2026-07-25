@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ISRG
-*Generated: 2026-07-24 06:33 | Price: $332.02 | Mkt Cap: $119B*
+*Generated: 2026-07-25 06:26 | Price: $337.5 | Mkt Cap: $121B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -23,7 +23,7 @@ Healthcare / Medical Instruments & Supplies
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 11.5% (4y); 5y price drawdown: 50% (moderate cyclicality); Gross margin: 67% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 67% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Healthcare | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.6x — growth premium; Near 52w low (1% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.1x — growth premium; Near 52w low (3% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -36% — ABSENT ($332 > IV $212 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($338 > IV $222 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

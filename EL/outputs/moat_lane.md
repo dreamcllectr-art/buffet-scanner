@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-07-24 06:32 | Price: $79.92 | Mkt Cap: $29B*
+*Generated: 2026-07-25 06:25 | Price: $80.29 | Mkt Cap: $29B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,7 +23,7 @@ Consumer Defensive / Household & Personal Products
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 147% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: 60%; Gross margin: 75% (pricing power for Consumer Defensive) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); No insider transaction data; Restricted stock: 0.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.1x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%); Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 8.0/10 | 20% | 1.6 | P/E 25.3x — growth premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 6.2% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

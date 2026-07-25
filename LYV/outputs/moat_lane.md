@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-07-24 06:33 | Price: $176.06 | Mkt Cap: $41B*
+*Generated: 2026-07-25 06:26 | Price: $177.24 | Mkt Cap: $41B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,7 +23,7 @@ Communication Services / Entertainment
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 45% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin -10% — thin for Communication Services | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 81.7x — extreme premium; 52w range position: 81%; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 82.2x — extreme premium; 52w range position: 83%; Owner earnings yield: 5.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

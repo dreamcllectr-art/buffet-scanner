@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EW
-*Generated: 2026-07-24 06:32 | Price: $83.82 | Mkt Cap: $48B*
+*Generated: 2026-07-25 06:25 | Price: $82.63 | Mkt Cap: $48B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -11,7 +11,7 @@ Healthcare / Medical Devices
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.4x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 13.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 60%; Gross margin: 78% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 31% — durable for Healthcare | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.9x — growth premium; 52w range position: 48%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.5% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 30% — durable for Healthcare | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.6x — growth premium; 52w range position: 43%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -63% — ABSENT ($84 > IV $31 at 17x for 8% growth)
+- **Margin of Safety**: -70% — ABSENT ($83 > IV $25 at 15x for -25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

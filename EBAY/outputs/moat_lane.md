@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EBAY
-*Generated: 2026-07-24 06:32 | Price: $109.32 | Mkt Cap: $49B*
+*Generated: 2026-07-25 06:25 | Price: $109.39 | Mkt Cap: $49B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -34% — ABSENT ($109 > IV $72 at 17x for 7% growth)
+- **Margin of Safety**: -33% — ABSENT ($109 > IV $74 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

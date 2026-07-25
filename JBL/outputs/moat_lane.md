@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-07-24 06:33 | Price: $322.04 | Mkt Cap: $34B*
+*Generated: 2026-07-25 06:26 | Price: $312.59 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -23,7 +23,7 @@ Technology / Electronic Components
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 90% (strong); Gross margin: 9% (below Technology norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.2x — fair price; 52w range position: 55%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.7x — fair price; 52w range position: 51%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -37% — ABSENT ($322 > IV $202 at 25x for 25% growth)
+- **Margin of Safety**: -38% — ABSENT ($313 > IV $194 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral

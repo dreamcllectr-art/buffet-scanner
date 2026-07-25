@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPWR
-*Generated: 2026-07-24 06:34 | Price: $1397.15 | Mkt Cap: $69B*
+*Generated: 2026-07-25 06:26 | Price: $1333.81 | Mkt Cap: $66B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 18.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 61% from prior peak; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 55% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 55% — moderate moat for Technology; Operating margin 30%; Rev growth 26% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 45.7x — expensive; 52w range position: 69%; Owner earnings yield: 0.7%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 43.6x — expensive; 52w range position: 62%; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -75% — ABSENT ($1397 > IV $349 at 25x for 25% growth)
+- **Margin of Safety**: -74% — ABSENT ($1334 > IV $349 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 3.6% insider ownership
 - **Mr. Market**: Neutral

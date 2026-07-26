@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TYL
-*Generated: 2026-07-25 06:28 | Price: $297.15 | Mkt Cap: $12B*
+*Generated: 2026-07-26 06:47 | Price: $297.15 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -64% — ABSENT ($297 > IV $108 at 15x for 2% growth)
+- **Margin of Safety**: -63% — ABSENT ($297 > IV $109 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

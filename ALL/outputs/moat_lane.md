@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALL
-*Generated: 2026-07-25 06:23 | Price: $259.97 | Mkt Cap: $67B*
+*Generated: 2026-07-26 06:41 | Price: $259.97 | Mkt Cap: $67B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 344% — PRESENT (IV $1154 vs $260 at 25x)
+- **Margin of Safety**: 335% — PRESENT (IV $1130 vs $260 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Greedy — exercise caution

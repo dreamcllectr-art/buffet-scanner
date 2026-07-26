@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: A
-*Generated: 2026-07-25 06:23 | Price: $138.57 | Mkt Cap: $39B*
+*Generated: 2026-07-26 06:41 | Price: $138.57 | Mkt Cap: $39B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -11% — ABSENT ($139 > IV $123 at 25x for 25% growth)
+- **Margin of Safety**: -10% — ABSENT ($139 > IV $124 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

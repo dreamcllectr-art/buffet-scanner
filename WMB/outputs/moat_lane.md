@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMB
-*Generated: 2026-07-25 06:29 | Price: $74.0 | Mkt Cap: $91B*
+*Generated: 2026-07-26 06:45 | Price: $74.0 | Mkt Cap: $91B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: -24% — ABSENT ($74 > IV $56 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($74 > IV $57 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

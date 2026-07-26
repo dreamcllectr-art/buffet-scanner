@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-07-25 06:27 | Price: $322.48 | Mkt Cap: $60B*
+*Generated: 2026-07-26 06:46 | Price: $322.48 | Mkt Cap: $60B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.5% inst.) as insider
 
@@ -38,7 +38,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -25% — ABSENT ($322 > IV $242 at 25x for 25% growth)
+- **Margin of Safety**: -85% — ABSENT ($322 > IV $48 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

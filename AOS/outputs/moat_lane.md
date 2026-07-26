@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AOS
-*Generated: 2026-07-25 06:23 | Price: $60.78 | Mkt Cap: $8B*
+*Generated: 2026-07-26 06:41 | Price: $60.78 | Mkt Cap: $8B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -5% — ABSENT ($61 > IV $57 at 15x for -10% growth)
+- **Margin of Safety**: -7% — ABSENT ($61 > IV $56 at 15x for -10% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

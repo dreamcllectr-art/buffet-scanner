@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-07-25 06:26 | Price: $210.52 | Mkt Cap: $275B*
+*Generated: 2026-07-26 06:43 | Price: $210.52 | Mkt Cap: $275B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -36,7 +36,7 @@ Technology / Semiconductor Equipment & Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductor Equipment & Materials
-- **Margin of Safety**: -67% — ABSENT ($211 > IV $70 at 20x for 12% growth)
+- **Margin of Safety**: -66% — ABSENT ($211 > IV $71 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

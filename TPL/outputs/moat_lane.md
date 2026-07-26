@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPL
-*Generated: 2026-07-25 06:28 | Price: $419.44 | Mkt Cap: $29B*
+*Generated: 2026-07-26 06:47 | Price: $419.44 | Mkt Cap: $29B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: -66% — ABSENT ($419 > IV $143 at 20x for 18% growth)
+- **Margin of Safety**: -65% — ABSENT ($419 > IV $146 at 20x for 18% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

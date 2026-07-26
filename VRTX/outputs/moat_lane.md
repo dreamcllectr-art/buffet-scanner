@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRTX
-*Generated: 2026-07-25 06:28 | Price: $477.36 | Mkt Cap: $121B*
+*Generated: 2026-07-26 06:45 | Price: $477.36 | Mkt Cap: $121B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -11% — ABSENT ($477 > IV $425 at 25x for 25% growth)
+- **Margin of Safety**: -12% — ABSENT ($477 > IV $421 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

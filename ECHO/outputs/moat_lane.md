@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-07-25 06:25 | Price: $87.88 | Mkt Cap: $25B*
+*Generated: 2026-07-26 06:42 | Price: $87.88 | Mkt Cap: $25B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (11.9% inst.) as insider
 

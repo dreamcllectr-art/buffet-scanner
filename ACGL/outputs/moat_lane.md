@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACGL
-*Generated: 2026-07-25 06:23 | Price: $103.36 | Mkt Cap: $36B*
+*Generated: 2026-07-26 06:41 | Price: $103.36 | Mkt Cap: $36B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified
@@ -36,7 +36,7 @@ Financial Services / Insurance - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Diversified
-- **Margin of Safety**: 225% — PRESENT (IV $336 vs $103 at 25x)
+- **Margin of Safety**: 214% — PRESENT (IV $325 vs $103 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

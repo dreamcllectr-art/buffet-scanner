@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APH
-*Generated: 2026-07-25 06:23 | Price: $152.67 | Mkt Cap: $188B*
+*Generated: 2026-07-26 06:41 | Price: $152.67 | Mkt Cap: $188B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -45% — ABSENT ($153 > IV $84 at 25x for 24% growth)
+- **Margin of Safety**: -43% — ABSENT ($153 > IV $87 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

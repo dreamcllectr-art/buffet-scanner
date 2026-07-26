@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WELL
-*Generated: 2026-07-25 06:28 | Price: $252.07 | Mkt Cap: $178B*
+*Generated: 2026-07-26 06:45 | Price: $252.07 | Mkt Cap: $178B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -36,7 +36,7 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -79% — ABSENT ($252 > IV $53 at 25x for 25% growth)
+- **Margin of Safety**: -79% — ABSENT ($252 > IV $52 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTAP
-*Generated: 2026-07-25 06:27 | Price: $167.74 | Mkt Cap: $33B*
+*Generated: 2026-07-26 06:43 | Price: $167.74 | Mkt Cap: $33B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -4% — ABSENT ($168 > IV $162 at 25x for 23% growth)
+- **Margin of Safety**: -5% — ABSENT ($168 > IV $159 at 25x for 23% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

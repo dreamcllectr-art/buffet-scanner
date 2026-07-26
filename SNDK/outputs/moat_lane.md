@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-07-25 06:27 | Price: $1436.56 | Mkt Cap: $213B*
+*Generated: 2026-07-26 06:46 | Price: $1436.56 | Mkt Cap: $213B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -54% — ABSENT ($1437 > IV $654 at 25x for 25% growth)
+- **Margin of Safety**: -49% — ABSENT ($1437 > IV $733 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REG
-*Generated: 2026-07-25 06:27 | Price: $82.15 | Mkt Cap: $15B*
+*Generated: 2026-07-26 06:46 | Price: $82.15 | Mkt Cap: $15B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -36,7 +36,7 @@ Real Estate / REIT - Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Retail
-- **Margin of Safety**: -28% — ABSENT ($82 > IV $59 at 20x for 17% growth)
+- **Margin of Safety**: -29% — ABSENT ($82 > IV $58 at 20x for 17% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

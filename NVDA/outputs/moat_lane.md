@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-07-25 06:27 | Price: $206.84 | Mkt Cap: $5010B*
+*Generated: 2026-07-26 06:43 | Price: $206.84 | Mkt Cap: $5010B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -22% — ABSENT ($207 > IV $162 at 25x for 25% growth)
+- **Margin of Safety**: -21% — ABSENT ($207 > IV $164 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIS
-*Generated: 2026-07-25 06:25 | Price: $41.51 | Mkt Cap: $21B*
+*Generated: 2026-07-26 06:42 | Price: $41.51 | Mkt Cap: $21B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 222% — PRESENT (IV $134 vs $42 at 25x)
+- **Margin of Safety**: 211% — PRESENT (IV $129 vs $42 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FSLR
-*Generated: 2026-07-25 06:25 | Price: $202.82 | Mkt Cap: $22B*
+*Generated: 2026-07-26 06:42 | Price: $202.82 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.3% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Solar
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Solar
-- **Margin of Safety**: 88% — PRESENT (IV $381 vs $203 at 25x)
+- **Margin of Safety**: -81% — ABSENT ($203 > IV $38 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADSK
-*Generated: 2026-07-25 06:23 | Price: $209.75 | Mkt Cap: $44B*
+*Generated: 2026-07-26 06:41 | Price: $209.75 | Mkt Cap: $44B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -16% — ABSENT ($210 > IV $175 at 25x for 25% growth)
+- **Margin of Safety**: -18% — ABSENT ($210 > IV $172 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

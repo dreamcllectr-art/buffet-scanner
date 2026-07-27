@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSCI
-*Generated: 2026-07-26 06:43 | Price: $550.79 | Mkt Cap: $40B*
+*Generated: 2026-07-27 07:41 | Price: $550.79 | Mkt Cap: $40B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

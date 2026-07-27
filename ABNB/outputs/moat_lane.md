@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABNB
-*Generated: 2026-07-26 06:41 | Price: $141.1 | Mkt Cap: $84B*
+*Generated: 2026-07-27 07:38 | Price: $141.1 | Mkt Cap: $84B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

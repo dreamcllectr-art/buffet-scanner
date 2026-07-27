@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-07-26 06:42 | Price: $89.25 | Mkt Cap: $60B*
+*Generated: 2026-07-27 07:39 | Price: $89.25 | Mkt Cap: $60B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs

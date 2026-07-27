@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNR
-*Generated: 2026-07-26 06:46 | Price: $62.88 | Mkt Cap: $10B*
+*Generated: 2026-07-27 07:41 | Price: $62.88 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery

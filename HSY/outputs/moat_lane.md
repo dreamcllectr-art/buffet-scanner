@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HSY
-*Generated: 2026-07-26 06:43 | Price: $174.3 | Mkt Cap: $35B*
+*Generated: 2026-07-27 07:40 | Price: $174.3 | Mkt Cap: $35B*
 
 ## Sector Context
 Consumer Defensive / Confectioners

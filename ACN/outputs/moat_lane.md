@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACN
-*Generated: 2026-07-26 06:41 | Price: $146.99 | Mkt Cap: $90B*
+*Generated: 2026-07-27 07:38 | Price: $146.99 | Mkt Cap: $90B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,7 +20,7 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 27.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 130% (strong); Gross margin: 32% (below Technology norm) | ROIC declining |
+| Quality | 4.0/10 | 30% | 1.2 | Fallback ROE: 24.4%; Earnings: 1 down-year in 3 transitions; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 130% (strong); Gross margin: 32% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; Near 52w low (17% of range) — Mr. Market fearful; Owner earnings yield: 13.4% (>5%) | - |

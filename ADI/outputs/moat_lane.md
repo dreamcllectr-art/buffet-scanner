@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADI
-*Generated: 2026-07-26 06:41 | Price: $371.86 | Mkt Cap: $181B*
+*Generated: 2026-07-27 07:38 | Price: $371.86 | Mkt Cap: $181B*
 
 ## Sector Context
 Technology / Semiconductors

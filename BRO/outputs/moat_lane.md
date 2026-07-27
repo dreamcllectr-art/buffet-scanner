@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-07-26 06:41 | Price: $67.66 | Mkt Cap: $23B*
+*Generated: 2026-07-27 07:39 | Price: $67.66 | Mkt Cap: $23B*
 
 ## Sector Context
 Financial Services / Insurance Brokers

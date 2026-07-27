@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRGP
-*Generated: 2026-07-26 06:47 | Price: $281.33 | Mkt Cap: $60B*
+*Generated: 2026-07-27 07:44 | Price: $281.33 | Mkt Cap: $60B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream

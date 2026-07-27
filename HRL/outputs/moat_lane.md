@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRL
-*Generated: 2026-07-26 06:43 | Price: $25.31 | Mkt Cap: $14B*
+*Generated: 2026-07-27 07:40 | Price: $25.31 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

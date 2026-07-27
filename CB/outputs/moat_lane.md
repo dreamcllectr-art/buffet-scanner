@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CB
-*Generated: 2026-07-26 06:42 | Price: $359.75 | Mkt Cap: $140B*
+*Generated: 2026-07-27 07:39 | Price: $359.75 | Mkt Cap: $140B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

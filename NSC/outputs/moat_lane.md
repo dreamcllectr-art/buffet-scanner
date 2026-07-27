@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NSC
-*Generated: 2026-07-26 06:43 | Price: $350.66 | Mkt Cap: $79B*
+*Generated: 2026-07-27 07:41 | Price: $350.66 | Mkt Cap: $79B*
 
 ## Sector Context
 Industrials / Railroads
@@ -11,7 +11,7 @@ Industrials / Railroads
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.1x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.0x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Industrials / Railroads
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.4/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 10.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 44% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 64%; Gross margin: 45% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 34% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 45% vs sector strong cutoff 35% — strong pricing power; Operating margin 35% — durable for Industrials | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

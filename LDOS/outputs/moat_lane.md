@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LDOS
-*Generated: 2026-07-26 06:43 | Price: $112.14 | Mkt Cap: $14B*
+*Generated: 2026-07-27 07:40 | Price: $112.14 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Information Technology Services

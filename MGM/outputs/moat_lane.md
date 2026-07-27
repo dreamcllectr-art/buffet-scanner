@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MGM
-*Generated: 2026-07-26 06:43 | Price: $45.54 | Mkt Cap: $12B*
+*Generated: 2026-07-27 07:41 | Price: $45.54 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

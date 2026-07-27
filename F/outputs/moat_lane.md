@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: F
-*Generated: 2026-07-26 06:42 | Price: $14.37 | Mkt Cap: $57B*
+*Generated: 2026-07-27 07:40 | Price: $14.37 | Mkt Cap: $57B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers

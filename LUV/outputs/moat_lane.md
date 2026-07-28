@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LUV
-*Generated: 2026-07-27 07:44 | Price: $45.08 | Mkt Cap: $22B*
+*Generated: 2026-07-28 06:35 | Price: $45.38 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Airlines
@@ -20,13 +20,13 @@ Industrials / Airlines
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 4.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 59% (severe cyclicality); FCF/NI: -159% (weak conversion); Gross margin: 22% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 4.0% (4y); Earnings: 2/3 down-years (unpredictable); FCF/NI: -159% (weak conversion); Gross margin: 22% | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.0% (low); No insider transaction data; Restricted stock: 1.0% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 22% — moderate moat for Industrials; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 62% | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; 52w range position: 63% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: -11% — ABSENT ($45 > IV $40 at 25x for 20% growth)
+- **Margin of Safety**: -12% — ABSENT ($45 > IV $40 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral

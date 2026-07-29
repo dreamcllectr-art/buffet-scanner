@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APD
-*Generated: 2026-07-28 06:31 | Price: $292.58 | Mkt Cap: $65B*
+*Generated: 2026-07-29 06:36 | Price: $292.85 | Mkt Cap: $65B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -46% — ABSENT ($293 > IV $159 at 17x for 9% growth)
+- **Margin of Safety**: -45% — ABSENT ($293 > IV $161 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LIN
-*Generated: 2026-07-29 06:39 | Price: $511.18 | Mkt Cap: $236B*
+*Generated: 2026-07-30 06:34 | Price: $511.17 | Mkt Cap: $236B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -41% — ABSENT ($511 > IV $304 at 20x for 13% growth)
+- **Margin of Safety**: -41% — ABSENT ($511 > IV $302 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

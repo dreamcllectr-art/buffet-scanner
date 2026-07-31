@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIX
-*Generated: 2026-07-30 06:33 | Price: $1519.96 | Mkt Cap: $53B*
+*Generated: 2026-07-31 06:50 | Price: $1697.84 | Mkt Cap: $60B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -12,7 +12,7 @@ Industrials / Engineering & Construction
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.2x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.2%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 26% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); No insider transaction data; Restricted stock: -2.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -2.1% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 26% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 61%; Owner earnings yield: 3.4%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.3x — growth premium; 52w range position: 73%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,9 +36,9 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -37% — ABSENT ($1520 > IV $950 at 25x for 25% growth)
+- **Margin of Safety**: -33% — ABSENT ($1698 > IV $1133 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
-- **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

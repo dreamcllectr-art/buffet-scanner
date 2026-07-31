@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-07-30 06:33 | Price: $375.98 | Mkt Cap: $82B*
+*Generated: 2026-07-31 06:51 | Price: $376.4 | Mkt Cap: $82B*
 
 ## Sector Context
 Healthcare / Healthcare Plans

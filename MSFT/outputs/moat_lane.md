@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSFT
-*Generated: 2026-07-30 06:34 | Price: $390.54 | Mkt Cap: $2901B*
+*Generated: 2026-07-31 06:52 | Price: $451.1 | Mkt Cap: $3350B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -20,13 +20,13 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 28.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 82% (strong); Gross margin: 68% (pricing power for Technology) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.3B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 27.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 72%; Gross margin: 68% (pricing power for Technology) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.6B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 60% — strong pricing power; Operating margin 46% — durable for Technology | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.2x — growth premium; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 49%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **8.5/10** | **100%** | **8.5** | | |
 
-## Buffett Score: 8.3 / 10
+## Buffett Score: 8.5 / 10
 ## Alpha Adjustment: +0.40
 ## Conviction: HIGH
 ## Verdict: Own Forever
@@ -36,13 +36,13 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 7% — thin (IV $417 at 25x)
-- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
+- **Margin of Safety**: 15% — thin (IV $519 at 25x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: high quality, strong moat)
+YES — 3 forces aligning: high quality, strong moat, attractive valuation
 
 ---
 

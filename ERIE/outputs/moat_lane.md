@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ERIE
-*Generated: 2026-07-31 06:51 | Price: $233.67 | Mkt Cap: $12B*
+*Generated: 2026-08-01 06:36 | Price: $242.04 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -20,14 +20,14 @@ Financial Services / Insurance Brokers
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | ROE: 25.9% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 61% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 45.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 45.6% of shares (SBC concern) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 26% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.7x — fair price; Near 52w low (16% of range) — Mr. Market fearful; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
+| Quality | 5.5/10 | 30% | 1.6 | ROE: 24.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 61% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 45.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 51.9% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 25% — strong franchise (Financial Services); Operating margin 19% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.3x — fair price; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
-## Buffett Score: 7.5 / 10
-## Alpha Adjustment: +0.25
+## Buffett Score: 7.7 / 10
+## Alpha Adjustment: +0.27
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -25% — ABSENT ($234 > IV $174 at 17x for 9% growth)
+- **Margin of Safety**: -32% — ABSENT ($242 > IV $165 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 45.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.25 applied to composite alpha score
+Buffett Premium: +0.27 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

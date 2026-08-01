@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LLY
-*Generated: 2026-07-31 06:52 | Price: $1154.97 | Mkt Cap: $1030B*
+*Generated: 2026-08-01 06:37 | Price: $1148.84 | Mkt Cap: N/A*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,13 +21,13 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 26.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 12% (weak conversion); Gross margin: 83% (pricing power for Healthcare) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $1.6B (0.2%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 83% vs sector strong cutoff 55% — strong pricing power; Operating margin 49% — durable for Healthcare; Rev growth 56% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.6x — growth premium; 52w range position: 85%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.5x — growth premium; 52w range position: 84%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **6.7/10** | **100%** | **6.7** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
+## Buffett Score: 6.7 / 10
+## Alpha Adjustment: +0.17
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -42% — ABSENT ($1155 > IV $673 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($1149 > IV $701 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
+Buffett Premium: +0.17 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

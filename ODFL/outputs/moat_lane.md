@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-07-31 06:52 | Price: $212.47 | Mkt Cap: $44B*
+*Generated: 2026-08-01 06:37 | Price: $212.14 | Mkt Cap: $44B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Trucking
 | Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 30.5% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 75%; Gross margin: 40% (pricing power for Industrials) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 30% — durable for Industrials | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.3x — expensive; 52w range position: 69%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 32.1x — expensive; 52w range position: 68%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -38,7 +38,7 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -46% — ABSENT ($212 > IV $114 at 25x for 25% growth)
+- **Margin of Safety**: -39% — ABSENT ($212 > IV $130 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

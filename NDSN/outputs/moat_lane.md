@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NDSN
-*Generated: 2026-07-31 06:52 | Price: $295.23 | Mkt Cap: $16B*
+*Generated: 2026-08-01 06:37 | Price: $297.78 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Specialty Industrial Machinery
 | Quality | 2.7/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 39% (stable); FCF/NI: 114% (strong); Gross margin: 55% (pricing power for Industrials) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.9% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 55% vs sector strong cutoff 35% — strong pricing power; Operating margin 24% — durable for Industrials | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 23.8x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.0x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -38,7 +38,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -46% — ABSENT ($295 > IV $159 at 17x for 6% growth)
+- **Margin of Safety**: -47% — ABSENT ($298 > IV $159 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

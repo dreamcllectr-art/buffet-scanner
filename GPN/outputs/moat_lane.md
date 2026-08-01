@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-07-31 06:51 | Price: $86.84 | Mkt Cap: $24B*
+*Generated: 2026-08-01 06:36 | Price: $84.08 | Mkt Cap: N/A*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -21,9 +21,9 @@ Industrials / Specialty Business Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 487% (strong); Gross margin: 67% (pricing power for Industrials) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.5% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 67% vs sector strong cutoff 35% — strong pricing power; Operating margin 13%; Rev growth 63% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.4x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 30.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.2x — deep value; 52w range position: 78% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,10 +36,10 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -23% — ABSENT ($87 > IV $67 at 25x for 25% growth)
+- **Margin of Safety**: -22% — ABSENT ($84 > IV $66 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 YES — 3 forces aligning: strong moat, attractive valuation, secular growth

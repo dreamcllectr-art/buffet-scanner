@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LH
-*Generated: 2026-07-31 06:52 | Price: $315.53 | Mkt Cap: $26B*
+*Generated: 2026-08-01 06:37 | Price: $309.2 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -11,7 +11,7 @@ Healthcare / Diagnostics & Research
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Healthcare / Diagnostics & Research
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 6.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 67% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 153% (strong); Gross margin: 29% (below Healthcare norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Healthcare moderate cutoff 35%; Operating margin 11% | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.2x — fair price; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Healthcare moderate cutoff 35%; Operating margin 12% | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.7x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -8% — ABSENT ($316 > IV $290 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($309 > IV $302 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

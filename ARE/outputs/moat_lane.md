@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARE
-*Generated: 2026-07-31 06:49 | Price: $52.49 | Mkt Cap: $9B*
+*Generated: 2026-08-01 06:35 | Price: $51.45 | Mkt Cap: N/A*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -21,12 +21,12 @@ Real Estate / REIT - Office
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 374% from prior peak; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 547% (strong); Gross margin: 69% (pricing power for Real Estate) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 11.2% of shares (SBC concern) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 16% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -59.6x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 15.4% (>5%) | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -58.5x — deep value; Near 52w low (25% of range) — Mr. Market fearful | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

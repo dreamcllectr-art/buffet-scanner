@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTSH
-*Generated: 2026-07-31 06:50 | Price: $53.895 | Mkt Cap: $25B*
+*Generated: 2026-08-01 06:35 | Price: $55.35 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -21,9 +21,9 @@ Technology / Information Technology Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.8/10 | 30% | 0.8 | Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 98% (strong); Gross margin: 33% (below Technology norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 33% — below Technology moderate cutoff 40%; Operating margin 17% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 34%; Owner earnings yield: 8.6% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 37%; Owner earnings yield: 8.9% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 25% — thin (IV $67 at 15x)
+- **Margin of Safety**: 26% — thin (IV $70 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

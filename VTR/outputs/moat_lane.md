@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-07-31 06:55 | Price: $91.92 | Mkt Cap: $47B*
+*Generated: 2026-08-01 06:41 | Price: $93.51 | Mkt Cap: $48B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -11,7 +11,7 @@ Real Estate / REIT - Healthcare Facilities
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.6x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.5x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Real Estate / REIT - Healthcare Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -319% (weak conversion); Gross margin: 40% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 5.7% of shares (SBC concern) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Real Estate; Operating margin 14% — thin for Real Estate; Rev growth 22% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 108.6x — extreme premium; 52w range position: 73%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Real Estate; Operating margin 13% — thin for Real Estate; Rev growth 22% — demand pull | - |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 110.4x — extreme premium; 52w range position: 77%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
-## Buffett Score: 3.7 / 10
+## Buffett Score: 3.8 / 10
 ## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
@@ -36,7 +36,7 @@ Real Estate / REIT - Healthcare Facilities
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Healthcare Facilities
-- **Margin of Safety**: -91% — ABSENT ($92 > IV $9 at 17x for 10% growth)
+- **Margin of Safety**: -91% — ABSENT ($94 > IV $8 at 15x for -7% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

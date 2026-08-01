@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-07-31 06:50 | Price: $287.66 | Mkt Cap: $76B*
+*Generated: 2026-08-01 06:35 | Price: $279.05 | Mkt Cap: $74B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -11,7 +11,7 @@ Healthcare / Healthcare Plans
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 1.4%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -22,8 +22,8 @@ Healthcare / Healthcare Plans
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.1/10 | 30% | 0.3 | Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 49% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 177% (strong); Gross margin: 9% (below Healthcare norm) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Healthcare moderate cutoff 35%; Operating margin 5% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; 52w range position: 63%; Owner earnings yield: 9.1% (>5%) | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.3x — deep value; 52w range position: 52%; Owner earnings yield: 10.8% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: 99% — PRESENT (IV $572 vs $288 at 25x)
+- **Margin of Safety**: 73% — PRESENT (IV $484 vs $279 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

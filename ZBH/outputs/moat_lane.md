@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBH
-*Generated: 2026-08-01 06:39 | Price: $93.93 | Mkt Cap: $18B*
+*Generated: 2026-08-02 06:45 | Price: $93.93 | Mkt Cap: $18B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: 1% — thin (IV $95 at 25x)
+- **Margin of Safety**: 3% — thin (IV $96 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

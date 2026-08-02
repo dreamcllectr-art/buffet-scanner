@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XEL
-*Generated: 2026-08-01 06:39 | Price: $78.2 | Mkt Cap: $49B*
+*Generated: 2026-08-02 06:44 | Price: $78.2 | Mkt Cap: $49B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -11,7 +11,7 @@ Utilities / Utilities - Regulated Electric
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.8x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,9 +20,9 @@ Utilities / Utilities - Regulated Electric
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: -137% (weak conversion); Gross margin: 46% (pricing power for Utilities) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: -137% (weak conversion); Gross margin: 47% (pricing power for Utilities) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% vs sector strong cutoff 40% — strong pricing power; Operating margin 18% | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 47% vs sector strong cutoff 40% — strong pricing power; Operating margin 23% — durable for Utilities | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.2x — fair price; 52w range position: 60%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -21% — ABSENT ($78 > IV $62 at 17x for 6% growth)
+- **Margin of Safety**: 17% — thin (IV $91 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

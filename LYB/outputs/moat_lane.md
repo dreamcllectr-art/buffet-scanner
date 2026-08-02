@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYB
-*Generated: 2026-08-01 06:37 | Price: $62.08 | Mkt Cap: N/A*
+*Generated: 2026-08-02 06:40 | Price: $62.08 | Mkt Cap: N/A*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -11,7 +11,7 @@ Basic Materials / Specialty Chemicals
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 20.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -20,13 +20,13 @@ Basic Materials / Specialty Chemicals
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 119% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 91% (strong); Gross margin: 9% (below Basic Materials norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 119% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 91% (strong); Gross margin: 13% (below Basic Materials norm) | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider ownership: 20.1% (>10%); Insider activity: 0B/0S last 6m | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Basic Materials moderate cutoff 18%; Operating margin 3% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 48% | - |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Moat | 5.0/10 | 25% | 1.2 | Gross margin 13% — below Basic Materials moderate cutoff 18%; Operating margin 18% — durable for Basic Materials | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 48% | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

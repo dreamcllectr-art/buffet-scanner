@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOW
-*Generated: 2026-08-01 06:36 | Price: $30.29 | Mkt Cap: $22B*
+*Generated: 2026-08-02 06:39 | Price: $30.29 | Mkt Cap: $22B*
 
 ## Sector Context
 Basic Materials / Chemicals
@@ -11,7 +11,7 @@ Basic Materials / Chemicals
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.8x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.9x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Basic Materials / Chemicals
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 157% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: 155% (strong); Gross margin: 10% (below Basic Materials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Basic Materials moderate cutoff 18%; Operating margin 11% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 44%; Owner earnings yield: 1.3%; Earnings yield < 7% — tight vs index | - |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 10% — below Basic Materials moderate cutoff 18%; Operating margin 12% | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.4x — fair price; 52w range position: 44%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10

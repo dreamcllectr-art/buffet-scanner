@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORLY
-*Generated: 2026-08-01 06:37 | Price: $89.35 | Mkt Cap: $73B*
+*Generated: 2026-08-02 06:41 | Price: $89.35 | Mkt Cap: $73B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -28% — ABSENT ($89 > IV $65 at 20x for 10% growth)
+- **Margin of Safety**: -29% — ABSENT ($89 > IV $63 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

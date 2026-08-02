@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWS
-*Generated: 2026-08-01 06:37 | Price: $31.27 | Mkt Cap: $17B*
+*Generated: 2026-08-02 06:41 | Price: $31.27 | Mkt Cap: $17B*
 
 ## Sector Context
 Communication Services / Entertainment

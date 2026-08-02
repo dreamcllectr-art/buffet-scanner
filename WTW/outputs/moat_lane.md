@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-08-01 06:39 | Price: $335.92 | Mkt Cap: $31B*
+*Generated: 2026-08-02 06:44 | Price: $335.92 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -11,7 +11,7 @@ Financial Services / Insurance Brokers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Financial Services / Insurance Brokers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 19.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | ROE 20% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 85%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | ROE 20% — strong franchise (Financial Services); Operating margin 18% — thin for Financial Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 85%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMI
-*Generated: 2026-08-01 06:37 | Price: $32.18 | Mkt Cap: $72B*
+*Generated: 2026-08-02 06:40 | Price: $32.18 | Mkt Cap: $72B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -36,7 +36,7 @@ Energy / Oil & Gas Midstream
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Midstream
-- **Margin of Safety**: 23% — thin (IV $40 at 25x)
+- **Margin of Safety**: 20% — thin (IV $39 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 12.7% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-08-01 06:35 | Price: $169.16 | Mkt Cap: $12B*
+*Generated: 2026-08-02 06:38 | Price: $169.16 | Mkt Cap: $12B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -50% — ABSENT ($169 > IV $84 at 15x for -12% growth)
+- **Margin of Safety**: -49% — ABSENT ($169 > IV $87 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

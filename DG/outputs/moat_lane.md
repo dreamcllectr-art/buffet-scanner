@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DG
-*Generated: 2026-08-01 06:36 | Price: $127.05 | Mkt Cap: $28B*
+*Generated: 2026-08-02 06:39 | Price: $127.05 | Mkt Cap: $28B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: 11% — thin (IV $142 at 20x)
+- **Margin of Safety**: 11% — thin (IV $141 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

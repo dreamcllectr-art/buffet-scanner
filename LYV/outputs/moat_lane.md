@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-08-01 06:37 | Price: $174.13 | Mkt Cap: $41B*
+*Generated: 2026-08-02 06:40 | Price: $174.13 | Mkt Cap: $41B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -12,7 +12,7 @@ Communication Services / Entertainment
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.3x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 32.5%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 32.4%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 45% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 31.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin 7% — thin for Communication Services | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 84.6x — extreme premium; 52w range position: 78%; Owner earnings yield: 4.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
@@ -38,7 +38,7 @@ Communication Services / Entertainment
 - **Circle of Competence**: Communication Services / Entertainment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
-- **Incentive-Caused Bias**: Aligned — 32.5% insider ownership
+- **Incentive-Caused Bias**: Aligned — 32.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

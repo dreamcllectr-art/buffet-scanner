@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CTVA
-*Generated: 2026-08-01 06:36 | Price: $78.71 | Mkt Cap: $53B*
+*Generated: 2026-08-02 06:39 | Price: $78.71 | Mkt Cap: $53B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -11,7 +11,7 @@ Basic Materials / Agricultural Inputs
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Basic Materials / Agricultural Inputs
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 36% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 153% (strong); Gross margin: 49% (pricing power for Basic Materials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 49% vs sector strong cutoff 30% — strong pricing power; Operating margin 24% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 60%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 36% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 153% (strong); Gross margin: 50% (pricing power for Basic Materials) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 50% vs sector strong cutoff 30% — strong pricing power; Operating margin 30% — durable for Basic Materials | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.1x — fair price; 52w range position: 60%; Owner earnings yield: 4.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10
@@ -36,7 +36,7 @@ Basic Materials / Agricultural Inputs
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
-- **Margin of Safety**: -58% — ABSENT ($79 > IV $33 at 20x for 12% growth)
+- **Margin of Safety**: -69% — ABSENT ($79 > IV $25 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LVS
-*Generated: 2026-08-01 06:37 | Price: $48.89 | Mkt Cap: $32B*
+*Generated: 2026-08-02 06:40 | Price: $48.89 | Mkt Cap: $32B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: -22% — ABSENT ($49 > IV $38 at 15x for -20% growth)
+- **Margin of Safety**: -21% — ABSENT ($49 > IV $39 at 15x for -20% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 52.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

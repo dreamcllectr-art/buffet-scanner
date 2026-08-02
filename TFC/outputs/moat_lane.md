@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TFC
-*Generated: 2026-08-01 06:41 | Price: $51.84 | Mkt Cap: $63B*
+*Generated: 2026-08-02 06:44 | Price: $51.84 | Mkt Cap: $63B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 109% — PRESENT (IV $108 vs $52 at 25x)
+- **Margin of Safety**: 110% — PRESENT (IV $109 vs $52 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

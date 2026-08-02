@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-08-01 06:35 | Price: $389.28 | Mkt Cap: $1852B*
+*Generated: 2026-08-02 06:38 | Price: $389.28 | Mkt Cap: $1852B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -61% — ABSENT ($389 > IV $151 at 25x for 25% growth)
+- **Margin of Safety**: -62% — ABSENT ($389 > IV $150 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral

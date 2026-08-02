@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-08-01 06:37 | Price: $40.83 | Mkt Cap: N/A*
+*Generated: 2026-08-02 06:40 | Price: $40.83 | Mkt Cap: N/A*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -11,7 +11,7 @@ Consumer Cyclical / Packaging & Containers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Consumer Cyclical / Packaging & Containers
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 30% (below Consumer Cyclical norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 1% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 55%; Earnings yield < 7% — tight vs index | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 2% — thin for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 55% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AME
-*Generated: 2026-08-01 06:35 | Price: $241.71 | Mkt Cap: $55B*
+*Generated: 2026-08-02 06:38 | Price: $241.71 | Mkt Cap: $55B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -45% — ABSENT ($242 > IV $133 at 20x for 14% growth)
+- **Margin of Safety**: -45% — ABSENT ($242 > IV $132 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

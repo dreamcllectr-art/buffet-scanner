@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-08-01 06:40 | Price: $94.58 | Mkt Cap: $14B*
+*Generated: 2026-08-02 06:44 | Price: $94.58 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -11,7 +11,7 @@ Industrials / Tools & Accessories
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.9x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Industrials / Tools & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 129% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: -9% (weak conversion); Gross margin: 32% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Industrials; Operating margin 8% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 9.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 9.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: 7% — thin (IV $101 at 25x)
+- **Margin of Safety**: 8% — thin (IV $102 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

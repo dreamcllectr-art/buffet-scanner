@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSCO
-*Generated: 2026-08-01 06:41 | Price: $30.77 | Mkt Cap: $16B*
+*Generated: 2026-08-02 06:44 | Price: $30.77 | Mkt Cap: $16B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: -4% — ABSENT ($31 > IV $29 at 15x for -15% growth)
+- **Margin of Safety**: -6% — ABSENT ($31 > IV $29 at 15x for -15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

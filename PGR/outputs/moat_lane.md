@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PGR
-*Generated: 2026-08-01 06:40 | Price: $211.42 | Mkt Cap: $123B*
+*Generated: 2026-08-02 06:41 | Price: $211.42 | Mkt Cap: $123B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -36,7 +36,7 @@ Financial Services / Insurance - Property & Casualty
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Property & Casualty
-- **Margin of Safety**: 40% — PRESENT (IV $296 vs $211 at 15x)
+- **Margin of Safety**: 41% — PRESENT (IV $299 vs $211 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

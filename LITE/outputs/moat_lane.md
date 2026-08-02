@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-08-01 06:37 | Price: $713.94 | Mkt Cap: $56B*
+*Generated: 2026-08-02 06:40 | Price: $713.94 | Mkt Cap: $56B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -80% — ABSENT ($714 > IV $146 at 25x for 25% growth)
+- **Margin of Safety**: -80% — ABSENT ($714 > IV $143 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

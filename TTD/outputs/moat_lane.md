@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTD
-*Generated: 2026-08-01 06:41 | Price: $18.04 | Mkt Cap: $8B*
+*Generated: 2026-08-02 06:44 | Price: $18.04 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -36,7 +36,7 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -28% — ABSENT ($18 > IV $13 at 15x for -20% growth)
+- **Margin of Safety**: -27% — ABSENT ($18 > IV $13 at 15x for -20% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORCL
-*Generated: 2026-08-01 06:37 | Price: $129.87 | Mkt Cap: $374B*
+*Generated: 2026-08-02 06:41 | Price: $129.87 | Mkt Cap: $374B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 14% — thin (IV $148 at 25x)
+- **Margin of Safety**: 12% — thin (IV $146 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 40.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-08-01 06:35 | Price: $125.59 | Mkt Cap: $72B*
+*Generated: 2026-08-02 06:38 | Price: $125.59 | Mkt Cap: $72B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -80% — ABSENT ($126 > IV $25 at 15x for -9% growth)
+- **Margin of Safety**: -81% — ABSENT ($126 > IV $24 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 27.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDG
-*Generated: 2026-08-01 06:41 | Price: $1254.38 | Mkt Cap: N/A*
+*Generated: 2026-08-02 06:44 | Price: $1254.38 | Mkt Cap: N/A*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -49% — ABSENT ($1254 > IV $642 at 20x for 12% growth)
+- **Margin of Safety**: -49% — ABSENT ($1254 > IV $640 at 20x for 12% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

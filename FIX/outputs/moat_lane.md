@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIX
-*Generated: 2026-08-01 06:35 | Price: $1729.69 | Mkt Cap: $61B*
+*Generated: 2026-08-02 06:39 | Price: $1729.69 | Mkt Cap: $61B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -40% — ABSENT ($1730 > IV $1034 at 25x for 25% growth)
+- **Margin of Safety**: -41% — ABSENT ($1730 > IV $1016 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Neutral

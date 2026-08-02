@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OTIS
-*Generated: 2026-08-01 06:37 | Price: $71.95 | Mkt Cap: $27B*
+*Generated: 2026-08-02 06:41 | Price: $71.95 | Mkt Cap: $27B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: 9% — thin (IV $78 at 20x)
+- **Margin of Safety**: 8% — thin (IV $78 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

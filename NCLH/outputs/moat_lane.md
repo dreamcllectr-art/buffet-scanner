@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-08-01 06:37 | Price: $18.53 | Mkt Cap: $9B*
+*Generated: 2026-08-02 06:41 | Price: $18.53 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -11,7 +11,7 @@ Consumer Cyclical / Travel Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.5%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Consumer Cyclical / Travel Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -141% (weak conversion); Gross margin: 43% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 32% | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -141% (weak conversion); Gross margin: 42% | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 42% — moderate moat for Consumer Cyclical; Operating margin 14% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 32% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 51% — PRESENT (IV $28 vs $19 at 17x)
+- **Margin of Safety**: 123% — PRESENT (IV $41 vs $19 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

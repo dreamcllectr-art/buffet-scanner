@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLO
-*Generated: 2026-08-01 06:41 | Price: $312.9 | Mkt Cap: $90B*
+*Generated: 2026-08-02 06:44 | Price: $312.9 | Mkt Cap: $90B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -11,7 +11,7 @@ Energy / Oil & Gas Refining & Marketing
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Energy / Oil & Gas Refining & Marketing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.2/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 19.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 153% (strong); Gross margin: 16% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -2.6% (low) | - |
-| Moat | 7.0/10 | 25% | 1.8 | Gross margin 16% — moderate moat for Energy; Operating margin 12%; Rev growth 58% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy | - |
-| **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 7.0/10 | 25% | 1.8 | Gross margin 16% — moderate moat for Energy; Operating margin 12%; Rev growth 52% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Owner earnings yield: 9.3% (>5%) | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.2 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

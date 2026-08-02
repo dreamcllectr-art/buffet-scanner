@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-08-01 06:35 | Price: $66.44 | Mkt Cap: $7B*
+*Generated: 2026-08-02 06:39 | Price: $66.44 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -23,7 +23,7 @@ Industrials / Building Products & Equipment
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 84% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: 143% (strong); Gross margin: 29% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.9% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin 3% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 6.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

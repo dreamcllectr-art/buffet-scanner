@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ESS
-*Generated: 2026-08-01 06:36 | Price: $284.14 | Mkt Cap: $20B*
+*Generated: 2026-08-02 06:39 | Price: $284.14 | Mkt Cap: $20B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -23,10 +23,10 @@ Real Estate / REIT - Residential
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 5.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 168% (strong); Gross margin: 69% (pricing power for Real Estate) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 46.2x — expensive; 52w range position: 70%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 46.0x — expensive; 52w range position: 70%; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

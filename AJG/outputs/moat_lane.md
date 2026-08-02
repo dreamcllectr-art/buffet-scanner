@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AJG
-*Generated: 2026-08-01 06:35 | Price: $249.42 | Mkt Cap: N/A*
+*Generated: 2026-08-02 06:38 | Price: $249.42 | Mkt Cap: N/A*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -11,7 +11,7 @@ Financial Services / Insurance Brokers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.8%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,11 +22,11 @@ Financial Services / Insurance Brokers
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.3/10 | 30% | 1.0 | ROE: 6.7% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m | - |
-| Moat | 4.5/10 | 25% | 1.1 | ROE 7% — weak (Financial Services); Operating margin 15% — thin for Financial Services; Rev growth 36% — demand pull | Weak pricing |
+| Moat | 5.0/10 | 25% | 1.2 | ROE 7% — weak (Financial Services); Operating margin 19%; Rev growth 31% — demand pull | Weak pricing |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.8x — fair price; 52w range position: 48%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
+| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
-## Buffett Score: 4.8 / 10
+## Buffett Score: 4.9 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

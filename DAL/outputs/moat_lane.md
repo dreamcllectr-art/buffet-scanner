@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-08-01 06:36 | Price: $87.44 | Mkt Cap: N/A*
+*Generated: 2026-08-02 06:39 | Price: $87.44 | Mkt Cap: N/A*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.7% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Airlines
 | Quality | 3.4/10 | 30% | 1.0 | Avg ROIC: 13.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 19% (below Industrials norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 19% — below Industrials moderate cutoff 22%; Operating margin 8% — thin for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 82% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.9x — deep value; 52w range position: 81% | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -38,7 +38,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 2% — thin (IV $89 at 15x)
+- **Margin of Safety**: 3% — thin (IV $90 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

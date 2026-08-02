@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MOS
-*Generated: 2026-08-01 06:37 | Price: $22.12 | Mkt Cap: $7B*
+*Generated: 2026-08-02 06:41 | Price: $22.12 | Mkt Cap: $7B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -36,7 +36,7 @@ Basic Materials / Agricultural Inputs
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Agricultural Inputs
-- **Margin of Safety**: -88% — ABSENT ($22 > IV $3 at 20x for 14% growth)
+- **Margin of Safety**: -87% — ABSENT ($22 > IV $3 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

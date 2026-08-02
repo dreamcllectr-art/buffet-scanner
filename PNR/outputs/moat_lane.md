@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PNR
-*Generated: 2026-08-01 06:37 | Price: $65.44 | Mkt Cap: $10B*
+*Generated: 2026-08-02 06:41 | Price: $65.44 | Mkt Cap: $10B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -12% — ABSENT ($65 > IV $57 at 15x for -11% growth)
+- **Margin of Safety**: -11% — ABSENT ($65 > IV $58 at 15x for -11% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

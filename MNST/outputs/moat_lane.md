@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-08-01 06:37 | Price: $96.38 | Mkt Cap: $94B*
+*Generated: 2026-08-02 06:41 | Price: $96.38 | Mkt Cap: $94B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -47% — ABSENT ($96 > IV $51 at 25x for 25% growth)
+- **Margin of Safety**: -46% — ABSENT ($96 > IV $52 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 28.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

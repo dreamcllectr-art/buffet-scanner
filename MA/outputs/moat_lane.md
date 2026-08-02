@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MA
-*Generated: 2026-08-01 06:37 | Price: $573.1 | Mkt Cap: $502B*
+*Generated: 2026-08-02 06:40 | Price: $573.1 | Mkt Cap: $502B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -11,7 +11,7 @@ Financial Services / Credit Services
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.1x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Financial Services / Credit Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.0/10 | 30% | 2.4 | ROE: 232.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -0.7% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | ROE 232% — strong franchise (Financial Services); Operating margin 61% — durable for Financial Services | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 25.0x — growth premium; 52w range position: 79%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 241.2% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 28% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | ROE 241% — strong franchise (Financial Services); Operating margin 61% — durable for Financial Services | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 25.0x — growth premium; 52w range position: 79%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: -21% — ABSENT ($573 > IV $454 at 25x for 21% growth)
+- **Margin of Safety**: -21% — ABSENT ($573 > IV $454 at 25x for 22% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

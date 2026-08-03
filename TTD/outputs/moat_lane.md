@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTD
-*Generated: 2026-08-02 06:44 | Price: $18.04 | Mkt Cap: $8B*
+*Generated: 2026-08-03 07:40 | Price: $18.04 | Mkt Cap: $8B*
 
 ## Sector Context
 Communication Services / Advertising Agencies

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-08-02 06:39 | Price: $70.12 | Mkt Cap: $13B*
+*Generated: 2026-08-03 07:34 | Price: $70.12 | Mkt Cap: $13B*
 
 ## Sector Context
 Real Estate / REIT - Office

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GM
-*Generated: 2026-08-02 06:40 | Price: $88.86 | Mkt Cap: $80B*
+*Generated: 2026-08-03 07:35 | Price: $88.86 | Mkt Cap: $80B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-08-02 06:40 | Price: $47.9 | Mkt Cap: $63B*
+*Generated: 2026-08-03 07:36 | Price: $47.9 | Mkt Cap: $63B*
 
 ## Sector Context
 Technology / Communication Equipment

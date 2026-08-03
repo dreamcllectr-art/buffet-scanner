@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-08-02 06:38 | Price: $56.47 | Mkt Cap: $12B*
+*Generated: 2026-08-03 07:34 | Price: $56.47 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts

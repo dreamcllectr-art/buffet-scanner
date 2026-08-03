@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COP
-*Generated: 2026-08-02 06:39 | Price: $120.48 | Mkt Cap: $147B*
+*Generated: 2026-08-03 07:35 | Price: $120.48 | Mkt Cap: $147B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

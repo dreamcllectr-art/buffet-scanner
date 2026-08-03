@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-08-02 06:40 | Price: $25.85 | Mkt Cap: $31B*
+*Generated: 2026-08-03 07:36 | Price: $25.85 | Mkt Cap: $31B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods

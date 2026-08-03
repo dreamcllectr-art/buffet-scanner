@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOW
-*Generated: 2026-08-02 06:39 | Price: $30.29 | Mkt Cap: $22B*
+*Generated: 2026-08-03 07:35 | Price: $30.29 | Mkt Cap: $22B*
 
 ## Sector Context
 Basic Materials / Chemicals

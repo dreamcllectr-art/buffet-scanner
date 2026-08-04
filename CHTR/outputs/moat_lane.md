@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHTR
-*Generated: 2026-08-03 07:34 | Price: $144.98 | Mkt Cap: $20B*
+*Generated: 2026-08-04 06:33 | Price: $144.1 | Mkt Cap: $19B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 430% — PRESENT (IV $769 vs $145 at 20x)
+- **Margin of Safety**: 433% — PRESENT (IV $769 vs $144 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 35.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABNB
-*Generated: 2026-08-03 07:34 | Price: $151.52 | Mkt Cap: $90B*
+*Generated: 2026-08-04 06:32 | Price: $150.64 | Mkt Cap: $89B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -23,7 +23,7 @@ Consumer Cyclical / Travel Services
 | Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 17.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 48% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: 154% (strong); Gross margin: 83% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 83% vs sector strong cutoff 45% — strong pricing power; Operating margin 3% — thin for Consumer Cyclical | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.2x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.1x — growth premium; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -55% — ABSENT ($152 > IV $69 at 17x for 6% growth)
+- **Margin of Safety**: -54% — ABSENT ($151 > IV $69 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

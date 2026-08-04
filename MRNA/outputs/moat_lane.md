@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRNA
-*Generated: 2026-08-03 07:36 | Price: $54.82 | Mkt Cap: $22B*
+*Generated: 2026-08-04 06:34 | Price: $55.14 | Mkt Cap: $22B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.5% inst.) as insider
 
@@ -23,9 +23,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -8.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 156% from prior peak; 5y price drawdown: 95% (severe cyclicality); FCF/NI: 81% (strong); Gross margin: -66% (below Healthcare norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin -66% — below Healthcare moderate cutoff 35%; Operating margin -558% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.3x — deep value; 52w range position: 51%; Owner earnings yield: 1.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -11.3x — deep value; 52w range position: 52%; Owner earnings yield: 1.4% | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

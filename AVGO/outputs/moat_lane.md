@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AVGO
-*Generated: 2026-08-03 07:34 | Price: $389.28 | Mkt Cap: $1852B*
+*Generated: 2026-08-04 06:32 | Price: $392.23 | Mkt Cap: $1866B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,11 +23,11 @@ Technology / Semiconductors
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 58% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 178% (strong); Gross margin: 76% (pricing power for Technology) | ROIC declining |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $36B (1.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 76% vs sector strong cutoff 60% — strong pricing power; Operating margin 49% — durable for Technology; Rev growth 48% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; 52w range position: 50%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 52%; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
-## Buffett Score: 7.7 / 10
-## Alpha Adjustment: +0.27
+## Buffett Score: 7.2 / 10
+## Alpha Adjustment: +0.22
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -62% — ABSENT ($389 > IV $150 at 25x for 25% growth)
-- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+- **Margin of Safety**: -62% — ABSENT ($392 > IV $150 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-YES — 3 forces aligning: strong moat, attractive valuation, secular growth
+No (2 forces only: strong moat, secular growth)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.27 applied to composite alpha score
+Buffett Premium: +0.22 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

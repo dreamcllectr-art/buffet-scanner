@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-08-03 07:34 | Price: $196.83 | Mkt Cap: $392B*
+*Generated: 2026-08-04 06:33 | Price: $193.18 | Mkt Cap: $385B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -21,13 +21,13 @@ Energy / Oil & Gas Integrated
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 105% (strong); Gross margin: 44% (pricing power for Energy) | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 44% vs sector strong cutoff 30% — strong pricing power; Operating margin 22% — durable for Energy; Rev growth 53% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 74%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 68%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
+## Buffett Score: 6.4 / 10
+## Alpha Adjustment: +0.14
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Energy / Oil & Gas Integrated
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Integrated
-- **Margin of Safety**: 32% — PRESENT (IV $260 vs $197 at 25x)
+- **Margin of Safety**: 34% — PRESENT (IV $260 vs $193 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.7% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
+Buffett Premium: +0.14 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

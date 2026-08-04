@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRWD
-*Generated: 2026-08-03 07:35 | Price: $190.86 | Mkt Cap: $194B*
+*Generated: 2026-08-04 06:33 | Price: $202.54 | Mkt Cap: $206B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,11 +23,11 @@ Technology / Software - Infrastructure
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 325% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: -1713% (weak conversion); Gross margin: 75% (pricing power for Technology) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 60% — strong pricing power; Operating margin -2% — thin for Technology; Rev growth 26% — demand pull | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 122.1x — extreme premium; 52w range position: 80%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 129.6x — extreme premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.7 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Technology / Software - Infrastructure
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

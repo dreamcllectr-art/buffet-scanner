@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-08-03 07:36 | Price: $174.13 | Mkt Cap: $41B*
+*Generated: 2026-08-04 06:34 | Price: $181.69 | Mkt Cap: $42B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -23,10 +23,10 @@ Communication Services / Entertainment
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 45% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 32.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin 7% — thin for Communication Services | - |
-| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 90.4x — extreme premium; 52w range position: 78%; Owner earnings yield: 4.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 94.3x — extreme premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -39,7 +39,7 @@ Communication Services / Entertainment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 32.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (0 forces only: none)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRT
-*Generated: 2026-08-03 07:35 | Price: $124.09 | Mkt Cap: $11B*
+*Generated: 2026-08-04 06:33 | Price: $123.65 | Mkt Cap: $11B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -23,7 +23,7 @@ Real Estate / REIT - Retail
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 39% from prior peak; 5y price drawdown: 35% (stable); FCF/NI: 80% (strong); Gross margin: 68% (pricing power for Real Estate) | - |
 | Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.2% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Real Estate | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.3x — expensive; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 40.1x — expensive; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
 ## Buffett Score: 5.3 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LMT
-*Generated: 2026-08-03 07:36 | Price: $582.74 | Mkt Cap: $134B*
+*Generated: 2026-08-04 06:34 | Price: $586.29 | Mkt Cap: $135B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -23,7 +23,7 @@ Industrials / Aerospace & Defense
 | Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 23.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 32% (stable); FCF/NI: 108% (strong); Gross margin: 12% (below Industrials norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 14.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 12% — below Industrials moderate cutoff 22%; Operating margin 12% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.8x — fair price; 52w range position: 60%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 61%; Owner earnings yield: 4.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10

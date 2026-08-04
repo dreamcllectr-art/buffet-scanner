@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: L
-*Generated: 2026-08-03 07:36 | Price: $116.01 | Mkt Cap: $24B*
+*Generated: 2026-08-04 06:34 | Price: $116.25 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -23,7 +23,7 @@ Financial Services / Insurance - Property & Casualty
 | Quality | 4.8/10 | 30% | 1.4 | ROE: 9.2% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 9% — weak (Financial Services); Operating margin 12% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 40.0x — expensive; 52w range position: 84%; Owner earnings yield: 8.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 40.1x — expensive; 52w range position: 84%; Owner earnings yield: 8.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

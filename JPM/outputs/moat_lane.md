@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-08-03 07:36 | Price: $351.79 | Mkt Cap: $935B*
+*Generated: 2026-08-04 06:34 | Price: $352.64 | Mkt Cap: N/A*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -21,13 +21,13 @@ Financial Services / Banks - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | ROE: 17.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.6B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 18% — strong franchise (Financial Services); Operating margin 50% — durable for Financial Services; Rev growth 30% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.2x — deep value; Near 52w high (91% of range) — Mr. Market greedy | - |
-| **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.2x — deep value; Near 52w high (92% of range) — Mr. Market greedy | - |
+| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
 
-## Buffett Score: 8.0 / 10
-## Alpha Adjustment: +0.30
+## Buffett Score: 7.1 / 10
+## Alpha Adjustment: +0.21
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 66% — PRESENT (IV $583 vs $352 at 25x)
+- **Margin of Safety**: 65% — PRESENT (IV $583 vs $353 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.30 applied to composite alpha score
+Buffett Premium: +0.21 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

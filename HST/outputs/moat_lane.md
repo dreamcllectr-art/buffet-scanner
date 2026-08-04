@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HST
-*Generated: 2026-08-03 07:36 | Price: $25.13 | Mkt Cap: $17B*
+*Generated: 2026-08-04 06:34 | Price: $25.09 | Mkt Cap: N/A*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel
@@ -21,12 +21,12 @@ Real Estate / REIT - Hotel & Motel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 6.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 36% (stable); FCF/NI: 125% (strong); Gross margin: 29% (below Real Estate norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.5% (low); Insider activity: 0B/0S last 6m | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 29% — below Real Estate moderate cutoff 35%; Operating margin 19% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.7x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.7x — growth premium; Near 52w high (94% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

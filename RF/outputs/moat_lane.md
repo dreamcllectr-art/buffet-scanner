@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RF
-*Generated: 2026-08-03 07:39 | Price: $30.95 | Mkt Cap: $26B*
+*Generated: 2026-08-04 06:38 | Price: $31.48 | Mkt Cap: N/A*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -21,12 +21,12 @@ Financial Services / Banks - Regional
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROE: 11.9% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 12% — adequate (Financial Services); Operating margin 39% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; 52w range position: 84% | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.1x — deep value; Near 52w high (90% of range) — Mr. Market greedy | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 35% — PRESENT (IV $42 vs $31 at 17x)
+- **Margin of Safety**: 33% — PRESENT (IV $42 vs $31 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

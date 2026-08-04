@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EBAY
-*Generated: 2026-08-03 07:35 | Price: $114.01 | Mkt Cap: $51B*
+*Generated: 2026-08-04 06:33 | Price: $107.13 | Mkt Cap: $48B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.2% inst.) as insider
 
@@ -25,32 +25,32 @@ Consumer Cyclical / Internet Retail
 | Quality | 4.4/10 | 30% | 1.3 | Avg ROIC: 12.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 25% (weak conversion); Gross margin: 72% (pricing power for Consumer Cyclical) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.2% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 72% vs sector strong cutoff 45% — strong pricing power; Operating margin 23% — durable for Consumer Cyclical | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 17.0x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.4%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 70%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
-## Buffett Score: 5.9 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.1 / 10
+## Alpha Adjustment: +0.11
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -35% — ABSENT ($114 > IV $74 at 17x for 7% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -31% — ABSENT ($107 > IV $74 at 17x for 7% growth)
+- **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: strong moat, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.11 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

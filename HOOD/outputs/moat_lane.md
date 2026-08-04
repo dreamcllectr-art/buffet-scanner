@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-08-03 07:39 | Price: $86.56 | Mkt Cap: $78B*
+*Generated: 2026-08-04 06:38 | Price: $90.34 | Mkt Cap: $81B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 23.6% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 90% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 24% — strong franchise (Financial Services); Operating margin 44% — durable for Financial Services; Rev growth 32% — demand pull | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 27.5x — growth premium; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.4x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -35% — ABSENT ($87 > IV $56 at 25x for 25% growth)
+- **Margin of Safety**: -37% — ABSENT ($90 > IV $56 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

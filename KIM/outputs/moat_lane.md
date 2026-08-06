@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KIM
-*Generated: 2026-08-05 06:35 | Price: $25.01 | Mkt Cap: $17B*
+*Generated: 2026-08-06 06:38 | Price: $24.87 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -23,7 +23,7 @@ Real Estate / REIT - Retail
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 34% (stable); FCF/NI: 321% (strong); Gross margin: 69% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 69% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Real Estate | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.3x — growth premium; 52w range position: 76%; Owner earnings yield: 5.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 28.7x — growth premium; 52w range position: 74%; Owner earnings yield: 5.0% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPL
-*Generated: 2026-08-05 06:35 | Price: $35.18 | Mkt Cap: N/A*
+*Generated: 2026-08-06 06:39 | Price: $34.95 | Mkt Cap: $26B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -21,9 +21,9 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: -78% (weak conversion); Gross margin: 43% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 43% vs sector strong cutoff 40% — strong pricing power; Operating margin 27% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.6x — fair price; Near 52w low (29% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.5x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

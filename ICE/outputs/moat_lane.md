@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ICE
-*Generated: 2026-08-05 06:34 | Price: $149.2 | Mkt Cap: $84B*
+*Generated: 2026-08-06 06:38 | Price: $149.84 | Mkt Cap: $84B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -23,7 +23,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 14.1% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 34% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 14% — adequate (Financial Services); Operating margin 53% — durable for Financial Services | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 41%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.0x — fair price; 52w range position: 42%; Owner earnings yield: 4.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -7% — ABSENT ($149 > IV $139 at 20x for 14% growth)
+- **Margin of Safety**: -5% — ABSENT ($150 > IV $142 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

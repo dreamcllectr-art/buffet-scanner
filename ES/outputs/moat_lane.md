@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ES
-*Generated: 2026-08-05 06:34 | Price: $72.7 | Mkt Cap: $27B*
+*Generated: 2026-08-06 06:37 | Price: $72.47 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -11,7 +11,7 @@ Utilities / Utilities - Regulated Electric
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.2x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.0x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 4.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 131% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 61%; Gross margin: 53% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.1% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 74%; Earnings yield < 7% — tight vs index | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 53% vs sector strong cutoff 40% — strong pricing power; Operating margin 24% — durable for Utilities | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 73%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -3% — ABSENT ($73 > IV $71 at 15x for -85% growth)
+- **Margin of Safety**: -4% — ABSENT ($72 > IV $70 at 15x for -85% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABBV
-*Generated: 2026-08-05 06:32 | Price: $243.8 | Mkt Cap: $431B*
+*Generated: 2026-08-06 06:36 | Price: $246.2 | Mkt Cap: $435B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -11,7 +11,7 @@ Healthcare / Drug Manufacturers - General
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -23,10 +23,10 @@ Healthcare / Drug Manufacturers - General
 | Quality | 1.5/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 22% (stable); FCF/NI: 374% (strong); Gross margin: 73% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 73% vs sector strong cutoff 55% — strong pricing power; Operating margin 40% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 69%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.1x — fair price; 52w range position: 72%; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.7 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -64% — ABSENT ($244 > IV $88 at 25x for 25% growth)
+- **Margin of Safety**: -64% — ABSENT ($246 > IV $89 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

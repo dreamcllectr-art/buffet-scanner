@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ON
-*Generated: 2026-08-05 06:35 | Price: $80.78 | Mkt Cap: $19B*
+*Generated: 2026-08-06 06:39 | Price: $76.91 | Mkt Cap: $18B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -11,7 +11,7 @@ Technology / Semiconductors
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Semiconductors | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,23 +20,23 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 94% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 338% (strong); Gross margin: 43% | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 94% from prior peak; 5y price drawdown: 70% (severe cyclicality); FCF/NI: 338% (strong); Gross margin: 38% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -63.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 43% — moderate moat for Technology; Operating margin 16% — thin for Technology | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.9x — fair price; 52w range position: 40%; Owner earnings yield: 10.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Technology moderate cutoff 40%; Operating margin 20% | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.0x — fair price; 52w range position: 36%; Owner earnings yield: 8.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 4.4 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
+## Conviction: AVOID
+## Verdict: Avoid
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -58% — ABSENT ($81 > IV $34 at 25x for 25% growth)
+- **Margin of Safety**: -53% — ABSENT ($77 > IV $36 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
+Buffett Premium: -0.21 applied to composite alpha score
+Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

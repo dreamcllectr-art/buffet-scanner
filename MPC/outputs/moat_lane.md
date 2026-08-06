@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MPC
-*Generated: 2026-08-05 06:35 | Price: $312.61 | Mkt Cap: $91B*
+*Generated: 2026-08-06 06:38 | Price: $297.75 | Mkt Cap: $84B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -21,12 +21,12 @@ Energy / Oil & Gas Refining & Marketing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 76% from prior peak; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 130% (strong); Gross margin: 11% (below Energy norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -3.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Energy moderate cutoff 15%; Operating margin 4% — thin for Energy | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.3x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 3.9% | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.0x — deep value; 52w range position: 83%; Owner earnings yield: 4.2% | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: -16% — ABSENT ($313 > IV $263 at 17x for 9% growth)
+- **Margin of Safety**: 57% — PRESENT (IV $467 vs $298 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

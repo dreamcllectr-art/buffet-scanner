@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STE
-*Generated: 2026-08-05 06:38 | Price: $232.85 | Mkt Cap: $23B*
+*Generated: 2026-08-06 06:42 | Price: $232.71 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -21,7 +21,7 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 195% (strong); Gross margin: 44% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Healthcare; Operating margin 20% — durable for Healthcare | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.1x — fair price; 52w range position: 51%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |

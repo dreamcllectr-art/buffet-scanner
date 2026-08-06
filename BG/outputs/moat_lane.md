@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BG
-*Generated: 2026-08-05 06:33 | Price: $106.73 | Mkt Cap: $21B*
+*Generated: 2026-08-06 06:36 | Price: $106.62 | Mkt Cap: $20B*
 
 > ⚠ DATA: yfinance misclassified Glencore Plc (17.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Defensive / Farm Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Farm Products
-- **Margin of Safety**: 10% — thin (IV $118 at 25x)
+- **Margin of Safety**: 9% — thin (IV $116 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

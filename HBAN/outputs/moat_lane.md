@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HBAN
-*Generated: 2026-08-05 06:34 | Price: $17.56 | Mkt Cap: $35B*
+*Generated: 2026-08-06 06:38 | Price: $17.6 | Mkt Cap: $36B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -23,7 +23,7 @@ Financial Services / Banks - Regional
 | Quality | 3.3/10 | 30% | 1.0 | ROE: 9.0% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROE 9% — weak (Financial Services); Operating margin 42% — durable for Financial Services; Rev growth 48% — demand pull | Weak pricing |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 58% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; 52w range position: 59% | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

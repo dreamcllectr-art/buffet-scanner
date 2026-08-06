@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BALL
-*Generated: 2026-08-05 06:33 | Price: $63.75 | Mkt Cap: $17B*
+*Generated: 2026-08-06 06:36 | Price: $63.49 | Mkt Cap: $17B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -11,7 +11,7 @@ Consumer Cyclical / Packaging & Containers
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: 7.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 77% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 1% (weak conversion); Gross margin: 19% (below Consumer Cyclical norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 81%; Owner earnings yield: 2.4% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 80%; Owner earnings yield: 2.7% | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
 ## Buffett Score: 4.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Packaging & Containers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Packaging & Containers
-- **Margin of Safety**: 31% — PRESENT (IV $84 vs $64 at 25x)
+- **Margin of Safety**: -7% — ABSENT ($63 > IV $59 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

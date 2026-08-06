@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-08-05 06:34 | Price: $120.6 | Mkt Cap: $24B*
+*Generated: 2026-08-06 06:38 | Price: $119.8 | Mkt Cap: $24B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -12,7 +12,7 @@ Healthcare / Biotechnology
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Biotechnology | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.9%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,9 +21,9 @@ Healthcare / Biotechnology
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.1/10 | 30% | 1.8 | Avg ROIC: 13.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 95% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 290% (strong); Gross margin: 56% (pricing power for Healthcare) | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 15.9% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 15.9% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 42% — durable for Healthcare; Rev growth 38% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; 52w range position: 79%; Owner earnings yield: 4.8% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.5x — deep value; 52w range position: 77%; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **7.5/10** | **100%** | **7.5** | | |
 
 ## Buffett Score: 7.5 / 10
@@ -36,9 +36,9 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: 66% — PRESENT (IV $200 vs $121 at 25x)
+- **Margin of Safety**: 63% — PRESENT (IV $195 vs $120 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

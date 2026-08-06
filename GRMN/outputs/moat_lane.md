@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GRMN
-*Generated: 2026-08-05 06:34 | Price: $307.36 | Mkt Cap: $59B*
+*Generated: 2026-08-06 06:37 | Price: $302.55 | Mkt Cap: $58B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 6.8/10 | 30% | 2.0 | Avg ROIC: 14.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 79%; Gross margin: 60% (pricing power for Technology) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 14.6% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 60% — strong pricing power; Operating margin 30% — durable for Technology | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 28.3x — growth premium; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 27.8x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -21% — ABSENT ($307 > IV $242 at 25x for 25% growth)
+- **Margin of Safety**: -20% — ABSENT ($303 > IV $242 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 14.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDC
-*Generated: 2026-08-06 06:42 | Price: $519.17 | Mkt Cap: $179B*
+*Generated: 2026-08-07 05:51 | Price: $451.52 | Mkt Cap: $156B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -20,13 +20,13 @@ Technology / Computer Hardware
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 4.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 209% from prior peak; 5y price drawdown: 56% (severe cyclicality); FCF/NI: 72%; Gross margin: 45% | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 4.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 209% from prior peak; 5y price drawdown: 55% (severe cyclicality); FCF/NI: 72%; Gross margin: 45% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 45% — moderate moat for Technology; Operating margin 37% — durable for Technology; Rev growth 46% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.3x — growth premium; 52w range position: 61%; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 52%; Owner earnings yield: 1.3% | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 4.4 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -24% — ABSENT ($519 > IV $396 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: 35% — PRESENT (IV $608 vs $452 at 25x)
+- **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ---
 

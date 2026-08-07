@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: L
-*Generated: 2026-08-06 06:38 | Price: $115.74 | Mkt Cap: $24B*
+*Generated: 2026-08-07 05:47 | Price: $115.98 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty
@@ -21,9 +21,9 @@ Financial Services / Insurance - Property & Casualty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.8/10 | 30% | 1.4 | ROE: 9.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 18.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 19.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.1% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE 9% — weak (Financial Services); Operating margin 15% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 39.9x — expensive; 52w range position: 81%; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 40.0x — expensive; 52w range position: 82%; Owner earnings yield: 5.3% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

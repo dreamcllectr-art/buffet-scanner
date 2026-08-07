@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVS
-*Generated: 2026-08-06 06:37 | Price: $99.12 | Mkt Cap: $126B*
+*Generated: 2026-08-07 05:45 | Price: $96.22 | Mkt Cap: $123B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -11,7 +11,7 @@ Healthcare / Healthcare Plans
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 5.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Healthcare / Healthcare Plans
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 79% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 254% (strong); Gross margin: 13% (below Healthcare norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 79% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 254% (strong); Gross margin: 14% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 3.5/10 | 25% | 0.9 | Gross margin 13% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 76%; Owner earnings yield: 4.1% | - |
+| Moat | 3.5/10 | 25% | 0.9 | Gross margin 14% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; 52w range position: 70%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -46% — ABSENT ($99 > IV $54 at 25x for 25% growth)
+- **Margin of Safety**: -4% — ABSENT ($96 > IV $92 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

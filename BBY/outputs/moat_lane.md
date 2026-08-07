@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BBY
-*Generated: 2026-08-06 06:36 | Price: $84.5 | Mkt Cap: $18B*
+*Generated: 2026-08-07 05:45 | Price: $80.02 | Mkt Cap: $17B*
 
 > ⚠ DATA: yfinance misclassified State Street Corporation (6.2% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Cyclical / Specialty Retail
 | Quality | 3.0/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 30.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 35% from prior peak; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 96% (strong); Gross margin: 23% (thin by design for Specialty Retail) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 8% / ROE 39% — scale moat (Specialty Retail); Operating margin 4% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.0x — deep value; 52w range position: 81%; Owner earnings yield: 6.4% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 69%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Specialty Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Specialty Retail
-- **Margin of Safety**: 56% — PRESENT (IV $132 vs $84 at 25x)
+- **Margin of Safety**: 60% — PRESENT (IV $128 vs $80 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPRT
-*Generated: 2026-08-06 06:37 | Price: $28.91 | Mkt Cap: $28B*
+*Generated: 2026-08-07 05:45 | Price: $29.01 | Mkt Cap: $28B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
 
@@ -38,7 +38,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -18% — ABSENT ($29 > IV $24 at 15x for 2% growth)
+- **Margin of Safety**: -16% — ABSENT ($29 > IV $24 at 15x for 2% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

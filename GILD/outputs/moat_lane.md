@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GILD
-*Generated: 2026-08-06 06:38 | Price: $131.76 | Mkt Cap: $164B*
+*Generated: 2026-08-07 05:46 | Price: $130.86 | Mkt Cap: $162B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -11,7 +11,7 @@ Healthcare / Drug Manufacturers - General
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Healthcare / Drug Manufacturers - General
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 92% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 643% (strong); Gross margin: 79% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 55% — strong pricing power; Operating margin 39% — durable for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 48%; Owner earnings yield: 4.9% | - |
+| Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 92% from prior peak; 5y price drawdown: 27% (stable); FCF/NI: 643% (strong); Gross margin: 80% (pricing power for Healthcare) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 80% vs sector strong cutoff 55% — strong pricing power; Operating margin 42% — durable for Healthcare | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 46%; Owner earnings yield: 7.5% (>5%) | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
 ## Buffett Score: 6.9 / 10

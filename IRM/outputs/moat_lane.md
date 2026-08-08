@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IRM
-*Generated: 2026-08-07 05:46 | Price: $121.96 | Mkt Cap: $36B*
+*Generated: 2026-08-08 05:05 | Price: $121.15 | Mkt Cap: $36B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -11,7 +11,7 @@ Real Estate / REIT - Specialty
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.0x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.8x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.9%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,14 +20,14 @@ Real Estate / REIT - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: -295% (weak conversion); Gross margin: 55% (pricing power for Real Estate) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 39% (stable); FCF/NI: -295% (weak conversion); Gross margin: 54% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 55% vs sector strong cutoff 55% — strong pricing power; Operating margin 21%; Rev growth 22% — demand pull | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.6x — expensive; 52w range position: 78%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Real Estate; Operating margin 19% | - |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.4x — expensive; 52w range position: 76%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
+## Buffett Score: 3.3 / 10
+## Alpha Adjustment: -0.25
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,19 +36,19 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -71% — ABSENT ($122 > IV $35 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
+- **Margin of Safety**: -77% — ABSENT ($121 > IV $28 at 20x for 18% growth)
+- **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (2 forces only: strong moat, secular growth)
+No (0 forces only: none)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
+Buffett Premium: -0.25 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

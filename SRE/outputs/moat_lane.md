@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SRE
-*Generated: 2026-08-07 05:50 | Price: $84.35 | Mkt Cap: $55B*
+*Generated: 2026-08-08 05:08 | Price: $83.88 | Mkt Cap: $55B*
 
 ## Sector Context
 Utilities / Utilities - Diversified
@@ -11,7 +11,7 @@ Utilities / Utilities - Diversified
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.5x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.3x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Utilities / Utilities - Diversified
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 40% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: -178% (weak conversion); Gross margin: 42% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 9.0/10 | 25% | 2.2 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 31% — durable for Utilities | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (24% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: 3.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 40% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: -178% (weak conversion); Gross margin: 44% (pricing power for Utilities) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | Gross margin 44% vs sector strong cutoff 40% — strong pricing power; Operating margin 28% — durable for Utilities | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.2x — fair price; Near 52w low (22% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -36,7 +36,7 @@ Utilities / Utilities - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Diversified
-- **Margin of Safety**: -31% — ABSENT ($84 > IV $59 at 20x for 14% growth)
+- **Margin of Safety**: 2% — thin (IV $86 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

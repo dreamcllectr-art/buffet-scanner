@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-08-07 05:50 | Price: $179.33 | Mkt Cap: $34B*
+*Generated: 2026-08-08 05:08 | Price: $176.56 | Mkt Cap: $34B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -20,35 +20,35 @@ Financial Services / Asset Management
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROE: 0.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.8% of shares (SBC concern) | - |
-| Moat | 4.5/10 | 25% | 1.1 | ROE 0% — weak (Financial Services); Operating margin 19% | Weak pricing |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.6x — deep value; Near 52w high (92% of range) — Mr. Market greedy | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 18.4% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 10.6% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROE 18% — strong franchise (Financial Services); Operating margin 19% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.5x — deep value; Near 52w high (86% of range) — Mr. Market greedy | - |
+| **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.2 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 59% — PRESENT (IV $285 vs $179 at 25x)
-- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
+- **Margin of Safety**: 60% — PRESENT (IV $282 vs $177 at 25x)
+- **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 10.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
-No (1 forces only: attractive valuation)
+No (2 forces only: high quality, attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DOV
-*Generated: 2026-08-07 05:45 | Price: $210.84 | Mkt Cap: $28B*
+*Generated: 2026-08-08 05:04 | Price: $211.13 | Mkt Cap: $28B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -21% — ABSENT ($211 > IV $166 at 20x for 14% growth)
+- **Margin of Safety**: -22% — ABSENT ($211 > IV $166 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

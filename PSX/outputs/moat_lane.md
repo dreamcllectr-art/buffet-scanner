@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSX
-*Generated: 2026-08-07 05:47 | Price: $205.52 | Mkt Cap: $82B*
+*Generated: 2026-08-08 05:06 | Price: $203.91 | Mkt Cap: $82B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -11,7 +11,7 @@ Energy / Oil & Gas Refining & Marketing
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.2%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Energy / Oil & Gas Refining & Marketing
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 14.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 81% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 14% (below Energy norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.2% (low) | - |
-| Moat | 4.5/10 | 25% | 1.1 | Gross margin 14% — below Energy moderate cutoff 15%; Operating margin 10%; Rev growth 56% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 10.3x — deep value; Near 52w high (89% of range) — Mr. Market greedy | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 14.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 81% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 4.5/10 | 25% | 1.1 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 9%; Rev growth 53% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 5.6% (>5%) | - |
+| **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Energy / Oil & Gas Refining & Marketing
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Refining & Marketing
-- **Margin of Safety**: 25% — thin (IV $257 at 25x)
+- **Margin of Safety**: 113% — PRESENT (IV $434 vs $204 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

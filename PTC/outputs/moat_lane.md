@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PTC
-*Generated: 2026-08-07 05:47 | Price: $147.66 | Mkt Cap: $16B*
+*Generated: 2026-08-08 05:08 | Price: $147.71 | Mkt Cap: $16B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 11% — thin (IV $164 at 15x)
+- **Margin of Safety**: 5% — thin (IV $155 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

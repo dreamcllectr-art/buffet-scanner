@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-08-07 05:47 | Price: $474.07 | Mkt Cap: $78B*
+*Generated: 2026-08-08 05:05 | Price: $467.55 | Mkt Cap: $77B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -11,7 +11,7 @@ Technology / Communication Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Communication Equipment | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.6x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,25 +21,25 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.8/10 | 30% | 2.3 | Avg ROIC: 23.9% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 27% (stable); FCF/NI: 119% (strong); Gross margin: 52% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Technology; Operating margin 20% | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 25.2x — growth premium; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Technology; Operating margin 27% | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.6x — growth premium; 52w range position: 81%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
-## Buffett Score: 5.9 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.2 / 10
+## Alpha Adjustment: +0.12
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -56% — ABSENT ($474 > IV $206 at 15x for -14% growth)
+- **Margin of Safety**: -54% — ABSENT ($468 > IV $213 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.12 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

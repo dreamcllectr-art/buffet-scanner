@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EL
-*Generated: 2026-08-07 05:46 | Price: $85.49 | Mkt Cap: $31B*
+*Generated: 2026-08-08 05:04 | Price: $88.35 | Mkt Cap: N/A*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -21,12 +21,12 @@ Consumer Defensive / Household & Personal Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 147% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: 60%; Gross margin: 75% (pricing power for Consumer Defensive) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 75% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 26.8x — growth premium; 52w range position: 35%; Owner earnings yield: 5.8% (>5%); Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **4.3/10** | **100%** | **4.3** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.8x — growth premium; 52w range position: 40%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.1/10** | **100%** | **4.1** | | |
 
-## Buffett Score: 4.3 / 10
+## Buffett Score: 4.1 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

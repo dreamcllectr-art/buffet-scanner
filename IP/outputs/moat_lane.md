@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IP
-*Generated: 2026-08-07 05:46 | Price: $40.53 | Mkt Cap: $21B*
+*Generated: 2026-08-08 05:05 | Price: $41.58 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -21,9 +21,9 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 116% (strong); Gross margin: 30% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -12.8% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Consumer Cyclical moderate cutoff 30%; Operating margin 2% — thin for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 54%; Owner earnings yield: 8.2% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 59%; Owner earnings yield: 7.5% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10

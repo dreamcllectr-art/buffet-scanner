@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VZ
-*Generated: 2026-08-07 05:50 | Price: $46.99 | Mkt Cap: $195B*
+*Generated: 2026-08-08 05:09 | Price: $47.06 | Mkt Cap: $196B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -36,7 +36,7 @@ Communication Services / Telecom Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Telecom Services
-- **Margin of Safety**: 24% — thin (IV $58 at 15x)
+- **Margin of Safety**: 22% — thin (IV $58 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

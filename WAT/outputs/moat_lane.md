@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAT
-*Generated: 2026-08-07 05:51 | Price: $399.7 | Mkt Cap: $39B*
+*Generated: 2026-08-08 05:09 | Price: $406.86 | Mkt Cap: $40B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -23,7 +23,7 @@ Healthcare / Diagnostics & Research
 | Quality | 3.1/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 78%; Gross margin: 56% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 10%; Rev growth 113% — demand pull | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.1x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.6x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
 
 ## Buffett Score: 5.1 / 10
@@ -36,7 +36,7 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -75% — ABSENT ($400 > IV $99 at 25x for 25% growth)
+- **Margin of Safety**: -75% — ABSENT ($407 > IV $101 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

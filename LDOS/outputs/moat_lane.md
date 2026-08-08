@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LDOS
-*Generated: 2026-08-07 05:46 | Price: $135.26 | Mkt Cap: $17B*
+*Generated: 2026-08-08 05:05 | Price: $137.57 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -21,9 +21,9 @@ Technology / Information Technology Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.9/10 | 30% | 1.2 | Avg ROIC: 12.0% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 71% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 208% (strong); Gross margin: 18% (below Technology norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 18% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.3x — deep value; 52w range position: 34%; Owner earnings yield: 6.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 36%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 27% — thin (IV $171 at 15x)
+- **Margin of Safety**: 19% — thin (IV $164 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

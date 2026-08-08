@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTRS
-*Generated: 2026-08-07 05:50 | Price: $16.29 | Mkt Cap: $19B*
+*Generated: 2026-08-08 05:09 | Price: $16.43 | Mkt Cap: $19B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -11,7 +11,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,12 +21,12 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 1003% (strong); Gross margin: 40% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.5% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 40% — moderate moat for Healthcare; Operating margin 7% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; 52w range position: 78%; Owner earnings yield: 11.8% (>5%) | - |
-| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: -0.8% (low) | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Healthcare; Operating margin 13% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; 52w range position: 78% | - |
+| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
-## Buffett Score: 4.5 / 10
+## Buffett Score: 4.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

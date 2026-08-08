@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAT
-*Generated: 2026-08-07 05:45 | Price: $856.96 | Mkt Cap: $394B*
+*Generated: 2026-08-08 05:03 | Price: $842.19 | Mkt Cap: $387B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -21,9 +21,9 @@ Industrials / Farm & Heavy Construction Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.7/10 | 30% | 2.0 | Avg ROIC: 16.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 84% (strong); Gross margin: 30% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | Gross margin 30% — moderate moat for Industrials; Operating margin 21% — durable for Industrials; Rev growth 24% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.1x — growth premium; 52w range position: 68%; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Moat | 8.0/10 | 25% | 2.0 | Gross margin 30% — moderate moat for Industrials; Operating margin 22% — durable for Industrials; Rev growth 24% — demand pull | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 65%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -33% — ABSENT ($857 > IV $572 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($842 > IV $570 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

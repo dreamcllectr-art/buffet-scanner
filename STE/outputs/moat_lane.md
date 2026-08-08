@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STE
-*Generated: 2026-08-07 05:50 | Price: $231.78 | Mkt Cap: $23B*
+*Generated: 2026-08-08 05:09 | Price: $237.47 | Mkt Cap: $23B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -11,7 +11,7 @@ Healthcare / Medical Devices
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.3x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.2x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,21 +22,21 @@ Healthcare / Medical Devices
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 7.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 36% (stable); FCF/NI: 195% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 44% — moderate moat for Healthcare; Operating margin 20% — durable for Healthcare | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 49%; Owner earnings yield: 3.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Healthcare; Operating margin 19% | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 57%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 6.1 / 10
-## Alpha Adjustment: +0.11
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 5.8 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -15% — ABSENT ($232 > IV $198 at 25x for 25% growth)
+- **Margin of Safety**: -29% — ABSENT ($237 > IV $168 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.11 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

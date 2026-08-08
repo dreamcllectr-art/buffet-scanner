@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HONA
-*Generated: 2026-08-07 05:46 | Price: $156.47 | Mkt Cap: $50B*
+*Generated: 2026-08-08 05:04 | Price: $168.51 | Mkt Cap: $53B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -11,7 +11,7 @@ Industrials / Aerospace & Defense
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -22,8 +22,8 @@ Industrials / Aerospace & Defense
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 30.8% (2y); Earnings: 2/2 down-years (unpredictable); NI drawdown: 38% from prior peak; FCF/NI: 114% (strong); Gross margin: 35% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.0% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 35% — moderate moat for Industrials; Operating margin 20% — durable for Industrials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.3x — fair price; Near 52w low (4% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 35% — moderate moat for Industrials; Operating margin 15% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.6x — fair price; Near 52w low (13% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -60% — ABSENT ($156 > IV $62 at 17x for 7% growth)
+- **Margin of Safety**: -68% — ABSENT ($169 > IV $53 at 15x for -71% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

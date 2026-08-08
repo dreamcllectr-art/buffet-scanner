@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-08-07 05:50 | Price: $852.95 | Mkt Cap: $194B*
+*Generated: 2026-08-08 05:08 | Price: $812.76 | Mkt Cap: $184B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -21,13 +21,13 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 24.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 57% (severe cyclicality); FCF/NI: 58%; Gross margin: 46% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% — moderate moat for Technology; Operating margin 43% — durable for Technology; Rev growth 48% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 71%; Owner earnings yield: 1.0%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 67%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 6.6 / 10
-## Alpha Adjustment: +0.16
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -58% — ABSENT ($853 > IV $354 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($813 > IV $331 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.16 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

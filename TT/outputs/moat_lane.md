@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TT
-*Generated: 2026-08-08 05:09 | Price: $482.31 | Mkt Cap: $106B*
+*Generated: 2026-08-09 05:16 | Price: $482.31 | Mkt Cap: $106B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -52% — ABSENT ($482 > IV $230 at 17x for 7% growth)
+- **Margin of Safety**: -53% — ABSENT ($482 > IV $228 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TTD
-*Generated: 2026-08-08 05:09 | Price: $13.8 | Mkt Cap: $6B*
+*Generated: 2026-08-09 05:16 | Price: $13.8 | Mkt Cap: $6B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -20,10 +20,10 @@ Communication Services / Advertising Agencies
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 10.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 90% (severe cyclicality); FCF/NI: 374% (strong); Gross margin: 78% (pricing power for Communication Services) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 10% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.5x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 8.8% (>5%) | - |
+| Quality | 5.3/10 | 30% | 1.6 | Avg ROIC: 10.4% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 90% (severe cyclicality); FCF/NI: 374% (strong); Gross margin: 77% (pricing power for Communication Services) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 77% vs sector strong cutoff 55% — strong pricing power; Operating margin 14% — thin for Communication Services | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 9.0% (>5%) | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -28% — ABSENT ($14 > IV $10 at 15x for -20% growth)
+- **Margin of Safety**: -9% — ABSENT ($14 > IV $13 at 15x for -24% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

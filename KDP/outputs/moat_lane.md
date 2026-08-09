@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-08-08 05:05 | Price: $30.01 | Mkt Cap: $41B*
+*Generated: 2026-08-09 05:12 | Price: $30.01 | Mkt Cap: $41B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -11,7 +11,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 6.9x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.2x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 5.0%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Consumer Defensive / Beverages - Non-Alcoholic
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 98% (strong); Gross margin: 49% (pricing power for Consumer Defensive) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 49% vs sector strong cutoff 45% — strong pricing power; Operating margin 9%; Rev growth 76% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 46%; Owner earnings yield: 11.3% (>5%) | - |
+| Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 5.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 34% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 98% (strong); Gross margin: 51% (pricing power for Consumer Defensive) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 5.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 13%; Rev growth 76% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.9x — deep value; 52w range position: 46%; Owner earnings yield: 12.0% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

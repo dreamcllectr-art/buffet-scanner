@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCAR
-*Generated: 2026-08-08 05:05 | Price: $133.11 | Mkt Cap: $70B*
+*Generated: 2026-08-09 05:13 | Price: $133.11 | Mkt Cap: $70B*
 
 ## Sector Context
 Industrials / Farm & Heavy Construction Machinery
@@ -36,7 +36,7 @@ Industrials / Farm & Heavy Construction Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Farm & Heavy Construction Machinery
-- **Margin of Safety**: -46% — ABSENT ($133 > IV $72 at 15x for 4% growth)
+- **Margin of Safety**: -46% — ABSENT ($133 > IV $71 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

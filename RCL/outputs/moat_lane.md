@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-08-08 05:08 | Price: $320.0 | Mkt Cap: $86B*
+*Generated: 2026-08-09 05:16 | Price: $320.0 | Mkt Cap: $86B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: -24% — ABSENT ($320 > IV $242 at 15x for -5% growth)
+- **Margin of Safety**: -24% — ABSENT ($320 > IV $243 at 15x for -5% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

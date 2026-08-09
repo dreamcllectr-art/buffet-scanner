@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDS
-*Generated: 2026-08-08 05:04 | Price: $285.57 | Mkt Cap: $10B*
+*Generated: 2026-08-09 05:12 | Price: $285.57 | Mkt Cap: $10B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -17% — ABSENT ($286 > IV $237 at 15x for -10% growth)
+- **Margin of Safety**: -20% — ABSENT ($286 > IV $228 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

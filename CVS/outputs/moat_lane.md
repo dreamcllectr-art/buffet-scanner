@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVS
-*Generated: 2026-08-08 05:04 | Price: $95.7 | Mkt Cap: $122B*
+*Generated: 2026-08-09 05:11 | Price: $95.7 | Mkt Cap: $122B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -2% — ABSENT ($96 > IV $94 at 25x for 25% growth)
+- **Margin of Safety**: -1% — ABSENT ($96 > IV $95 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

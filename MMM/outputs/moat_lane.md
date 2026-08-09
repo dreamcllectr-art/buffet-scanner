@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MMM
-*Generated: 2026-08-08 05:03 | Price: $182.9 | Mkt Cap: $94B*
+*Generated: 2026-08-09 05:10 | Price: $182.9 | Mkt Cap: $94B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: -22% — ABSENT ($183 > IV $143 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($183 > IV $141 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-08-08 05:05 | Price: $85.24 | Mkt Cap: $23B*
+*Generated: 2026-08-09 05:13 | Price: $85.24 | Mkt Cap: $23B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -36,7 +36,7 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -89% — ABSENT ($85 > IV $10 at 25x for 25% growth)
+- **Margin of Safety**: -89% — ABSENT ($85 > IV $9 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCK
-*Generated: 2026-08-08 05:05 | Price: $869.58 | Mkt Cap: $101B*
+*Generated: 2026-08-09 05:12 | Price: $869.58 | Mkt Cap: $101B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -36,7 +36,7 @@ Healthcare / Medical Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Distribution
-- **Margin of Safety**: -36% — ABSENT ($870 > IV $558 at 15x for -18% growth)
+- **Margin of Safety**: -36% — ABSENT ($870 > IV $560 at 15x for -18% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

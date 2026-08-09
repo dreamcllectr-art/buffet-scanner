@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHR
-*Generated: 2026-08-08 05:04 | Price: $204.76 | Mkt Cap: $144B*
+*Generated: 2026-08-09 05:11 | Price: $204.76 | Mkt Cap: $144B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -12,7 +12,7 @@ Healthcare / Diagnostics & Research
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.5x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 10.8%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 11.0%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Healthcare / Diagnostics & Research
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 50% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 126% (strong); Gross margin: 59% (pricing power for Healthcare) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 10.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 11.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 11.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 59% vs sector strong cutoff 55% — strong pricing power; Operating margin 20% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.0x — growth premium; 52w range position: 54%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
@@ -36,9 +36,9 @@ Healthcare / Diagnostics & Research
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Diagnostics & Research
-- **Margin of Safety**: -30% — ABSENT ($205 > IV $144 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($205 > IV $140 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
-- **Incentive-Caused Bias**: Aligned — 10.8% insider ownership
+- **Incentive-Caused Bias**: Aligned — 11.0% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WTW
-*Generated: 2026-08-09 05:15 | Price: $344.82 | Mkt Cap: $32B*
+*Generated: 2026-08-10 05:44 | Price: $344.82 | Mkt Cap: $32B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -21,7 +21,7 @@ Financial Services / Insurance Brokers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 19.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 30% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 20% — strong franchise (Financial Services); Operating margin 18% — thin for Financial Services | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 15.1x — fair price; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 4.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |

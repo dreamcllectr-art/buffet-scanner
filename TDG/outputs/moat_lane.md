@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDG
-*Generated: 2026-08-09 05:16 | Price: $1225.25 | Mkt Cap: $68B*
+*Generated: 2026-08-10 05:42 | Price: $1225.25 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -21,7 +21,7 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 13.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 25% (stable); FCF/NI: 97% (strong); Gross margin: 60% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin 46% — durable for Industrials; Rev growth 22% — demand pull | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 25.4x — growth premium; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 2.2%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COST
-*Generated: 2026-08-09 05:11 | Price: $947.82 | Mkt Cap: $420B*
+*Generated: 2026-08-10 05:39 | Price: $947.82 | Mkt Cap: $420B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -21,7 +21,7 @@ Consumer Defensive / Discount Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.9/10 | 30% | 2.7 | Avg ROIC: 24.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 31% (stable); FCF/NI: 88% (strong); Gross margin: 13% (thin by design for Discount Stores) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 9% / ROE 29% — scale moat (Discount Stores); Operating margin 4% — thin for Consumer Defensive; Rev growth 22% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 41.8x — expensive; 52w range position: 41%; Owner earnings yield: 1.7%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |

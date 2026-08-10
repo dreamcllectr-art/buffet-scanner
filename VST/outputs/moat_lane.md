@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VST
-*Generated: 2026-08-09 05:16 | Price: $140.59 | Mkt Cap: $47B*
+*Generated: 2026-08-10 05:44 | Price: $140.59 | Mkt Cap: $47B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -21,7 +21,7 @@ Utilities / Utilities - Independent Power Producers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 7.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 64% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 138% (strong); Gross margin: 38% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.1% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 38% — moderate moat for Utilities; Operating margin 14% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; Near 52w low (9% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |

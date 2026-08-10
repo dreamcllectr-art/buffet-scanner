@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPE
-*Generated: 2026-08-09 05:12 | Price: $310.68 | Mkt Cap: $37B*
+*Generated: 2026-08-10 05:40 | Price: $310.68 | Mkt Cap: $37B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -21,7 +21,7 @@ Consumer Cyclical / Travel Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.6% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 362% (strong); Gross margin: 90% (pricing power for Consumer Cyclical) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 90% vs sector strong cutoff 45% — strong pricing power; Operating margin 19% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 9.2% (>5%) | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |

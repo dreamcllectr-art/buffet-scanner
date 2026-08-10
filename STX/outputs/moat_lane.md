@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STX
-*Generated: 2026-08-09 05:16 | Price: $812.76 | Mkt Cap: $184B*
+*Generated: 2026-08-10 05:42 | Price: $812.76 | Mkt Cap: $184B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -21,7 +21,7 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.4/10 | 30% | 1.9 | Avg ROIC: 24.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 57% (severe cyclicality); FCF/NI: 58%; Gross margin: 46% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 46% — moderate moat for Technology; Operating margin 43% — durable for Technology; Rev growth 48% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 67%; Owner earnings yield: 1.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |

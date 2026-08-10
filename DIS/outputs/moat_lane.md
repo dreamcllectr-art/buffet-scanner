@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DIS
-*Generated: 2026-08-09 05:16 | Price: $104.91 | Mkt Cap: $181B*
+*Generated: 2026-08-10 05:44 | Price: $104.91 | Mkt Cap: $181B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,7 +21,7 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 5.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 124% (strong); Gross margin: 38% (below Communication Services norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 38% — below Communication Services moderate cutoff 40%; Operating margin 19% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 46%; Owner earnings yield: 2.7% | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |

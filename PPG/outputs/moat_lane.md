@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPG
-*Generated: 2026-08-09 05:13 | Price: $119.72 | Mkt Cap: $27B*
+*Generated: 2026-08-10 05:42 | Price: $119.72 | Mkt Cap: $27B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -21,7 +21,7 @@ Basic Materials / Specialty Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.6/10 | 30% | 1.7 | Avg ROIC: 11.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 83% (strong); Gross margin: 41% (pricing power for Basic Materials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 41% vs sector strong cutoff 30% — strong pricing power; Operating margin 14% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 66%; Owner earnings yield: 4.2% | - |
 | **TOTAL** | **6.7/10** | **100%** | **6.7** | | |

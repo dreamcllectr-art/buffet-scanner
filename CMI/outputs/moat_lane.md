@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CMI
-*Generated: 2026-08-09 05:11 | Price: $644.26 | Mkt Cap: $89B*
+*Generated: 2026-08-10 05:39 | Price: $644.26 | Mkt Cap: $89B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -21,7 +21,7 @@ Industrials / Specialty Industrial Machinery
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 16.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 66% from prior peak; 5y price drawdown: 30% (stable); FCF/NI: 129% (strong); Gross margin: 26% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 26% — moderate moat for Industrials; Operating margin 12% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 73%; Owner earnings yield: 2.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |

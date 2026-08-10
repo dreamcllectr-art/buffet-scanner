@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFG
-*Generated: 2026-08-09 05:13 | Price: $113.4 | Mkt Cap: $24B*
+*Generated: 2026-08-10 05:42 | Price: $113.4 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -21,7 +21,7 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | ROE: 12.9% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 29% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | ROE 13% — adequate (Financial Services); Operating margin 12% — thin for Financial Services | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.0x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 4.4% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

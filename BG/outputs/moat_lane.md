@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BG
-*Generated: 2026-08-09 05:11 | Price: $108.38 | Mkt Cap: $21B*
+*Generated: 2026-08-10 05:38 | Price: $108.38 | Mkt Cap: $21B*
 
 > ⚠ DATA: yfinance misclassified Glencore Plc (17.1% inst.) as insider
 
@@ -23,7 +23,7 @@ Consumer Defensive / Farm Products
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 64% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: -86% (weak conversion); Gross margin: 5% (below Consumer Defensive norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.9% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 32.1% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 5% — below Consumer Defensive moderate cutoff 30%; Operating margin 5% — thin for Consumer Defensive; Rev growth 88% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 55% | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |

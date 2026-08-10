@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-08-09 05:11 | Price: $42.98 | Mkt Cap: $47B*
+*Generated: 2026-08-10 05:39 | Price: $42.98 | Mkt Cap: $47B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -21,7 +21,7 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.4/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 21.3% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 56% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 51%; Gross margin: 50% (pricing power for Energy) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 50% vs sector strong cutoff 30% — strong pricing power; Operating margin 41% — durable for Energy; Rev growth 64% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.8x — deep value; 52w range position: 54%; Owner earnings yield: 1.7% | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-08-09 05:11 | Price: $379.13 | Mkt Cap: $74B*
+*Generated: 2026-08-10 05:39 | Price: $379.13 | Mkt Cap: $74B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -21,7 +21,7 @@ Technology / Scientific & Technical Instruments
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 211% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 57%; Gross margin: 37% (below Technology norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 14% — thin for Technology; Rev growth 20% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 45.3x — expensive; 52w range position: 83%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.1/10** | **100%** | **3.1** | | |

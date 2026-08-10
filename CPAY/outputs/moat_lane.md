@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPAY
-*Generated: 2026-08-09 05:11 | Price: $392.94 | Mkt Cap: $26B*
+*Generated: 2026-08-10 05:39 | Price: $392.94 | Mkt Cap: $26B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,7 +21,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 12.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 140% (strong); Gross margin: 80% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.8% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.3% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 35% — durable for Technology; Rev growth 22% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w high (92% of range) — Mr. Market greedy; Owner earnings yield: 7.1% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

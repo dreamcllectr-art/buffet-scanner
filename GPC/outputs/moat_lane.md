@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPC
-*Generated: 2026-08-09 05:12 | Price: $135.63 | Mkt Cap: $19B*
+*Generated: 2026-08-10 05:40 | Price: $135.63 | Mkt Cap: $19B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -21,7 +21,7 @@ Consumer Cyclical / Auto Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 12.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 95% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 220% (strong); Gross margin: 38% (thin by design for Auto Parts) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | ROA 4% / ROE 1% — weak for Auto Parts; Operating margin 7% | Weak pricing |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.3x — fair price; 52w range position: 74%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

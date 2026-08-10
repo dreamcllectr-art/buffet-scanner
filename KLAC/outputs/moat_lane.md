@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KLAC
-*Generated: 2026-08-09 05:12 | Price: $198.11 | Mkt Cap: $259B*
+*Generated: 2026-08-10 05:41 | Price: $198.11 | Mkt Cap: $259B*
 
 ## Sector Context
 Technology / Semiconductor Equipment & Materials
@@ -20,8 +20,8 @@ Technology / Semiconductor Equipment & Materials
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 98% (strong); Gross margin: 61% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 34.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 61% (pricing power for Technology) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 60% — strong pricing power; Operating margin 42% — durable for Technology | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.2x — expensive; 52w range position: 51%; Owner earnings yield: 1.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |

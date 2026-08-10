@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-08-09 05:12 | Price: $53.22 | Mkt Cap: $70B*
+*Generated: 2026-08-10 05:40 | Price: $53.22 | Mkt Cap: $70B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -21,7 +21,7 @@ Technology / Communication Equipment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 98% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 356% (strong); Gross margin: 34% (below Technology norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 9% — thin for Technology; Rev growth 40% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.3x — deep value; 52w range position: 75%; Owner earnings yield: 5.4% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

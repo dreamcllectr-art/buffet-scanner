@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-08-09 05:12 | Price: $318.57 | Mkt Cap: $75B*
+*Generated: 2026-08-10 05:40 | Price: $318.57 | Mkt Cap: $75B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.0% inst.) as insider
 
@@ -23,7 +23,7 @@ Industrials / Integrated Freight & Logistics
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 82% (strong); Gross margin: 27% | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 27% — moderate moat for Industrials; Operating margin 11% | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.3x — fair price; 52w range position: 84%; Owner earnings yield: 7.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |

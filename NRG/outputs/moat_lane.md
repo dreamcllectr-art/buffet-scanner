@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-08-09 05:13 | Price: $118.13 | Mkt Cap: $25B*
+*Generated: 2026-08-10 05:41 | Price: $118.13 | Mkt Cap: $25B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -21,7 +21,7 @@ Utilities / Utilities - Independent Power Producers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Utilities moderate cutoff 25%; Operating margin 13% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; Near 52w low (7% of range) — Mr. Market fearful; Owner earnings yield: 3.1% | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |

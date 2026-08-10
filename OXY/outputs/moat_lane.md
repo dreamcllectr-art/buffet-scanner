@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OXY
-*Generated: 2026-08-09 05:13 | Price: $55.91 | Mkt Cap: $56B*
+*Generated: 2026-08-10 05:41 | Price: $55.91 | Mkt Cap: $56B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -21,7 +21,7 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.9/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 13.5% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 145% (strong); Gross margin: 73% (pricing power for Energy) | ROIC declining |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 26.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 26.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 73% vs sector strong cutoff 30% — strong pricing power; Operating margin 45% — durable for Energy; Rev growth 53% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.2x — deep value; 52w range position: 60%; Owner earnings yield: 6.8% (>5%) | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |

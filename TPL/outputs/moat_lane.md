@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPL
-*Generated: 2026-08-09 05:16 | Price: $340.65 | Mkt Cap: $23B*
+*Generated: 2026-08-10 05:42 | Price: $340.65 | Mkt Cap: $23B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -21,7 +21,7 @@ Energy / Oil & Gas E&P
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROIC declining trend; Avg ROIC: 41.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 53% (moderate cyclicality); FCF/NI: 52%; Gross margin: 93% (pricing power for Energy) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.5% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 93% vs sector strong cutoff 30% — strong pricing power; Operating margin 78% — durable for Energy; Rev growth 31% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 4.7x — deep value; Near 52w low (26% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |

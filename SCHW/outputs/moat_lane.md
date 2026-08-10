@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SCHW
-*Generated: 2026-08-09 05:11 | Price: $107.6 | Mkt Cap: $187B*
+*Generated: 2026-08-10 05:39 | Price: $107.6 | Mkt Cap: $187B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.7% inst.) as insider
 
@@ -23,7 +23,7 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.5/10 | 30% | 1.9 | ROE: 20.3% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 50% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.7% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 20% — strong franchise (Financial Services); Operating margin 52% — durable for Financial Services; Rev growth 21% — demand pull | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.8x — deep value; Near 52w high (94% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |

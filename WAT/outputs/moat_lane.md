@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAT
-*Generated: 2026-08-09 05:16 | Price: $406.86 | Mkt Cap: $40B*
+*Generated: 2026-08-10 05:44 | Price: $406.86 | Mkt Cap: $40B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -21,7 +21,7 @@ Healthcare / Diagnostics & Research
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.1/10 | 30% | 0.9 | ROIC declining trend; Avg ROIC: 22.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 78%; Gross margin: 56% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.4% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 10%; Rev growth 113% — demand pull | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.6x — growth premium; Near 52w high (95% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.1/10** | **100%** | **5.1** | | |

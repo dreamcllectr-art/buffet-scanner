@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-08-09 05:11 | Price: $153.6 | Mkt Cap: $41B*
+*Generated: 2026-08-10 05:39 | Price: $153.6 | Mkt Cap: $41B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -21,7 +21,7 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROE: -7.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 91% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -8% — weak (Financial Services); Operating margin -14% — thin for Financial Services | Weak pricing |
 | Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 50.6x — extreme premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.6/10** | **100%** | **3.6** | | |

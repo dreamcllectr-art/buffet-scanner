@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAA
-*Generated: 2026-08-09 05:13 | Price: $134.96 | Mkt Cap: $16B*
+*Generated: 2026-08-10 05:41 | Price: $134.96 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -21,7 +21,7 @@ Real Estate / REIT - Residential
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 143% (strong); Gross margin: 58% (pricing power for Real Estate) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 58% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
 | Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 41.2x — expensive; 52w range position: 56%; Owner earnings yield: 5.7% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

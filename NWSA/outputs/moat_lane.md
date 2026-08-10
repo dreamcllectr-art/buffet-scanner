@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-08-09 05:13 | Price: $28.52 | Mkt Cap: $15B*
+*Generated: 2026-08-10 05:41 | Price: $28.52 | Mkt Cap: $15B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -11,7 +11,7 @@ Communication Services / Entertainment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.2x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -21,9 +21,9 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: 6.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 51% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 170% (strong); Gross margin: 57% (pricing power for Communication Services) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -51.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -32.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 13% — thin for Communication Services | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.0x — fair price; 52w range position: 67%; Owner earnings yield: 6.7% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 19.0x — fair price; 52w range position: 67%; Owner earnings yield: 6.8% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |
 
 ## Buffett Score: 6.1 / 10

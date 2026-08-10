@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADP
-*Generated: 2026-08-09 05:10 | Price: $271.32 | Mkt Cap: $108B*
+*Generated: 2026-08-10 05:38 | Price: $271.32 | Mkt Cap: $108B*
 
 ## Sector Context
 Technology / Software - Application
@@ -20,8 +20,8 @@ Technology / Software - Application
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 47.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 99% (strong); Gross margin: 49% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 46.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 105% (strong); Gross margin: 49% | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 49% — moderate moat for Technology; Operating margin 23% | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 68%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-08-09 05:12 | Price: $87.83 | Mkt Cap: $150B*
+*Generated: 2026-08-10 05:40 | Price: $87.83 | Mkt Cap: $150B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -21,13 +21,13 @@ Financial Services / Capital Markets
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.0/10 | 30% | 2.4 | ROE: 24.0% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.1% (low) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 2.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 24% — strong franchise (Financial Services); Operating margin 77% — durable for Financial Services; Rev growth 26% — demand pull | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 27.6x — growth premium; 52w range position: 74%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **7.1/10** | **100%** | **7.1** | | |
+| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
 
-## Buffett Score: 7.1 / 10
-## Alpha Adjustment: +0.21
+## Buffett Score: 7.0 / 10
+## Alpha Adjustment: +0.20
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.21 applied to composite alpha score
+Buffett Premium: +0.20 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

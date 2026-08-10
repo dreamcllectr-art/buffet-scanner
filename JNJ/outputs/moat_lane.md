@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-08-09 05:12 | Price: $259.24 | Mkt Cap: $625B*
+*Generated: 2026-08-10 05:40 | Price: $259.24 | Mkt Cap: $625B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,7 +21,7 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 60% from prior peak; 5y price drawdown: 18% (stable); FCF/NI: 87% (strong); Gross margin: 68% (pricing power for Healthcare) | - |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% — durable for Healthcare | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.1x — growth premium; 52w range position: 85%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |

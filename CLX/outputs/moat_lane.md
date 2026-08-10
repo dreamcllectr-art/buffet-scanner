@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CLX
-*Generated: 2026-08-09 05:11 | Price: $105.15 | Mkt Cap: N/A*
+*Generated: 2026-08-10 05:39 | Price: $105.15 | Mkt Cap: N/A*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -11,7 +11,7 @@ Consumer Defensive / Household & Personal Products
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.6x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.9x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,9 +20,9 @@ Consumer Defensive / Household & Personal Products
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 68% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 252% (strong); Gross margin: 43% | - |
+| Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 18.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 68% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 252% (strong); Gross margin: 42% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 43% — moderate moat for Consumer Defensive; Operating margin 16% — durable for Consumer Defensive | - |
+| Moat | 6.5/10 | 25% | 1.6 | Gross margin 42% — moderate moat for Consumer Defensive; Operating margin 13% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.5x — fair price; 52w range position: 46%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 

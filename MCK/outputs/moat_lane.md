@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCK
-*Generated: 2026-08-09 05:12 | Price: $869.58 | Mkt Cap: $101B*
+*Generated: 2026-08-10 05:41 | Price: $869.58 | Mkt Cap: $101B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -21,7 +21,7 @@ Healthcare / Medical Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.5/10 | 30% | 2.2 | Avg ROIC: 102.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 27% (stable); FCF/NI: 131% (strong); Gross margin: 4% (below Healthcare norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.2x — fair price; 52w range position: 64%; Owner earnings yield: 6.7% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

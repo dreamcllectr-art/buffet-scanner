@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WEC
-*Generated: 2026-08-09 05:16 | Price: $107.63 | Mkt Cap: $35B*
+*Generated: 2026-08-10 05:44 | Price: $107.63 | Mkt Cap: $35B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -21,7 +21,7 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 6.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 26% (stable); FCF/NI: -4% (weak conversion); Gross margin: 42% (pricing power for Utilities) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 42% vs sector strong cutoff 40% — strong pricing power; Operating margin 22% — durable for Utilities | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.9x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

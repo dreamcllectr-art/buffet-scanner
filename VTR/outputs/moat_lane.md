@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTR
-*Generated: 2026-08-09 05:16 | Price: $93.36 | Mkt Cap: $48B*
+*Generated: 2026-08-10 05:43 | Price: $93.36 | Mkt Cap: $48B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities
@@ -21,7 +21,7 @@ Real Estate / REIT - Healthcare Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.0/10 | 30% | 0.9 | Avg ROIC: 2.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: -319% (weak conversion); Gross margin: 40% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Real Estate; Operating margin 15% — thin for Real Estate; Rev growth 22% — demand pull | - |
 | Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 114.3x — extreme premium; 52w range position: 77%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |

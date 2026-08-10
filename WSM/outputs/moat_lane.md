@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WSM
-*Generated: 2026-08-09 05:16 | Price: $251.78 | Mkt Cap: $30B*
+*Generated: 2026-08-10 05:44 | Price: $251.78 | Mkt Cap: $30B*
 
 ## Sector Context
 Consumer Cyclical / Specialty Retail
@@ -21,7 +21,7 @@ Consumer Cyclical / Specialty Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 55.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 52% (moderate cyclicality); FCF/NI: 104% (strong); Gross margin: 46% (thin by design for Specialty Retail) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.4% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.8% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 17% / ROE 54% — scale moat (Specialty Retail); Operating margin 16% — durable for Consumer Cyclical | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 24.5x — growth premium; Near 52w high (99% of range) — Mr. Market greedy; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |

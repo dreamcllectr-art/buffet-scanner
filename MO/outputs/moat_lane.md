@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MO
-*Generated: 2026-08-09 05:10 | Price: $68.35 | Mkt Cap: $114B*
+*Generated: 2026-08-10 05:38 | Price: $68.35 | Mkt Cap: $114B*
 
 ## Sector Context
 Consumer Defensive / Tobacco
@@ -21,7 +21,7 @@ Consumer Defensive / Tobacco
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 40.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 38% from prior peak; 5y price drawdown: 26% (stable); FCF/NI: 115% (strong); Gross margin: 87% (pricing power for Consumer Defensive) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 87% vs sector strong cutoff 45% — strong pricing power; Operating margin 61% — durable for Consumer Defensive | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 61%; Owner earnings yield: 7.9% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |

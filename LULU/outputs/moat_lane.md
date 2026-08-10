@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-08-09 05:12 | Price: $128.58 | Mkt Cap: $15B*
+*Generated: 2026-08-10 05:41 | Price: $128.58 | Mkt Cap: $15B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -21,13 +21,13 @@ Consumer Cyclical / Apparel Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 79% (severe cyclicality); FCF/NI: 73%; Gross margin: 56% (thin by design for Apparel Retail) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.7% (low) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | ROA 16% / ROE 32% — scale moat (Apparel Retail); Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.4x — deep value; Near 52w low (20% of range) — Mr. Market fearful; Owner earnings yield: 7.8% (>5%) | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 6.9 / 10
+## Alpha Adjustment: +0.19
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.19 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

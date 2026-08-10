@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVNA
-*Generated: 2026-08-09 05:11 | Price: $70.85 | Mkt Cap: $105B*
+*Generated: 2026-08-10 05:38 | Price: $70.85 | Mkt Cap: $105B*
 
 ## Sector Context
 Consumer Cyclical / Auto & Truck Dealerships
@@ -21,7 +21,7 @@ Consumer Cyclical / Auto & Truck Dealerships
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: -1.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 53% from prior peak; 5y price drawdown: 99% (severe cyclicality); FCF/NI: 183% (strong); Gross margin: 19% (below Consumer Cyclical norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 9%; Rev growth 52% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.5x — expensive; 52w range position: 38%; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |

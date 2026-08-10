@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-08-09 05:10 | Price: $353.47 | Mkt Cap: $4323B*
+*Generated: 2026-08-10 05:38 | Price: $353.47 | Mkt Cap: $4323B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.6% inst.) as insider
 
@@ -23,7 +23,7 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 61% (pricing power for Communication Services) | - |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -97.5% (low) | - |
+| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -94.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Communication Services; Rev growth 24% — demand pull | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 24.0x — growth premium; 52w range position: 75%; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.6/10** | **100%** | **7.6** | | |

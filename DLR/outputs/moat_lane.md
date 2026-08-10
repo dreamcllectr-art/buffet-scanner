@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-08-09 05:11 | Price: $193.8 | Mkt Cap: $73B*
+*Generated: 2026-08-10 05:39 | Price: $193.8 | Mkt Cap: $73B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -21,7 +21,7 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 2.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 293% (strong); Gross margin: 57% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.4% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 26%; Rev growth 30% — demand pull | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 66.1x — extreme premium; 52w range position: 77%; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |

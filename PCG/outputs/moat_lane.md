@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PCG
-*Generated: 2026-08-09 05:13 | Price: $17.46 | Mkt Cap: $38B*
+*Generated: 2026-08-10 05:42 | Price: $17.46 | Mkt Cap: $38B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -21,7 +21,7 @@ Utilities / Utilities - Regulated Electric
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 3.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 40% (stable); FCF/NI: -187% (weak conversion); Gross margin: 40% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 40% — moderate moat for Utilities; Operating margin 25% — durable for Utilities | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.7x — deep value; 52w range position: 65% | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UAL
-*Generated: 2026-08-09 05:16 | Price: $129.56 | Mkt Cap: $42B*
+*Generated: 2026-08-10 05:43 | Price: $129.56 | Mkt Cap: $42B*
 
 ## Sector Context
 Industrials / Airlines
@@ -21,7 +21,7 @@ Industrials / Airlines
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 9.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 32% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.5% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 32% — moderate moat for Industrials; Operating margin 6% — thin for Industrials | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; 52w range position: 83%; Owner earnings yield: 2.2% | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

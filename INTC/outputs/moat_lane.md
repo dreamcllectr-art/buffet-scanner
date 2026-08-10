@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTC
-*Generated: 2026-08-09 05:12 | Price: $101.65 | Mkt Cap: $513B*
+*Generated: 2026-08-10 05:40 | Price: $101.65 | Mkt Cap: $513B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 334% from prior peak; 5y price drawdown: 65% (severe cyclicality); FCF/NI: 244% (strong); Gross margin: 39% (below Technology norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $75B (14.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 8.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $75B (14.7%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 10.0% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 39% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 25% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 49.4x — expensive; 52w range position: 67%; Owner earnings yield: 0.9%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |

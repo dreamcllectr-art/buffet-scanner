@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AKAM
-*Generated: 2026-08-09 05:10 | Price: $110.54 | Mkt Cap: $16B*
+*Generated: 2026-08-10 05:38 | Price: $110.54 | Mkt Cap: $16B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -11,7 +11,7 @@ Technology / Software - Infrastructure
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.7x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.6x | 30% | -40% | YES |
 | 3 | Management / Governance Failure | Insider ownership 2.1%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -21,8 +21,8 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 147% (strong); Gross margin: 57% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
-| Moat | 6.0/10 | 25% | 1.5 | Gross margin 57% — moderate moat for Technology; Operating margin 7% — thin for Technology | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.5% (low) | - |
+| Moat | 6.0/10 | 25% | 1.5 | Gross margin 57% — moderate moat for Technology; Operating margin 8% — thin for Technology | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.4x — fair price; 52w range position: 42%; Owner earnings yield: 4.5%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 

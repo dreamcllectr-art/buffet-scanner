@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-08-09 05:12 | Price: $341.22 | Mkt Cap: $36B*
+*Generated: 2026-08-10 05:40 | Price: $341.22 | Mkt Cap: $36B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -21,7 +21,7 @@ Technology / Electronic Components
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 53% from prior peak; 5y price drawdown: 37% (stable); FCF/NI: 90% (strong); Gross margin: 9% (below Technology norm) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 9% — below Technology moderate cutoff 40%; Operating margin 5% — thin for Technology | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 63%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |

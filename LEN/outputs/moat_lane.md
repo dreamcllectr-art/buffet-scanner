@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LEN
-*Generated: 2026-08-09 05:12 | Price: $88.18 | Mkt Cap: $21B*
+*Generated: 2026-08-10 05:41 | Price: $88.18 | Mkt Cap: $21B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
 
@@ -23,7 +23,7 @@ Consumer Cyclical / Residential Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.8% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 55% from prior peak; 5y price drawdown: 55% (moderate cyclicality); FCF/NI: 64%; Gross margin: 16% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 16% — below Consumer Cyclical moderate cutoff 30%; Operating margin 5% — thin for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.6x — deep value; Near 52w low (13% of range) — Mr. Market fearful; Owner earnings yield: 5.1% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |

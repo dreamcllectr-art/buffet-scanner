@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSA
-*Generated: 2026-08-09 05:16 | Price: $328.4 | Mkt Cap: $61B*
+*Generated: 2026-08-10 05:42 | Price: $328.4 | Mkt Cap: $61B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (9.5% inst.) as insider
 
@@ -23,7 +23,7 @@ Real Estate / REIT - Industrial
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 16.2% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: 121% (strong); Gross margin: 74% (pricing power for Real Estate) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 15.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 16.0% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 74% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
 | Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 35.7x — expensive; Near 52w high (91% of range) — Mr. Market greedy; Owner earnings yield: 3.8%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |

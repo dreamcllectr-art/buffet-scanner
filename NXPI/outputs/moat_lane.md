@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXPI
-*Generated: 2026-08-09 05:13 | Price: $239.71 | Mkt Cap: $60B*
+*Generated: 2026-08-10 05:41 | Price: $239.71 | Mkt Cap: $60B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -21,7 +21,7 @@ Technology / Semiconductors
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 94% (strong); Gross margin: 56% | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% — moderate moat for Technology; Operating margin 30% — durable for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; 52w range position: 36%; Owner earnings yield: 5.9% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |

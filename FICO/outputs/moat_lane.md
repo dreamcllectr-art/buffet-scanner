@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-08-09 05:12 | Price: $1041.4 | Mkt Cap: $22B*
+*Generated: 2026-08-10 05:40 | Price: $1041.4 | Mkt Cap: $22B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 47.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 61% (severe cyclicality); FCF/NI: 119% (strong); Gross margin: 85% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.0% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.4% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 85% vs sector strong cutoff 60% — strong pricing power; Operating margin 54% — durable for Technology; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.6x — fair price; Near 52w low (15% of range) — Mr. Market fearful; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

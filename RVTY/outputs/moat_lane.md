@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RVTY
-*Generated: 2026-08-09 05:16 | Price: $114.66 | Mkt Cap: $13B*
+*Generated: 2026-08-10 05:42 | Price: $114.66 | Mkt Cap: $13B*
 
 ## Sector Context
 Healthcare / Diagnostics & Research
@@ -21,7 +21,7 @@ Healthcare / Diagnostics & Research
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 3.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 129% (strong); Gross margin: 55% | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 55% — moderate moat for Healthcare; Operating margin 17% | - |
 | Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.5x — fair price; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 4.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

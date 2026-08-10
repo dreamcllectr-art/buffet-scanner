@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UNH
-*Generated: 2026-08-09 05:16 | Price: $407.08 | Mkt Cap: $370B*
+*Generated: 2026-08-10 05:43 | Price: $407.08 | Mkt Cap: $370B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -21,7 +21,7 @@ Healthcare / Healthcare Plans
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 13.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 46% from prior peak; 5y price drawdown: 61% (severe cyclicality); FCF/NI: 127% (strong); Gross margin: 20% (below Healthcare norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 20% — below Healthcare moderate cutoff 35%; Operating margin 7% — thin for Healthcare | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 18.1x — fair price; 52w range position: 74%; Owner earnings yield: 6.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |

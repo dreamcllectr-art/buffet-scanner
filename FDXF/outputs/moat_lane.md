@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDXF
-*Generated: 2026-08-09 05:12 | Price: $144.76 | Mkt Cap: $22B*
+*Generated: 2026-08-10 05:40 | Price: $144.76 | Mkt Cap: $22B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -20,13 +20,13 @@ Industrials / Integrated Freight & Logistics
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 46.8% (2y); Earnings: 2/2 down-years (unpredictable); NI drawdown: 32% from prior peak; FCF/NI: 82% (strong); Gross margin: 29% | - |
+| Quality | 2.0/10 | 30% | 0.6 | ROIC declining trend; Avg ROIC: 51.2% (3y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 59% from prior peak; FCF/NI: 48% (weak conversion); Gross margin: 29% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 20.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.1% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 29% — moderate moat for Industrials; Operating margin -6% — thin for Industrials | - |
 | Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 28.9x — growth premium; Near 52w low (15% of range) — Mr. Market fearful; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| **TOTAL** | **5.6/10** | **100%** | **5.6** | | |
 
-## Buffett Score: 6.0 / 10
+## Buffett Score: 5.6 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: UHS
-*Generated: 2026-08-09 05:16 | Price: $173.54 | Mkt Cap: $11B*
+*Generated: 2026-08-10 05:43 | Price: $173.54 | Mkt Cap: $11B*
 
 ## Sector Context
 Healthcare / Medical Care Facilities
@@ -21,7 +21,7 @@ Healthcare / Medical Care Facilities
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 10.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 66%; Gross margin: 45% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.9% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 9.3% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 45% — moderate moat for Healthcare; Operating margin 11% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; 52w range position: 31%; Owner earnings yield: 4.7% | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: XYZ
-*Generated: 2026-08-09 05:11 | Price: $79.0 | Mkt Cap: $47B*
+*Generated: 2026-08-10 05:38 | Price: $79.0 | Mkt Cap: $47B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,7 +21,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 3.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 55% from prior peak; 5y price drawdown: 86% (severe cyclicality); FCF/NI: -69% (weak conversion); Gross margin: 47% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.8% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 47% — moderate moat for Technology; Operating margin 7% — thin for Technology | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 80%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |

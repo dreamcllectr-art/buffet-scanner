@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUBB
-*Generated: 2026-08-09 05:12 | Price: $513.99 | Mkt Cap: $27B*
+*Generated: 2026-08-10 05:40 | Price: $513.99 | Mkt Cap: $27B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -21,7 +21,7 @@ Industrials / Electrical Equipment & Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.6/10 | 30% | 2.6 | Avg ROIC: 15.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 33% (stable); FCF/NI: 95% (strong); Gross margin: 35% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 35% vs sector strong cutoff 35% — strong pricing power; Operating margin 22% — durable for Industrials | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 22.5x — growth premium; 52w range position: 68%; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **7.0/10** | **100%** | **7.0** | | |

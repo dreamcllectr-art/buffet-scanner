@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WBD
-*Generated: 2026-08-10 05:44 | Price: $26.78 | Mkt Cap: $67B*
+*Generated: 2026-08-11 05:20 | Price: $26.87 | Mkt Cap: $67B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,15 +21,15 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.0/10 | 30% | 0.3 | Avg ROIC: -3.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 78% (severe cyclicality); FCF/NI: 36% (weak conversion); Gross margin: 48% | - |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 6.7% of shares (SBC concern) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 7.4% of shares (SBC concern) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 48% — moderate moat for Communication Services; Operating margin 5% — thin for Communication Services | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 4690.0x — extreme premium; 52w range position: 83%; Owner earnings yield: 24.1% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E -796.1x — deep value; 52w range position: 84%; Owner earnings yield: 24.0% (>5%) | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 3.5 / 10
-## Alpha Adjustment: -0.24
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 5.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -37,18 +37,18 @@ Communication Services / Entertainment
 
 - **Circle of Competence**: Communication Services / Entertainment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.24 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

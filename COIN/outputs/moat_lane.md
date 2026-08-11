@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COIN
-*Generated: 2026-08-10 05:39 | Price: $153.6 | Mkt Cap: $41B*
+*Generated: 2026-08-11 05:15 | Price: $148.68 | Mkt Cap: $39B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -21,13 +21,13 @@ Financial Services / Financial Data & Stock Exchanges
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.5/10 | 30% | 0.4 | ROE: -7.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 91% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | ROE -8% — weak (Financial Services); Operating margin -14% — thin for Financial Services | Weak pricing |
-| Valuation Fit | 4.0/10 | 20% | 0.8 | P/E 50.6x — extreme premium; Near 52w low (6% of range) — Mr. Market fearful; Owner earnings yield: 6.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 49.0x — expensive; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 6.8% (>5%); Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 4.0 / 10
+## Alpha Adjustment: -0.20
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.20 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

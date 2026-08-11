@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DECK
-*Generated: 2026-08-10 05:39 | Price: $97.46 | Mkt Cap: $13B*
+*Generated: 2026-08-11 05:15 | Price: $97.44 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -21,7 +21,7 @@ Consumer Cyclical / Footwear & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 37.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 64% (severe cyclicality); FCF/NI: 105% (strong); Gross margin: 58% (pricing power for Consumer Cyclical) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 58% vs sector strong cutoff 45% — strong pricing power; Operating margin 15% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.7x — deep value; 52w range position: 40%; Owner earnings yield: 6.6% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |

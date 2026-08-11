@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: AMZN
-*Generated: 2026-08-10 05:38 | Price: $274.48 | Mkt Cap: $2961B*
+*Generated: 2026-08-11 05:14 | Price: $278.09 | Mkt Cap: $3000B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.9% inst.) as insider
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -25,7 +25,7 @@ Consumer Cyclical / Internet Retail
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 11.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 56% (severe cyclicality); FCF/NI: 198% (strong); Gross margin: 51% (pricing power for Consumer Cyclical) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 10.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 51% vs sector strong cutoff 45% — strong pricing power; Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.6x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 26.9x — growth premium; Near 52w high (90% of range) — Mr. Market greedy; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -38,7 +38,7 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: 13% — thin (IV $311 at 25x)
+- **Margin of Safety**: 13% — thin (IV $315 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

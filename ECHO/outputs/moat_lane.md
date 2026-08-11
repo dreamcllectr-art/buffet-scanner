@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-08-10 05:39 | Price: $90.04 | Mkt Cap: $26B*
-
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (11.8% inst.) as insider
+*Generated: 2026-08-11 05:15 | Price: $89.15 | Mkt Cap: $26B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -14,7 +12,7 @@ Communication Services / Telecom Services
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 8.8x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 13.1%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -23,15 +21,15 @@ Communication Services / Telecom Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 30% (below Communication Services norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 17.4% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 17.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.8x — deep value; 52w range position: 53% | - |
-| **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; 52w range position: 52% | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 3.8 / 10
-## Alpha Adjustment: -0.22
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 5.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
@@ -40,7 +38,7 @@ Communication Services / Telecom Services
 - **Circle of Competence**: Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 13.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -50,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.22 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: GEN
-*Generated: 2026-08-10 05:40 | Price: $29.17 | Mkt Cap: $17B*
+*Generated: 2026-08-11 05:16 | Price: $29.29 | Mkt Cap: $18B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -25,7 +25,7 @@ Technology / Software - Infrastructure
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 10.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 184% (strong); Gross margin: 78% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 25.3% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.8x — deep value; 52w range position: 79%; Owner earnings yield: 8.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.9x — deep value; 52w range position: 80%; Owner earnings yield: 8.8% (>5%) | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10

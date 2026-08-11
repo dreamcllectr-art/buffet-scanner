@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-08-10 05:42 | Price: $31.13 | Mkt Cap: $20B*
+*Generated: 2026-08-11 05:20 | Price: $31.46 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -23,7 +23,7 @@ Technology / Computer Hardware
 | Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 15.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -38% (weak conversion); Gross margin: 8% (below Technology norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 23.3% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 8% — below Technology moderate cutoff 40%; Operating margin 6% — thin for Technology; Rev growth 123% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.4x — deep value; Near 52w low (30% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.5x — deep value; 52w range position: 30% | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10
@@ -39,7 +39,7 @@ Technology / Computer Hardware
 - **Margin of Safety**: 53% — PRESENT (IV $48 vs $31 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 12.9% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: attractive valuation, secular growth)

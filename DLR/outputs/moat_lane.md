@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-08-10 05:39 | Price: $193.8 | Mkt Cap: $73B*
+*Generated: 2026-08-11 05:15 | Price: $191.3 | Mkt Cap: $72B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -21,9 +21,9 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | Avg ROIC: 2.7% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 37% from prior peak; 5y price drawdown: 49% (moderate cyclicality); FCF/NI: 293% (strong); Gross margin: 57% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.4% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 9.2% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 26%; Rev growth 30% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 66.1x — extreme premium; 52w range position: 77%; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 65.2x — extreme premium; 52w range position: 73%; Owner earnings yield: 5.2% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -94% — ABSENT ($194 > IV $12 at 15x for -59% growth)
+- **Margin of Safety**: -94% — ABSENT ($191 > IV $12 at 15x for -59% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

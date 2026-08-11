@@ -1,7 +1,7 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-08-10 05:41 | Price: $56.73 | Mkt Cap: N/A*
+*Generated: 2026-08-11 05:16 | Price: $56.48 | Mkt Cap: $35B*
 
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.7% inst.) as insider
+> ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
 ## Sector Context
 Consumer Defensive / Grocery Stores
@@ -23,9 +23,9 @@ Consumer Defensive / Grocery Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 10.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 31% (stable); FCF/NI: 151% (strong); Gross margin: 24% (thin by design for Grocery Stores) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -28.4% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | ROA 6% / ROE 14% — adequate scale (Grocery Stores); Operating margin 3% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (12% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; Near 52w low (10% of range) — Mr. Market fearful; Owner earnings yield: 8.7% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -38,7 +38,7 @@ Consumer Defensive / Grocery Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Grocery Stores
-- **Margin of Safety**: -40% — ABSENT ($57 > IV $34 at 20x for 13% growth)
+- **Margin of Safety**: -40% — ABSENT ($56 > IV $34 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

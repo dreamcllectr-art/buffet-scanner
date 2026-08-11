@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INVH
-*Generated: 2026-08-10 05:40 | Price: $30.37 | Mkt Cap: $18B*
+*Generated: 2026-08-11 05:16 | Price: $29.89 | Mkt Cap: $18B*
 
 ## Sector Context
 Real Estate / REIT - Residential
@@ -21,12 +21,12 @@ Real Estate / REIT - Residential
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 3.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 38% (stable); FCF/NI: 184% (strong); Gross margin: 56% (pricing power for Real Estate) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.8% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 11.3% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 56% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 44.6x — expensive; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 6.5% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.1/10** | **100%** | **5.1** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 44.1x — expensive; 52w range position: 79%; Owner earnings yield: 6.6% (>5%); Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.1 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Real Estate / REIT - Residential
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Residential
-- **Margin of Safety**: -10% — ABSENT ($30 > IV $27 at 25x for 25% growth)
+- **Margin of Safety**: -11% — ABSENT ($30 > IV $27 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: strong moat)

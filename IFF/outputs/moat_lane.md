@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IFF
-*Generated: 2026-08-11 05:16 | Price: $85.09 | Mkt Cap: $22B*
+*Generated: 2026-08-12 05:43 | Price: $85.0 | Mkt Cap: $22B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -21,7 +21,7 @@ Basic Materials / Specialty Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | Avg ROIC: -2.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 237% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 32% (weak conversion); Gross margin: 37% (pricing power for Basic Materials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.7% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 3.4% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 37% vs sector strong cutoff 30% — strong pricing power; Operating margin 8% | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.5x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.0/10** | **100%** | **4.0** | | |

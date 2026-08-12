@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CPAY
-*Generated: 2026-08-11 05:15 | Price: $400.88 | Mkt Cap: $26B*
+*Generated: 2026-08-12 05:42 | Price: $406.16 | Mkt Cap: $27B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -11,7 +11,7 @@ Technology / Software - Infrastructure
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Software - Infrastructure | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 4.1x | 30% | -40% | YES |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 3.9%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,23 +20,23 @@ Technology / Software - Infrastructure
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 12.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 140% (strong); Gross margin: 80% (pricing power for Technology) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
-| Moat | 9.5/10 | 25% | 2.4 | Gross margin 80% vs sector strong cutoff 60% — strong pricing power; Operating margin 35% — durable for Technology; Rev growth 22% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; Near 52w high (97% of range) — Mr. Market greedy; Owner earnings yield: 6.9% (>5%) | - |
-| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
+| Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 12.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 140% (strong); Gross margin: 81% (pricing power for Technology) | - |
+| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 3.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.8% of shares (SBC concern) | - |
+| Moat | 9.5/10 | 25% | 2.4 | Gross margin 81% vs sector strong cutoff 60% — strong pricing power; Operating margin 47% — durable for Technology; Rev growth 22% — demand pull | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.0x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 7.3% (>5%) | - |
+| **TOTAL** | **7.7/10** | **100%** | **7.7** | | |
 
-## Buffett Score: 6.0 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 7.7 / 10
+## Alpha Adjustment: +0.27
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -37% — ABSENT ($401 > IV $251 at 15x for -7% growth)
+- **Margin of Safety**: -39% — ABSENT ($406 > IV $250 at 15x for -7% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 3.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.27 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

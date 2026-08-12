@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LYV
-*Generated: 2026-08-11 05:16 | Price: $184.64 | Mkt Cap: $43B*
+*Generated: 2026-08-12 05:43 | Price: $183.33 | Mkt Cap: $43B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,9 +21,9 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 12.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 45% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 224% (strong); Gross margin: 26% (below Communication Services norm) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 39.3% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 32.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 40.4% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 26% — below Communication Services moderate cutoff 40%; Operating margin 7% — thin for Communication Services | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 95.8x — extreme premium; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.9%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 95.1x — extreme premium; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 4.0%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
 
 ## Buffett Score: 4.4 / 10

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXR
-*Generated: 2026-08-12 05:42 | Price: $146.55 | Mkt Cap: $32B*
+*Generated: 2026-08-13 05:45 | Price: $146.76 | Mkt Cap: $32B*
 
 ## Sector Context
 Real Estate / REIT - Industrial
@@ -36,7 +36,7 @@ Real Estate / REIT - Industrial
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Industrial
-- **Margin of Safety**: -47% — ABSENT ($147 > IV $77 at 17x for 6% growth)
+- **Margin of Safety**: -48% — ABSENT ($147 > IV $77 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Neutral

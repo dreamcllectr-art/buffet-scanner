@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNP
-*Generated: 2026-08-13 05:44 | Price: $40.53 | Mkt Cap: $27B*
+*Generated: 2026-08-14 05:42 | Price: $40.48 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

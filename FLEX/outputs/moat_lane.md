@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FLEX
-*Generated: 2026-08-13 05:45 | Price: $124.53 | Mkt Cap: $46B*
+*Generated: 2026-08-14 05:43 | Price: $124.3 | Mkt Cap: $46B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -47% — ABSENT ($125 > IV $66 at 25x for 25% growth)
+- **Margin of Safety**: -48% — ABSENT ($124 > IV $65 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

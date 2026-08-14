@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TAP
-*Generated: 2026-08-13 05:46 | Price: $41.57 | Mkt Cap: $8B*
+*Generated: 2026-08-14 05:44 | Price: $42.12 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Dodge & Cox Inc. (10.6% inst.) as insider
 
@@ -25,7 +25,7 @@ Consumer Defensive / Beverages - Brewers
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 0.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 291% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: -68% (weak conversion); Gross margin: 37% | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 37% — moderate moat for Consumer Defensive; Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.4x — deep value; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 12.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 8.6x — deep value; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 11.9% (>5%) | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
 ## Buffett Score: 4.5 / 10

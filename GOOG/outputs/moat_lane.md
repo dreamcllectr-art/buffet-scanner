@@ -1,7 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-08-14 05:41 | Price: $343.94 | Mkt Cap: $4206B*
-
-> ⚠ DATA: yfinance misclassified Blackrock Inc. (6.7% inst.) as insider
+*Generated: 2026-08-15 04:37 | Price: $343.54 | Mkt Cap: $4201B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -14,7 +12,7 @@ Communication Services / Internet Content & Information
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.7x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.0%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -23,24 +21,24 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.5/10 | 30% | 2.9 | Avg ROIC: 24.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 61% (pricing power for Communication Services) | - |
-| Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.0% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: -92.3% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $4.0B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: -97.5% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 61% vs sector strong cutoff 55% — strong pricing power; Operating margin 34% — durable for Communication Services; Rev growth 24% — demand pull | - |
 | Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.3x — growth premium; 52w range position: 71%; Owner earnings yield: 0.5%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| **TOTAL** | **8.3/10** | **100%** | **8.3** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 8.3 / 10
+## Alpha Adjustment: +0.40
+## Conviction: HIGH
+## Verdict: Own Forever
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: 46% — PRESENT (IV $500 vs $344 at 25x)
+- **Margin of Safety**: 45% — PRESENT (IV $497 vs $344 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
-- **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
@@ -50,7 +48,7 @@ YES — 3 forces aligning: high quality, strong moat, secular growth
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.40 applied to composite alpha score
+Conviction Gate: HIGH — Proceed
+Half-life adjustment: None
 ```

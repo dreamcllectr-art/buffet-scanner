@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APO
-*Generated: 2026-08-15 04:37 | Price: $140.76 | Mkt Cap: $83B*
+*Generated: 2026-08-16 04:41 | Price: $140.76 | Mkt Cap: $83B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -12,7 +12,7 @@ Financial Services / Asset Management
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 26.0%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 25.8%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.9/10 | 30% | 1.2 | ROE: 11.4% (financials — book-return proxy); Earnings: 2/3 down-years (unpredictable (GAAP mark-to-market)); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 26.0% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.8% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 25.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 20.8% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | ROE 11% — adequate (Financial Services); Operating margin 22%; Rev growth 64% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.1x — deep value; 52w range position: 77% | - |
 | **TOTAL** | **6.9/10** | **100%** | **6.9** | | |
@@ -36,9 +36,9 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: -51% — ABSENT ($141 > IV $69 at 25x for 25% growth)
+- **Margin of Safety**: -50% — ABSENT ($141 > IV $70 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Aligned — 26.0% insider ownership
+- **Incentive-Caused Bias**: Aligned — 25.8% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

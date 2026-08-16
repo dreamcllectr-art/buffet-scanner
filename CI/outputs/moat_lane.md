@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CI
-*Generated: 2026-08-15 04:37 | Price: $282.56 | Mkt Cap: $75B*
+*Generated: 2026-08-16 04:41 | Price: $282.56 | Mkt Cap: $75B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: 74% — PRESENT (IV $492 vs $283 at 20x)
+- **Margin of Safety**: 71% — PRESENT (IV $484 vs $283 at 20x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.4% insider ownership
 - **Mr. Market**: Neutral

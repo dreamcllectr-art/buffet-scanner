@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PHM
-*Generated: 2026-08-15 04:39 | Price: $130.18 | Mkt Cap: N/A*
+*Generated: 2026-08-16 04:46 | Price: $130.18 | Mkt Cap: $25B*
 
 ## Sector Context
 Consumer Cyclical / Residential Construction
@@ -21,9 +21,9 @@ Consumer Cyclical / Residential Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 38% (stable); FCF/NI: 58%; Gross margin: 26% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 26% — below Consumer Cyclical moderate cutoff 30%; Operating margin 16% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 60% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; 52w range position: 60%; Owner earnings yield: 4.3% | - |
 | **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
 ## Buffett Score: 4.8 / 10

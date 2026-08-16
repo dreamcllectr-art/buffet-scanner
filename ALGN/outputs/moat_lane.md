@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-08-15 04:37 | Price: $181.31 | Mkt Cap: $13B*
+*Generated: 2026-08-16 04:41 | Price: $181.31 | Mkt Cap: $13B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.2% inst.) as insider
 
@@ -38,7 +38,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -52% — ABSENT ($181 > IV $86 at 15x for -12% growth)
+- **Margin of Safety**: -52% — ABSENT ($181 > IV $87 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PRU
-*Generated: 2026-08-15 04:39 | Price: $125.13 | Mkt Cap: $43B*
+*Generated: 2026-08-16 04:43 | Price: $125.13 | Mkt Cap: $43B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: 121% — PRESENT (IV $276 vs $125 at 25x)
+- **Margin of Safety**: 120% — PRESENT (IV $276 vs $125 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

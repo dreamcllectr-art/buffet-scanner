@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WST
-*Generated: 2026-08-15 04:43 | Price: $349.42 | Mkt Cap: $25B*
+*Generated: 2026-08-16 04:47 | Price: $349.42 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -55% — ABSENT ($349 > IV $156 at 20x for 18% growth)
+- **Margin of Safety**: -55% — ABSENT ($349 > IV $157 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

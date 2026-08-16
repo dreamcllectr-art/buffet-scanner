@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEM
-*Generated: 2026-08-15 04:39 | Price: $117.76 | Mkt Cap: $124B*
+*Generated: 2026-08-16 04:43 | Price: $117.76 | Mkt Cap: $124B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -36,7 +36,7 @@ Basic Materials / Gold
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Gold
-- **Margin of Safety**: 35% — PRESENT (IV $158 vs $118 at 20x)
+- **Margin of Safety**: 35% — PRESENT (IV $159 vs $118 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

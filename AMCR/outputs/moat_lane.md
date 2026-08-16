@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMCR
-*Generated: 2026-08-15 04:37 | Price: $46.03 | Mkt Cap: $21B*
+*Generated: 2026-08-16 04:41 | Price: $46.03 | Mkt Cap: $21B*
 
 ## Sector Context
 Consumer Cyclical / Packaging & Containers
@@ -21,7 +21,7 @@ Consumer Cyclical / Packaging & Containers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 117% (strong); Gross margin: 20% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.2% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 20% — below Consumer Cyclical moderate cutoff 30%; Operating margin 11%; Rev growth 26% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.1x — deep value; 52w range position: 67%; Owner earnings yield: 31.0% (>5%) | - |
 | **TOTAL** | **4.1/10** | **100%** | **4.1** | | |

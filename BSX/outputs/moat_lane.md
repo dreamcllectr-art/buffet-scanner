@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BSX
-*Generated: 2026-08-15 04:37 | Price: $51.83 | Mkt Cap: $75B*
+*Generated: 2026-08-16 04:41 | Price: $51.83 | Mkt Cap: $75B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -4% — ABSENT ($52 > IV $50 at 20x for 15% growth)
+- **Margin of Safety**: -5% — ABSENT ($52 > IV $49 at 20x for 15% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ELV
-*Generated: 2026-08-15 04:38 | Price: $400.32 | Mkt Cap: $87B*
+*Generated: 2026-08-16 04:42 | Price: $400.32 | Mkt Cap: $87B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -15% — ABSENT ($400 > IV $341 at 15x for -13% growth)
+- **Margin of Safety**: -15% — ABSENT ($400 > IV $339 at 15x for -13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

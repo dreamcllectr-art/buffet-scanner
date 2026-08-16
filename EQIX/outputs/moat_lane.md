@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQIX
-*Generated: 2026-08-15 04:38 | Price: $1102.1 | Mkt Cap: $109B*
+*Generated: 2026-08-16 04:42 | Price: $1102.1 | Mkt Cap: $109B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -64% — ABSENT ($1102 > IV $400 at 25x for 25% growth)
+- **Margin of Safety**: -65% — ABSENT ($1102 > IV $388 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

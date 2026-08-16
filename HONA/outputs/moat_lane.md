@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HONA
-*Generated: 2026-08-15 04:38 | Price: $166.36 | Mkt Cap: $53B*
+*Generated: 2026-08-16 04:42 | Price: $166.36 | Mkt Cap: $53B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -71% — ABSENT ($166 > IV $48 at 15x for -71% growth)
+- **Margin of Safety**: -70% — ABSENT ($166 > IV $49 at 15x for -71% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

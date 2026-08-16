@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PM
-*Generated: 2026-08-15 04:39 | Price: $190.39 | Mkt Cap: $297B*
+*Generated: 2026-08-16 04:43 | Price: $190.39 | Mkt Cap: $297B*
 
 ## Sector Context
 Consumer Defensive / Tobacco

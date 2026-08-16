@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-08-15 04:38 | Price: $490.81 | Mkt Cap: $317B*
+*Generated: 2026-08-16 04:42 | Price: $490.81 | Mkt Cap: $317B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.4% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -36% — ABSENT ($491 > IV $312 at 25x for 25% growth)
+- **Margin of Safety**: -36% — ABSENT ($491 > IV $314 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

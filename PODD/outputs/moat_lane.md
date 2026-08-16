@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PODD
-*Generated: 2026-08-15 04:38 | Price: $143.34 | Mkt Cap: $10B*
+*Generated: 2026-08-16 04:42 | Price: $143.34 | Mkt Cap: $10B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -9% — ABSENT ($143 > IV $130 at 25x for 25% growth)
+- **Margin of Safety**: -7% — ABSENT ($143 > IV $133 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

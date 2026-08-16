@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-08-15 04:39 | Price: $78.16 | Mkt Cap: $325B*
+*Generated: 2026-08-16 04:43 | Price: $78.16 | Mkt Cap: $325B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -19% — ABSENT ($78 > IV $63 at 20x for 11% growth)
+- **Margin of Safety**: -19% — ABSENT ($78 > IV $64 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

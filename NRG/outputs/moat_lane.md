@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NRG
-*Generated: 2026-08-15 04:39 | Price: $126.24 | Mkt Cap: $27B*
+*Generated: 2026-08-16 04:43 | Price: $126.24 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers
@@ -12,7 +12,7 @@ Utilities / Utilities - Independent Power Producers
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 7.2x | 30% | -40% | YES |
-| 3 | Management / Governance Failure | Insider ownership 4.4%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 4.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
 
@@ -21,7 +21,7 @@ Utilities / Utilities - Independent Power Producers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 9.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 117% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 167% (strong); Gross margin: 19% (below Utilities norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Utilities moderate cutoff 25%; Operating margin 13% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.5x — deep value; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 2.9% | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |
@@ -38,7 +38,7 @@ Utilities / Utilities - Independent Power Producers
 - **Circle of Competence**: Utilities / Utilities - Independent Power Producers
 - **Margin of Safety**: -39% — ABSENT ($126 > IV $77 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check

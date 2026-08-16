@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-08-15 04:37 | Price: $28.42 | Mkt Cap: $13B*
+*Generated: 2026-08-16 04:41 | Price: $28.42 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Wineries & Distilleries
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Wineries & Distilleries
-- **Margin of Safety**: -18% — ABSENT ($28 > IV $23 at 15x for -63% growth)
+- **Margin of Safety**: -19% — ABSENT ($28 > IV $23 at 15x for -63% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership
 - **Mr. Market**: Neutral

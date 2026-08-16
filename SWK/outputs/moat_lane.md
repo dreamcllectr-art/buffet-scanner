@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-08-15 04:42 | Price: $102.07 | Mkt Cap: $15B*
+*Generated: 2026-08-16 04:46 | Price: $102.07 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -36,7 +36,7 @@ Industrials / Tools & Accessories
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Tools & Accessories
-- **Margin of Safety**: -0% — ABSENT ($102 > IV $102 at 25x for 25% growth)
+- **Margin of Safety**: 0% — thin (IV $102 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

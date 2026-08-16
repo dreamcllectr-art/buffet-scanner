@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOXA
-*Generated: 2026-08-15 04:38 | Price: $69.04 | Mkt Cap: $29B*
+*Generated: 2026-08-16 04:42 | Price: $69.04 | Mkt Cap: $29B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -12% — ABSENT ($69 > IV $61 at 15x for 3% growth)
+- **Margin of Safety**: -17% — ABSENT ($69 > IV $58 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.3% insider ownership
 - **Mr. Market**: Neutral

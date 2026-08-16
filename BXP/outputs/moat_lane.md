@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BXP
-*Generated: 2026-08-15 04:37 | Price: $68.45 | Mkt Cap: $12B*
+*Generated: 2026-08-16 04:41 | Price: $68.45 | Mkt Cap: $12B*
 
 ## Sector Context
 Real Estate / REIT - Office
@@ -36,7 +36,7 @@ Real Estate / REIT - Office
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Office
-- **Margin of Safety**: -60% — ABSENT ($68 > IV $28 at 15x for -23% growth)
+- **Margin of Safety**: -59% — ABSENT ($68 > IV $28 at 15x for -23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

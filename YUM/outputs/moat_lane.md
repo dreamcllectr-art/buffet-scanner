@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: YUM
-*Generated: 2026-08-16 04:45 | Price: $148.11 | Mkt Cap: $40B*
+*Generated: 2026-08-17 04:54 | Price: $148.11 | Mkt Cap: $40B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants

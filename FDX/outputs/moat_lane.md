@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-08-16 04:42 | Price: $334.64 | Mkt Cap: $79B*
+*Generated: 2026-08-17 04:51 | Price: $334.64 | Mkt Cap: $79B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.8% inst.) as insider
 

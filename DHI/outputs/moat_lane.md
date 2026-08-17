@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-08-16 04:42 | Price: $148.81 | Mkt Cap: $42B*
+*Generated: 2026-08-17 04:50 | Price: $148.81 | Mkt Cap: $42B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -23,7 +23,7 @@ Consumer Cyclical / Residential Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.3/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 16.9% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 39% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 57%; Gross margin: 21% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.5% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.4% of shares (SBC concern) | - |
 | Moat | 5.0/10 | 25% | 1.2 | Gross margin 21% — below Consumer Cyclical moderate cutoff 30%; Operating margin 13% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; 52w range position: 32%; Owner earnings yield: 5.8% (>5%) | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

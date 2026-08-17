@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FIX
-*Generated: 2026-08-16 04:41 | Price: $1774.06 | Mkt Cap: $62B*
+*Generated: 2026-08-17 04:50 | Price: $1774.06 | Mkt Cap: $62B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -21,7 +21,7 @@ Industrials / Engineering & Construction
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 27.2% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 128% (strong); Gross margin: 26% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -2.1% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.1% (low); Insider activity: 0B/0S last 6m; Restricted stock: -2.2% (low) | - |
 | Moat | 6.0/10 | 25% | 1.5 | Gross margin 26% — moderate moat for Industrials; Operating margin 8% — thin for Industrials | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.5x — growth premium; 52w range position: 79%; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |

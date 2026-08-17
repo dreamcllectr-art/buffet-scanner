@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EME
-*Generated: 2026-08-16 04:42 | Price: $836.29 | Mkt Cap: $37B*
+*Generated: 2026-08-17 04:50 | Price: $836.29 | Mkt Cap: $37B*
 
 ## Sector Context
 Industrials / Engineering & Construction

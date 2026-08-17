@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FRT
-*Generated: 2026-08-16 04:42 | Price: $118.39 | Mkt Cap: $10B*
+*Generated: 2026-08-17 04:51 | Price: $118.39 | Mkt Cap: $10B*
 
 ## Sector Context
 Real Estate / REIT - Retail

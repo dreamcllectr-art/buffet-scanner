@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIIB
-*Generated: 2026-08-16 04:41 | Price: $209.83 | Mkt Cap: $31B*
+*Generated: 2026-08-17 04:50 | Price: $209.83 | Mkt Cap: $31B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,9 +21,9 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 113% (strong); Gross margin: 78% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% — durable for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.6x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.1% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 12.7x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 4.1% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10

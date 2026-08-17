@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PYPL
-*Generated: 2026-08-16 04:43 | Price: $61.66 | Mkt Cap: $53B*
+*Generated: 2026-08-17 04:52 | Price: $61.66 | Mkt Cap: $53B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -21,7 +21,7 @@ Financial Services / Credit Services
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.5/10 | 30% | 1.6 | ROE: 24.5% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 87% (severe cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 24% — strong franchise (Financial Services); Operating margin 17% — thin for Financial Services | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.6x — deep value; 52w range position: 57%; Owner earnings yield: 8.3% (>5%) | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |

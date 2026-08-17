@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWK
-*Generated: 2026-08-16 04:46 | Price: $102.07 | Mkt Cap: $15B*
+*Generated: 2026-08-17 04:55 | Price: $102.07 | Mkt Cap: $15B*
 
 ## Sector Context
 Industrials / Tools & Accessories
@@ -21,7 +21,7 @@ Industrials / Tools & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.9% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 129% from prior peak; 5y price drawdown: 69% (severe cyclicality); FCF/NI: -9% (weak conversion); Gross margin: 32% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 32% — moderate moat for Industrials; Operating margin 8% | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.0x — fair price; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 9.2% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.5/10** | **100%** | **4.5** | | |

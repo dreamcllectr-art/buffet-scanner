@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBH
-*Generated: 2026-08-16 04:45 | Price: $100.65 | Mkt Cap: $19B*
+*Generated: 2026-08-17 04:54 | Price: $100.65 | Mkt Cap: $19B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -21,7 +21,7 @@ Healthcare / Medical Devices
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 31% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 226% (strong); Gross margin: 70% (pricing power for Healthcare) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 70% vs sector strong cutoff 55% — strong pricing power; Operating margin 18% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.1x — deep value; 52w range position: 74%; Owner earnings yield: 5.7% (>5%) | - |
 | **TOTAL** | **5.6/10** | **100%** | **5.6** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APD
-*Generated: 2026-08-16 04:41 | Price: $308.97 | Mkt Cap: $69B*
+*Generated: 2026-08-17 04:49 | Price: $308.97 | Mkt Cap: $69B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -21,7 +21,7 @@ Basic Materials / Specialty Chemicals
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 8.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 110% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 206% (strong); Gross margin: 32% (pricing power for Basic Materials) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.9% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 32% vs sector strong cutoff 30% — strong pricing power; Operating margin 26% — durable for Basic Materials | - |
 | Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.4x — growth premium; Near 52w high (93% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |

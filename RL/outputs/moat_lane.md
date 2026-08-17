@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RL
-*Generated: 2026-08-16 04:46 | Price: $388.92 | Mkt Cap: $23B*
+*Generated: 2026-08-17 04:55 | Price: $388.92 | Mkt Cap: $23B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Manufacturing
@@ -21,7 +21,7 @@ Consumer Cyclical / Apparel Manufacturing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.2/10 | 30% | 2.8 | Avg ROIC: 19.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 37% (stable); FCF/NI: 97% (strong); Gross margin: 70% (pricing power for Consumer Cyclical) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.6% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 70% vs sector strong cutoff 45% — strong pricing power; Operating margin 18% — durable for Consumer Cyclical | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 18.6x — fair price; 52w range position: 76%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.1/10** | **100%** | **8.1** | | |

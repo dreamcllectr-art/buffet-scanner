@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ORCL
-*Generated: 2026-08-16 04:43 | Price: $150.52 | Mkt Cap: $434B*
+*Generated: 2026-08-17 04:52 | Price: $150.52 | Mkt Cap: $434B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,7 +21,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.3/10 | 30% | 1.3 | Avg ROIC: 11.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 65% (severe cyclicality); FCF/NI: 18% (weak conversion); Gross margin: 66% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 40.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 40.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 40.5% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 40.5% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 66% vs sector strong cutoff 60% — strong pricing power; Operating margin 36% — durable for Technology; Rev growth 21% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; Near 52w low (16% of range) — Mr. Market fearful | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |

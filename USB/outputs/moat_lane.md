@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: USB
-*Generated: 2026-08-16 04:47 | Price: $65.42 | Mkt Cap: $102B*
+*Generated: 2026-08-17 04:55 | Price: $65.42 | Mkt Cap: $102B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -21,7 +21,7 @@ Financial Services / Banks - Regional
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 5.2/10 | 30% | 1.6 | ROE: 12.6% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 52% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | ROE 13% — adequate (Financial Services); Operating margin 40% — durable for Financial Services | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.3x — deep value; Near 52w high (99% of range) — Mr. Market greedy | - |
 | **TOTAL** | **6.1/10** | **100%** | **6.1** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSX
-*Generated: 2026-08-16 04:43 | Price: $233.61 | Mkt Cap: $93B*
+*Generated: 2026-08-17 04:52 | Price: $233.61 | Mkt Cap: $93B*
 
 ## Sector Context
 Energy / Oil & Gas Refining & Marketing
@@ -21,7 +21,7 @@ Energy / Oil & Gas Refining & Marketing
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.9/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 14.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 81% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 81% (strong); Gross margin: 13% (below Energy norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 13% — below Energy moderate cutoff 15%; Operating margin 9%; Rev growth 53% — demand pull | - |
 | Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 11.1x — deep value; Near 52w high (98% of range) — Mr. Market greedy; Owner earnings yield: 4.9% | - |
 | **TOTAL** | **4.2/10** | **100%** | **4.2** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-08-16 04:46 | Price: $255.77 | Mkt Cap: $37B*
+*Generated: 2026-08-17 04:55 | Price: $255.77 | Mkt Cap: $37B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
@@ -23,7 +23,7 @@ Basic Materials / Steel
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.3/10 | 30% | 0.4 | ROIC declining trend; Avg ROIC: 20.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 69% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 52%; Gross margin: 15% (below Basic Materials norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.9% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.8% of shares (SBC concern) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 15% — below Basic Materials moderate cutoff 18%; Operating margin 11%; Rev growth 33% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.4x — deep value; 52w range position: 80%; Owner earnings yield: 0.6% | - |
 | **TOTAL** | **4.4/10** | **100%** | **4.4** | | |

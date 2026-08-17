@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-08-16 04:41 | Price: $198.82 | Mkt Cap: $251B*
+*Generated: 2026-08-17 04:49 | Price: $198.82 | Mkt Cap: $251B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -21,7 +21,7 @@ Technology / Computer Hardware
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.4/10 | 30% | 2.8 | Avg ROIC: 24.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 50% (moderate cyclicality); FCF/NI: 95% (strong); Gross margin: 63% (pricing power for Technology) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.9% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 17.2% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 16.8% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 63% vs sector strong cutoff 60% — strong pricing power; Operating margin 45% — durable for Technology; Rev growth 38% — demand pull | - |
 | Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 38.5x — expensive; 52w range position: 84%; Owner earnings yield: 1.6%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |

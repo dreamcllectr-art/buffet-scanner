@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADBE
-*Generated: 2026-08-16 04:40 | Price: $264.02 | Mkt Cap: $105B*
+*Generated: 2026-08-17 04:49 | Price: $264.02 | Mkt Cap: $105B*
 
 ## Sector Context
 Technology / Software - Application
@@ -21,7 +21,7 @@ Technology / Software - Application
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 30.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 72% (severe cyclicality); FCF/NI: 141% (strong); Gross margin: 89% (pricing power for Technology) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 89% vs sector strong cutoff 60% — strong pricing power; Operating margin 35% — durable for Technology | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.6x — deep value; 52w range position: 41%; Owner earnings yield: 8.8% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-08-16 04:47 | Price: $284.24 | Mkt Cap: $26B*
+*Generated: 2026-08-17 04:55 | Price: $284.24 | Mkt Cap: $26B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -21,7 +21,7 @@ Technology / Software - Infrastructure
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 365.8% (2y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: 115% (strong); Gross margin: 88% (pricing power for Technology) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.9% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 10.6% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 88% vs sector strong cutoff 60% — strong pricing power; Operating margin 68% — durable for Technology | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.9x — growth premium; 52w range position: 73%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **8.3/10** | **100%** | **8.3** | | |

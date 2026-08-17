@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RCL
-*Generated: 2026-08-16 04:46 | Price: $305.0 | Mkt Cap: $82B*
+*Generated: 2026-08-17 04:55 | Price: $305.0 | Mkt Cap: $82B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.7% inst.) as insider
 

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPE
-*Generated: 2026-08-16 04:42 | Price: $332.69 | Mkt Cap: $40B*
+*Generated: 2026-08-17 04:51 | Price: $332.69 | Mkt Cap: $40B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services

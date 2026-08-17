@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-08-16 04:46 | Price: $342.27 | Mkt Cap: $1352B*
+*Generated: 2026-08-17 04:55 | Price: $342.27 | Mkt Cap: $1352B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -21,7 +21,7 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $241B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.7% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $241B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 1% — thin for Consumer Cyclical; Rev growth 26% — demand pull | - |
 | Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 157.0x — extreme premium; Near 52w low (22% of range) — Mr. Market fearful; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |

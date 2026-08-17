@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NKE
-*Generated: 2026-08-16 04:43 | Price: $40.73 | Mkt Cap: $60B*
+*Generated: 2026-08-17 04:52 | Price: $40.73 | Mkt Cap: $60B*
 
 ## Sector Context
 Consumer Cyclical / Footwear & Accessories
@@ -21,7 +21,7 @@ Consumer Cyclical / Footwear & Accessories
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.8/10 | 30% | 0.2 | ROIC declining trend; Avg ROIC: 17.2% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 75% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 43% | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.3% (low) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.7% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.1% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 43% — moderate moat for Consumer Cyclical; Operating margin 13% — durable for Consumer Cyclical | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.7x — fair price; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |

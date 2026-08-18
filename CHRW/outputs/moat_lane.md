@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHRW
-*Generated: 2026-08-17 04:50 | Price: $148.57 | Mkt Cap: $17B*
+*Generated: 2026-08-18 04:41 | Price: $144.78 | Mkt Cap: $17B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -23,10 +23,10 @@ Industrials / Integrated Freight & Logistics
 | Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 20.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 65% from prior peak; 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 150% (strong); Gross margin: 8% (below Industrials norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 8% — below Industrials moderate cutoff 22%; Operating margin 5% — thin for Industrials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.8x — fair price; 52w range position: 31%; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 19.3x — fair price; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.7 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -12% — ABSENT ($149 > IV $131 at 25x for 24% growth)
+- **Margin of Safety**: -12% — ABSENT ($145 > IV $128 at 25x for 24% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

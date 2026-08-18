@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPE
-*Generated: 2026-08-17 04:51 | Price: $58.71 | Mkt Cap: $78B*
+*Generated: 2026-08-18 04:42 | Price: $57.61 | Mkt Cap: $76B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,20 +23,20 @@ Technology / Communication Equipment
 | Quality | 0.5/10 | 30% | 0.1 | ROIC declining trend; Avg ROIC: 4.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 98% from prior peak; 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 356% (strong); Gross margin: 34% (below Technology norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 34% — below Technology moderate cutoff 40%; Operating margin 9% — thin for Technology; Rev growth 40% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.5x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.0/10** | **100%** | **4.0** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 5.0% (>5%) | - |
+| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
 
-## Buffett Score: 4.0 / 10
-## Alpha Adjustment: -0.20
-## Conviction: AVOID
-## Verdict: Avoid
+## Buffett Score: 4.2 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -54% — ABSENT ($59 > IV $27 at 25x for 25% growth)
+- **Margin of Safety**: -54% — ABSENT ($58 > IV $26 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (2 forces only: attractive valuation, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.20 applied to composite alpha score
-Conviction Gate: AVOID — Do not initiate position
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
 Half-life adjustment: N/A
 ```

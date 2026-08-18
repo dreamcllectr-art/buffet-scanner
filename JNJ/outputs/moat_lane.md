@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JNJ
-*Generated: 2026-08-17 04:51 | Price: $260.35 | Mkt Cap: $627B*
+*Generated: 2026-08-18 04:43 | Price: $262.37 | Mkt Cap: $632B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - General
 | Quality | 6.9/10 | 30% | 2.1 | Avg ROIC: 14.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 60% from prior peak; 5y price drawdown: 18% (stable); FCF/NI: 87% (strong); Gross margin: 68% (pricing power for Healthcare) | - |
 | Management | 4.5/10 | 25% | 1.1 | Insider ownership: 0.1% — low for mega-cap; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 55% — strong pricing power; Operating margin 29% — durable for Healthcare | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.2x — growth premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 21.3x — growth premium; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -50% — ABSENT ($260 > IV $129 at 15x for -1% growth)
+- **Margin of Safety**: -50% — ABSENT ($262 > IV $130 at 15x for -1% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

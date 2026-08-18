@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-08-17 04:55 | Price: $121.39 | Mkt Cap: $13B*
+*Generated: 2026-08-18 04:46 | Price: $117.83 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -400% (weak conversion); Gross margin: 34% | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 18% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.3x — deep value; 52w range position: 84%; Owner earnings yield: 7.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 75%; Owner earnings yield: 8.0% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

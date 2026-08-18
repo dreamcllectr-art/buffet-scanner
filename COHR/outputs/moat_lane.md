@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COHR
-*Generated: 2026-08-17 04:50 | Price: $325.83 | Mkt Cap: $64B*
+*Generated: 2026-08-18 04:41 | Price: $351.22 | Mkt Cap: $69B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -20,14 +20,14 @@ Technology / Scientific & Technical Instruments
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.3% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 211% from prior peak; 5y price drawdown: 63% (severe cyclicality); FCF/NI: 57%; Gross margin: 37% (below Technology norm) | ROIC declining |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Quality | 1.5/10 | 30% | 0.4 | Avg ROIC: 2.3% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 63% (severe cyclicality); FCF/NI: 15% (weak conversion); Gross margin: 37% (below Technology norm) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.4% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 37% — below Technology moderate cutoff 40%; Operating margin 12% — thin for Technology; Rev growth 34% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.4x — growth premium; 52w range position: 68%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 75%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.9 / 10
+## Alpha Adjustment: -0.21
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -68% — ABSENT ($326 > IV $103 at 25x for 25% growth)
+- **Margin of Safety**: -68% — ABSENT ($351 > IV $111 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 4.4% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.21 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

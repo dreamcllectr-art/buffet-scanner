@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BKR
-*Generated: 2026-08-17 04:50 | Price: $64.82 | Mkt Cap: $64B*
+*Generated: 2026-08-18 04:41 | Price: $64.9 | Mkt Cap: $64B*
 
 ## Sector Context
 Energy / Oil & Gas Equipment & Services
@@ -23,7 +23,7 @@ Energy / Oil & Gas Equipment & Services
 | Quality | 2.1/10 | 30% | 0.6 | Avg ROIC: 8.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 47% (moderate cyclicality); FCF/NI: 28% (weak conversion); Gross margin: 24% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 24% — moderate moat for Energy; Operating margin 13% | - |
-| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 20.5x — growth premium; 52w range position: 80%; Owner earnings yield: 6.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.0/10 | 20% | 1.4 | P/E 20.3x — growth premium; 52w range position: 80%; Owner earnings yield: 6.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10

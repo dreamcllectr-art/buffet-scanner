@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KHC
-*Generated: 2026-08-17 04:51 | Price: $25.51 | Mkt Cap: $30B*
+*Generated: 2026-08-18 04:43 | Price: $24.75 | Mkt Cap: $29B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 1.5% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 305% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 54%; Gross margin: 33% | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 27.8% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 27.8% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 33% — moderate moat for Consumer Defensive; Operating margin 15% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; 52w range position: 63%; Owner earnings yield: 10.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.8x — deep value; 52w range position: 53%; Owner earnings yield: 11.1% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

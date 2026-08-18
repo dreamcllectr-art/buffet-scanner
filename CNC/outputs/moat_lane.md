@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CNC
-*Generated: 2026-08-17 04:50 | Price: $67.47 | Mkt Cap: $33B*
+*Generated: 2026-08-18 04:41 | Price: $64.41 | Mkt Cap: $32B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -21,9 +21,9 @@ Healthcare / Healthcare Plans
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 2.2% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 302% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 157% (strong); Gross margin: 11% (below Healthcare norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.1% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.2% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 28.9% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.1x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 30.3% (>5%) | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

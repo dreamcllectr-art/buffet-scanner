@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INCY
-*Generated: 2026-08-18 04:43 | Price: $123.5 | Mkt Cap: $25B*
+*Generated: 2026-08-19 04:44 | Price: $123.47 | Mkt Cap: $25B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: 59% — PRESENT (IV $196 vs $124 at 25x)
+- **Margin of Safety**: 59% — PRESENT (IV $196 vs $123 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

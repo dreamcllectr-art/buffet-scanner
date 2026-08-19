@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: META
-*Generated: 2026-08-18 04:43 | Price: $568.97 | Mkt Cap: $1449B*
+*Generated: 2026-08-19 04:44 | Price: $543.67 | Mkt Cap: $1385B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -21,9 +21,9 @@ Communication Services / Internet Content & Information
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.1/10 | 30% | 2.1 | Avg ROIC: 22.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 77% (severe cyclicality); FCF/NI: 90% (strong); Gross margin: 82% (pricing power for Communication Services) | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.1B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $2.0B (0.1%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 82% vs sector strong cutoff 55% — strong pricing power; Operating margin 35% — durable for Communication Services; Rev growth 28% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 16.3x — fair price; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 1.5%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 15.6x — fair price; Near 52w low (9% of range) — Mr. Market fearful; Owner earnings yield: 1.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.4/10** | **100%** | **8.4** | | |
 
 ## Buffett Score: 8.4 / 10
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -33% — ABSENT ($569 > IV $384 at 15x for -13% growth)
+- **Margin of Safety**: -27% — ABSENT ($544 > IV $399 at 15x for -13% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

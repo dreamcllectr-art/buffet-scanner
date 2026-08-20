@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCHP
-*Generated: 2026-08-19 04:44 | Price: $78.19 | Mkt Cap: $42B*
+*Generated: 2026-08-20 04:45 | Price: $77.08 | Mkt Cap: $42B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,10 +20,10 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -38441% (weak conversion); Gross margin: 60% (pricing power for Technology) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 100% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: -38441% (weak conversion); Gross margin: 60% (pricing power for Technology) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | Gross margin 60% vs sector strong cutoff 60% — strong pricing power; Operating margin 24%; Rev growth 38% — demand pull | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.1x — fair price; 52w range position: 52%; Owner earnings yield: 3.2%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 16.9x — fair price; 52w range position: 50%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |
 
 ## Buffett Score: 5.2 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -78% — ABSENT ($78 > IV $17 at 25x for 25% growth)
+- **Margin of Safety**: -78% — ABSENT ($77 > IV $17 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MGM
-*Generated: 2026-08-19 04:44 | Price: $43.32 | Mkt Cap: $11B*
+*Generated: 2026-08-20 04:45 | Price: $43.22 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos
@@ -36,7 +36,7 @@ Consumer Cyclical / Resorts & Casinos
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Resorts & Casinos
-- **Margin of Safety**: -6% — ABSENT ($43 > IV $41 at 25x for 25% growth)
+- **Margin of Safety**: -5% — ABSENT ($43 > IV $41 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 27.9% insider ownership
 - **Mr. Market**: Neutral

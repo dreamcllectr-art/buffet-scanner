@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MOS
-*Generated: 2026-08-19 04:44 | Price: $21.14 | Mkt Cap: $7B*
+*Generated: 2026-08-20 04:45 | Price: $22.23 | Mkt Cap: $7B*
 
 ## Sector Context
 Basic Materials / Agricultural Inputs
@@ -23,7 +23,7 @@ Basic Materials / Agricultural Inputs
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 95% from prior peak; 5y price drawdown: 72% (severe cyclicality); FCF/NI: 22% (weak conversion); Gross margin: 11% (below Basic Materials norm) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.3% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 11% — below Basic Materials moderate cutoff 18%; Operating margin -0% — thin for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w low (8% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.2x — deep value; Near 52w low (14% of range) — Mr. Market fearful | - |
 | **TOTAL** | **3.8/10** | **100%** | **3.8** | | |
 
 ## Buffett Score: 3.8 / 10

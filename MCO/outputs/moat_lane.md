@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-08-19 04:44 | Price: $485.79 | Mkt Cap: $84B*
+*Generated: 2026-08-20 04:45 | Price: $497.03 | Mkt Cap: $86B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -20,14 +20,14 @@ Financial Services / Financial Data & Stock Exchanges
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 7.5/10 | 30% | 2.2 | ROE: 76.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 42% (moderate cyclicality); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
+| Quality | 8.0/10 | 30% | 2.4 | ROE: 76.9% (financials — book-return proxy); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 14.4% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 77% — strong franchise (Financial Services); Operating margin 49% — durable for Financial Services | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.7x — growth premium; 52w range position: 58%; Owner earnings yield: 3.1%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.3x — growth premium; 52w range position: 66%; Owner earnings yield: 3.0%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
-## Buffett Score: 7.6 / 10
-## Alpha Adjustment: +0.26
+## Buffett Score: 7.8 / 10
+## Alpha Adjustment: +0.28
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,19 +36,19 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -19% — ABSENT ($486 > IV $394 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: strong moat)
+- **Margin of Safety**: -19% — ABSENT ($497 > IV $403 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 14.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: strong moat)
+No (2 forces only: high quality, strong moat)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.26 applied to composite alpha score
+Buffett Premium: +0.28 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ZBRA
-*Generated: 2026-08-19 04:46 | Price: $366.42 | Mkt Cap: $17B*
+*Generated: 2026-08-20 04:48 | Price: $354.65 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,10 +23,10 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 36% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 109% (strong); Gross margin: 50% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 50% — moderate moat for Technology; Operating margin 21%; Rev growth 20% — demand pull | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 16.5x — fair price; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.2/10** | **100%** | **4.2** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.9x — fair price; 52w range position: 83%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.5/10** | **100%** | **4.5** | | |
 
-## Buffett Score: 4.2 / 10
+## Buffett Score: 4.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,13 +36,13 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -27% — ABSENT ($366 > IV $269 at 25x for 25% growth)
-- **Lollapalooza Effect**: No (1 forces only: secular growth)
+- **Margin of Safety**: -25% — ABSENT ($355 > IV $264 at 25x for 25% growth)
+- **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (1 forces only: secular growth)
+No (2 forces only: attractive valuation, secular growth)
 
 ---
 

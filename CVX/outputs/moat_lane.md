@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-08-19 04:42 | Price: $205.74 | Mkt Cap: $404B*
+*Generated: 2026-08-20 04:42 | Price: $205.76 | Mkt Cap: $404B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -20,7 +20,7 @@ Energy / Oil & Gas Integrated
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 105% (strong); Gross margin: 44% (pricing power for Energy) | ROIC declining |
+| Quality | 2.5/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 13.7% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 65% from prior peak; 5y price drawdown: 25% (stable); FCF/NI: 105% (strong); Gross margin: 44% (pricing power for Energy) | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 44% vs sector strong cutoff 30% — strong pricing power; Operating margin 22% — durable for Energy; Rev growth 54% — demand pull | - |
 | Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |

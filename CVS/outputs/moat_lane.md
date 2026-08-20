@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVS
-*Generated: 2026-08-19 04:43 | Price: $94.91 | Mkt Cap: $121B*
+*Generated: 2026-08-20 04:43 | Price: $93.65 | Mkt Cap: $120B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -23,7 +23,7 @@ Healthcare / Healthcare Plans
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 5.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 79% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 254% (strong); Gross margin: 14% (below Healthcare norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 14% — below Healthcare moderate cutoff 35%; Operating margin 4% — thin for Healthcare | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.2x — deep value; 52w range position: 62%; Owner earnings yield: 6.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.0x — deep value; 52w range position: 59%; Owner earnings yield: 6.7% (>5%) | - |
 | **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
 
 ## Buffett Score: 3.9 / 10
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -0% — ABSENT ($95 > IV $95 at 25x for 25% growth)
+- **Margin of Safety**: -0% — ABSENT ($94 > IV $94 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

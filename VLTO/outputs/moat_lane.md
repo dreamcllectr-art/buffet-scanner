@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLTO
-*Generated: 2026-08-19 04:46 | Price: $96.07 | Mkt Cap: $23B*
+*Generated: 2026-08-20 04:48 | Price: $100.1 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Pollution & Treatment Controls
@@ -23,7 +23,7 @@ Industrials / Pollution & Treatment Controls
 | Quality | 4.5/10 | 30% | 1.3 | ROIC declining trend; Avg ROIC: 21.8% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 27% (stable); FCF/NI: 103% (strong); Gross margin: 60% (pricing power for Industrials) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 60% vs sector strong cutoff 35% — strong pricing power; Operating margin 21% — durable for Industrials | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.1x — growth premium; 52w range position: 53%; Owner earnings yield: 3.4%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 67%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Industrials / Pollution & Treatment Controls
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Pollution & Treatment Controls
-- **Margin of Safety**: -17% — ABSENT ($96 > IV $79 at 20x for 10% growth)
+- **Margin of Safety**: -17% — ABSENT ($100 > IV $83 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

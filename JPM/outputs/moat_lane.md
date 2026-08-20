@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-08-19 04:44 | Price: $363.25 | Mkt Cap: $966B*
+*Generated: 2026-08-20 04:44 | Price: $357.26 | Mkt Cap: $950B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -21,9 +21,9 @@ Financial Services / Banks - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | ROE: 17.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.8B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.7B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 18% — strong franchise (Financial Services); Operating margin 50% — durable for Financial Services; Rev growth 30% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.5x — deep value; Near 52w high (96% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.3x — deep value; Near 52w high (89% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 62% — PRESENT (IV $588 vs $363 at 25x)
+- **Margin of Safety**: 61% — PRESENT (IV $574 vs $357 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

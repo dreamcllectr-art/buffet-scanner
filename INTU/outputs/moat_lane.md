@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: INTU
-*Generated: 2026-08-20 04:44 | Price: $362.47 | Mkt Cap: $99B*
+*Generated: 2026-08-21 04:47 | Price: $361.87 | Mkt Cap: $99B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -6% — ABSENT ($362 > IV $339 at 20x for 11% growth)
+- **Margin of Safety**: -10% — ABSENT ($362 > IV $327 at 20x for 11% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

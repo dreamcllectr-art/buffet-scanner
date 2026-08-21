@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KEYS
-*Generated: 2026-08-20 04:44 | Price: $319.45 | Mkt Cap: $54B*
+*Generated: 2026-08-21 04:47 | Price: $316.51 | Mkt Cap: $54B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -11,7 +11,7 @@ Technology / Scientific & Technical Instruments
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Scientific & Technical Instruments | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.9x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.5x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,10 +20,10 @@ Technology / Scientific & Technical Instruments
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 124% (strong); Gross margin: 62% (pricing power for Technology) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
-| Moat | 8.5/10 | 25% | 2.1 | Gross margin 62% vs sector strong cutoff 60% — strong pricing power; Operating margin 19%; Rev growth 32% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.4x — growth premium; 52w range position: 75%; Owner earnings yield: 2.0%; Earnings yield < 7% — tight vs index | - |
+| Quality | 2.3/10 | 30% | 0.7 | ROIC declining trend; Avg ROIC: 14.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 45% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 124% (strong); Gross margin: 65% (pricing power for Technology) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
+| Moat | 8.5/10 | 25% | 2.1 | Gross margin 65% vs sector strong cutoff 60% — strong pricing power; Operating margin 25%; Rev growth 36% — demand pull | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 23.2x — growth premium; 52w range position: 73%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Technology / Scientific & Technical Instruments
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Scientific & Technical Instruments
-- **Margin of Safety**: -46% — ABSENT ($319 > IV $173 at 25x for 25% growth)
+- **Margin of Safety**: -42% — ABSENT ($317 > IV $183 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

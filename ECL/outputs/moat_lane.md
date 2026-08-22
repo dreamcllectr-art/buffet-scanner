@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECL
-*Generated: 2026-08-21 04:46 | Price: $281.48 | Mkt Cap: $79B*
+*Generated: 2026-08-22 04:39 | Price: $281.63 | Mkt Cap: $79B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals
@@ -36,7 +36,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -61% — ABSENT ($281 > IV $110 at 15x for 3% growth)
+- **Margin of Safety**: -60% — ABSENT ($282 > IV $112 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

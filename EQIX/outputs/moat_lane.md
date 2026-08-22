@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQIX
-*Generated: 2026-08-21 04:46 | Price: $1082.61 | Mkt Cap: $107B*
+*Generated: 2026-08-22 04:39 | Price: $1065.39 | Mkt Cap: $105B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -21,13 +21,13 @@ Real Estate / REIT - Specialty
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 4.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 34% (weak conversion); Gross margin: 52% | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.4% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 52% — moderate moat for Real Estate; Operating margin 27% | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 57.9x — extreme premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 3.5%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **3.3/10** | **100%** | **3.3** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 57.0x — extreme premium; 52w range position: 84%; Owner earnings yield: 3.6%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.5/10** | **100%** | **3.5** | | |
 
-## Buffett Score: 3.3 / 10
-## Alpha Adjustment: -0.25
+## Buffett Score: 3.5 / 10
+## Alpha Adjustment: -0.24
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -36,10 +36,10 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -64% — ABSENT ($1083 > IV $390 at 25x for 25% growth)
+- **Margin of Safety**: -64% — ABSENT ($1065 > IV $384 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (0 forces only: none)
@@ -48,7 +48,7 @@ No (0 forces only: none)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.25 applied to composite alpha score
+Buffett Premium: -0.24 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

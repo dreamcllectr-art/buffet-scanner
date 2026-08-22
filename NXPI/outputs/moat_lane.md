@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXPI
-*Generated: 2026-08-21 04:48 | Price: $222.97 | Mkt Cap: $56B*
+*Generated: 2026-08-22 04:40 | Price: $225.56 | Mkt Cap: $57B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -23,7 +23,7 @@ Technology / Semiconductors
 | Quality | 1.6/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 94% (strong); Gross margin: 56% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 56% — moderate moat for Technology; Operating margin 30% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.3x — deep value; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.5x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 6.3% (>5%) | - |
 | **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
 ## Buffett Score: 5.4 / 10
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -44% — ABSENT ($223 > IV $124 at 25x for 25% growth)
+- **Margin of Safety**: 31% — PRESENT (IV $296 vs $226 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

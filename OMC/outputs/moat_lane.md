@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-08-21 04:48 | Price: $87.07 | Mkt Cap: $24B*
+*Generated: 2026-08-22 04:40 | Price: $87.54 | Mkt Cap: $25B*
 
 ## Sector Context
 Communication Services / Advertising Agencies
@@ -21,9 +21,9 @@ Communication Services / Advertising Agencies
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 1.8/10 | 30% | 0.5 | ROIC declining trend; Avg ROIC: 14.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 104% from prior peak; 5y price drawdown: 33% (stable); FCF/NI: -1212% (weak conversion); Gross margin: 19% (below Communication Services norm) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.9% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 4.7% (low) | - |
 | Moat | 4.5/10 | 25% | 1.1 | Gross margin 19% — below Communication Services moderate cutoff 40%; Operating margin 15%; Rev growth 63% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.2x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 17.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.3x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 17.1% (>5%) | - |
 | **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
 ## Buffett Score: 4.7 / 10
@@ -36,7 +36,7 @@ Communication Services / Advertising Agencies
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Advertising Agencies
-- **Margin of Safety**: -89% — ABSENT ($87 > IV $9 at 25x for 25% growth)
+- **Margin of Safety**: -89% — ABSENT ($88 > IV $9 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

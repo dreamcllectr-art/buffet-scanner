@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-08-21 04:47 | Price: $356.6 | Mkt Cap: $93B*
+*Generated: 2026-08-22 04:40 | Price: $356.39 | Mkt Cap: $93B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -36,7 +36,7 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -60% — ABSENT ($357 > IV $143 at 15x for 4% growth)
+- **Margin of Safety**: -59% — ABSENT ($356 > IV $145 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.1% insider ownership
 - **Mr. Market**: Neutral

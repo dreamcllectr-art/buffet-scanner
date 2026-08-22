@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-08-21 04:50 | Price: $103.84 | Mkt Cap: $826B*
+*Generated: 2026-08-22 04:44 | Price: $103.7 | Mkt Cap: $825B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -11,7 +11,7 @@ Consumer Defensive / Discount Stores
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 44.9%; key-man / succession risk | 8% | -15% | No |
 
 ---
@@ -21,9 +21,9 @@ Consumer Defensive / Discount Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 83% (strong); Gross margin: 25% (thin by design for Discount Stores) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $371B (44.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.0% of shares (SBC concern) | - |
-| Moat | 7.5/10 | 25% | 1.9 | ROA 7% / ROE 24% — scale moat (Discount Stores); Operating margin 4% — thin for Consumer Defensive | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 31.7x — expensive; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $370B (44.9%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.1% of shares (SBC concern) | - |
+| Moat | 7.5/10 | 25% | 1.9 | ROA 7% / ROE 22% — scale moat (Discount Stores); Operating margin 5% — thin for Consumer Defensive | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.2x — expensive; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 1.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -50% — ABSENT ($104 > IV $52 at 20x for 19% growth)
+- **Margin of Safety**: -60% — ABSENT ($104 > IV $41 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 44.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

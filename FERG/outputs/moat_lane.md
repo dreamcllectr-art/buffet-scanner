@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FERG
-*Generated: 2026-08-21 04:46 | Price: $239.44 | Mkt Cap: $46B*
+*Generated: 2026-08-22 04:39 | Price: $242.24 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -23,7 +23,7 @@ Industrials / Industrial Distribution
 | Quality | 3.2/10 | 30% | 1.0 | ROIC declining trend; Avg ROIC: 23.1% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 84% (strong); Gross margin: 31% | ROIC declining |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 31% — moderate moat for Industrials; Operating margin 10% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.0x — fair price; 52w range position: 50%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.3x — fair price; 52w range position: 54%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -29% — ABSENT ($239 > IV $170 at 17x for 7% growth)
+- **Margin of Safety**: -28% — ABSENT ($242 > IV $175 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

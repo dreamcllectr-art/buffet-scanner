@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPG
-*Generated: 2026-08-22 04:41 | Price: $218.29 | Mkt Cap: $83B*
+*Generated: 2026-08-23 04:48 | Price: $218.29 | Mkt Cap: $83B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -36,7 +36,7 @@ Real Estate / REIT - Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Retail
-- **Margin of Safety**: -3% — ABSENT ($218 > IV $211 at 15x for -12% growth)
+- **Margin of Safety**: -3% — ABSENT ($218 > IV $213 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

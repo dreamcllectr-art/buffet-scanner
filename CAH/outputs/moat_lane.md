@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CAH
-*Generated: 2026-08-22 04:39 | Price: $229.51 | Mkt Cap: $53B*
+*Generated: 2026-08-23 04:43 | Price: $229.51 | Mkt Cap: $53B*
 
 ## Sector Context
 Healthcare / Medical Distribution
@@ -12,7 +12,7 @@ Healthcare / Medical Distribution
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.4x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Healthcare / Medical Distribution
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 26.9% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 21% (stable); FCF/NI: 230% (strong); Gross margin: 4% (below Healthcare norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 4% — below Healthcare moderate cutoff 35%; Operating margin 1% — thin for Healthcare | - |
 | Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.3x — fair price; 52w range position: 74%; Owner earnings yield: 8.9% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
@@ -38,7 +38,7 @@ Healthcare / Medical Distribution
 - **Circle of Competence**: Healthcare / Medical Distribution
 - **Margin of Safety**: -21% — ABSENT ($230 > IV $181 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HD
-*Generated: 2026-08-22 04:40 | Price: $335.61 | Mkt Cap: $335B*
+*Generated: 2026-08-23 04:44 | Price: $335.61 | Mkt Cap: N/A*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail
@@ -21,9 +21,9 @@ Consumer Cyclical / Home Improvement Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 33.4% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 35% (stable); FCF/NI: 96% (strong); Gross margin: 33% (thin by design for Home Improvement Retail) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROA 13% / ROE 104% — scale moat (Home Improvement Retail); Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 34%; Owner earnings yield: 3.3%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.9x — growth premium; 52w range position: 34%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.7/10** | **100%** | **5.7** | | |
 
 ## Buffett Score: 5.7 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Home Improvement Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Home Improvement Retail
-- **Margin of Safety**: -36% — ABSENT ($336 > IV $215 at 15x for 5% growth)
+- **Margin of Safety**: -36% — ABSENT ($336 > IV $214 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

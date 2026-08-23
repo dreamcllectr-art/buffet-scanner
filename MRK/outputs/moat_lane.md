@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MRK
-*Generated: 2026-08-22 04:40 | Price: $152.55 | Mkt Cap: $376B*
+*Generated: 2026-08-23 04:45 | Price: $152.55 | Mkt Cap: $376B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -86% — ABSENT ($153 > IV $22 at 17x for 5% growth)
+- **Margin of Safety**: -86% — ABSENT ($153 > IV $21 at 17x for 5% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

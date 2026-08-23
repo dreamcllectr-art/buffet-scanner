@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HST
-*Generated: 2026-08-22 04:40 | Price: $23.21 | Mkt Cap: $16B*
+*Generated: 2026-08-23 04:44 | Price: $23.21 | Mkt Cap: $16B*
 
 ## Sector Context
 Real Estate / REIT - Hotel & Motel
@@ -36,7 +36,7 @@ Real Estate / REIT - Hotel & Motel
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Hotel & Motel
-- **Margin of Safety**: 10% — thin (IV $26 at 17x)
+- **Margin of Safety**: 9% — thin (IV $25 at 17x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.5% insider ownership
 - **Mr. Market**: Neutral

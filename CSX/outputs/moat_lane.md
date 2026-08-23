@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSX
-*Generated: 2026-08-22 04:39 | Price: $51.59 | Mkt Cap: $96B*
+*Generated: 2026-08-23 04:43 | Price: $51.59 | Mkt Cap: $96B*
 
 ## Sector Context
 Industrials / Railroads
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -16% — ABSENT ($52 > IV $44 at 25x for 23% growth)
+- **Margin of Safety**: -17% — ABSENT ($52 > IV $43 at 25x for 23% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

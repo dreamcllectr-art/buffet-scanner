@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AWK
-*Generated: 2026-08-22 04:38 | Price: $135.39 | Mkt Cap: $27B*
+*Generated: 2026-08-23 04:42 | Price: $135.39 | Mkt Cap: $27B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Water
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Water
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Water
-- **Margin of Safety**: -28% — ABSENT ($135 > IV $97 at 17x for 9% growth)
+- **Margin of Safety**: -28% — ABSENT ($135 > IV $98 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

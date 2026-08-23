@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: URI
-*Generated: 2026-08-22 04:43 | Price: $1098.51 | Mkt Cap: $68B*
+*Generated: 2026-08-23 04:48 | Price: $1098.51 | Mkt Cap: $68B*
 
 ## Sector Context
 Industrials / Rental & Leasing Services
@@ -36,7 +36,7 @@ Industrials / Rental & Leasing Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Rental & Leasing Services
-- **Margin of Safety**: -5% — ABSENT ($1099 > IV $1044 at 25x for 25% growth)
+- **Margin of Safety**: -6% — ABSENT ($1099 > IV $1038 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

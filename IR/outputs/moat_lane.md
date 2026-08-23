@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IR
-*Generated: 2026-08-22 04:40 | Price: $80.51 | Mkt Cap: $31B*
+*Generated: 2026-08-23 04:44 | Price: $80.51 | Mkt Cap: $31B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -48% — ABSENT ($81 > IV $42 at 17x for 8% growth)
+- **Margin of Safety**: -49% — ABSENT ($81 > IV $41 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

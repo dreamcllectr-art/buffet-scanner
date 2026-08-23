@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ATO
-*Generated: 2026-08-22 04:39 | Price: $166.85 | Mkt Cap: $28B*
+*Generated: 2026-08-23 04:43 | Price: $166.85 | Mkt Cap: $28B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Gas
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Gas
-- **Margin of Safety**: 23% — thin (IV $205 at 25x)
+- **Margin of Safety**: 26% — thin (IV $210 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

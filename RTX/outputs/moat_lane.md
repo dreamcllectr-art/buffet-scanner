@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RTX
-*Generated: 2026-08-22 04:41 | Price: $209.91 | Mkt Cap: $283B*
+*Generated: 2026-08-23 04:48 | Price: $209.91 | Mkt Cap: $283B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -36,7 +36,7 @@ Industrials / Aerospace & Defense
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Aerospace & Defense
-- **Margin of Safety**: -33% — ABSENT ($210 > IV $141 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($210 > IV $142 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

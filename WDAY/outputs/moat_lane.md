@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WDAY
-*Generated: 2026-08-22 04:44 | Price: $200.01 | Mkt Cap: $49B*
+*Generated: 2026-08-23 04:49 | Price: $200.01 | Mkt Cap: $49B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -59% — ABSENT ($200 > IV $82 at 25x for 25% growth)
+- **Margin of Safety**: -60% — ABSENT ($200 > IV $80 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GDDY
-*Generated: 2026-08-22 04:40 | Price: $97.07 | Mkt Cap: $12B*
+*Generated: 2026-08-23 04:44 | Price: $97.07 | Mkt Cap: $12B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: 71% — PRESENT (IV $166 vs $97 at 25x)
+- **Margin of Safety**: 73% — PRESENT (IV $168 vs $97 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral

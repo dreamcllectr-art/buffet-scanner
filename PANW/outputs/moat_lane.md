@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-08-22 04:41 | Price: $357.87 | Mkt Cap: $292B*
+*Generated: 2026-08-23 04:45 | Price: $357.87 | Mkt Cap: $292B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -92% — ABSENT ($358 > IV $30 at 25x for 25% growth)
+- **Margin of Safety**: -92% — ABSENT ($358 > IV $29 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

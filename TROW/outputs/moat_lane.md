@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TROW
-*Generated: 2026-08-22 04:43 | Price: $111.51 | Mkt Cap: $24B*
+*Generated: 2026-08-23 04:48 | Price: $111.51 | Mkt Cap: $24B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 122% — PRESENT (IV $248 vs $112 at 25x)
+- **Margin of Safety**: 123% — PRESENT (IV $249 vs $112 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.7% insider ownership
 - **Mr. Market**: Neutral

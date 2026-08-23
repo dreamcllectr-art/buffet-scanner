@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SHW
-*Generated: 2026-08-22 04:41 | Price: $346.59 | Mkt Cap: $84B*
+*Generated: 2026-08-23 04:48 | Price: $346.59 | Mkt Cap: $84B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.3% inst.) as insider
 
@@ -38,7 +38,7 @@ Basic Materials / Specialty Chemicals
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Specialty Chemicals
-- **Margin of Safety**: -38% — ABSENT ($347 > IV $216 at 20x for 14% growth)
+- **Margin of Safety**: -37% — ABSENT ($347 > IV $217 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

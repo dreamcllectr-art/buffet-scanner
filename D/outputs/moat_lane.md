@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: D
-*Generated: 2026-08-22 04:39 | Price: $66.6 | Mkt Cap: $59B*
+*Generated: 2026-08-23 04:43 | Price: $66.6 | Mkt Cap: $59B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric
@@ -36,7 +36,7 @@ Utilities / Utilities - Regulated Electric
 ## Mental Models Applied
 
 - **Circle of Competence**: Utilities / Utilities - Regulated Electric
-- **Margin of Safety**: -36% — ABSENT ($67 > IV $43 at 15x for -58% growth)
+- **Margin of Safety**: -35% — ABSENT ($67 > IV $43 at 15x for -58% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

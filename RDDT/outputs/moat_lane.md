@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RDDT
-*Generated: 2026-08-22 04:41 | Price: $153.29 | Mkt Cap: $29B*
+*Generated: 2026-08-23 04:48 | Price: $153.29 | Mkt Cap: $29B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: -29% — ABSENT ($153 > IV $110 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($153 > IV $108 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

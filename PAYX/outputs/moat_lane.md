@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PAYX
-*Generated: 2026-08-22 04:41 | Price: $124.475 | Mkt Cap: $44B*
+*Generated: 2026-08-23 04:45 | Price: $124.475 | Mkt Cap: $44B*
 
 > ⚠ DATA: yfinance misclassified Capital International Investors (8.1% inst.) as insider
 
@@ -38,7 +38,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -1% — ABSENT ($124 > IV $124 at 25x for 25% growth)
+- **Margin of Safety**: -2% — ABSENT ($124 > IV $122 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

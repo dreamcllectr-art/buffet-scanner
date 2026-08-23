@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: USB
-*Generated: 2026-08-22 04:43 | Price: $62.05 | Mkt Cap: $97B*
+*Generated: 2026-08-23 04:48 | Price: $62.05 | Mkt Cap: $97B*
 
 ## Sector Context
 Financial Services / Banks - Regional
@@ -36,7 +36,7 @@ Financial Services / Banks - Regional
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Regional
-- **Margin of Safety**: 103% — PRESENT (IV $126 vs $62 at 25x)
+- **Margin of Safety**: 102% — PRESENT (IV $125 vs $62 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

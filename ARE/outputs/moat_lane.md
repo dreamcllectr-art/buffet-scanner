@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ARE
-*Generated: 2026-08-22 04:38 | Price: $53.49 | Mkt Cap: $9B*
+*Generated: 2026-08-23 04:42 | Price: $53.49 | Mkt Cap: $9B*
 
 ## Sector Context
 Real Estate / REIT - Office

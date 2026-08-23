@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRSN
-*Generated: 2026-08-22 04:43 | Price: $281.8 | Mkt Cap: $25B*
+*Generated: 2026-08-23 04:49 | Price: $281.8 | Mkt Cap: $25B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -43% — ABSENT ($282 > IV $159 at 17x for 8% growth)
+- **Margin of Safety**: -44% — ABSENT ($282 > IV $157 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 10.6% insider ownership
 - **Mr. Market**: Neutral

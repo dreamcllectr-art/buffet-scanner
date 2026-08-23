@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HRL
-*Generated: 2026-08-22 04:40 | Price: $23.88 | Mkt Cap: $13B*
+*Generated: 2026-08-23 04:44 | Price: $23.88 | Mkt Cap: N/A*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -21,13 +21,13 @@ Consumer Defensive / Packaged Foods
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 7.8% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 52% from prior peak; 5y price drawdown: 58% (severe cyclicality); FCF/NI: 105% (strong); Gross margin: 16% (below Consumer Defensive norm) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 47.2% of shares (SBC concern) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 16% — below Consumer Defensive moderate cutoff 30%; Operating margin 11% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 44%; Owner earnings yield: 3.6%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.3x — fair price; 52w range position: 44%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
-## Buffett Score: 3.6 / 10
-## Alpha Adjustment: -0.23
+## Buffett Score: 3.7 / 10
+## Alpha Adjustment: -0.22
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.23 applied to composite alpha score
+Buffett Premium: -0.22 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

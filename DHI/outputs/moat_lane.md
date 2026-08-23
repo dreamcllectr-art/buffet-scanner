@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-08-22 04:39 | Price: $148.35 | Mkt Cap: $41B*
+*Generated: 2026-08-23 04:44 | Price: $148.35 | Mkt Cap: $41B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Residential Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Residential Construction
-- **Margin of Safety**: 7% — thin (IV $158 at 15x)
+- **Margin of Safety**: 6% — thin (IV $157 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

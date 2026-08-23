@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WAB
-*Generated: 2026-08-22 04:44 | Price: $297.57 | Mkt Cap: $50B*
+*Generated: 2026-08-23 04:49 | Price: $297.57 | Mkt Cap: $50B*
 
 ## Sector Context
 Industrials / Railroads
@@ -36,7 +36,7 @@ Industrials / Railroads
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Railroads
-- **Margin of Safety**: -49% — ABSENT ($298 > IV $151 at 20x for 19% growth)
+- **Margin of Safety**: -50% — ABSENT ($298 > IV $149 at 20x for 19% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

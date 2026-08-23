@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KVUE
-*Generated: 2026-08-22 04:40 | Price: $19.06 | Mkt Cap: $37B*
+*Generated: 2026-08-23 04:44 | Price: $19.06 | Mkt Cap: $37B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -23% — ABSENT ($19 > IV $15 at 17x for 8% growth)
+- **Margin of Safety**: -24% — ABSENT ($19 > IV $14 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

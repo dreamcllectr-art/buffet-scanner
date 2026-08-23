@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EXPD
-*Generated: 2026-08-22 04:39 | Price: $187.81 | Mkt Cap: $24B*
+*Generated: 2026-08-23 04:44 | Price: $187.81 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Integrated Freight & Logistics
@@ -36,7 +36,7 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -8% — ABSENT ($188 > IV $173 at 25x for 25% growth)
+- **Margin of Safety**: -9% — ABSENT ($188 > IV $172 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Greedy — exercise caution

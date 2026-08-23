@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KDP
-*Generated: 2026-08-22 04:40 | Price: $32.04 | Mkt Cap: $44B*
+*Generated: 2026-08-23 04:44 | Price: $32.04 | Mkt Cap: $44B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -53% — ABSENT ($32 > IV $15 at 15x for -90% growth)
+- **Margin of Safety**: -54% — ABSENT ($32 > IV $15 at 15x for -90% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 5.0% insider ownership
 - **Mr. Market**: Neutral

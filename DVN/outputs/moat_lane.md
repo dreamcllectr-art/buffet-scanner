@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DVN
-*Generated: 2026-08-22 04:39 | Price: $49.1 | Mkt Cap: $54B*
+*Generated: 2026-08-23 04:43 | Price: $49.1 | Mkt Cap: $54B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 133% — PRESENT (IV $114 vs $49 at 25x)
+- **Margin of Safety**: 134% — PRESENT (IV $115 vs $49 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

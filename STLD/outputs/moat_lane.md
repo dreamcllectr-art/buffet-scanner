@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-08-22 04:43 | Price: $228.68 | Mkt Cap: $33B*
+*Generated: 2026-08-23 04:48 | Price: $228.68 | Mkt Cap: $33B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 
@@ -38,7 +38,7 @@ Basic Materials / Steel
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Steel
-- **Margin of Safety**: 26% — thin (IV $288 at 25x)
+- **Margin of Safety**: 20% — thin (IV $276 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

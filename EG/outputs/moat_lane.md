@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EG
-*Generated: 2026-08-22 04:39 | Price: $370.06 | Mkt Cap: $14B*
+*Generated: 2026-08-23 04:44 | Price: $370.06 | Mkt Cap: $14B*
 
 ## Sector Context
 Financial Services / Insurance - Reinsurance
@@ -36,7 +36,7 @@ Financial Services / Insurance - Reinsurance
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Reinsurance
-- **Margin of Safety**: 93% — PRESENT (IV $713 vs $370 at 15x)
+- **Margin of Safety**: 92% — PRESENT (IV $710 vs $370 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Neutral

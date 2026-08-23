@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: REGN
-*Generated: 2026-08-22 04:41 | Price: $834.04 | Mkt Cap: $86B*
+*Generated: 2026-08-23 04:48 | Price: $834.04 | Mkt Cap: $86B*
 
 ## Sector Context
 Healthcare / Biotechnology
@@ -36,7 +36,7 @@ Healthcare / Biotechnology
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Biotechnology
-- **Margin of Safety**: -27% — ABSENT ($834 > IV $612 at 15x for -4% growth)
+- **Margin of Safety**: -27% — ABSENT ($834 > IV $607 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

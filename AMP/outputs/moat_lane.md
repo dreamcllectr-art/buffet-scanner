@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMP
-*Generated: 2026-08-23 04:42 | Price: $555.59 | Mkt Cap: $49B*
+*Generated: 2026-08-24 04:51 | Price: $555.59 | Mkt Cap: $49B*
 
 ## Sector Context
 Financial Services / Asset Management

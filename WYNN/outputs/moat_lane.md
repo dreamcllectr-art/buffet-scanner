@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WYNN
-*Generated: 2026-08-23 04:49 | Price: $100.28 | Mkt Cap: $10B*
+*Generated: 2026-08-24 04:58 | Price: $100.28 | Mkt Cap: $10B*
 
 ## Sector Context
 Consumer Cyclical / Resorts & Casinos

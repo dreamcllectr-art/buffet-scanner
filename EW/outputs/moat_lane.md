@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EW
-*Generated: 2026-08-23 04:44 | Price: $89.79 | Mkt Cap: $52B*
+*Generated: 2026-08-24 04:53 | Price: $89.79 | Mkt Cap: $52B*
 
 ## Sector Context
 Healthcare / Medical Devices

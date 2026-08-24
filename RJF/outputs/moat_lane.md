@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RJF
-*Generated: 2026-08-23 04:48 | Price: $175.2 | Mkt Cap: $34B*
+*Generated: 2026-08-24 04:55 | Price: $175.2 | Mkt Cap: $34B*
 
 ## Sector Context
 Financial Services / Asset Management

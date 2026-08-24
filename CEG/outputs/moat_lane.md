@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CEG
-*Generated: 2026-08-23 04:43 | Price: $272.88 | Mkt Cap: $97B*
+*Generated: 2026-08-24 04:52 | Price: $272.88 | Mkt Cap: $97B*
 
 ## Sector Context
 Utilities / Utilities - Independent Power Producers

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTNT
-*Generated: 2026-08-23 04:44 | Price: $153.51 | Mkt Cap: $113B*
+*Generated: 2026-08-24 04:53 | Price: $153.51 | Mkt Cap: $113B*
 
 ## Sector Context
 Technology / Software - Infrastructure

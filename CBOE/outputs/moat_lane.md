@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CBOE
-*Generated: 2026-08-23 04:43 | Price: $300.74 | Mkt Cap: $31B*
+*Generated: 2026-08-24 04:52 | Price: $300.74 | Mkt Cap: $31B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges

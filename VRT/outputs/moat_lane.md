@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRT
-*Generated: 2026-08-23 04:49 | Price: $261.95 | Mkt Cap: $101B*
+*Generated: 2026-08-24 04:58 | Price: $261.95 | Mkt Cap: $101B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -21,7 +21,7 @@ Industrials / Electrical Equipment & Parts
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 12.8% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 71% (severe cyclicality); FCF/NI: 48% (weak conversion); Gross margin: 38% (pricing power for Industrials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.7% (low) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 38% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials; Rev growth 24% — demand pull | - |
 | Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.8x — growth premium; 52w range position: 55%; Owner earnings yield: 2.7%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.9/10** | **100%** | **5.9** | | |

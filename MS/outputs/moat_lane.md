@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-08-23 04:45 | Price: $214.2 | Mkt Cap: $336B*
+*Generated: 2026-08-24 04:54 | Price: $214.2 | Mkt Cap: $336B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.9% inst.) as insider
 

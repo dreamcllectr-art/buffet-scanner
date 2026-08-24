@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EQT
-*Generated: 2026-08-23 04:44 | Price: $53.72 | Mkt Cap: $34B*
+*Generated: 2026-08-24 04:53 | Price: $53.72 | Mkt Cap: $34B*
 
 ## Sector Context
 Energy / Oil & Gas E&P

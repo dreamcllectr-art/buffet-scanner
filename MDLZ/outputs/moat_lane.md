@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDLZ
-*Generated: 2026-08-24 04:54 | Price: $64.45 | Mkt Cap: $82B*
+*Generated: 2026-08-25 04:48 | Price: $64.7 | Mkt Cap: $83B*
 
 ## Sector Context
 Consumer Defensive / Confectioners
@@ -23,7 +23,7 @@ Consumer Defensive / Confectioners
 | Quality | 1.7/10 | 30% | 0.5 | Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 29% (stable); FCF/NI: 98% (strong); Gross margin: 31% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 31% — moderate moat for Consumer Defensive; Operating margin 22% — durable for Consumer Defensive | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 19.2x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

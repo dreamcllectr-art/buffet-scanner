@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PYPL
-*Generated: 2026-08-24 04:55 | Price: $61.55 | Mkt Cap: $53B*
+*Generated: 2026-08-25 04:48 | Price: $61.68 | Mkt Cap: $53B*
 
 ## Sector Context
 Financial Services / Credit Services
@@ -36,7 +36,7 @@ Financial Services / Credit Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Credit Services
-- **Margin of Safety**: 29% — thin (IV $79 at 15x)
+- **Margin of Safety**: 29% — thin (IV $80 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

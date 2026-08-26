@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CHD
-*Generated: 2026-08-25 04:45 | Price: $102.53 | Mkt Cap: $24B*
+*Generated: 2026-08-26 04:46 | Price: $102.56 | Mkt Cap: $24B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -36,7 +36,7 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -46% — ABSENT ($103 > IV $55 at 17x for 9% growth)
+- **Margin of Safety**: -48% — ABSENT ($103 > IV $53 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

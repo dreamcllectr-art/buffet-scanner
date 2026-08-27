@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DELL
-*Generated: 2026-08-26 04:47 | Price: $451.5 | Mkt Cap: $292B*
+*Generated: 2026-08-27 15:06 | Price: $467.67 | Mkt Cap: $302B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.4% inst.) as insider
 
@@ -25,10 +25,10 @@ Technology / Computer Hardware
 | Quality | 6.2/10 | 30% | 1.9 | Avg ROIC: 19.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 60% (severe cyclicality); FCF/NI: 96% (strong); Gross margin: 19% (below Technology norm) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.9% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Technology moderate cutoff 40%; Operating margin 9% — thin for Technology; Rev growth 88% — demand pull | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.3x — growth premium; 52w range position: 85%; Owner earnings yield: 1.9%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 20.9x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **4.7/10** | **100%** | **4.7** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 4.7 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -28% — ABSENT ($452 > IV $327 at 25x for 25% growth)
+- **Margin of Safety**: -33% — ABSENT ($468 > IV $314 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)

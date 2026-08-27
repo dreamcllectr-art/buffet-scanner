@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-08-26 04:50 | Price: $130.12 | Mkt Cap: $26B*
+*Generated: 2026-08-27 15:11 | Price: $125.415 | Mkt Cap: $25B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods
@@ -12,7 +12,7 @@ Consumer Cyclical / Luxury Goods
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.3%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.4%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,9 +21,9 @@ Consumer Cyclical / Luxury Goods
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 77% (pricing power for Consumer Cyclical) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 45% — strong pricing power; Operating margin 20% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.7x — deep value; 52w range position: 52%; Owner earnings yield: 5.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.1x — deep value; 52w range position: 45%; Owner earnings yield: 5.6% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,9 +36,9 @@ Consumer Cyclical / Luxury Goods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Luxury Goods
-- **Margin of Safety**: -6% — ABSENT ($130 > IV $122 at 17x for 9% growth)
+- **Margin of Safety**: -1% — ABSENT ($125 > IV $124 at 17x for 9% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
-- **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

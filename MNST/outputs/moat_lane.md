@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MNST
-*Generated: 2026-08-26 04:49 | Price: $48.73 | Mkt Cap: $95B*
+*Generated: 2026-08-27 15:08 | Price: $46.78 | Mkt Cap: $92B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -23,11 +23,11 @@ Consumer Defensive / Beverages - Non-Alcoholic
 | Quality | 7.9/10 | 30% | 2.4 | Avg ROIC: 21.0% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 54% (moderate cyclicality); FCF/NI: 89% (strong); Gross margin: 56% (pricing power for Consumer Defensive) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 28.3% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 28.3% of shares (SBC concern) | - |
 | Moat | 9.5/10 | 25% | 2.4 | Gross margin 56% vs sector strong cutoff 45% — strong pricing power; Operating margin 29% — durable for Consumer Defensive; Rev growth 20% — demand pull | - |
-| Valuation Fit | 2.5/10 | 20% | 0.5 | P/E 37.2x — expensive; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **7.4/10** | **100%** | **7.4** | | |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 35.7x — expensive; 52w range position: 82%; Owner earnings yield: 1.8%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **7.6/10** | **100%** | **7.6** | | |
 
-## Buffett Score: 7.4 / 10
-## Alpha Adjustment: +0.24
+## Buffett Score: 7.6 / 10
+## Alpha Adjustment: +0.26
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,10 +36,10 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: -56% — ABSENT ($49 > IV $22 at 20x for 18% growth)
+- **Margin of Safety**: -54% — ABSENT ($47 > IV $22 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 28.3% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.24 applied to composite alpha score
+Buffett Premium: +0.26 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

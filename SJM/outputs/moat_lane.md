@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SJM
-*Generated: 2026-08-26 04:50 | Price: $125.45 | Mkt Cap: $13B*
+*Generated: 2026-08-27 15:09 | Price: $132.615 | Mkt Cap: $14B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -11,7 +11,7 @@ Consumer Defensive / Packaged Foods
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.7x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.8x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 2.3%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,10 +20,10 @@ Consumer Defensive / Packaged Foods
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -400% (weak conversion); Gross margin: 34% | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.4% (low) | - |
-| Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 18% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 11.6x — deep value; Near 52w high (94% of range) — Mr. Market greedy; Owner earnings yield: 7.5% (>5%) | - |
+| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 1.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 265% from prior peak; 5y price drawdown: 38% (stable); FCF/NI: -400% (weak conversion); Gross margin: 39% | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.3% (low); Insider activity: 0B/0S last 6m; Restricted stock: 2.2% (low) | - |
+| Moat | 7.5/10 | 25% | 1.9 | Gross margin 39% — moderate moat for Consumer Defensive; Operating margin 23% — durable for Consumer Defensive | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.2x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 11.0% (>5%) | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Packaged Foods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Packaged Foods
-- **Margin of Safety**: Cannot calculate (no positive EPS)
+- **Margin of Safety**: -76% — ABSENT ($133 > IV $32 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

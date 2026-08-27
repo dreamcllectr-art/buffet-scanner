@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ERIE
-*Generated: 2026-08-26 04:47 | Price: $257.98 | Mkt Cap: $13B*
+*Generated: 2026-08-27 15:07 | Price: $258.11 | Mkt Cap: $13B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -38% — ABSENT ($258 > IV $159 at 15x for 3% growth)
+- **Margin of Safety**: -36% — ABSENT ($258 > IV $165 at 15x for 3% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 45.5% insider ownership
 - **Mr. Market**: Neutral

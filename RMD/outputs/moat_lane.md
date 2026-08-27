@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RMD
-*Generated: 2026-08-26 04:49 | Price: $236.59 | Mkt Cap: $34B*
+*Generated: 2026-08-27 15:09 | Price: $236.575 | Mkt Cap: $34B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies
@@ -36,7 +36,7 @@ Healthcare / Medical Instruments & Supplies
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Instruments & Supplies
-- **Margin of Safety**: -33% — ABSENT ($237 > IV $159 at 15x for 2% growth)
+- **Margin of Safety**: -34% — ABSENT ($237 > IV $157 at 15x for 2% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

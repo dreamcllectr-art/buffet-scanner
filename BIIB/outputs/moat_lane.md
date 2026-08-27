@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIIB
-*Generated: 2026-08-26 04:46 | Price: $220.77 | Mkt Cap: $33B*
+*Generated: 2026-08-27 15:05 | Price: $221.145 | Mkt Cap: $33B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -61% — ABSENT ($221 > IV $86 at 15x for -85% growth)
+- **Margin of Safety**: -62% — ABSENT ($221 > IV $85 at 15x for -85% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

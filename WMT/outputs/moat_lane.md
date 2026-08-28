@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-08-27 15:12 | Price: $102.75 | Mkt Cap: $818B*
+*Generated: 2026-08-28 16:35 | Price: $102.8308 | Mkt Cap: $818B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -60% — ABSENT ($103 > IV $42 at 15x for -9% growth)
+- **Margin of Safety**: -60% — ABSENT ($103 > IV $41 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 44.9% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

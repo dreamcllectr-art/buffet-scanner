@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STLD
-*Generated: 2026-08-27 15:09 | Price: $233.36 | Mkt Cap: $33B*
+*Generated: 2026-08-28 16:34 | Price: $233.37 | Mkt Cap: $33B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.6% inst.) as insider
 

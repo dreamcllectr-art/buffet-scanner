@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GPN
-*Generated: 2026-08-27 15:07 | Price: $92.44 | Mkt Cap: $24B*
+*Generated: 2026-08-28 16:31 | Price: $92.43 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Specialty Business Services
@@ -36,7 +36,7 @@ Industrials / Specialty Business Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Business Services
-- **Margin of Safety**: -66% — ABSENT ($92 > IV $31 at 15x for -95% growth)
+- **Margin of Safety**: -66% — ABSENT ($92 > IV $32 at 15x for -95% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

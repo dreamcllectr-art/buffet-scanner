@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HUM
-*Generated: 2026-08-27 15:07 | Price: $390.675 | Mkt Cap: $47B*
+*Generated: 2026-08-28 16:32 | Price: $390.7 | Mkt Cap: $47B*
 
 ## Sector Context
 Healthcare / Healthcare Plans
@@ -36,7 +36,7 @@ Healthcare / Healthcare Plans
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Healthcare Plans
-- **Margin of Safety**: -32% — ABSENT ($391 > IV $265 at 25x for 25% growth)
+- **Margin of Safety**: -32% — ABSENT ($391 > IV $264 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FANG
-*Generated: 2026-08-27 15:06 | Price: $197.9 | Mkt Cap: $55B*
+*Generated: 2026-08-28 16:30 | Price: $197.75 | Mkt Cap: $55B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: -34% — ABSENT ($198 > IV $132 at 25x for 25% growth)
+- **Margin of Safety**: -34% — ABSENT ($198 > IV $131 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Aligned — 27.1% insider ownership
 - **Mr. Market**: Neutral

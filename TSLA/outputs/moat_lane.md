@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TSLA
-*Generated: 2026-08-27 15:11 | Price: $352.82 | Mkt Cap: $1393B*
+*Generated: 2026-08-28 16:34 | Price: $347.285 | Mkt Cap: $1372B*
 
 ## Sector Context
 Consumer Cyclical / Auto Manufacturers
@@ -21,9 +21,9 @@ Consumer Cyclical / Auto Manufacturers
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 12.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 75% from prior peak; 5y price drawdown: 74% (severe cyclicality); FCF/NI: 76%; Gross margin: 19% (below Consumer Cyclical norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $248B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $244B (17.8%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 28.6% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 19% — below Consumer Cyclical moderate cutoff 30%; Operating margin 1% — thin for Consumer Cyclical; Rev growth 26% — demand pull | - |
-| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 163.5x — extreme premium; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.0/10 | 20% | 0.6 | P/E 160.9x — extreme premium; Near 52w low (25% of range) — Mr. Market fearful; Owner earnings yield: 0.4%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **3.7/10** | **100%** | **3.7** | | |
 
 ## Buffett Score: 3.7 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Manufacturers
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Manufacturers
-- **Margin of Safety**: -95% — ABSENT ($353 > IV $16 at 15x for -3% growth)
+- **Margin of Safety**: -95% — ABSENT ($347 > IV $16 at 15x for -3% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Aligned — 17.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

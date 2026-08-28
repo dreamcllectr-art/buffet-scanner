@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: OMC
-*Generated: 2026-08-27 15:08 | Price: $88.35 | Mkt Cap: $24B*
+*Generated: 2026-08-28 16:33 | Price: $88.365 | Mkt Cap: $24B*
 
 ## Sector Context
 Communication Services / Advertising Agencies

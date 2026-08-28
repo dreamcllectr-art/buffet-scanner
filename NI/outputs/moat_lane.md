@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NI
-*Generated: 2026-08-27 15:08 | Price: $40.86 | Mkt Cap: $20B*
+*Generated: 2026-08-28 16:33 | Price: $40.7811 | Mkt Cap: $20B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Gas

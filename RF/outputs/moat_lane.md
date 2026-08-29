@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: RF
-*Generated: 2026-08-28 16:33 | Price: $30.325 | Mkt Cap: $26B*
+*Generated: 2026-08-29 11:02 | Price: $30.33 | Mkt Cap: $26B*
 
 ## Sector Context
 Financial Services / Banks - Regional

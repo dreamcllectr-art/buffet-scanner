@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ALGN
-*Generated: 2026-08-28 16:29 | Price: $157.53 | Mkt Cap: $11B*
+*Generated: 2026-08-29 10:57 | Price: $157.58 | Mkt Cap: $11B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (6.2% inst.) as insider
 

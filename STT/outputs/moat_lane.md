@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: STT
-*Generated: 2026-08-28 16:34 | Price: $193.305 | Mkt Cap: $53B*
+*Generated: 2026-08-29 11:03 | Price: $193.33 | Mkt Cap: $53B*
 
 ## Sector Context
 Financial Services / Asset Management

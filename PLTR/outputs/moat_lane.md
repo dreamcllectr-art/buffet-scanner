@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PLTR
-*Generated: 2026-08-29 10:59 | Price: $186.29 | Mkt Cap: $448B*
+*Generated: 2026-08-30 09:54 | Price: $186.29 | Mkt Cap: $448B*
 
 ## Sector Context
 Technology / Software - Infrastructure

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NWSA
-*Generated: 2026-08-29 10:59 | Price: $30.97 | Mkt Cap: $17B*
+*Generated: 2026-08-30 09:54 | Price: $30.97 | Mkt Cap: $17B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -50% — ABSENT ($31 > IV $15 at 15x for -75% growth)
+- **Margin of Safety**: -51% — ABSENT ($31 > IV $15 at 15x for -75% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Greedy — exercise caution

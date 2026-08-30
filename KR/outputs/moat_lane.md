@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KR
-*Generated: 2026-08-29 10:59 | Price: $57.72 | Mkt Cap: $35B*
+*Generated: 2026-08-30 09:53 | Price: $57.72 | Mkt Cap: $35B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Defensive / Grocery Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Grocery Stores
-- **Margin of Safety**: -41% — ABSENT ($58 > IV $34 at 20x for 13% growth)
+- **Margin of Safety**: -40% — ABSENT ($58 > IV $35 at 20x for 13% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

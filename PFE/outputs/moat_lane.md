@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFE
-*Generated: 2026-08-29 11:00 | Price: $27.96 | Mkt Cap: $159B*
+*Generated: 2026-08-30 09:54 | Price: $27.96 | Mkt Cap: $159B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General

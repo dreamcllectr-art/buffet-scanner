@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DAL
-*Generated: 2026-08-29 10:58 | Price: $80.07 | Mkt Cap: $53B*
+*Generated: 2026-08-30 09:52 | Price: $80.07 | Mkt Cap: $53B*
 
 ## Sector Context
 Industrials / Airlines
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 13% — thin (IV $90 at 15x)
+- **Margin of Safety**: 11% — thin (IV $89 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 9.2% insider ownership
 - **Mr. Market**: Neutral

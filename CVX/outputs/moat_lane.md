@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CVX
-*Generated: 2026-08-29 10:57 | Price: $201.86 | Mkt Cap: $396B*
+*Generated: 2026-08-30 09:52 | Price: $201.86 | Mkt Cap: $396B*
 
 ## Sector Context
 Energy / Oil & Gas Integrated
@@ -36,7 +36,7 @@ Energy / Oil & Gas Integrated
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas Integrated
-- **Margin of Safety**: 29% — thin (IV $260 at 25x)
+- **Margin of Safety**: 30% — PRESENT (IV $262 vs $202 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 4.8% insider ownership
 - **Mr. Market**: Neutral

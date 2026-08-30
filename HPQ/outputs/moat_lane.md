@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HPQ
-*Generated: 2026-08-29 10:59 | Price: $30.52 | Mkt Cap: $28B*
+*Generated: 2026-08-30 09:53 | Price: $30.52 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 29% — thin (IV $39 at 15x)
+- **Margin of Safety**: 33% — PRESENT (IV $40 vs $31 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

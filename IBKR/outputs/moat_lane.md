@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBKR
-*Generated: 2026-08-29 10:59 | Price: $95.84 | Mkt Cap: $163B*
+*Generated: 2026-08-30 09:53 | Price: $95.84 | Mkt Cap: $163B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -34% — ABSENT ($96 > IV $63 at 25x for 25% growth)
+- **Margin of Safety**: -35% — ABSENT ($96 > IV $62 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Greedy — exercise caution

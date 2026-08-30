@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SNDK
-*Generated: 2026-08-29 11:02 | Price: $1484.98 | Mkt Cap: $217B*
+*Generated: 2026-08-30 09:57 | Price: $1484.98 | Mkt Cap: $217B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +12,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.0x | 5% | -10% | No |
-| 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 15% | -20% | No |
+| 3 | Management / Governance Failure | Insider ownership 1.0%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 

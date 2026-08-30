@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLT
-*Generated: 2026-08-29 10:58 | Price: $321.85 | Mkt Cap: $72B*
+*Generated: 2026-08-30 09:53 | Price: $321.85 | Mkt Cap: $72B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -36,7 +36,7 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -58% — ABSENT ($322 > IV $136 at 20x for 14% growth)
+- **Margin of Safety**: -58% — ABSENT ($322 > IV $135 at 20x for 14% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 2.2% insider ownership
 - **Mr. Market**: Neutral

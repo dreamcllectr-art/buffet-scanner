@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ACN
-*Generated: 2026-08-29 10:57 | Price: $189.61 | Mkt Cap: $116B*
+*Generated: 2026-08-30 09:51 | Price: $189.61 | Mkt Cap: $116B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: 12% — thin (IV $213 at 17x)
+- **Margin of Safety**: 14% — thin (IV $215 at 17x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

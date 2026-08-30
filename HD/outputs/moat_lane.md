@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HD
-*Generated: 2026-08-29 10:58 | Price: $330.19 | Mkt Cap: $329B*
+*Generated: 2026-08-30 09:53 | Price: $330.19 | Mkt Cap: $329B*
 
 ## Sector Context
 Consumer Cyclical / Home Improvement Retail
@@ -36,7 +36,7 @@ Consumer Cyclical / Home Improvement Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Home Improvement Retail
-- **Margin of Safety**: -35% — ABSENT ($330 > IV $214 at 15x for 5% growth)
+- **Margin of Safety**: -35% — ABSENT ($330 > IV $215 at 15x for 5% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

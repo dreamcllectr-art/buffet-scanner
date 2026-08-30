@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DASH
-*Generated: 2026-08-29 10:58 | Price: $236.74 | Mkt Cap: $103B*
+*Generated: 2026-08-30 09:52 | Price: $236.74 | Mkt Cap: $103B*
 
 ## Sector Context
 Consumer Cyclical / Internet Retail
@@ -12,7 +12,7 @@ Consumer Cyclical / Internet Retail
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.3x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 0.7%; key-man / succession risk | 20% | -30% | YES |
+| 3 | Management / Governance Failure | Insider ownership 0.6%; key-man / succession risk | 20% | -30% | YES |
 
 ---
 
@@ -21,7 +21,7 @@ Consumer Cyclical / Internet Retail
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.5/10 | 30% | 1.3 | Avg ROIC: -3.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 82% (severe cyclicality); FCF/NI: 354% (strong); Gross margin: 52% (pricing power for Consumer Cyclical) | - |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.6% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 52% vs sector strong cutoff 45% — strong pricing power; Operating margin 4% — thin for Consumer Cyclical; Rev growth 36% — demand pull | - |
 | Valuation Fit | 6.5/10 | 20% | 1.3 | P/E 29.1x — growth premium; 52w range position: 66%; Owner earnings yield: 5.0% (>5%); Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
@@ -36,9 +36,9 @@ Consumer Cyclical / Internet Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Internet Retail
-- **Margin of Safety**: -88% — ABSENT ($237 > IV $28 at 15x for -30% growth)
+- **Margin of Safety**: -88% — ABSENT ($237 > IV $29 at 15x for -30% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
-- **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
+- **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

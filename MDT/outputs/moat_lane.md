@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MDT
-*Generated: 2026-08-29 10:59 | Price: $91.23 | Mkt Cap: $117B*
+*Generated: 2026-08-30 09:53 | Price: $91.23 | Mkt Cap: $117B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -18% — ABSENT ($91 > IV $75 at 20x for 18% growth)
+- **Margin of Safety**: -17% — ABSENT ($91 > IV $76 at 20x for 18% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

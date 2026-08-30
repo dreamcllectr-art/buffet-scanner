@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DLR
-*Generated: 2026-08-29 10:58 | Price: $185.47 | Mkt Cap: $70B*
+*Generated: 2026-08-30 09:52 | Price: $185.47 | Mkt Cap: $70B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -83% — ABSENT ($185 > IV $31 at 15x for -59% growth)
+- **Margin of Safety**: -84% — ABSENT ($185 > IV $30 at 15x for -59% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

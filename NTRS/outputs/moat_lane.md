@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NTRS
-*Generated: 2026-08-29 10:59 | Price: $186.79 | Mkt Cap: $34B*
+*Generated: 2026-08-30 09:54 | Price: $186.79 | Mkt Cap: $34B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 56% — PRESENT (IV $291 vs $187 at 25x)
+- **Margin of Safety**: 56% — PRESENT (IV $292 vs $187 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.9% insider ownership
 - **Mr. Market**: Greedy — exercise caution

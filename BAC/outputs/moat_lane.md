@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAC
-*Generated: 2026-08-29 10:57 | Price: $62.32 | Mkt Cap: $436B*
+*Generated: 2026-08-30 09:51 | Price: $62.32 | Mkt Cap: $436B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.8% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 74% — PRESENT (IV $108 vs $62 at 25x)
+- **Margin of Safety**: 77% — PRESENT (IV $110 vs $62 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

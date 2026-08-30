@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WFC
-*Generated: 2026-08-29 11:03 | Price: $86.69 | Mkt Cap: $262B*
+*Generated: 2026-08-30 09:57 | Price: $86.69 | Mkt Cap: $262B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 98% — PRESENT (IV $172 vs $87 at 25x)
+- **Margin of Safety**: 102% — PRESENT (IV $176 vs $87 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

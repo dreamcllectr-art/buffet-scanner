@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BLDR
-*Generated: 2026-08-29 10:57 | Price: $67.72 | Mkt Cap: $7B*
+*Generated: 2026-08-30 09:52 | Price: $67.72 | Mkt Cap: $7B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -80% — ABSENT ($68 > IV $14 at 15x for -9% growth)
+- **Margin of Safety**: -79% — ABSENT ($68 > IV $14 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.7% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

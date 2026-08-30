@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HON
-*Generated: 2026-08-29 10:59 | Price: $217.43 | Mkt Cap: $69B*
+*Generated: 2026-08-30 09:53 | Price: $217.43 | Mkt Cap: $69B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 199% — PRESENT (IV $650 vs $217 at 25x)
+- **Margin of Safety**: 195% — PRESENT (IV $642 vs $217 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

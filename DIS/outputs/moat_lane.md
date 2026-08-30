@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DIS
-*Generated: 2026-08-29 11:03 | Price: $108.1 | Mkt Cap: $187B*
+*Generated: 2026-08-30 09:57 | Price: $108.1 | Mkt Cap: $187B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -36,7 +36,7 @@ Communication Services / Entertainment
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Entertainment
-- **Margin of Safety**: -33% — ABSENT ($108 > IV $73 at 15x for -48% growth)
+- **Margin of Safety**: -32% — ABSENT ($108 > IV $74 at 15x for -48% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

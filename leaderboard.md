@@ -1,6 +1,8 @@
-# Leaderboard - 2026-08-29
+# Buffett/Munger Moat Lane Leaderboard
 
-Market conditions indicate a robust environment for high-quality, moated businesses, with several deep value opportunities presenting significant upside, particularly in technology and communication services.
+**Date: 2026-08-30**
+
+The market clearly rewards high-quality, moated businesses with several 'Own Forever' opportunities and a long tail of less compelling prospects.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -27,14 +29,14 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 21 | SNA | 7.9 | MODERATE | 0.29 | Watchlist |
 | 22 | ADBE | 7.8 | MODERATE | 0.28 | Watchlist |
 | 23 | MO | 7.8 | MODERATE | 0.28 | Watchlist |
-| 24 | CPAY | 7.8 | MODERATE | 0.28 | Watchlist |
-| 25 | DECK | 7.8 | MODERATE | 0.28 | Watchlist |
-| 26 | AOS | 7.7 | MODERATE | 0.27 | Watchlist |
-| 27 | ADSK | 7.7 | MODERATE | 0.27 | Watchlist |
-| 28 | AVGO | 7.7 | MODERATE | 0.27 | Watchlist |
-| 29 | LLY | 7.7 | MODERATE | 0.27 | Watchlist |
-| 30 | ALLE | 7.6 | MODERATE | 0.26 | Watchlist |
-| 31 | BKNG | 7.6 | MODERATE | 0.26 | Watchlist |
+| 24 | BKNG | 7.8 | MODERATE | 0.28 | Watchlist |
+| 25 | CPAY | 7.8 | MODERATE | 0.28 | Watchlist |
+| 26 | DECK | 7.8 | MODERATE | 0.28 | Watchlist |
+| 27 | AOS | 7.7 | MODERATE | 0.27 | Watchlist |
+| 28 | ADSK | 7.7 | MODERATE | 0.27 | Watchlist |
+| 29 | AVGO | 7.7 | MODERATE | 0.27 | Watchlist |
+| 30 | LLY | 7.7 | MODERATE | 0.27 | Watchlist |
+| 31 | ALLE | 7.6 | MODERATE | 0.26 | Watchlist |
 | 32 | MNST | 7.6 | MODERATE | 0.26 | Watchlist |
 | 33 | MCO | 7.6 | MODERATE | 0.26 | Watchlist |
 | 34 | TMUS | 7.6 | MODERATE | 0.26 | Watchlist |
@@ -210,8 +212,8 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 204 | HD | 6.0 | LOW | 0.0 | Pass |
 | 205 | HONA | 6.0 | LOW | 0.0 | Pass |
 | 206 | KDP | 6.0 | LOW | 0.0 | Pass |
-| 207 | KIM | 6.0 | LOW | 0.0 | Pass |
-| 208 | KMI | 6.0 | LOW | 0.0 | Pass |
+| 207 | KMI | 6.0 | LOW | 0.0 | Pass |
+| 208 | KIM | 6.0 | LOW | 0.0 | Pass |
 | 209 | KKR | 6.0 | LOW | 0.0 | Pass |
 | 210 | KHC | 6.0 | LOW | 0.0 | Pass |
 | 211 | MCK | 6.0 | LOW | 0.0 | Pass |
@@ -249,13 +251,13 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 243 | KVUE | 5.9 | LOW | 0.0 | Pass |
 | 244 | MSI | 5.9 | LOW | 0.0 | Pass |
 | 245 | PCG | 5.9 | LOW | 0.0 | Pass |
-| 246 | HOOD | 5.9 | LOW | 0.0 | Pass |
-| 247 | VRT | 5.9 | LOW | 0.0 | Pass |
-| 248 | WSM | 5.9 | LOW | 0.0 | Pass |
-| 249 | ABT | 5.8 | LOW | 0.0 | Pass |
-| 250 | AWK | 5.8 | LOW | 0.0 | Pass |
-| 251 | APA | 5.8 | LOW | 0.0 | Pass |
-| 252 | ADP | 5.8 | LOW | 0.0 | Pass |
+| 246 | REG | 5.9 | LOW | 0.0 | Pass |
+| 247 | HOOD | 5.9 | LOW | 0.0 | Pass |
+| 248 | VRT | 5.9 | LOW | 0.0 | Pass |
+| 249 | WSM | 5.9 | LOW | 0.0 | Pass |
+| 250 | ABT | 5.8 | LOW | 0.0 | Pass |
+| 251 | AWK | 5.8 | LOW | 0.0 | Pass |
+| 252 | APA | 5.8 | LOW | 0.0 | Pass |
 | 253 | ED | 5.8 | LOW | 0.0 | Pass |
 | 254 | CTVA | 5.8 | LOW | 0.0 | Pass |
 | 255 | DVN | 5.8 | LOW | 0.0 | Pass |
@@ -282,28 +284,28 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 276 | ROK | 5.7 | LOW | 0.0 | Pass |
 | 277 | SLB | 5.7 | LOW | 0.0 | Pass |
 | 278 | VRTX | 5.7 | LOW | 0.0 | Pass |
-| 279 | C | 5.6 | LOW | 0.0 | Pass |
-| 280 | COO | 5.6 | LOW | 0.0 | Pass |
-| 281 | CMI | 5.6 | LOW | 0.0 | Pass |
-| 282 | DAL | 5.6 | LOW | 0.0 | Pass |
-| 283 | ECL | 5.6 | LOW | 0.0 | Pass |
-| 284 | FDXF | 5.6 | LOW | 0.0 | Pass |
-| 285 | FE | 5.6 | LOW | 0.0 | Pass |
-| 286 | PODD | 5.6 | LOW | 0.0 | Pass |
-| 287 | ZBH | 5.6 | LOW | 0.0 | Pass |
-| 288 | APH | 5.5 | LOW | 0.0 | Pass |
-| 289 | COR | 5.5 | LOW | 0.0 | Pass |
-| 290 | DASH | 5.5 | LOW | 0.0 | Pass |
-| 291 | FRT | 5.5 | LOW | 0.0 | Pass |
-| 292 | FDX | 5.5 | LOW | 0.0 | Pass |
-| 293 | FTV | 5.5 | LOW | 0.0 | Pass |
-| 294 | HBAN | 5.5 | LOW | 0.0 | Pass |
-| 295 | JCI | 5.5 | LOW | 0.0 | Pass |
-| 296 | KEY | 5.5 | LOW | 0.0 | Pass |
-| 297 | L | 5.5 | LOW | 0.0 | Pass |
-| 298 | NKE | 5.5 | LOW | 0.0 | Pass |
-| 299 | O | 5.5 | LOW | 0.0 | Pass |
-| 300 | REG | 5.5 | LOW | 0.0 | Pass |
+| 279 | ADP | 5.6 | LOW | 0.0 | Pass |
+| 280 | C | 5.6 | LOW | 0.0 | Pass |
+| 281 | COO | 5.6 | LOW | 0.0 | Pass |
+| 282 | CMI | 5.6 | LOW | 0.0 | Pass |
+| 283 | DAL | 5.6 | LOW | 0.0 | Pass |
+| 284 | ECL | 5.6 | LOW | 0.0 | Pass |
+| 285 | FDXF | 5.6 | LOW | 0.0 | Pass |
+| 286 | FE | 5.6 | LOW | 0.0 | Pass |
+| 287 | PODD | 5.6 | LOW | 0.0 | Pass |
+| 288 | ZBH | 5.6 | LOW | 0.0 | Pass |
+| 289 | APH | 5.5 | LOW | 0.0 | Pass |
+| 290 | COR | 5.5 | LOW | 0.0 | Pass |
+| 291 | DASH | 5.5 | LOW | 0.0 | Pass |
+| 292 | FRT | 5.5 | LOW | 0.0 | Pass |
+| 293 | FDX | 5.5 | LOW | 0.0 | Pass |
+| 294 | FTV | 5.5 | LOW | 0.0 | Pass |
+| 295 | HBAN | 5.5 | LOW | 0.0 | Pass |
+| 296 | JCI | 5.5 | LOW | 0.0 | Pass |
+| 297 | KEY | 5.5 | LOW | 0.0 | Pass |
+| 298 | L | 5.5 | LOW | 0.0 | Pass |
+| 299 | NKE | 5.5 | LOW | 0.0 | Pass |
+| 300 | O | 5.5 | LOW | 0.0 | Pass |
 | 301 | ROP | 5.5 | LOW | 0.0 | Pass |
 | 302 | SRE | 5.5 | LOW | 0.0 | Pass |
 | 303 | SMCI | 5.5 | LOW | 0.0 | Pass |
@@ -401,39 +403,39 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 395 | TGT | 4.8 | LOW | 0.0 | Pass |
 | 396 | VMRK | 4.8 | LOW | 0.0 | Pass |
 | 397 | WAT | 4.8 | LOW | 0.0 | Pass |
-| 398 | CDW | 4.7 | LOW | 0.0 | Pass |
-| 399 | DELL | 4.7 | LOW | 0.0 | Pass |
-| 400 | DLR | 4.7 | LOW | 0.0 | Pass |
-| 401 | EW | 4.7 | LOW | 0.0 | Pass |
-| 402 | IQV | 4.7 | LOW | 0.0 | Pass |
-| 403 | MPC | 4.7 | LOW | 0.0 | Pass |
-| 404 | MPWR | 4.7 | LOW | 0.0 | Pass |
-| 405 | OMC | 4.7 | LOW | 0.0 | Pass |
-| 406 | PKG | 4.7 | LOW | 0.0 | Pass |
-| 407 | PLD | 4.7 | LOW | 0.0 | Pass |
-| 408 | SWK | 4.7 | LOW | 0.0 | Pass |
-| 409 | TER | 4.7 | LOW | 0.0 | Pass |
-| 410 | TXN | 4.7 | LOW | 0.0 | Pass |
-| 411 | TMO | 4.7 | LOW | 0.0 | Pass |
-| 412 | AXON | 4.6 | LOW | 0.0 | Pass |
-| 413 | CARR | 4.6 | LOW | 0.0 | Pass |
-| 414 | CI | 4.6 | LOW | 0.0 | Pass |
-| 415 | CTSH | 4.6 | LOW | 0.0 | Pass |
-| 416 | EXPD | 4.6 | LOW | 0.0 | Pass |
-| 417 | FIS | 4.6 | LOW | 0.0 | Pass |
-| 418 | GD | 4.6 | LOW | 0.0 | Pass |
-| 419 | HII | 4.6 | LOW | 0.0 | Pass |
-| 420 | IVZ | 4.6 | LOW | 0.0 | Pass |
-| 421 | KR | 4.6 | LOW | 0.0 | Pass |
-| 422 | NOC | 4.6 | LOW | 0.0 | Pass |
-| 423 | PANW | 4.6 | LOW | 0.0 | Pass |
-| 424 | TYL | 4.6 | LOW | 0.0 | Pass |
-| 425 | UDR | 4.6 | LOW | 0.0 | Pass |
-| 426 | VTRS | 4.6 | LOW | 0.0 | Pass |
-| 427 | DIS | 4.6 | LOW | 0.0 | Pass |
-| 428 | XYZ | 4.5 | LOW | 0.0 | Pass |
-| 429 | CEG | 4.5 | LOW | 0.0 | Pass |
-| 430 | DG | 4.5 | LOW | 0.0 | Pass |
+| 398 | CARR | 4.7 | LOW | 0.0 | Pass |
+| 399 | CDW | 4.7 | LOW | 0.0 | Pass |
+| 400 | CTSH | 4.7 | LOW | 0.0 | Pass |
+| 401 | DELL | 4.7 | LOW | 0.0 | Pass |
+| 402 | DLR | 4.7 | LOW | 0.0 | Pass |
+| 403 | EW | 4.7 | LOW | 0.0 | Pass |
+| 404 | IQV | 4.7 | LOW | 0.0 | Pass |
+| 405 | MPC | 4.7 | LOW | 0.0 | Pass |
+| 406 | MPWR | 4.7 | LOW | 0.0 | Pass |
+| 407 | OMC | 4.7 | LOW | 0.0 | Pass |
+| 408 | PKG | 4.7 | LOW | 0.0 | Pass |
+| 409 | PLD | 4.7 | LOW | 0.0 | Pass |
+| 410 | SWK | 4.7 | LOW | 0.0 | Pass |
+| 411 | TER | 4.7 | LOW | 0.0 | Pass |
+| 412 | TXN | 4.7 | LOW | 0.0 | Pass |
+| 413 | TMO | 4.7 | LOW | 0.0 | Pass |
+| 414 | AXON | 4.6 | LOW | 0.0 | Pass |
+| 415 | CI | 4.6 | LOW | 0.0 | Pass |
+| 416 | DG | 4.6 | LOW | 0.0 | Pass |
+| 417 | EXPD | 4.6 | LOW | 0.0 | Pass |
+| 418 | FIS | 4.6 | LOW | 0.0 | Pass |
+| 419 | GD | 4.6 | LOW | 0.0 | Pass |
+| 420 | HII | 4.6 | LOW | 0.0 | Pass |
+| 421 | IVZ | 4.6 | LOW | 0.0 | Pass |
+| 422 | KR | 4.6 | LOW | 0.0 | Pass |
+| 423 | NOC | 4.6 | LOW | 0.0 | Pass |
+| 424 | PANW | 4.6 | LOW | 0.0 | Pass |
+| 425 | TYL | 4.6 | LOW | 0.0 | Pass |
+| 426 | UDR | 4.6 | LOW | 0.0 | Pass |
+| 427 | VTRS | 4.6 | LOW | 0.0 | Pass |
+| 428 | DIS | 4.6 | LOW | 0.0 | Pass |
+| 429 | XYZ | 4.5 | LOW | 0.0 | Pass |
+| 430 | CEG | 4.5 | LOW | 0.0 | Pass |
 | 431 | TAP | 4.5 | LOW | 0.0 | Pass |
 | 432 | MSCI | 4.5 | LOW | 0.0 | Pass |
 | 433 | ON | 4.5 | LOW | 0.0 | Pass |
@@ -467,8 +469,8 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 461 | IFF | 4.0 | AVOID | -0.2 | Avoid |
 | 462 | MAA | 4.0 | AVOID | -0.2 | Avoid |
 | 463 | ADM | 3.9 | AVOID | -0.21 | Avoid |
-| 464 | BXP | 3.9 | AVOID | -0.21 | Avoid |
-| 465 | BG | 3.9 | AVOID | -0.21 | Avoid |
+| 464 | BG | 3.9 | AVOID | -0.21 | Avoid |
+| 465 | BXP | 3.9 | AVOID | -0.21 | Avoid |
 | 466 | CVS | 3.9 | AVOID | -0.21 | Avoid |
 | 467 | ELV | 3.9 | AVOID | -0.21 | Avoid |
 | 468 | F | 3.9 | AVOID | -0.21 | Avoid |
@@ -487,14 +489,14 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 481 | MOS | 3.8 | AVOID | -0.22 | Avoid |
 | 482 | UNH | 3.8 | AVOID | -0.22 | Avoid |
 | 483 | VTR | 3.8 | AVOID | -0.22 | Avoid |
-| 484 | CPT | 3.7 | AVOID | -0.22 | Avoid |
-| 485 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
-| 486 | DOW | 3.7 | AVOID | -0.22 | Avoid |
-| 487 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
-| 488 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
-| 489 | COIN | 3.6 | AVOID | -0.23 | Avoid |
-| 490 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
-| 491 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
+| 484 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
+| 485 | DOW | 3.7 | AVOID | -0.22 | Avoid |
+| 486 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
+| 487 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
+| 488 | COIN | 3.6 | AVOID | -0.23 | Avoid |
+| 489 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
+| 490 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
+| 491 | CPT | 3.5 | AVOID | -0.24 | Avoid |
 | 492 | CRWD | 3.5 | AVOID | -0.24 | Avoid |
 | 493 | EQIX | 3.5 | AVOID | -0.24 | Avoid |
 | 494 | RVTY | 3.5 | AVOID | -0.24 | Avoid |
@@ -508,22 +510,38 @@ Market conditions indicate a robust environment for high-quality, moated busines
 | 502 | GLW | 2.6 | AVOID | -0.3 | Avoid |
 | 503 | WY | 2.6 | AVOID | -0.3 | Avoid |
 
-## Top 5 Deep Dives
+## Top Deep Dives
 
-**NVDA (Score: 9.2)**: A material inversion killer is Technology Disruption with a 25% probability, impacting Future Value by -35%. The verdict is "Own Forever" due to its Lollapalooza effect from high quality, a strong moat (75% gross margin, 106% revenue growth), and a deep value P/E of 14.2x.
+---
+# Buffett/Munger Moat Lane: NVDA
+*Generated: 2026-08-30 09:54 | Price: $217.55 | Mkt Cap: $5253B*
 
-**APP (Score: 8.8)**: No material inversion killers are identified in the provided details. The verdict is "Own Forever" driven by a powerful moat with an 88% gross margin and 53% revenue growth, coupled with a deep value P/E of 14.9x, indicating Mr. Market is fearful.
+### Inversion Killers and Verdict Rationale
+Technology Disruption, specifically a competitive leapfrog in Semiconductors, is a material inversion killer with a 25% probability and -35% impact on intrinsic value. Despite this, NVDA earns an "Own Forever" verdict due to its leading 9.2 score, an exceptional 9.5/10 moat (75% gross margin, 106% revenue growth), and a deep value P/E of 14.2x, indicating strong underlying business strength.
 
-**GOOGL (Score: 8.7)**: No material inversion killers are identified in the provided details. The verdict is "Own Forever" due to its high quality (24.9% Avg ROIC), a strong moat with 61% gross margin and 24% revenue growth, and a substantial 44% Margin of Safety even at a 23.4x P/E.
+---
+# Buffett/Munger Moat Lane: APP
+*Generated: 2026-08-30 09:51 | Price: $317.76 | Mkt Cap: $107B*
 
-**GOOG (Score: 8.7)**: A material inversion killer is Management / Governance Failure with a 20% probability, potentially impacting Future Value by -30%. Despite this, the verdict is "Own Forever" owing to high quality (24.9% Avg ROIC), a robust moat (61% gross margin), and a significant 44% Margin of Safety.
+### Inversion Killers and Verdict Rationale
+Technology Disruption is present with a 10% probability, but its -15% impact on fair value means it is not a material killer for APP. The "Own Forever" verdict is based on an 8.8 score, a formidable 9.5/10 moat (88% gross margin, 78% operating margin), and a deep value P/E of 14.9x, presenting an opportunity as Mr. Market is currently fearful.
 
-**ROL (Score: 8.6)**: A detailed report for ROL was not provided, therefore specific inversion killers and verdict rationale cannot be assessed.
+---
+# Buffett/Munger Moat Lane: GOOGL
+*Generated: 2026-08-30 09:51 | Price: $346.59 | Mkt Cap: $4239B*
+
+### Inversion Killers and Verdict Rationale
+Management/Governance Failure, stemming from 1.6% insider ownership and a potential 15% probability and -20% impact, is noted but not considered a material inversion killer. GOOGL's "Own Forever" verdict is driven by its outstanding 9.5/10 Quality (24.9% Avg ROIC) and 9.5/10 Moat (61% gross margin), further supported by a substantial 46% margin of safety.
+
+---
+# Buffett/Munger Moat Lane: GOOG
+*Generated: 2026-08-30 09:51 | Price: $342.88 | Mkt Cap: $4193B*
+
+### Inversion Killers and Verdict Rationale
+Management/Governance Failure is a material inversion killer for GOOG, carrying a 20% probability and -30% impact due to extremely low insider ownership of 0.5%. Nevertheless, the stock earns an "Own Forever" verdict with an 8.7 score, excellent quality (24.9% Avg ROIC, 81% FCF/NI), a robust 9.5/10 moat, and a significant 46% margin of safety.
 
 ## Munger Inversion Alert
-
-Based on the provided detailed reports for the top 5, none of the companies in the top 20 list exhibit two or more *material* inversion killers. NVDA and GOOG each have one material killer identified, but not two or more.
+No names in the top 20, for which detailed reports are provided, have 2 or more material inversion killers.
 
 ## Bottom Line
-
-GOOGL represents the single best risk-adjusted name today, showcasing a massive 44% margin of safety and a durable moat with no material inversion flags from the provided reports.
+Alphabet (GOOGL) presents the single best risk-adjusted name today, exhibiting outstanding quality and moat with a substantial 46% margin of safety and no material inversion killers.

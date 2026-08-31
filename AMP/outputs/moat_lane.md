@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMP
-*Generated: 2026-08-30 09:51 | Price: $559.32 | Mkt Cap: $49B*
+*Generated: 2026-08-31 10:43 | Price: $559.32 | Mkt Cap: $49B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -36,7 +36,7 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 49% — PRESENT (IV $833 vs $559 at 20x)
+- **Margin of Safety**: 48% — PRESENT (IV $828 vs $559 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HOOD
-*Generated: 2026-08-30 09:57 | Price: $104.26 | Mkt Cap: $94B*
+*Generated: 2026-08-31 10:47 | Price: $104.26 | Mkt Cap: $94B*
 
 ## Sector Context
 Financial Services / Capital Markets
@@ -36,7 +36,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: -48% — ABSENT ($104 > IV $54 at 25x for 25% growth)
+- **Margin of Safety**: -46% — ABSENT ($104 > IV $56 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral

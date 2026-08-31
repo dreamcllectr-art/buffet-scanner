@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NXPI
-*Generated: 2026-08-30 09:54 | Price: $223.58 | Mkt Cap: $56B*
+*Generated: 2026-08-31 10:46 | Price: $223.58 | Mkt Cap: $56B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: 30% — thin (IV $290 at 25x)
+- **Margin of Safety**: 31% — PRESENT (IV $293 vs $224 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

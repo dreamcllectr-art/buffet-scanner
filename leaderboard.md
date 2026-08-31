@@ -1,8 +1,8 @@
-# Buffett/Munger Moat Lane Leaderboard
+# Leaderboard: Buffett/Munger Moat Lane
 
-**Date: 2026-08-30**
+**Date: 2026-08-31**
 
-The market clearly rewards high-quality, moated businesses with several 'Own Forever' opportunities and a long tail of less compelling prospects.
+Today's market conditions present a clear division: high-quality, moated businesses are available at attractive valuations for long-term holders, while many others fall short of our investment criteria.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -170,32 +170,32 @@ The market clearly rewards high-quality, moated businesses with several 'Own For
 | 162 | BAC | 6.2 | MODERATE | 0.12 | Watchlist |
 | 163 | BNY | 6.2 | MODERATE | 0.12 | Watchlist |
 | 164 | BF-B | 6.2 | MODERATE | 0.12 | Watchlist |
-| 165 | CCL | 6.2 | MODERATE | 0.12 | Watchlist |
-| 166 | CAT | 6.2 | MODERATE | 0.12 | Watchlist |
-| 167 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
-| 168 | CHD | 6.2 | MODERATE | 0.12 | Watchlist |
-| 169 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
-| 170 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
-| 171 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
-| 172 | MTB | 6.2 | MODERATE | 0.12 | Watchlist |
-| 173 | RCL | 6.2 | MODERATE | 0.12 | Watchlist |
-| 174 | UHS | 6.2 | MODERATE | 0.12 | Watchlist |
-| 175 | VRSK | 6.2 | MODERATE | 0.12 | Watchlist |
-| 176 | DXCM | 6.1 | MODERATE | 0.11 | Watchlist |
-| 177 | EBAY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 178 | EG | 6.1 | MODERATE | 0.11 | Watchlist |
-| 179 | GDDY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 180 | HSY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 181 | JKHY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 182 | LRCX | 6.1 | MODERATE | 0.11 | Watchlist |
-| 183 | RDDT | 6.1 | MODERATE | 0.11 | Watchlist |
-| 184 | WDAY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 185 | LNT | 6.0 | LOW | 0.0 | Pass |
-| 186 | AMZN | 6.0 | LOW | 0.0 | Pass |
-| 187 | AEE | 6.0 | LOW | 0.0 | Pass |
-| 188 | AEP | 6.0 | LOW | 0.0 | Pass |
-| 189 | ARES | 6.0 | LOW | 0.0 | Pass |
-| 190 | CDNS | 6.0 | LOW | 0.0 | Pass |
+| 165 | CAT | 6.2 | MODERATE | 0.12 | Watchlist |
+| 166 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 167 | CHD | 6.2 | MODERATE | 0.12 | Watchlist |
+| 168 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 169 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
+| 170 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
+| 171 | MTB | 6.2 | MODERATE | 0.12 | Watchlist |
+| 172 | RCL | 6.2 | MODERATE | 0.12 | Watchlist |
+| 173 | UHS | 6.2 | MODERATE | 0.12 | Watchlist |
+| 174 | VRSK | 6.2 | MODERATE | 0.12 | Watchlist |
+| 175 | DXCM | 6.1 | MODERATE | 0.11 | Watchlist |
+| 176 | EBAY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 177 | EG | 6.1 | MODERATE | 0.11 | Watchlist |
+| 178 | GDDY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 179 | HSY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 180 | JKHY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 181 | LRCX | 6.1 | MODERATE | 0.11 | Watchlist |
+| 182 | RDDT | 6.1 | MODERATE | 0.11 | Watchlist |
+| 183 | WDAY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 184 | LNT | 6.0 | LOW | 0.0 | Pass |
+| 185 | AMZN | 6.0 | LOW | 0.0 | Pass |
+| 186 | AEE | 6.0 | LOW | 0.0 | Pass |
+| 187 | AEP | 6.0 | LOW | 0.0 | Pass |
+| 188 | ARES | 6.0 | LOW | 0.0 | Pass |
+| 189 | CDNS | 6.0 | LOW | 0.0 | Pass |
+| 190 | CCL | 6.0 | LOW | 0.0 | Pass |
 | 191 | CNP | 6.0 | LOW | 0.0 | Pass |
 | 192 | CLX | 6.0 | LOW | 0.0 | Pass |
 | 193 | CMS | 6.0 | LOW | 0.0 | Pass |
@@ -212,8 +212,8 @@ The market clearly rewards high-quality, moated businesses with several 'Own For
 | 204 | HD | 6.0 | LOW | 0.0 | Pass |
 | 205 | HONA | 6.0 | LOW | 0.0 | Pass |
 | 206 | KDP | 6.0 | LOW | 0.0 | Pass |
-| 207 | KMI | 6.0 | LOW | 0.0 | Pass |
-| 208 | KIM | 6.0 | LOW | 0.0 | Pass |
+| 207 | KIM | 6.0 | LOW | 0.0 | Pass |
+| 208 | KMI | 6.0 | LOW | 0.0 | Pass |
 | 209 | KKR | 6.0 | LOW | 0.0 | Pass |
 | 210 | KHC | 6.0 | LOW | 0.0 | Pass |
 | 211 | MCK | 6.0 | LOW | 0.0 | Pass |
@@ -335,56 +335,56 @@ The market clearly rewards high-quality, moated businesses with several 'Own For
 | 327 | ALGN | 5.3 | LOW | 0.0 | Pass |
 | 328 | BLDR | 5.3 | LOW | 0.0 | Pass |
 | 329 | DHR | 5.3 | LOW | 0.0 | Pass |
-| 330 | DLTR | 5.3 | LOW | 0.0 | Pass |
-| 331 | GNRC | 5.3 | LOW | 0.0 | Pass |
-| 332 | INVH | 5.3 | LOW | 0.0 | Pass |
-| 333 | ODFL | 5.3 | LOW | 0.0 | Pass |
-| 334 | PLTR | 5.3 | LOW | 0.0 | Pass |
-| 335 | ARE | 5.2 | LOW | 0.0 | Pass |
-| 336 | BKR | 5.2 | LOW | 0.0 | Pass |
-| 337 | CSGP | 5.2 | LOW | 0.0 | Pass |
-| 338 | EMR | 5.2 | LOW | 0.0 | Pass |
-| 339 | EQT | 5.2 | LOW | 0.0 | Pass |
-| 340 | HAS | 5.2 | LOW | 0.0 | Pass |
-| 341 | LMT | 5.2 | LOW | 0.0 | Pass |
-| 342 | MGM | 5.2 | LOW | 0.0 | Pass |
-| 343 | MCHP | 5.2 | LOW | 0.0 | Pass |
-| 344 | NEE | 5.2 | LOW | 0.0 | Pass |
-| 345 | NVR | 5.2 | LOW | 0.0 | Pass |
-| 346 | OKE | 5.2 | LOW | 0.0 | Pass |
-| 347 | PFE | 5.2 | LOW | 0.0 | Pass |
-| 348 | PEG | 5.2 | LOW | 0.0 | Pass |
-| 349 | NOW | 5.2 | LOW | 0.0 | Pass |
-| 350 | UBER | 5.2 | LOW | 0.0 | Pass |
-| 351 | ACN | 5.1 | LOW | 0.0 | Pass |
-| 352 | A | 5.1 | LOW | 0.0 | Pass |
-| 353 | AIG | 5.1 | LOW | 0.0 | Pass |
-| 354 | AVY | 5.1 | LOW | 0.0 | Pass |
-| 355 | BDX | 5.1 | LOW | 0.0 | Pass |
-| 356 | CASY | 5.1 | LOW | 0.0 | Pass |
-| 357 | EXR | 5.1 | LOW | 0.0 | Pass |
-| 358 | IEX | 5.1 | LOW | 0.0 | Pass |
-| 359 | MDLZ | 5.1 | LOW | 0.0 | Pass |
-| 360 | ALB | 5.0 | LOW | 0.0 | Pass |
-| 361 | BIIB | 5.0 | LOW | 0.0 | Pass |
-| 362 | CFG | 5.0 | LOW | 0.0 | Pass |
-| 363 | CCI | 5.0 | LOW | 0.0 | Pass |
-| 364 | ECHO | 5.0 | LOW | 0.0 | Pass |
-| 365 | FLEX | 5.0 | LOW | 0.0 | Pass |
-| 366 | HAL | 5.0 | LOW | 0.0 | Pass |
-| 367 | DOC | 5.0 | LOW | 0.0 | Pass |
-| 368 | KEYS | 5.0 | LOW | 0.0 | Pass |
-| 369 | LDOS | 5.0 | LOW | 0.0 | Pass |
-| 370 | NSC | 5.0 | LOW | 0.0 | Pass |
-| 371 | NCLH | 5.0 | LOW | 0.0 | Pass |
-| 372 | PSKY | 5.0 | LOW | 0.0 | Pass |
-| 373 | TDY | 5.0 | LOW | 0.0 | Pass |
-| 374 | TXT | 5.0 | LOW | 0.0 | Pass |
-| 375 | UPS | 5.0 | LOW | 0.0 | Pass |
-| 376 | AKAM | 4.9 | LOW | 0.0 | Pass |
-| 377 | APTV | 4.9 | LOW | 0.0 | Pass |
-| 378 | AJG | 4.9 | LOW | 0.0 | Pass |
-| 379 | CSX | 4.9 | LOW | 0.0 | Pass |
+| 330 | GNRC | 5.3 | LOW | 0.0 | Pass |
+| 331 | INVH | 5.3 | LOW | 0.0 | Pass |
+| 332 | ODFL | 5.3 | LOW | 0.0 | Pass |
+| 333 | PLTR | 5.3 | LOW | 0.0 | Pass |
+| 334 | ARE | 5.2 | LOW | 0.0 | Pass |
+| 335 | BKR | 5.2 | LOW | 0.0 | Pass |
+| 336 | CSGP | 5.2 | LOW | 0.0 | Pass |
+| 337 | EMR | 5.2 | LOW | 0.0 | Pass |
+| 338 | EQT | 5.2 | LOW | 0.0 | Pass |
+| 339 | HAS | 5.2 | LOW | 0.0 | Pass |
+| 340 | LMT | 5.2 | LOW | 0.0 | Pass |
+| 341 | MGM | 5.2 | LOW | 0.0 | Pass |
+| 342 | MCHP | 5.2 | LOW | 0.0 | Pass |
+| 343 | NEE | 5.2 | LOW | 0.0 | Pass |
+| 344 | NVR | 5.2 | LOW | 0.0 | Pass |
+| 345 | OKE | 5.2 | LOW | 0.0 | Pass |
+| 346 | PFE | 5.2 | LOW | 0.0 | Pass |
+| 347 | PEG | 5.2 | LOW | 0.0 | Pass |
+| 348 | NOW | 5.2 | LOW | 0.0 | Pass |
+| 349 | UBER | 5.2 | LOW | 0.0 | Pass |
+| 350 | ACN | 5.1 | LOW | 0.0 | Pass |
+| 351 | A | 5.1 | LOW | 0.0 | Pass |
+| 352 | AIG | 5.1 | LOW | 0.0 | Pass |
+| 353 | AVY | 5.1 | LOW | 0.0 | Pass |
+| 354 | BDX | 5.1 | LOW | 0.0 | Pass |
+| 355 | CASY | 5.1 | LOW | 0.0 | Pass |
+| 356 | EXR | 5.1 | LOW | 0.0 | Pass |
+| 357 | IEX | 5.1 | LOW | 0.0 | Pass |
+| 358 | MDLZ | 5.1 | LOW | 0.0 | Pass |
+| 359 | ALB | 5.0 | LOW | 0.0 | Pass |
+| 360 | BIIB | 5.0 | LOW | 0.0 | Pass |
+| 361 | CFG | 5.0 | LOW | 0.0 | Pass |
+| 362 | CCI | 5.0 | LOW | 0.0 | Pass |
+| 363 | ECHO | 5.0 | LOW | 0.0 | Pass |
+| 364 | FLEX | 5.0 | LOW | 0.0 | Pass |
+| 365 | HAL | 5.0 | LOW | 0.0 | Pass |
+| 366 | DOC | 5.0 | LOW | 0.0 | Pass |
+| 367 | KEYS | 5.0 | LOW | 0.0 | Pass |
+| 368 | LDOS | 5.0 | LOW | 0.0 | Pass |
+| 369 | NSC | 5.0 | LOW | 0.0 | Pass |
+| 370 | NCLH | 5.0 | LOW | 0.0 | Pass |
+| 371 | PSKY | 5.0 | LOW | 0.0 | Pass |
+| 372 | TDY | 5.0 | LOW | 0.0 | Pass |
+| 373 | TXT | 5.0 | LOW | 0.0 | Pass |
+| 374 | UPS | 5.0 | LOW | 0.0 | Pass |
+| 375 | AKAM | 4.9 | LOW | 0.0 | Pass |
+| 376 | APTV | 4.9 | LOW | 0.0 | Pass |
+| 377 | AJG | 4.9 | LOW | 0.0 | Pass |
+| 378 | CSX | 4.9 | LOW | 0.0 | Pass |
+| 379 | DLTR | 4.9 | LOW | 0.0 | Pass |
 | 380 | DD | 4.9 | LOW | 0.0 | Pass |
 | 381 | ESS | 4.9 | LOW | 0.0 | Pass |
 | 382 | GIS | 4.9 | LOW | 0.0 | Pass |
@@ -510,38 +510,30 @@ The market clearly rewards high-quality, moated businesses with several 'Own For
 | 502 | GLW | 2.6 | AVOID | -0.3 | Avoid |
 | 503 | WY | 2.6 | AVOID | -0.3 | Avoid |
 
-## Top Deep Dives
+## Top 5 Deep Dives
 
 ---
-# Buffett/Munger Moat Lane: NVDA
-*Generated: 2026-08-30 09:54 | Price: $217.55 | Mkt Cap: $5253B*
-
-### Inversion Killers and Verdict Rationale
-Technology Disruption, specifically a competitive leapfrog in Semiconductors, is a material inversion killer with a 25% probability and -35% impact on intrinsic value. Despite this, NVDA earns an "Own Forever" verdict due to its leading 9.2 score, an exceptional 9.5/10 moat (75% gross margin, 106% revenue growth), and a deep value P/E of 14.2x, indicating strong underlying business strength.
+### NVDA (Score: 9.2)
+Despite a robust score driven by high quality (ROIC 51.3%, gross margin 75%) and a strong moat (operating margin 66%, revenue growth 106%), the intrinsic value is estimated to be 9% *below* the current price ($198 vs $217.55), resulting in an absent margin of safety. Potential technology disruption remains a notable risk, though not classified as material in the analysis. This warrants an "Own Forever" verdict due to foundational strengths, but with acknowledgment of the current valuation's tightness against intrinsic value.
 
 ---
-# Buffett/Munger Moat Lane: APP
-*Generated: 2026-08-30 09:51 | Price: $317.76 | Mkt Cap: $107B*
-
-### Inversion Killers and Verdict Rationale
-Technology Disruption is present with a 10% probability, but its -15% impact on fair value means it is not a material killer for APP. The "Own Forever" verdict is based on an 8.8 score, a formidable 9.5/10 moat (88% gross margin, 78% operating margin), and a deep value P/E of 14.9x, presenting an opportunity as Mr. Market is currently fearful.
+### APP (Score: 8.8)
+APP exhibits a formidable moat with an 88% gross margin and 78% operating margin, coupled with strong 53% revenue growth, positioning it for long-term endurance. The valuation appears deeply attractive at a P/E of 14.9x, and Mr. Market's current fear, indicated by its near 52-week low position (5% of range), presents a buying opportunity. Inversion analysis reveals no material killers, leading to a confident "Own Forever" verdict.
 
 ---
-# Buffett/Munger Moat Lane: GOOGL
-*Generated: 2026-08-30 09:51 | Price: $346.59 | Mkt Cap: $4239B*
-
-### Inversion Killers and Verdict Rationale
-Management/Governance Failure, stemming from 1.6% insider ownership and a potential 15% probability and -20% impact, is noted but not considered a material inversion killer. GOOGL's "Own Forever" verdict is driven by its outstanding 9.5/10 Quality (24.9% Avg ROIC) and 9.5/10 Moat (61% gross margin), further supported by a substantial 46% margin of safety.
+### GOOGL (Score: 8.7)
+GOOGL demonstrates exceptional quality with 24.9% average ROIC and 81% FCF/NI, underpinned by a durable moat (61% gross margin, 34% operating margin). Critically, a significant 44% margin of safety is present, with an intrinsic value of $498 against a price of $346.59, and no material inversion killers identified. This strong combination of quality, moat, and value justifies an "Own Forever" conviction.
 
 ---
-# Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-08-30 09:51 | Price: $342.88 | Mkt Cap: $4193B*
+### GOOG (Score: 8.7)
+GOOG shares GOOGL's impressive quality (24.9% average ROIC, 81% FCF/NI) and strong moat (61% gross margin, 34% operating margin), also offering a substantial 46% margin of safety ($500 intrinsic value vs $342.88 price). While management/governance failure is noted as a material inversion killer (20% probability, -30% impact), the company's other pillars remain robust. The overall strength still warrants an "Own Forever" verdict.
 
-### Inversion Killers and Verdict Rationale
-Management/Governance Failure is a material inversion killer for GOOG, carrying a 20% probability and -30% impact due to extremely low insider ownership of 0.5%. Nevertheless, the stock earns an "Own Forever" verdict with an 8.7 score, excellent quality (24.9% Avg ROIC, 81% FCF/NI), a robust 9.5/10 moat, and a significant 46% margin of safety.
+---
 
 ## Munger Inversion Alert
-No names in the top 20, for which detailed reports are provided, have 2 or more material inversion killers.
+
+No names in the top 20, for which detailed reports are provided, have two or more material inversion killers identified. GOOG (score 8.7) shows one material inversion killer related to Management/Governance Failure.
 
 ## Bottom Line
-Alphabet (GOOGL) presents the single best risk-adjusted name today, exhibiting outstanding quality and moat with a substantial 46% margin of safety and no material inversion killers.
+
+GOOGL represents the single best risk-adjusted name today, showcasing exceptional quality and moat alongside a compelling 44% margin of safety and no identified material inversion killers.

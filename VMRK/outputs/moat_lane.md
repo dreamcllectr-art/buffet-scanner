@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VMRK
-*Generated: 2026-08-30 09:57 | Price: $65.54 | Mkt Cap: $26B*
+*Generated: 2026-08-31 10:49 | Price: $65.54 | Mkt Cap: $26B*
 
 ## Sector Context
 Real Estate / REIT - Residential

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APTV
-*Generated: 2026-08-30 09:51 | Price: $45.75 | Mkt Cap: $9B*
+*Generated: 2026-08-31 10:43 | Price: $45.75 | Mkt Cap: $9B*
 
 ## Sector Context
 Consumer Cyclical / Auto Parts
@@ -36,7 +36,7 @@ Consumer Cyclical / Auto Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Auto Parts
-- **Margin of Safety**: -27% — ABSENT ($46 > IV $33 at 15x for -35% growth)
+- **Margin of Safety**: -28% — ABSENT ($46 > IV $33 at 15x for -35% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

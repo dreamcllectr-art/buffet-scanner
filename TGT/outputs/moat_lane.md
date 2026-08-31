@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TGT
-*Generated: 2026-08-30 09:57 | Price: $163.18 | Mkt Cap: $74B*
+*Generated: 2026-08-31 10:47 | Price: $163.18 | Mkt Cap: $74B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: 45% — PRESENT (IV $237 vs $163 at 25x)
+- **Margin of Safety**: 48% — PRESENT (IV $241 vs $163 at 25x)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

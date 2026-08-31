@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PSKY
-*Generated: 2026-08-30 09:54 | Price: $10.88 | Mkt Cap: $12B*
+*Generated: 2026-08-31 10:46 | Price: $10.88 | Mkt Cap: $12B*
 
 ## Sector Context
 Communication Services / Entertainment

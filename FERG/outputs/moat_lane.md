@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FERG
-*Generated: 2026-08-30 09:53 | Price: $228.49 | Mkt Cap: $44B*
+*Generated: 2026-08-31 10:45 | Price: $228.49 | Mkt Cap: $44B*
 
 ## Sector Context
 Industrials / Industrial Distribution
@@ -36,7 +36,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -26% — ABSENT ($228 > IV $169 at 17x for 7% growth)
+- **Margin of Safety**: -24% — ABSENT ($228 > IV $173 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

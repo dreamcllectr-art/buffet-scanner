@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BAX
-*Generated: 2026-08-30 09:51 | Price: $26.13 | Mkt Cap: $14B*
+*Generated: 2026-08-31 10:43 | Price: $26.13 | Mkt Cap: $14B*
 
 ## Sector Context
 Healthcare / Medical Instruments & Supplies

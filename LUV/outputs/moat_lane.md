@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LUV
-*Generated: 2026-08-30 09:57 | Price: $39.64 | Mkt Cap: $19B*
+*Generated: 2026-08-31 10:47 | Price: $39.64 | Mkt Cap: $19B*
 
 ## Sector Context
 Industrials / Airlines
@@ -36,7 +36,7 @@ Industrials / Airlines
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Airlines
-- **Margin of Safety**: 0% — thin (IV $40 at 25x)
+- **Margin of Safety**: 1% — thin (IV $40 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.0% insider ownership
 - **Mr. Market**: Neutral

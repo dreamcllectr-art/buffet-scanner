@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETR
-*Generated: 2026-08-30 09:52 | Price: $105.75 | Mkt Cap: $49B*
+*Generated: 2026-08-31 10:44 | Price: $105.75 | Mkt Cap: $49B*
 
 ## Sector Context
 Utilities / Utilities - Regulated Electric

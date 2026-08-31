@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SWKS
-*Generated: 2026-08-30 09:57 | Price: $65.79 | Mkt Cap: $10B*
+*Generated: 2026-08-31 10:47 | Price: $65.79 | Mkt Cap: $10B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -36,7 +36,7 @@ Technology / Semiconductors
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -57% — ABSENT ($66 > IV $28 at 15x for -69% growth)
+- **Margin of Safety**: -56% — ABSENT ($66 > IV $29 at 15x for -69% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PWR
-*Generated: 2026-08-30 09:54 | Price: $602.7 | Mkt Cap: $91B*
+*Generated: 2026-08-31 10:47 | Price: $602.7 | Mkt Cap: $91B*
 
 ## Sector Context
 Industrials / Engineering & Construction
@@ -36,7 +36,7 @@ Industrials / Engineering & Construction
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Engineering & Construction
-- **Margin of Safety**: -65% — ABSENT ($603 > IV $212 at 25x for 25% growth)
+- **Margin of Safety**: -64% — ABSENT ($603 > IV $218 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

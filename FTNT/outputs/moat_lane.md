@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTNT
-*Generated: 2026-08-30 09:53 | Price: $166.0 | Mkt Cap: $122B*
+*Generated: 2026-08-31 10:45 | Price: $166.0 | Mkt Cap: $122B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -36,7 +36,7 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -59% — ABSENT ($166 > IV $68 at 25x for 25% growth)
+- **Margin of Safety**: -58% — ABSENT ($166 > IV $70 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 17.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

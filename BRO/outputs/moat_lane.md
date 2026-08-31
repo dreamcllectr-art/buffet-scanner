@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BRO
-*Generated: 2026-08-30 09:52 | Price: $73.31 | Mkt Cap: $25B*
+*Generated: 2026-08-31 10:43 | Price: $73.31 | Mkt Cap: $25B*
 
 ## Sector Context
 Financial Services / Insurance Brokers
@@ -36,7 +36,7 @@ Financial Services / Insurance Brokers
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance Brokers
-- **Margin of Safety**: -26% — ABSENT ($73 > IV $55 at 17x for 7% growth)
+- **Margin of Safety**: -27% — ABSENT ($73 > IV $53 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
 - **Incentive-Caused Bias**: Aligned — 13.3% insider ownership
 - **Mr. Market**: Neutral

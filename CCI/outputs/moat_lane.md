@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCI
-*Generated: 2026-08-30 09:52 | Price: $76.14 | Mkt Cap: $33B*
+*Generated: 2026-08-31 10:44 | Price: $76.14 | Mkt Cap: $33B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -51% — ABSENT ($76 > IV $37 at 15x for -68% growth)
+- **Margin of Safety**: -52% — ABSENT ($76 > IV $37 at 15x for -68% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

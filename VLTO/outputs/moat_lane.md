@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLTO
-*Generated: 2026-08-30 09:57 | Price: $98.56 | Mkt Cap: $24B*
+*Generated: 2026-08-31 10:49 | Price: $98.56 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Pollution & Treatment Controls
@@ -36,7 +36,7 @@ Industrials / Pollution & Treatment Controls
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Pollution & Treatment Controls
-- **Margin of Safety**: -19% — ABSENT ($99 > IV $80 at 20x for 10% growth)
+- **Margin of Safety**: -19% — ABSENT ($99 > IV $79 at 20x for 10% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

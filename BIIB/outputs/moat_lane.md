@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BIIB
-*Generated: 2026-08-31 10:43 | Price: $218.5 | Mkt Cap: $32B*
+*Generated: 2026-09-01 09:19 | Price: $216.65 | Mkt Cap: $32B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -20,10 +20,10 @@ Healthcare / Drug Manufacturers - General
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 67% (severe cyclicality); FCF/NI: 113% (strong); Gross margin: 78% (pricing power for Healthcare) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 62% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: 113% (strong); Gross margin: 78% (pricing power for Healthcare) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 78% vs sector strong cutoff 55% — strong pricing power; Operating margin 25% — durable for Healthcare | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.2x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Owner earnings yield: 3.9% | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 13.1x — deep value; Near 52w high (93% of range) — Mr. Market greedy; Owner earnings yield: 4.0% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Healthcare / Drug Manufacturers - General
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Drug Manufacturers - General
-- **Margin of Safety**: -61% — ABSENT ($218 > IV $85 at 15x for -85% growth)
+- **Margin of Safety**: -61% — ABSENT ($217 > IV $84 at 15x for -85% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Greedy — exercise caution

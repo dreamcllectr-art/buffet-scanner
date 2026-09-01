@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VLTO
-*Generated: 2026-08-31 10:49 | Price: $98.56 | Mkt Cap: $24B*
+*Generated: 2026-09-01 09:22 | Price: $98.57 | Mkt Cap: $24B*
 
 ## Sector Context
 Industrials / Pollution & Treatment Controls

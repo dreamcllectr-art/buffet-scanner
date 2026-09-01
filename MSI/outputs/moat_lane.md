@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MSI
-*Generated: 2026-08-31 10:46 | Price: $486.0 | Mkt Cap: $80B*
+*Generated: 2026-09-01 09:21 | Price: $485.3 | Mkt Cap: $80B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -56% — ABSENT ($486 > IV $216 at 17x for 10% growth)
+- **Margin of Safety**: -56% — ABSENT ($485 > IV $215 at 17x for 10% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

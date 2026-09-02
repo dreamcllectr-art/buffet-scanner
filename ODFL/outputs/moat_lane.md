@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ODFL
-*Generated: 2026-09-01 09:21 | Price: $199.96 | Mkt Cap: $42B*
+*Generated: 2026-09-02 08:43 | Price: $187.01 | Mkt Cap: $39B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.6% inst.) as insider
 
@@ -22,13 +22,13 @@ Industrials / Trucking
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 30.5% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 0% (stable); FCF/NI: 75%; Gross margin: 40% (pricing power for Industrials) | ROIC declining |
-| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.7% of shares (SBC concern) | - |
+| Quality | 3.5/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 30.5% (4y); Earnings: 3/3 down-years (unpredictable); 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 75%; Gross margin: 40% (pricing power for Industrials) | ROIC declining |
+| Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 10.4% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 40% vs sector strong cutoff 35% — strong pricing power; Operating margin 29% — durable for Industrials | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 30.1x — expensive; 52w range position: 59%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.2x — growth premium; 52w range position: 48%; Owner earnings yield: 2.5%; Earnings yield < 4% — worse than bonds | - |
+| **TOTAL** | **5.3/10** | **100%** | **5.3** | | |
 
-## Buffett Score: 5.0 / 10
+## Buffett Score: 5.3 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,7 +38,7 @@ Industrials / Trucking
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Trucking
-- **Margin of Safety**: -34% — ABSENT ($200 > IV $131 at 25x for 25% growth)
+- **Margin of Safety**: -35% — ABSENT ($187 > IV $122 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

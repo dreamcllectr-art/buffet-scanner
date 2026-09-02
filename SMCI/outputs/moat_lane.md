@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SMCI
-*Generated: 2026-09-01 09:22 | Price: $37.28 | Mkt Cap: $24B*
+*Generated: 2026-09-02 08:46 | Price: $36.71 | Mkt Cap: $24B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -12,7 +12,7 @@ Technology / Computer Hardware
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Computer Hardware | 25% | -35% | YES |
 | 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 3.3x | 15% | -25% | No |
-| 3 | Management / Governance Failure | Insider ownership 12.9%; key-man / succession risk | 8% | -15% | No |
+| 3 | Management / Governance Failure | Insider ownership 12.7%; key-man / succession risk | 8% | -15% | No |
 
 ---
 
@@ -20,13 +20,13 @@ Technology / Computer Hardware
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 1.1/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 15.5% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -38% (weak conversion); Gross margin: 11% (below Technology norm) | ROIC declining |
-| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.8% of shares (SBC concern) | - |
+| Quality | 1.0/10 | 30% | 0.3 | ROIC declining trend; Avg ROIC: 15.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 85% (severe cyclicality); FCF/NI: -74% (weak conversion); Gross margin: 11% (below Technology norm) | ROIC declining |
+| Management | 8.5/10 | 25% | 2.1 | Insider ownership: 12.7% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 19.8% of shares (SBC concern) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 11% — below Technology moderate cutoff 40%; Operating margin 13% — thin for Technology; Rev growth 93% — demand pull | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 7.0x — deep value; 52w range position: 45% | - |
-| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.9x — deep value; 52w range position: 44% | - |
+| **TOTAL** | **5.4/10** | **100%** | **5.4** | | |
 
-## Buffett Score: 5.5 / 10
+## Buffett Score: 5.4 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,9 +36,9 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: 119% — PRESENT (IV $82 vs $37 at 25x)
+- **Margin of Safety**: 119% — PRESENT (IV $80 vs $37 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: attractive valuation, secular growth)
-- **Incentive-Caused Bias**: Aligned — 12.9% insider ownership
+- **Incentive-Caused Bias**: Aligned — 12.7% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check

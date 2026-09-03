@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TPR
-*Generated: 2026-09-02 08:46 | Price: $122.14 | Mkt Cap: $24B*
+*Generated: 2026-09-03 08:54 | Price: $123.14 | Mkt Cap: $25B*
 
 ## Sector Context
 Consumer Cyclical / Luxury Goods
@@ -23,7 +23,7 @@ Consumer Cyclical / Luxury Goods
 | Quality | 2.6/10 | 30% | 0.8 | ROIC declining trend; Avg ROIC: 15.4% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 80% from prior peak; 5y price drawdown: 42% (moderate cyclicality); FCF/NI: 228% (strong); Gross margin: 77% (pricing power for Consumer Cyclical) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 77% vs sector strong cutoff 45% — strong pricing power; Operating margin 20% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.8x — deep value; 52w range position: 41%; Owner earnings yield: 5.7% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.9x — deep value; 52w range position: 42%; Owner earnings yield: 5.7% (>5%) | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Luxury Goods
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Luxury Goods
-- **Margin of Safety**: 0% — thin (IV $122 at 17x)
+- **Margin of Safety**: 1% — thin (IV $125 at 17x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADBE
-*Generated: 2026-09-02 08:40 | Price: $286.08 | Mkt Cap: $114B*
+*Generated: 2026-09-03 08:48 | Price: $279.79 | Mkt Cap: $111B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,7 +23,7 @@ Technology / Software - Application
 | Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 30.5% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 72% (severe cyclicality); FCF/NI: 141% (strong); Gross margin: 89% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 89% vs sector strong cutoff 60% — strong pricing power; Operating margin 35% — durable for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.4x — deep value; 52w range position: 53%; Owner earnings yield: 8.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 50%; Owner earnings yield: 8.3% (>5%) | - |
 | **TOTAL** | **7.8/10** | **100%** | **7.8** | | |
 
 ## Buffett Score: 7.8 / 10
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: 1% — thin (IV $290 at 17x)
+- **Margin of Safety**: 4% — thin (IV $291 at 17x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, attractive valuation
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral

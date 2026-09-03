@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMB
-*Generated: 2026-09-02 08:46 | Price: $75.23 | Mkt Cap: $92B*
+*Generated: 2026-09-03 08:55 | Price: $75.16 | Mkt Cap: $92B*
 
 ## Sector Context
 Energy / Oil & Gas Midstream
@@ -23,7 +23,7 @@ Energy / Oil & Gas Midstream
 | Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 9.6% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 30% from prior peak; 5y price drawdown: 23% (stable); FCF/NI: 93% (strong); Gross margin: 64% (pricing power for Energy) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 64% vs sector strong cutoff 30% — strong pricing power; Operating margin 40% — durable for Energy | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.7x — growth premium; 52w range position: 80%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 28.7x — growth premium; 52w range position: 79%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10

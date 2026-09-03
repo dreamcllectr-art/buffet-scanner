@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JBL
-*Generated: 2026-09-02 08:42 | Price: $299.14 | Mkt Cap: $31B*
+*Generated: 2026-09-03 08:50 | Price: $299.39 | Mkt Cap: $31B*
 
 ## Sector Context
 Technology / Electronic Components
@@ -36,7 +36,7 @@ Technology / Electronic Components
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Electronic Components
-- **Margin of Safety**: -34% — ABSENT ($299 > IV $196 at 25x for 25% growth)
+- **Margin of Safety**: -33% — ABSENT ($299 > IV $200 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 1.2% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AMP
-*Generated: 2026-09-02 08:40 | Price: $542.64 | Mkt Cap: $48B*
+*Generated: 2026-09-03 08:48 | Price: $551.85 | Mkt Cap: $49B*
 
 ## Sector Context
 Financial Services / Asset Management
@@ -21,9 +21,9 @@ Financial Services / Asset Management
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.0/10 | 30% | 2.1 | ROE: 63.4% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 32% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 8.5/10 | 25% | 2.1 | ROE 63% — strong franchise (Financial Services); Operating margin 31% — durable for Financial Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.5x — deep value; 52w range position: 80%; Owner earnings yield: 6.1% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.7x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 6.0% (>5%) | - |
 | **TOTAL** | **7.2/10** | **100%** | **7.2** | | |
 
 ## Buffett Score: 7.2 / 10
@@ -36,10 +36,10 @@ Financial Services / Asset Management
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Asset Management
-- **Margin of Safety**: 50% — PRESENT (IV $812 vs $543 at 20x)
+- **Margin of Safety**: 53% — PRESENT (IV $842 vs $552 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, attractive valuation)

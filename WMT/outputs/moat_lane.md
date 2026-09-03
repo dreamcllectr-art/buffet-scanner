@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WMT
-*Generated: 2026-09-02 08:46 | Price: $105.92 | Mkt Cap: $840B*
+*Generated: 2026-09-03 08:55 | Price: $106.09 | Mkt Cap: $844B*
 
 ## Sector Context
 Consumer Defensive / Discount Stores
@@ -21,9 +21,9 @@ Consumer Defensive / Discount Stores
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 7.6/10 | 30% | 2.3 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 26% (stable); FCF/NI: 83% (strong); Gross margin: 25% (thin by design for Discount Stores) | - |
-| Management | 8.5/10 | 25% | 2.1 | Insider value: $378B (45.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.0% of shares (SBC concern) | - |
+| Management | 8.5/10 | 25% | 2.1 | Insider value: $380B (45.0%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 45.3% of shares (SBC concern) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 6% / ROE 22% — scale moat (Discount Stores); Operating margin 3% — thin for Consumer Defensive | - |
-| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.8x — expensive; Near 52w low (24% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.0/10 | 20% | 1.0 | P/E 32.8x — expensive; Near 52w low (23% of range) — Mr. Market fearful; Owner earnings yield: 0.8%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
 ## Buffett Score: 7.3 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Discount Stores
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Discount Stores
-- **Margin of Safety**: -60% — ABSENT ($106 > IV $42 at 15x for -9% growth)
+- **Margin of Safety**: -61% — ABSENT ($106 > IV $42 at 15x for -9% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Aligned — 45.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

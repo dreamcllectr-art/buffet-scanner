@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GIS
-*Generated: 2026-09-02 08:42 | Price: $41.09 | Mkt Cap: $22B*
+*Generated: 2026-09-03 08:50 | Price: $40.58 | Mkt Cap: $22B*
 
 ## Sector Context
 Consumer Defensive / Packaged Foods
@@ -23,7 +23,7 @@ Consumer Defensive / Packaged Foods
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 10.0% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 103% from prior peak; 5y price drawdown: 60% (severe cyclicality); FCF/NI: -394% (weak conversion); Gross margin: 34% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -10.5% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 34% — moderate moat for Consumer Defensive; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.8x — deep value; 52w range position: 48%; Owner earnings yield: 10.5% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; 52w range position: 45%; Owner earnings yield: 10.6% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10

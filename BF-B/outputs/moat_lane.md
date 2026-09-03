@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-09-02 08:40 | Price: $26.36 | Mkt Cap: $12B*
+*Generated: 2026-09-03 08:49 | Price: $27.38 | Mkt Cap: $13B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Wineries & Distilleries
@@ -20,14 +20,14 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.2/10 | 30% | 0.7 | Avg ROIC: 14.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 68%; Gross margin: 61% (pricing power for Consumer Defensive) | - |
+| Quality | 3.7/10 | 30% | 1.1 | Avg ROIC: 14.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 68%; Gross margin: 61% (pricing power for Consumer Defensive) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -9.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 45% — strong pricing power; Operating margin 23% — durable for Consumer Defensive | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 40%; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.1x — fair price; 52w range position: 51%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
+## Buffett Score: 6.6 / 10
+## Alpha Adjustment: +0.16
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Wineries & Distilleries
-- **Margin of Safety**: -14% — ABSENT ($26 > IV $23 at 15x for -63% growth)
+- **Margin of Safety**: -13% — ABSENT ($27 > IV $24 at 15x for -63% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
+Buffett Premium: +0.16 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

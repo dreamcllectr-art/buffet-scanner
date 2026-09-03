@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTRS
-*Generated: 2026-09-02 08:46 | Price: $16.63 | Mkt Cap: $19B*
+*Generated: 2026-09-03 08:55 | Price: $17.09 | Mkt Cap: $20B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 1003% (strong); Gross margin: 40% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Healthcare; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; 52w range position: 80%; Owner earnings yield: 14.0% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.4x — deep value; Near 52w high (85% of range) — Mr. Market greedy; Owner earnings yield: 13.6% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10
@@ -39,7 +39,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

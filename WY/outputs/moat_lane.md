@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WY
-*Generated: 2026-09-02 08:46 | Price: $23.38 | Mkt Cap: $17B*
+*Generated: 2026-09-03 08:55 | Price: $23.19 | Mkt Cap: $17B*
 
 ## Sector Context
 Real Estate / REIT - Specialty
@@ -20,10 +20,10 @@ Real Estate / REIT - Specialty
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 43% (moderate cyclicality); FCF/NI: 46% (weak conversion); Gross margin: 15% (below Real Estate norm) | ROIC declining |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 6.4% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 83% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 46% (weak conversion); Gross margin: 15% (below Real Estate norm) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 15% — below Real Estate moderate cutoff 35%; Operating margin 8% — thin for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.4x — expensive; 52w range position: 34%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.1x — expensive; 52w range position: 31%; Owner earnings yield: 0.1%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **2.6/10** | **100%** | **2.6** | | |
 
 ## Buffett Score: 2.6 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Specialty
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Specialty
-- **Margin of Safety**: -29% — ABSENT ($23 > IV $16 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($23 > IV $16 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

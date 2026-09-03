@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: QCOM
-*Generated: 2026-09-02 08:43 | Price: $166.61 | Mkt Cap: $178B*
+*Generated: 2026-09-03 08:54 | Price: $169.96 | Mkt Cap: $182B*
 
 ## Sector Context
 Technology / Semiconductors
@@ -20,23 +20,23 @@ Technology / Semiconductors
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 26.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 57% from prior peak; 5y price drawdown: 0% (stable); FCF/NI: 133% (strong); Gross margin: 54% | - |
+| Quality | 5.0/10 | 30% | 1.5 | Avg ROIC: 26.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 57% from prior peak; 5y price drawdown: 44% (moderate cyclicality); FCF/NI: 133% (strong); Gross margin: 54% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 54% — moderate moat for Technology; Operating margin 19% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.3x — fair price; 52w range position: 32%; Owner earnings yield: 5.8% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.7x — fair price; 52w range position: 35%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 6.2 / 10
-## Alpha Adjustment: +0.12
-## Conviction: MODERATE
-## Verdict: Watchlist
+## Buffett Score: 6.0 / 10
+## Alpha Adjustment: +0.00
+## Conviction: LOW
+## Verdict: Pass
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Semiconductors
-- **Margin of Safety**: -23% — ABSENT ($167 > IV $128 at 15x for -23% growth)
+- **Margin of Safety**: -21% — ABSENT ($170 > IV $134 at 15x for -23% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral
@@ -48,7 +48,7 @@ No (1 forces only: attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.12 applied to composite alpha score
-Conviction Gate: MODERATE — Proceed
-Half-life adjustment: +20% decay if MODERATE
+Buffett Premium: +0.00 applied to composite alpha score
+Conviction Gate: LOW — Do not initiate position
+Half-life adjustment: N/A
 ```

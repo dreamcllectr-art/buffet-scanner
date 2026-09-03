@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MS
-*Generated: 2026-09-02 08:43 | Price: $211.04 | Mkt Cap: $331B*
+*Generated: 2026-09-03 08:51 | Price: $211.82 | Mkt Cap: $333B*
 
 > ⚠ DATA: yfinance misclassified Mitsubishi UFJ Financial Group Inc (23.9% inst.) as insider
 
@@ -38,7 +38,7 @@ Financial Services / Capital Markets
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Capital Markets
-- **Margin of Safety**: 45% — PRESENT (IV $306 vs $211 at 25x)
+- **Margin of Safety**: 46% — PRESENT (IV $310 vs $212 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

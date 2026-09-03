@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HLT
-*Generated: 2026-09-02 08:42 | Price: $311.99 | Mkt Cap: $70B*
+*Generated: 2026-09-03 08:50 | Price: $311.51 | Mkt Cap: $70B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -23,7 +23,7 @@ Consumer Cyclical / Lodging
 | Quality | 7.0/10 | 30% | 2.1 | Avg ROIC: 25.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 132% (strong); Gross margin: 79% (pricing power for Consumer Cyclical) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.2% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 45% — strong pricing power; Operating margin 63% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.8x — growth premium; 52w range position: 56%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 29.8x — growth premium; 52w range position: 55%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10

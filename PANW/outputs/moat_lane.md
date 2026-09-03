@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-09-02 08:43 | Price: $362.09 | Mkt Cap: $295B*
+*Generated: 2026-09-03 08:51 | Price: $328.48 | Mkt Cap: $268B*
 
 ## Sector Context
 Technology / Software - Infrastructure
@@ -23,10 +23,10 @@ Technology / Software - Infrastructure
 | Quality | 4.9/10 | 30% | 1.5 | Avg ROIC: 9.4% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 56% from prior peak; 5y price drawdown: 36% (stable); FCF/NI: 88% (strong); Gross margin: 72% (pricing power for Technology) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.8% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 72% vs sector strong cutoff 60% — strong pricing power; Operating margin -2% — thin for Technology; Rev growth 31% — demand pull | - |
-| Valuation Fit | 0.5/10 | 20% | 0.1 | P/E 74.8x — extreme premium; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 1.2%; Earnings yield < 4% — worse than bonds | Expensive |
-| **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
+| Valuation Fit | 1.5/10 | 20% | 0.3 | P/E 67.0x — extreme premium; 52w range position: 73%; Owner earnings yield: 1.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **4.8/10** | **100%** | **4.8** | | |
 
-## Buffett Score: 4.6 / 10
+## Buffett Score: 4.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,10 +36,10 @@ Technology / Software - Infrastructure
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Infrastructure
-- **Margin of Safety**: -92% — ABSENT ($362 > IV $27 at 25x for 25% growth)
+- **Margin of Safety**: -92% — ABSENT ($328 > IV $26 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.8% insider ownership
-- **Mr. Market**: Greedy — exercise caution
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (2 forces only: strong moat, secular growth)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CARR
-*Generated: 2026-09-02 08:40 | Price: $57.25 | Mkt Cap: $48B*
+*Generated: 2026-09-03 08:49 | Price: $57.58 | Mkt Cap: $47B*
 
 ## Sector Context
 Industrials / Building Products & Equipment
@@ -20,13 +20,13 @@ Industrials / Building Products & Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 40% (moderate cyclicality); FCF/NI: 86% (strong); Gross margin: 25% | ROIC declining |
-| Management | 5.0/10 | 25% | 1.2 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 5.6% of shares (SBC concern) | - |
+| Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 74% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 86% (strong); Gross margin: 25% | ROIC declining |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 4.9% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 25% — moderate moat for Industrials; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.3x — fair price; Near 52w low (26% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 17.4x — fair price; Near 52w low (28% of range) — Mr. Market fearful; Owner earnings yield: 1.8%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
-## Buffett Score: 4.9 / 10
+## Buffett Score: 5.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Industrials / Building Products & Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Building Products & Equipment
-- **Margin of Safety**: -64% — ABSENT ($57 > IV $21 at 15x for -12% growth)
+- **Margin of Safety**: -63% — ABSENT ($58 > IV $21 at 15x for -12% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.8% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

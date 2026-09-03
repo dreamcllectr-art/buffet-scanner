@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AAPL
-*Generated: 2026-09-02 08:40 | Price: $325.13 | Mkt Cap: $4745B*
+*Generated: 2026-09-03 08:49 | Price: $324.96 | Mkt Cap: $4743B*
 
 ## Sector Context
 Technology / Consumer Electronics
@@ -23,7 +23,7 @@ Technology / Consumer Electronics
 | Quality | 6.0/10 | 30% | 1.8 | Avg ROIC: 57.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 33% (stable); FCF/NI: 105% (strong); Gross margin: 49% | - |
 | Management | 9.0/10 | 25% | 2.2 | Insider value: $78B (1.6%) — massive skin in game; Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 49% — moderate moat for Technology; Operating margin 33% — durable for Technology | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.1x — expensive; 52w range position: 84%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 34.1x — expensive; 52w range position: 83%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -36,7 +36,7 @@ Technology / Consumer Electronics
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Consumer Electronics
-- **Margin of Safety**: -31% — ABSENT ($325 > IV $224 at 25x for 25% growth)
+- **Margin of Safety**: -33% — ABSENT ($325 > IV $218 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (0 forces only: none)
 - **Incentive-Caused Bias**: Weak alignment — only 1.6% insider ownership
 - **Mr. Market**: Neutral

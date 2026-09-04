@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-09-03 08:50 | Price: $356.22 | Mkt Cap: $947B*
+*Generated: 2026-09-04 08:46 | Price: $362.06 | Mkt Cap: $962B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -21,9 +21,9 @@ Financial Services / Banks - Diversified
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.9/10 | 30% | 2.1 | ROE: 17.8% (financials — book-return proxy); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 39% (stable); FCF/NI: n/a for financials (float/deposit accounting); Gross margin: n/a for financials | - |
-| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.7B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
+| Management | 7.5/10 | 25% | 1.9 | Insider value: $3.8B (0.4%) — significant; Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | ROE 18% — strong franchise (Financial Services); Operating margin 50% — durable for Financial Services; Rev growth 30% — demand pull | - |
-| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.2x — deep value; Near 52w high (88% of range) — Mr. Market greedy | - |
+| Valuation Fit | 9.0/10 | 20% | 1.8 | P/E 14.5x — deep value; Near 52w high (95% of range) — Mr. Market greedy; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **8.0/10** | **100%** | **8.0** | | |
 
 ## Buffett Score: 8.0 / 10
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 65% — PRESENT (IV $586 vs $356 at 25x)
+- **Margin of Safety**: 64% — PRESENT (IV $593 vs $362 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

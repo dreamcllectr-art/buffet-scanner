@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FDX
-*Generated: 2026-09-03 08:50 | Price: $316.54 | Mkt Cap: $75B*
+*Generated: 2026-09-04 08:45 | Price: $324.31 | Mkt Cap: $77B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.0% inst.) as insider
 
@@ -22,13 +22,13 @@ Industrials / Integrated Freight & Logistics
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: 82% (strong); Gross margin: 27% | - |
+| Quality | 4.2/10 | 30% | 1.3 | Avg ROIC: 10.1% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 45% (moderate cyclicality); FCF/NI: 82% (strong); Gross margin: 27% | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.6% of shares (SBC concern) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 27% — moderate moat for Industrials; Operating margin 11% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.2x — fair price; 52w range position: 83%; Owner earnings yield: 7.6% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 15.6x — fair price; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 7.4% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
-## Buffett Score: 5.8 / 10
+## Buffett Score: 5.5 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -38,10 +38,10 @@ Industrials / Integrated Freight & Logistics
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Integrated Freight & Logistics
-- **Margin of Safety**: -14% — ABSENT ($317 > IV $271 at 15x for -4% growth)
+- **Margin of Safety**: -12% — ABSENT ($324 > IV $285 at 15x for -4% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

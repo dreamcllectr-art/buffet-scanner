@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TAP
-*Generated: 2026-09-03 08:51 | Price: $40.54 | Mkt Cap: $8B*
+*Generated: 2026-09-04 08:46 | Price: $40.57 | Mkt Cap: $8B*
 
 > ⚠ DATA: yfinance misclassified Dodge & Cox Inc. (10.9% inst.) as insider
 

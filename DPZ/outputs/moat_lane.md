@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DPZ
-*Generated: 2026-09-03 08:49 | Price: $346.68 | Mkt Cap: $11B*
+*Generated: 2026-09-04 08:45 | Price: $347.03 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Restaurants
@@ -36,7 +36,7 @@ Consumer Cyclical / Restaurants
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Restaurants
-- **Margin of Safety**: -12% — ABSENT ($347 > IV $305 at 17x for 7% growth)
+- **Margin of Safety**: -13% — ABSENT ($347 > IV $300 at 17x for 7% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

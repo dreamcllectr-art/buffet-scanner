@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ABT
-*Generated: 2026-09-04 08:44 | Price: $108.79 | Mkt Cap: $188B*
+*Generated: 2026-09-05 08:15 | Price: $108.33 | Mkt Cap: $187B*
 
 ## Sector Context
 Healthcare / Medical Devices
@@ -23,7 +23,7 @@ Healthcare / Medical Devices
 | Quality | 3.6/10 | 30% | 1.1 | Avg ROIC: 11.1% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 51% from prior peak; 5y price drawdown: 40% (stable); FCF/NI: 90% (strong); Gross margin: 57% (pricing power for Healthcare) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 57% vs sector strong cutoff 55% — strong pricing power; Operating margin 15% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 48%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.9x — fair price; 52w range position: 47%; Owner earnings yield: 3.8%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
 ## Buffett Score: 5.8 / 10
@@ -36,7 +36,7 @@ Healthcare / Medical Devices
 ## Mental Models Applied
 
 - **Circle of Competence**: Healthcare / Medical Devices
-- **Margin of Safety**: -58% — ABSENT ($109 > IV $46 at 15x for -48% growth)
+- **Margin of Safety**: -57% — ABSENT ($108 > IV $46 at 15x for -48% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

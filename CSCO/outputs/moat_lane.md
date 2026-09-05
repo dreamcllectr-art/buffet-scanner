@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CSCO
-*Generated: 2026-09-04 08:45 | Price: $108.61 | Mkt Cap: $428B*
+*Generated: 2026-09-05 08:15 | Price: $109.2 | Mkt Cap: $431B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -11,7 +11,7 @@ Technology / Communication Equipment
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Competitive leapfrog in Communication Equipment | 25% | -35% | YES |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.6x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 1.7x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 0.1%; key-man / succession risk | 20% | -30% | YES |
 
 ---
@@ -20,13 +20,13 @@ Technology / Communication Equipment
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 4.0/10 | 30% | 1.2 | ROIC declining trend; Avg ROIC: 18.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 122% (strong); Gross margin: 65% (pricing power for Technology) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: -0.0% (low) | - |
+| Quality | 3.8/10 | 30% | 1.1 | ROIC declining trend; Avg ROIC: 17.0% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 37% (stable); FCF/NI: 119% (strong); Gross margin: 65% (pricing power for Technology) | ROIC declining |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 65% vs sector strong cutoff 60% — strong pricing power; Operating margin 28% | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.4x — fair price; 52w range position: 66%; Owner earnings yield: 2.7%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 19.5x — fair price; 52w range position: 67%; Owner earnings yield: 2.6%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 5.8 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Communication Equipment
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Communication Equipment
-- **Margin of Safety**: -24% — ABSENT ($109 > IV $82 at 25x for 25% growth)
+- **Margin of Safety**: -23% — ABSENT ($109 > IV $84 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

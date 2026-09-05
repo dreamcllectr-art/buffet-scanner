@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: IBM
-*Generated: 2026-09-04 08:46 | Price: $234.71 | Mkt Cap: $221B*
+*Generated: 2026-09-05 08:16 | Price: $234.89 | Mkt Cap: $221B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -27% — ABSENT ($235 > IV $171 at 15x for -2% growth)
+- **Margin of Safety**: -28% — ABSENT ($235 > IV $169 at 15x for -2% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

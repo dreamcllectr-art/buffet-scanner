@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BR
-*Generated: 2026-09-04 08:44 | Price: $178.91 | Mkt Cap: $20B*
+*Generated: 2026-09-05 08:15 | Price: $172.88 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -23,10 +23,10 @@ Technology / Information Technology Services
 | Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 16.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 48% (moderate cyclicality); FCF/NI: 122% (strong); Gross margin: 32% (below Technology norm) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 32% — below Technology moderate cutoff 40%; Operating margin 25% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.5x — fair price; 52w range position: 37%; Owner earnings yield: 5.9% (>5%); Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.9/10** | **100%** | **5.9** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 32%; Owner earnings yield: 6.1% (>5%); Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
-## Buffett Score: 5.9 / 10
+## Buffett Score: 6.0 / 10
 ## Alpha Adjustment: +0.00
 ## Conviction: LOW
 ## Verdict: Pass
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -9% — ABSENT ($179 > IV $163 at 17x for 8% growth)
+- **Margin of Safety**: -9% — ABSENT ($173 > IV $158 at 17x for 8% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

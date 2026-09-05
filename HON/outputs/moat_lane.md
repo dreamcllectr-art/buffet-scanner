@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HON
-*Generated: 2026-09-04 08:46 | Price: $207.63 | Mkt Cap: $66B*
+*Generated: 2026-09-05 08:16 | Price: $209.61 | Mkt Cap: $66B*
 
 ## Sector Context
 Industrials / Conglomerates
@@ -23,7 +23,7 @@ Industrials / Conglomerates
 | Quality | 4.8/10 | 30% | 1.4 | ROIC declining trend; Avg ROIC: 13.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: 95% (strong); Gross margin: 37% (pricing power for Industrials) | ROIC declining |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 6.1% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 37% vs sector strong cutoff 35% — strong pricing power; Operating margin 20% — durable for Industrials | - |
-| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 20.8x — growth premium; Near 52w low (18% of range) — Mr. Market fearful; Owner earnings yield: 4.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 7.5/10 | 20% | 1.5 | P/E 21.0x — growth premium; Near 52w low (21% of range) — Mr. Market fearful; Owner earnings yield: 3.9%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Industrials / Conglomerates
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Conglomerates
-- **Margin of Safety**: 215% — PRESENT (IV $655 vs $208 at 25x)
+- **Margin of Safety**: 210% — PRESENT (IV $650 vs $210 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

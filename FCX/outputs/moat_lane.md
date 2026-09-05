@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FCX
-*Generated: 2026-09-04 08:45 | Price: $72.56 | Mkt Cap: $104B*
+*Generated: 2026-09-05 08:16 | Price: $72.73 | Mkt Cap: $104B*
 
 ## Sector Context
 Basic Materials / Copper
@@ -21,9 +21,9 @@ Basic Materials / Copper
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 6.3/10 | 30% | 1.9 | Avg ROIC: 20.5% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 47% from prior peak; 5y price drawdown: 51% (moderate cyclicality); FCF/NI: 62%; Gross margin: 38% (pricing power for Basic Materials) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.6% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 38% vs sector strong cutoff 30% — strong pricing power; Operating margin 33% — durable for Basic Materials | - |
-| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.5x — fair price; 52w range position: 83%; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 17.6x — fair price; 52w range position: 83%; Owner earnings yield: 2.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.8/10** | **100%** | **6.8** | | |
 
 ## Buffett Score: 6.8 / 10
@@ -36,7 +36,7 @@ Basic Materials / Copper
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Copper
-- **Margin of Safety**: -31% — ABSENT ($73 > IV $50 at 25x for 25% growth)
+- **Margin of Safety**: -30% — ABSENT ($73 > IV $51 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
 - **Mr. Market**: Neutral

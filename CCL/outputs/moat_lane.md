@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CCL
-*Generated: 2026-09-04 08:44 | Price: $23.48 | Mkt Cap: $32B*
+*Generated: 2026-09-05 08:15 | Price: $23.51 | Mkt Cap: $32B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (7.0% inst.) as insider
 
@@ -38,7 +38,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 41% — PRESENT (IV $33 vs $23 at 15x)
+- **Margin of Safety**: 42% — PRESENT (IV $33 vs $24 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

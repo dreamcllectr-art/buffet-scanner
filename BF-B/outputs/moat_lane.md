@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: BF-B
-*Generated: 2026-09-04 08:44 | Price: $27.51 | Mkt Cap: $13B*
+*Generated: 2026-09-05 08:15 | Price: $26.73 | Mkt Cap: $12B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Wineries & Distilleries
@@ -11,7 +11,7 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.0x | 15% | -25% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 2.1x | 15% | -25% | No |
 | 3 | Management / Governance Failure | Insider ownership 2.8%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -23,7 +23,7 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 | Quality | 2.2/10 | 30% | 0.7 | Avg ROIC: 14.3% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 30% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 68%; Gross margin: 61% (pricing power for Consumer Defensive) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 2.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: -9.7% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 61% vs sector strong cutoff 45% — strong pricing power; Operating margin 28% — durable for Consumer Defensive | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 16.1x — fair price; 52w range position: 53%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 15.6x — fair price; 52w range position: 44%; Owner earnings yield: 5.6% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.2/10** | **100%** | **6.2** | | |
 
 ## Buffett Score: 6.2 / 10
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Wineries & Distilleries
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Wineries & Distilleries
-- **Margin of Safety**: -4% — ABSENT ($28 > IV $27 at 17x for 6% growth)
+- **Margin of Safety**: -5% — ABSENT ($27 > IV $26 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 2.8% insider ownership
 - **Mr. Market**: Neutral

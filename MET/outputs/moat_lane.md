@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MET
-*Generated: 2026-09-05 08:17 | Price: $97.62 | Mkt Cap: $62B*
+*Generated: 2026-09-06 08:36 | Price: $97.62 | Mkt Cap: $62B*
 
 ## Sector Context
 Financial Services / Insurance - Life
@@ -36,7 +36,7 @@ Financial Services / Insurance - Life
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Insurance - Life
-- **Margin of Safety**: -11% — ABSENT ($98 > IV $87 at 17x for 6% growth)
+- **Margin of Safety**: -9% — ABSENT ($98 > IV $89 at 17x for 6% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 16.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution

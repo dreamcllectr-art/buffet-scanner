@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LULU
-*Generated: 2026-09-05 08:17 | Price: $100.61 | Mkt Cap: $11B*
+*Generated: 2026-09-06 08:36 | Price: $100.61 | Mkt Cap: $11B*
 
 ## Sector Context
 Consumer Cyclical / Apparel Retail
@@ -11,7 +11,7 @@ Consumer Cyclical / Apparel Retail
 | # | Killer | Description | Prob | Impact on FV | Material? |
 |---|--------|-------------|------|-------------|-----------|
 | 1 | Technology Disruption | Low disruption risk for non-tech sector | 10% | -15% | No |
-| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.8x | 5% | -10% | No |
+| 2 | Debt Spiral / Capital Misallocation | Debt/EBITDA: 0.9x | 5% | -10% | No |
 | 3 | Management / Governance Failure | Insider ownership 4.5%; key-man / succession risk | 15% | -20% | No |
 
 ---
@@ -20,14 +20,14 @@ Consumer Cyclical / Apparel Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 80% (severe cyclicality); FCF/NI: 73%; Gross margin: 56% (thin by design for Apparel Retail) | - |
-| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.0% (low) | - |
-| Moat | 8.0/10 | 25% | 2.0 | ROA 16% / ROE 32% — scale moat (Apparel Retail); Operating margin 11% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 10.2% (>5%) | - |
-| **TOTAL** | **7.0/10** | **100%** | **7.0** | | |
+| Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 41.4% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 80% (severe cyclicality); FCF/NI: 73%; Gross margin: 55% (thin by design for Apparel Retail) | - |
+| Management | 5.5/10 | 25% | 1.4 | Insider ownership: 4.5% (low); Insider activity: 0B/0S last 6m; Restricted stock: 3.5% (low) | - |
+| Moat | 9.0/10 | 25% | 2.2 | ROA 14% / ROE 31% — scale moat (Apparel Retail); Operating margin 13% — durable for Consumer Cyclical | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.8x — deep value; Near 52w low (2% of range) — Mr. Market fearful; Owner earnings yield: 10.3% (>5%) | - |
+| **TOTAL** | **7.3/10** | **100%** | **7.3** | | |
 
-## Buffett Score: 7.0 / 10
-## Alpha Adjustment: +0.20
+## Buffett Score: 7.3 / 10
+## Alpha Adjustment: +0.23
 ## Conviction: MODERATE
 ## Verdict: Watchlist
 
@@ -36,7 +36,7 @@ Consumer Cyclical / Apparel Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Apparel Retail
-- **Margin of Safety**: 50% — PRESENT (IV $151 vs $101 at 15x)
+- **Margin of Safety**: 81% — PRESENT (IV $182 vs $101 at 15x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 4.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.20 applied to composite alpha score
+Buffett Premium: +0.23 applied to composite alpha score
 Conviction Gate: MODERATE — Proceed
 Half-life adjustment: +20% decay if MODERATE
 ```

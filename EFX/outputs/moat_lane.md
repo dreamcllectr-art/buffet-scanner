@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: EFX
-*Generated: 2026-09-05 08:16 | Price: $177.05 | Mkt Cap: $21B*
+*Generated: 2026-09-06 08:35 | Price: $177.05 | Mkt Cap: $21B*
 
 ## Sector Context
 Industrials / Consulting Services
@@ -36,7 +36,7 @@ Industrials / Consulting Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Consulting Services
-- **Margin of Safety**: -55% — ABSENT ($177 > IV $80 at 15x for 1% growth)
+- **Margin of Safety**: -52% — ABSENT ($177 > IV $85 at 15x for 1% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

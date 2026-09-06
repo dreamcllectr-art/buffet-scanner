@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PANW
-*Generated: 2026-09-05 08:17 | Price: $333.26 | Mkt Cap: $272B*
+*Generated: 2026-09-06 08:36 | Price: $333.26 | Mkt Cap: $272B*
 
 ## Sector Context
 Technology / Software - Infrastructure

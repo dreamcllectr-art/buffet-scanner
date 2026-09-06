@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PEP
-*Generated: 2026-09-05 08:20 | Price: $137.63 | Mkt Cap: $188B*
+*Generated: 2026-09-06 08:36 | Price: $137.63 | Mkt Cap: $188B*
 
 ## Sector Context
 Consumer Defensive / Beverages - Non-Alcoholic
@@ -36,7 +36,7 @@ Consumer Defensive / Beverages - Non-Alcoholic
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Beverages - Non-Alcoholic
-- **Margin of Safety**: 39% — PRESENT (IV $191 vs $138 at 25x)
+- **Margin of Safety**: 38% — PRESENT (IV $190 vs $138 at 25x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VRT
-*Generated: 2026-09-05 08:21 | Price: $280.53 | Mkt Cap: $108B*
+*Generated: 2026-09-06 08:40 | Price: $280.53 | Mkt Cap: $108B*
 
 ## Sector Context
 Industrials / Electrical Equipment & Parts
@@ -36,7 +36,7 @@ Industrials / Electrical Equipment & Parts
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Electrical Equipment & Parts
-- **Margin of Safety**: -59% — ABSENT ($281 > IV $115 at 25x for 25% growth)
+- **Margin of Safety**: -61% — ABSENT ($281 > IV $111 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Neutral

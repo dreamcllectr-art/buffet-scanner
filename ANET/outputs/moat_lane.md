@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ANET
-*Generated: 2026-09-05 08:15 | Price: $193.78 | Mkt Cap: $244B*
+*Generated: 2026-09-06 08:34 | Price: $193.78 | Mkt Cap: $244B*
 
 ## Sector Context
 Technology / Computer Hardware
@@ -36,7 +36,7 @@ Technology / Computer Hardware
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Computer Hardware
-- **Margin of Safety**: -59% — ABSENT ($194 > IV $80 at 25x for 25% growth)
+- **Margin of Safety**: -59% — ABSENT ($194 > IV $79 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Aligned — 17.2% insider ownership
 - **Mr. Market**: Neutral

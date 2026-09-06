@@ -1,7 +1,6 @@
-```markdown
-# Buffett/Munger Leaderboard: 2026-09-05
+# Leaderboard: September 6, 2026
 
-The market presents a nuanced landscape, with some high-quality businesses trading at a premium reflecting investor enthusiasm, while others offer compelling value amidst market apprehension.
+The market shows selective enthusiasm for high-quality businesses, with a mix of greedy and fearful sentiment across top performers, indicating ample opportunity for the discerning value investor.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -56,32 +55,32 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 | 49 | GS | 7.3 | MODERATE | 0.23 | Watchlist |
 | 50 | INCY | 7.3 | MODERATE | 0.23 | Watchlist |
 | 51 | LVS | 7.3 | MODERATE | 0.23 | Watchlist |
-| 52 | PGR | 7.3 | MODERATE | 0.23 | Watchlist |
-| 53 | ROST | 7.3 | MODERATE | 0.23 | Watchlist |
-| 54 | TRV | 7.3 | MODERATE | 0.23 | Watchlist |
-| 55 | WMT | 7.3 | MODERATE | 0.23 | Watchlist |
-| 56 | AMP | 7.2 | MODERATE | 0.22 | Watchlist |
-| 57 | HIG | 7.2 | MODERATE | 0.22 | Watchlist |
-| 58 | MRSH | 7.2 | MODERATE | 0.22 | Watchlist |
-| 59 | MAS | 7.2 | MODERATE | 0.22 | Watchlist |
-| 60 | PNR | 7.2 | MODERATE | 0.22 | Watchlist |
-| 61 | TJX | 7.2 | MODERATE | 0.22 | Watchlist |
-| 62 | SCHW | 7.1 | MODERATE | 0.21 | Watchlist |
-| 63 | KO | 7.1 | MODERATE | 0.21 | Watchlist |
-| 64 | STZ | 7.1 | MODERATE | 0.21 | Watchlist |
-| 65 | FOX | 7.1 | MODERATE | 0.21 | Watchlist |
-| 66 | IDXX | 7.1 | MODERATE | 0.21 | Watchlist |
-| 67 | IBKR | 7.1 | MODERATE | 0.21 | Watchlist |
-| 68 | OXY | 7.1 | MODERATE | 0.21 | Watchlist |
-| 69 | SYF | 7.1 | MODERATE | 0.21 | Watchlist |
-| 70 | TT | 7.1 | MODERATE | 0.21 | Watchlist |
-| 71 | AIZ | 7.0 | MODERATE | 0.2 | Watchlist |
-| 72 | AZO | 7.0 | MODERATE | 0.2 | Watchlist |
-| 73 | CL | 7.0 | MODERATE | 0.2 | Watchlist |
-| 74 | FDS | 7.0 | MODERATE | 0.2 | Watchlist |
-| 75 | HUBB | 7.0 | MODERATE | 0.2 | Watchlist |
-| 76 | INTU | 7.0 | MODERATE | 0.2 | Watchlist |
-| 77 | LULU | 7.0 | MODERATE | 0.2 | Watchlist |
+| 52 | LULU | 7.3 | MODERATE | 0.23 | Watchlist |
+| 53 | PGR | 7.3 | MODERATE | 0.23 | Watchlist |
+| 54 | ROST | 7.3 | MODERATE | 0.23 | Watchlist |
+| 55 | TRV | 7.3 | MODERATE | 0.23 | Watchlist |
+| 56 | WMT | 7.3 | MODERATE | 0.23 | Watchlist |
+| 57 | AMP | 7.2 | MODERATE | 0.22 | Watchlist |
+| 58 | HIG | 7.2 | MODERATE | 0.22 | Watchlist |
+| 59 | MRSH | 7.2 | MODERATE | 0.22 | Watchlist |
+| 60 | MAS | 7.2 | MODERATE | 0.22 | Watchlist |
+| 61 | PNR | 7.2 | MODERATE | 0.22 | Watchlist |
+| 62 | TJX | 7.2 | MODERATE | 0.22 | Watchlist |
+| 63 | SCHW | 7.1 | MODERATE | 0.21 | Watchlist |
+| 64 | KO | 7.1 | MODERATE | 0.21 | Watchlist |
+| 65 | STZ | 7.1 | MODERATE | 0.21 | Watchlist |
+| 66 | FOX | 7.1 | MODERATE | 0.21 | Watchlist |
+| 67 | IDXX | 7.1 | MODERATE | 0.21 | Watchlist |
+| 68 | IBKR | 7.1 | MODERATE | 0.21 | Watchlist |
+| 69 | OXY | 7.1 | MODERATE | 0.21 | Watchlist |
+| 70 | SYF | 7.1 | MODERATE | 0.21 | Watchlist |
+| 71 | TT | 7.1 | MODERATE | 0.21 | Watchlist |
+| 72 | AIZ | 7.0 | MODERATE | 0.2 | Watchlist |
+| 73 | AZO | 7.0 | MODERATE | 0.2 | Watchlist |
+| 74 | CL | 7.0 | MODERATE | 0.2 | Watchlist |
+| 75 | FDS | 7.0 | MODERATE | 0.2 | Watchlist |
+| 76 | HUBB | 7.0 | MODERATE | 0.2 | Watchlist |
+| 77 | INTU | 7.0 | MODERATE | 0.2 | Watchlist |
 | 78 | PM | 7.0 | MODERATE | 0.2 | Watchlist |
 | 79 | SNDK | 7.0 | MODERATE | 0.2 | Watchlist |
 | 80 | APO | 6.9 | MODERATE | 0.19 | Watchlist |
@@ -92,151 +91,151 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 | 85 | PH | 6.9 | MODERATE | 0.19 | Watchlist |
 | 86 | PAYX | 6.9 | MODERATE | 0.19 | Watchlist |
 | 87 | TROW | 6.9 | MODERATE | 0.19 | Watchlist |
-| 88 | TPL | 6.9 | MODERATE | 0.19 | Watchlist |
-| 89 | XYL | 6.9 | MODERATE | 0.19 | Watchlist |
-| 90 | AFL | 6.8 | MODERATE | 0.18 | Watchlist |
-| 91 | CMCSA | 6.8 | MODERATE | 0.18 | Watchlist |
-| 92 | FCX | 6.8 | MODERATE | 0.18 | Watchlist |
-| 93 | IT | 6.8 | MODERATE | 0.18 | Watchlist |
-| 94 | GL | 6.8 | MODERATE | 0.18 | Watchlist |
-| 95 | MA | 6.8 | MODERATE | 0.18 | Watchlist |
-| 96 | ORLY | 6.8 | MODERATE | 0.18 | Watchlist |
-| 97 | SYK | 6.8 | MODERATE | 0.18 | Watchlist |
-| 98 | TTD | 6.8 | MODERATE | 0.18 | Watchlist |
-| 99 | UNP | 6.8 | MODERATE | 0.18 | Watchlist |
-| 100 | WDC | 6.8 | MODERATE | 0.18 | Watchlist |
-| 101 | WTW | 6.8 | MODERATE | 0.18 | Watchlist |
-| 102 | COST | 6.7 | MODERATE | 0.17 | Watchlist |
-| 103 | CRH | 6.7 | MODERATE | 0.17 | Watchlist |
-| 104 | ETN | 6.7 | MODERATE | 0.17 | Watchlist |
-| 105 | LII | 6.7 | MODERATE | 0.17 | Watchlist |
-| 106 | MU | 6.7 | MODERATE | 0.17 | Watchlist |
-| 107 | OTIS | 6.7 | MODERATE | 0.17 | Watchlist |
-| 108 | PPG | 6.7 | MODERATE | 0.17 | Watchlist |
-| 109 | URI | 6.7 | MODERATE | 0.17 | Watchlist |
-| 110 | V | 6.7 | MODERATE | 0.17 | Watchlist |
-| 111 | WFC | 6.7 | MODERATE | 0.17 | Watchlist |
-| 112 | AME | 6.6 | MODERATE | 0.16 | Watchlist |
-| 113 | AMGN | 6.6 | MODERATE | 0.16 | Watchlist |
-| 114 | AAPL | 6.6 | MODERATE | 0.16 | Watchlist |
-| 115 | ATO | 6.6 | MODERATE | 0.16 | Watchlist |
-| 116 | BRK-B | 6.6 | MODERATE | 0.16 | Watchlist |
-| 117 | BSX | 6.6 | MODERATE | 0.16 | Watchlist |
-| 118 | CME | 6.6 | MODERATE | 0.16 | Watchlist |
-| 119 | EFX | 6.6 | MODERATE | 0.16 | Watchlist |
-| 120 | FFIV | 6.6 | MODERATE | 0.16 | Watchlist |
-| 121 | FAST | 6.6 | MODERATE | 0.16 | Watchlist |
-| 122 | GEN | 6.6 | MODERATE | 0.16 | Watchlist |
-| 123 | GILD | 6.6 | MODERATE | 0.16 | Watchlist |
-| 124 | IR | 6.6 | MODERATE | 0.16 | Watchlist |
-| 125 | NFLX | 6.6 | MODERATE | 0.16 | Watchlist |
-| 126 | NTRS | 6.6 | MODERATE | 0.16 | Watchlist |
-| 127 | PEP | 6.6 | MODERATE | 0.16 | Watchlist |
-| 128 | PTC | 6.6 | MODERATE | 0.16 | Watchlist |
-| 129 | STX | 6.6 | MODERATE | 0.16 | Watchlist |
-| 130 | SHW | 6.6 | MODERATE | 0.16 | Watchlist |
-| 131 | GWW | 6.6 | MODERATE | 0.16 | Watchlist |
-| 132 | BMY | 6.5 | MODERATE | 0.15 | Watchlist |
-| 133 | CF | 6.5 | MODERATE | 0.15 | Watchlist |
-| 134 | FIX | 6.5 | MODERATE | 0.15 | Watchlist |
-| 135 | DRI | 6.5 | MODERATE | 0.15 | Watchlist |
-| 136 | FANG | 6.5 | MODERATE | 0.15 | Watchlist |
-| 137 | HWM | 6.5 | MODERATE | 0.15 | Watchlist |
-| 138 | ICE | 6.5 | MODERATE | 0.15 | Watchlist |
-| 139 | KMB | 6.5 | MODERATE | 0.15 | Watchlist |
-| 140 | LIN | 6.5 | MODERATE | 0.15 | Watchlist |
-| 141 | LOW | 6.5 | MODERATE | 0.15 | Watchlist |
-| 142 | MLM | 6.5 | MODERATE | 0.15 | Watchlist |
-| 143 | VRSK | 6.5 | MODERATE | 0.15 | Watchlist |
-| 144 | BLK | 6.4 | MODERATE | 0.14 | Watchlist |
-| 145 | GEHC | 6.4 | MODERATE | 0.14 | Watchlist |
-| 146 | ITW | 6.4 | MODERATE | 0.14 | Watchlist |
-| 147 | JNJ | 6.4 | MODERATE | 0.14 | Watchlist |
-| 148 | PYPL | 6.4 | MODERATE | 0.14 | Watchlist |
-| 149 | PNC | 6.4 | MODERATE | 0.14 | Watchlist |
-| 150 | CRM | 6.4 | MODERATE | 0.14 | Watchlist |
-| 151 | CDNS | 6.3 | MODERATE | 0.13 | Watchlist |
-| 152 | CHD | 6.3 | MODERATE | 0.13 | Watchlist |
-| 153 | COP | 6.3 | MODERATE | 0.13 | Watchlist |
-| 154 | DOV | 6.3 | MODERATE | 0.13 | Watchlist |
-| 155 | MDT | 6.3 | MODERATE | 0.13 | Watchlist |
-| 156 | MRK | 6.3 | MODERATE | 0.13 | Watchlist |
-| 157 | RSG | 6.3 | MODERATE | 0.13 | Watchlist |
-| 158 | SYY | 6.3 | MODERATE | 0.13 | Watchlist |
-| 159 | TRGP | 6.3 | MODERATE | 0.13 | Watchlist |
-| 160 | WM | 6.3 | MODERATE | 0.13 | Watchlist |
-| 161 | T | 6.2 | MODERATE | 0.12 | Watchlist |
-| 162 | BNY | 6.2 | MODERATE | 0.12 | Watchlist |
-| 163 | BF-B | 6.2 | MODERATE | 0.12 | Watchlist |
-| 164 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
-| 165 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
-| 166 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
-| 167 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
-| 168 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
-| 169 | MTB | 6.2 | MODERATE | 0.12 | Watchlist |
-| 170 | MSI | 6.2 | MODERATE | 0.12 | Watchlist |
-| 171 | NDAQ | 6.2 | MODERATE | 0.12 | Watchlist |
-| 172 | RCL | 6.2 | MODERATE | 0.12 | Watchlist |
-| 173 | UHS | 6.2 | MODERATE | 0.12 | Watchlist |
-| 174 | WAB | 6.2 | MODERATE | 0.12 | Watchlist |
-| 175 | WDAY | 6.2 | MODERATE | 0.12 | Watchlist |
-| 176 | AMZN | 6.1 | MODERATE | 0.11 | Watchlist |
-| 177 | CAH | 6.1 | MODERATE | 0.11 | Watchlist |
-| 178 | CAT | 6.1 | MODERATE | 0.11 | Watchlist |
-| 179 | DXCM | 6.1 | MODERATE | 0.11 | Watchlist |
-| 180 | EBAY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 181 | EG | 6.1 | MODERATE | 0.11 | Watchlist |
-| 182 | GDDY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 183 | HSY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 184 | JKHY | 6.1 | MODERATE | 0.11 | Watchlist |
-| 185 | LRCX | 6.1 | MODERATE | 0.11 | Watchlist |
-| 186 | RDDT | 6.1 | MODERATE | 0.11 | Watchlist |
-| 187 | USB | 6.1 | MODERATE | 0.11 | Watchlist |
-| 188 | LNT | 6.0 | LOW | 0.0 | Pass |
-| 189 | AEE | 6.0 | LOW | 0.0 | Pass |
-| 190 | AEP | 6.0 | LOW | 0.0 | Pass |
-| 191 | ARES | 6.0 | LOW | 0.0 | Pass |
-| 192 | BAC | 6.0 | LOW | 0.0 | Pass |
-| 193 | BR | 6.0 | LOW | 0.0 | Pass |
-| 194 | CCL | 6.0 | LOW | 0.0 | Pass |
-| 195 | CNP | 6.0 | LOW | 0.0 | Pass |
-| 196 | CLX | 6.0 | LOW | 0.0 | Pass |
-| 197 | CMS | 6.0 | LOW | 0.0 | Pass |
-| 198 | DVA | 6.0 | LOW | 0.0 | Pass |
-| 199 | D | 6.0 | LOW | 0.0 | Pass |
-| 200 | DPZ | 6.0 | LOW | 0.0 | Pass |
-| 201 | DUK | 6.0 | LOW | 0.0 | Pass |
-| 202 | EIX | 6.0 | LOW | 0.0 | Pass |
+| 88 | TPR | 6.9 | MODERATE | 0.19 | Watchlist |
+| 89 | TPL | 6.9 | MODERATE | 0.19 | Watchlist |
+| 90 | XYL | 6.9 | MODERATE | 0.19 | Watchlist |
+| 91 | AFL | 6.8 | MODERATE | 0.18 | Watchlist |
+| 92 | CMCSA | 6.8 | MODERATE | 0.18 | Watchlist |
+| 93 | FCX | 6.8 | MODERATE | 0.18 | Watchlist |
+| 94 | IT | 6.8 | MODERATE | 0.18 | Watchlist |
+| 95 | GL | 6.8 | MODERATE | 0.18 | Watchlist |
+| 96 | MA | 6.8 | MODERATE | 0.18 | Watchlist |
+| 97 | ORLY | 6.8 | MODERATE | 0.18 | Watchlist |
+| 98 | SYK | 6.8 | MODERATE | 0.18 | Watchlist |
+| 99 | TTD | 6.8 | MODERATE | 0.18 | Watchlist |
+| 100 | UNP | 6.8 | MODERATE | 0.18 | Watchlist |
+| 101 | WDC | 6.8 | MODERATE | 0.18 | Watchlist |
+| 102 | WTW | 6.8 | MODERATE | 0.18 | Watchlist |
+| 103 | COST | 6.7 | MODERATE | 0.17 | Watchlist |
+| 104 | CRH | 6.7 | MODERATE | 0.17 | Watchlist |
+| 105 | ETN | 6.7 | MODERATE | 0.17 | Watchlist |
+| 106 | LII | 6.7 | MODERATE | 0.17 | Watchlist |
+| 107 | MU | 6.7 | MODERATE | 0.17 | Watchlist |
+| 108 | OTIS | 6.7 | MODERATE | 0.17 | Watchlist |
+| 109 | PPG | 6.7 | MODERATE | 0.17 | Watchlist |
+| 110 | URI | 6.7 | MODERATE | 0.17 | Watchlist |
+| 111 | V | 6.7 | MODERATE | 0.17 | Watchlist |
+| 112 | WFC | 6.7 | MODERATE | 0.17 | Watchlist |
+| 113 | AME | 6.6 | MODERATE | 0.16 | Watchlist |
+| 114 | AMGN | 6.6 | MODERATE | 0.16 | Watchlist |
+| 115 | AAPL | 6.6 | MODERATE | 0.16 | Watchlist |
+| 116 | ATO | 6.6 | MODERATE | 0.16 | Watchlist |
+| 117 | BRK-B | 6.6 | MODERATE | 0.16 | Watchlist |
+| 118 | BSX | 6.6 | MODERATE | 0.16 | Watchlist |
+| 119 | CME | 6.6 | MODERATE | 0.16 | Watchlist |
+| 120 | EFX | 6.6 | MODERATE | 0.16 | Watchlist |
+| 121 | FFIV | 6.6 | MODERATE | 0.16 | Watchlist |
+| 122 | FAST | 6.6 | MODERATE | 0.16 | Watchlist |
+| 123 | GEN | 6.6 | MODERATE | 0.16 | Watchlist |
+| 124 | GILD | 6.6 | MODERATE | 0.16 | Watchlist |
+| 125 | IR | 6.6 | MODERATE | 0.16 | Watchlist |
+| 126 | NFLX | 6.6 | MODERATE | 0.16 | Watchlist |
+| 127 | NTRS | 6.6 | MODERATE | 0.16 | Watchlist |
+| 128 | PEP | 6.6 | MODERATE | 0.16 | Watchlist |
+| 129 | PTC | 6.6 | MODERATE | 0.16 | Watchlist |
+| 130 | STX | 6.6 | MODERATE | 0.16 | Watchlist |
+| 131 | SHW | 6.6 | MODERATE | 0.16 | Watchlist |
+| 132 | GWW | 6.6 | MODERATE | 0.16 | Watchlist |
+| 133 | BMY | 6.5 | MODERATE | 0.15 | Watchlist |
+| 134 | CF | 6.5 | MODERATE | 0.15 | Watchlist |
+| 135 | FIX | 6.5 | MODERATE | 0.15 | Watchlist |
+| 136 | DRI | 6.5 | MODERATE | 0.15 | Watchlist |
+| 137 | FANG | 6.5 | MODERATE | 0.15 | Watchlist |
+| 138 | HWM | 6.5 | MODERATE | 0.15 | Watchlist |
+| 139 | ICE | 6.5 | MODERATE | 0.15 | Watchlist |
+| 140 | KMB | 6.5 | MODERATE | 0.15 | Watchlist |
+| 141 | LIN | 6.5 | MODERATE | 0.15 | Watchlist |
+| 142 | LOW | 6.5 | MODERATE | 0.15 | Watchlist |
+| 143 | MLM | 6.5 | MODERATE | 0.15 | Watchlist |
+| 144 | VRSK | 6.5 | MODERATE | 0.15 | Watchlist |
+| 145 | BLK | 6.4 | MODERATE | 0.14 | Watchlist |
+| 146 | GEHC | 6.4 | MODERATE | 0.14 | Watchlist |
+| 147 | ITW | 6.4 | MODERATE | 0.14 | Watchlist |
+| 148 | JKHY | 6.4 | MODERATE | 0.14 | Watchlist |
+| 149 | JNJ | 6.4 | MODERATE | 0.14 | Watchlist |
+| 150 | PYPL | 6.4 | MODERATE | 0.14 | Watchlist |
+| 151 | PNC | 6.4 | MODERATE | 0.14 | Watchlist |
+| 152 | CRM | 6.4 | MODERATE | 0.14 | Watchlist |
+| 153 | CDNS | 6.3 | MODERATE | 0.13 | Watchlist |
+| 154 | CHD | 6.3 | MODERATE | 0.13 | Watchlist |
+| 155 | COP | 6.3 | MODERATE | 0.13 | Watchlist |
+| 156 | DOV | 6.3 | MODERATE | 0.13 | Watchlist |
+| 157 | MDT | 6.3 | MODERATE | 0.13 | Watchlist |
+| 158 | MRK | 6.3 | MODERATE | 0.13 | Watchlist |
+| 159 | RSG | 6.3 | MODERATE | 0.13 | Watchlist |
+| 160 | SYY | 6.3 | MODERATE | 0.13 | Watchlist |
+| 161 | TRGP | 6.3 | MODERATE | 0.13 | Watchlist |
+| 162 | WM | 6.3 | MODERATE | 0.13 | Watchlist |
+| 163 | T | 6.2 | MODERATE | 0.12 | Watchlist |
+| 164 | BNY | 6.2 | MODERATE | 0.12 | Watchlist |
+| 165 | BF-B | 6.2 | MODERATE | 0.12 | Watchlist |
+| 166 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
+| 167 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 168 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 169 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
+| 170 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
+| 171 | MTB | 6.2 | MODERATE | 0.12 | Watchlist |
+| 172 | MSI | 6.2 | MODERATE | 0.12 | Watchlist |
+| 173 | NDAQ | 6.2 | MODERATE | 0.12 | Watchlist |
+| 174 | RCL | 6.2 | MODERATE | 0.12 | Watchlist |
+| 175 | UHS | 6.2 | MODERATE | 0.12 | Watchlist |
+| 176 | WAB | 6.2 | MODERATE | 0.12 | Watchlist |
+| 177 | WDAY | 6.2 | MODERATE | 0.12 | Watchlist |
+| 178 | AMZN | 6.1 | MODERATE | 0.11 | Watchlist |
+| 179 | CAH | 6.1 | MODERATE | 0.11 | Watchlist |
+| 180 | CAT | 6.1 | MODERATE | 0.11 | Watchlist |
+| 181 | DXCM | 6.1 | MODERATE | 0.11 | Watchlist |
+| 182 | EBAY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 183 | EG | 6.1 | MODERATE | 0.11 | Watchlist |
+| 184 | GDDY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 185 | HSY | 6.1 | MODERATE | 0.11 | Watchlist |
+| 186 | LRCX | 6.1 | MODERATE | 0.11 | Watchlist |
+| 187 | RDDT | 6.1 | MODERATE | 0.11 | Watchlist |
+| 188 | USB | 6.1 | MODERATE | 0.11 | Watchlist |
+| 189 | LNT | 6.0 | LOW | 0.0 | Pass |
+| 190 | AEE | 6.0 | LOW | 0.0 | Pass |
+| 191 | AEP | 6.0 | LOW | 0.0 | Pass |
+| 192 | ARES | 6.0 | LOW | 0.0 | Pass |
+| 193 | BAC | 6.0 | LOW | 0.0 | Pass |
+| 194 | BR | 6.0 | LOW | 0.0 | Pass |
+| 195 | CCL | 6.0 | LOW | 0.0 | Pass |
+| 196 | CNP | 6.0 | LOW | 0.0 | Pass |
+| 197 | CLX | 6.0 | LOW | 0.0 | Pass |
+| 198 | CMS | 6.0 | LOW | 0.0 | Pass |
+| 199 | DVA | 6.0 | LOW | 0.0 | Pass |
+| 200 | D | 6.0 | LOW | 0.0 | Pass |
+| 201 | DPZ | 6.0 | LOW | 0.0 | Pass |
+| 202 | DUK | 6.0 | LOW | 0.0 | Pass |
 | 203 | ECL | 6.0 | LOW | 0.0 | Pass |
-| 204 | ES | 6.0 | LOW | 0.0 | Pass |
-| 205 | EXC | 6.0 | LOW | 0.0 | Pass |
-| 206 | FICO | 6.0 | LOW | 0.0 | Pass |
-| 207 | GPN | 6.0 | LOW | 0.0 | Pass |
-| 208 | HLT | 6.0 | LOW | 0.0 | Pass |
-| 209 | HD | 6.0 | LOW | 0.0 | Pass |
-| 210 | HONA | 6.0 | LOW | 0.0 | Pass |
-| 211 | HON | 6.0 | LOW | 0.0 | Pass |
-| 212 | KDP | 6.0 | LOW | 0.0 | Pass |
-| 213 | KIM | 6.0 | LOW | 0.0 | Pass |
-| 214 | KMI | 6.0 | LOW | 0.0 | Pass |
-| 215 | KKR | 6.0 | LOW | 0.0 | Pass |
-| 216 | KHC | 6.0 | LOW | 0.0 | Pass |
-| 217 | MKC | 6.0 | LOW | 0.0 | Pass |
-| 218 | MCK | 6.0 | LOW | 0.0 | Pass |
-| 219 | MET | 6.0 | LOW | 0.0 | Pass |
-| 220 | NI | 6.0 | LOW | 0.0 | Pass |
-| 221 | ORCL | 6.0 | LOW | 0.0 | Pass |
-| 222 | PNW | 6.0 | LOW | 0.0 | Pass |
-| 223 | PPL | 6.0 | LOW | 0.0 | Pass |
-| 224 | PFG | 6.0 | LOW | 0.0 | Pass |
-| 225 | PRU | 6.0 | LOW | 0.0 | Pass |
-| 226 | QCOM | 6.0 | LOW | 0.0 | Pass |
-| 227 | RF | 6.0 | LOW | 0.0 | Pass |
-| 228 | SBAC | 6.0 | LOW | 0.0 | Pass |
-| 229 | SPG | 6.0 | LOW | 0.0 | Pass |
-| 230 | SOLV | 6.0 | LOW | 0.0 | Pass |
-| 231 | SO | 6.0 | LOW | 0.0 | Pass |
-| 232 | TPR | 6.0 | LOW | 0.0 | Pass |
+| 204 | EIX | 6.0 | LOW | 0.0 | Pass |
+| 205 | ES | 6.0 | LOW | 0.0 | Pass |
+| 206 | EXC | 6.0 | LOW | 0.0 | Pass |
+| 207 | FICO | 6.0 | LOW | 0.0 | Pass |
+| 208 | GPN | 6.0 | LOW | 0.0 | Pass |
+| 209 | HLT | 6.0 | LOW | 0.0 | Pass |
+| 210 | HD | 6.0 | LOW | 0.0 | Pass |
+| 211 | HONA | 6.0 | LOW | 0.0 | Pass |
+| 212 | HON | 6.0 | LOW | 0.0 | Pass |
+| 213 | KDP | 6.0 | LOW | 0.0 | Pass |
+| 214 | KIM | 6.0 | LOW | 0.0 | Pass |
+| 215 | KMI | 6.0 | LOW | 0.0 | Pass |
+| 216 | KKR | 6.0 | LOW | 0.0 | Pass |
+| 217 | KHC | 6.0 | LOW | 0.0 | Pass |
+| 218 | MKC | 6.0 | LOW | 0.0 | Pass |
+| 219 | MCK | 6.0 | LOW | 0.0 | Pass |
+| 220 | MET | 6.0 | LOW | 0.0 | Pass |
+| 221 | NI | 6.0 | LOW | 0.0 | Pass |
+| 222 | ORCL | 6.0 | LOW | 0.0 | Pass |
+| 223 | PNW | 6.0 | LOW | 0.0 | Pass |
+| 224 | PPL | 6.0 | LOW | 0.0 | Pass |
+| 225 | PFG | 6.0 | LOW | 0.0 | Pass |
+| 226 | PRU | 6.0 | LOW | 0.0 | Pass |
+| 227 | QCOM | 6.0 | LOW | 0.0 | Pass |
+| 228 | RF | 6.0 | LOW | 0.0 | Pass |
+| 229 | SBAC | 6.0 | LOW | 0.0 | Pass |
+| 230 | SPG | 6.0 | LOW | 0.0 | Pass |
+| 231 | SOLV | 6.0 | LOW | 0.0 | Pass |
+| 232 | SO | 6.0 | LOW | 0.0 | Pass |
 | 233 | TSCO | 6.0 | LOW | 0.0 | Pass |
 | 234 | TDG | 6.0 | LOW | 0.0 | Pass |
 | 235 | ULTA | 6.0 | LOW | 0.0 | Pass |
@@ -396,32 +395,32 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 | 389 | TRMB | 4.9 | LOW | 0.0 | Pass |
 | 390 | WAT | 4.9 | LOW | 0.0 | Pass |
 | 391 | AMD | 4.8 | LOW | 0.0 | Pass |
-| 392 | DLTR | 4.8 | LOW | 0.0 | Pass |
-| 393 | FISV | 4.8 | LOW | 0.0 | Pass |
-| 394 | HST | 4.8 | LOW | 0.0 | Pass |
-| 395 | HPQ | 4.8 | LOW | 0.0 | Pass |
-| 396 | PANW | 4.8 | LOW | 0.0 | Pass |
-| 397 | PHM | 4.8 | LOW | 0.0 | Pass |
-| 398 | TTWO | 4.8 | LOW | 0.0 | Pass |
-| 399 | TGT | 4.8 | LOW | 0.0 | Pass |
-| 400 | BKR | 4.7 | LOW | 0.0 | Pass |
-| 401 | CARR | 4.7 | LOW | 0.0 | Pass |
+| 392 | CIEN | 4.8 | LOW | 0.0 | Pass |
+| 393 | DLTR | 4.8 | LOW | 0.0 | Pass |
+| 394 | FISV | 4.8 | LOW | 0.0 | Pass |
+| 395 | HST | 4.8 | LOW | 0.0 | Pass |
+| 396 | HPQ | 4.8 | LOW | 0.0 | Pass |
+| 397 | PANW | 4.8 | LOW | 0.0 | Pass |
+| 398 | PHM | 4.8 | LOW | 0.0 | Pass |
+| 399 | TTWO | 4.8 | LOW | 0.0 | Pass |
+| 400 | TGT | 4.8 | LOW | 0.0 | Pass |
+| 401 | BKR | 4.7 | LOW | 0.0 | Pass |
 | 402 | CDW | 4.7 | LOW | 0.0 | Pass |
-| 403 | CTSH | 4.7 | LOW | 0.0 | Pass |
-| 404 | DLR | 4.7 | LOW | 0.0 | Pass |
-| 405 | EW | 4.7 | LOW | 0.0 | Pass |
-| 406 | IQV | 4.7 | LOW | 0.0 | Pass |
-| 407 | MPC | 4.7 | LOW | 0.0 | Pass |
-| 408 | MPWR | 4.7 | LOW | 0.0 | Pass |
-| 409 | OMC | 4.7 | LOW | 0.0 | Pass |
-| 410 | PKG | 4.7 | LOW | 0.0 | Pass |
-| 411 | PLD | 4.7 | LOW | 0.0 | Pass |
-| 412 | DGX | 4.7 | LOW | 0.0 | Pass |
-| 413 | SWK | 4.7 | LOW | 0.0 | Pass |
-| 414 | TER | 4.7 | LOW | 0.0 | Pass |
-| 415 | TXN | 4.7 | LOW | 0.0 | Pass |
-| 416 | CIEN | 4.6 | LOW | 0.0 | Pass |
-| 417 | CI | 4.6 | LOW | 0.0 | Pass |
+| 403 | DLR | 4.7 | LOW | 0.0 | Pass |
+| 404 | EW | 4.7 | LOW | 0.0 | Pass |
+| 405 | IQV | 4.7 | LOW | 0.0 | Pass |
+| 406 | MPC | 4.7 | LOW | 0.0 | Pass |
+| 407 | MPWR | 4.7 | LOW | 0.0 | Pass |
+| 408 | OMC | 4.7 | LOW | 0.0 | Pass |
+| 409 | PKG | 4.7 | LOW | 0.0 | Pass |
+| 410 | PLD | 4.7 | LOW | 0.0 | Pass |
+| 411 | DGX | 4.7 | LOW | 0.0 | Pass |
+| 412 | SWK | 4.7 | LOW | 0.0 | Pass |
+| 413 | TER | 4.7 | LOW | 0.0 | Pass |
+| 414 | TXN | 4.7 | LOW | 0.0 | Pass |
+| 415 | CARR | 4.6 | LOW | 0.0 | Pass |
+| 416 | CI | 4.6 | LOW | 0.0 | Pass |
+| 417 | CTSH | 4.6 | LOW | 0.0 | Pass |
 | 418 | EXPD | 4.6 | LOW | 0.0 | Pass |
 | 419 | FIS | 4.6 | LOW | 0.0 | Pass |
 | 420 | HII | 4.6 | LOW | 0.0 | Pass |
@@ -465,8 +464,8 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 | 458 | GPC | 4.0 | AVOID | -0.2 | Avoid |
 | 459 | IFF | 4.0 | AVOID | -0.2 | Avoid |
 | 460 | MAA | 4.0 | AVOID | -0.2 | Avoid |
-| 461 | BXP | 3.9 | AVOID | -0.21 | Avoid |
-| 462 | BG | 3.9 | AVOID | -0.21 | Avoid |
+| 461 | BG | 3.9 | AVOID | -0.21 | Avoid |
+| 462 | BXP | 3.9 | AVOID | -0.21 | Avoid |
 | 463 | CVS | 3.9 | AVOID | -0.21 | Avoid |
 | 464 | ELV | 3.9 | AVOID | -0.21 | Avoid |
 | 465 | F | 3.9 | AVOID | -0.21 | Avoid |
@@ -485,15 +484,15 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 | 478 | UNH | 3.8 | AVOID | -0.22 | Avoid |
 | 479 | VTR | 3.8 | AVOID | -0.22 | Avoid |
 | 480 | ADM | 3.7 | AVOID | -0.22 | Avoid |
-| 481 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
-| 482 | DOW | 3.7 | AVOID | -0.22 | Avoid |
-| 483 | SBUX | 3.7 | AVOID | -0.22 | Avoid |
-| 484 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
-| 485 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
-| 486 | COIN | 3.6 | AVOID | -0.23 | Avoid |
-| 487 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
-| 488 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
-| 489 | CPT | 3.5 | AVOID | -0.24 | Avoid |
+| 481 | CPT | 3.7 | AVOID | -0.22 | Avoid |
+| 482 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
+| 483 | DOW | 3.7 | AVOID | -0.22 | Avoid |
+| 484 | SBUX | 3.7 | AVOID | -0.22 | Avoid |
+| 485 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
+| 486 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
+| 487 | COIN | 3.6 | AVOID | -0.23 | Avoid |
+| 488 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
+| 489 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
 | 490 | CRWD | 3.5 | AVOID | -0.24 | Avoid |
 | 491 | EQIX | 3.5 | AVOID | -0.24 | Avoid |
 | 492 | DOC | 3.5 | AVOID | -0.24 | Avoid |
@@ -511,21 +510,32 @@ The market presents a nuanced landscape, with some high-quality businesses tradi
 
 ## Top 5 Deep Dives
 
-**NVDA (Score 9.0, Own Forever)**: NVDA faces a material risk of Technology Disruption, a 25% probability event with a -35% impact on intrinsic value. Despite this, its "Own Forever" verdict is driven by exceptional quality, boasting a 51.3% average ROIC and a formidable 75% gross margin, showcasing strong pricing power, while Mr. Market exhibits greed with the stock trading near its 52-week high at 91% of its range.
+### NVDA
+NVDA is an "Own Forever" due to its exceptional quality (51.3% ROIC, 75% gross margin), a formidable moat (75% gross margin), and deep value P/E of 14.9x, despite a material technology disruption risk (25% probability, -35% impact on FV).
 
-**APP (Score 8.8, Own Forever)**: No material inversion killers are identified for APP. The "Own Forever" verdict stems from a powerful moat, evidenced by an 88% gross margin and 78% operating margin, coupled with Mr. Market being fearful, presenting the stock near its 52-week low at 5% of its range, indicating a potential opportunity despite a thin 4% margin of safety.
+### APP
+APP is an "Own Forever" as it demonstrates strong quality (26.2% ROIC, 88% gross margin), an outstanding moat (88% gross margin, 78% operating margin), and a fearful Mr. Market presenting a fair P/E of 15.3x near its 52-week low, with no material inversion killers identified.
 
-**GOOGL (Score 8.7, Own Forever)**: No material inversion killers are identified for GOOGL. The "Own Forever" verdict is supported by high quality with a 24.9% average ROIC and a strong moat with a 61% gross margin, while offering a substantial 47% margin of safety as its intrinsic value of $498 significantly exceeds the current price of $338.46.
+### GOOGL
+GOOGL is an "Own Forever" owing to its superior quality (24.9% ROIC, monotonic earnings) and robust moat (61% gross margin, 34% operating margin), further bolstered by a significant 47% margin of safety, with no material inversion killers identified.
 
-**GOOG (Score 8.7, Own Forever)**: GOOG faces a material risk of Management / Governance Failure due to low 0.5% insider ownership, with a 20% probability and -30% impact on intrinsic value. Despite this, its "Own Forever" verdict is buttressed by strong quality (24.9% average ROIC) and a wide moat (61% gross margin), presenting a robust 49% margin of safety with its intrinsic value of $498 against the current price of $335.31.
+### GOOG
+GOOG is an "Own Forever" due to its exceptional quality (24.9% ROIC, 61% gross margin) and powerful moat, reinforced by a 47% margin of safety, despite a material management/governance risk from low insider ownership (0.5% insider ownership, 20% probability, -30% impact on FV).
 
-**ROL (Score 8.6, Own Forever)**: (Detailed report not provided in the input, but inferred from its high ranking and "Own Forever" verdict) ROL likely exhibits strong fundamental quality, a wide and durable economic moat, and reasonable valuation fit, leading to its high conviction "Own Forever" recommendation.
+### ROL
+ROL is an "Own Forever" as it exhibits excellent quality (31.9% ROIC, 95% FCF/NI) and a durable moat (62% gross margin, 21% operating margin), offering a solid P/E of 17.0x despite a material technology disruption risk (20% probability, -20% impact on FV).
 
 ## Munger Inversion Alert
 
-Among the detailed top 5 holdings, no name presents two or more material inversion killers. NVDA and GOOG each have one material killer identified: NVDA with Technology Disruption and GOOG with Management / Governance Failure.
+Of the top 5 companies for which detailed inversion analysis is available:
+*   NVDA has one material inversion killer: Technology Disruption.
+*   APP has zero material inversion killers.
+*   GOOGL has zero material inversion killers.
+*   GOOG has one material inversion killer: Management / Governance Failure.
+*   ROL has one material inversion killer: Technology Disruption.
+
+None of the top 5 companies for which detailed inversion analysis is available exhibit two or more material inversion killers.
 
 ## Bottom Line
 
-GOOGL represents the single best risk-adjusted name today, offering strong fundamentals, a wide moat, and a compelling 47% margin of safety without any identified material inversion killers.
-```
+APP stands out today as the single best risk-adjusted name, combining high quality, a strong moat, and a fearful Mr. Market offering a fair price with no material inversion killers.

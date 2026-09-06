@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GOOG
-*Generated: 2026-09-05 08:15 | Price: $335.31 | Mkt Cap: $4101B*
+*Generated: 2026-09-06 08:33 | Price: $335.31 | Mkt Cap: $4101B*
 
 ## Sector Context
 Communication Services / Internet Content & Information
@@ -36,7 +36,7 @@ Communication Services / Internet Content & Information
 ## Mental Models Applied
 
 - **Circle of Competence**: Communication Services / Internet Content & Information
-- **Margin of Safety**: 47% — PRESENT (IV $493 vs $335 at 25x)
+- **Margin of Safety**: 49% — PRESENT (IV $498 vs $335 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: high quality, strong moat, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Neutral

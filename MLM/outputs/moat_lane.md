@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MLM
-*Generated: 2026-09-05 08:17 | Price: $514.77 | Mkt Cap: $37B*
+*Generated: 2026-09-06 08:36 | Price: $514.77 | Mkt Cap: $37B*
 
 ## Sector Context
 Basic Materials / Building Materials
@@ -36,7 +36,7 @@ Basic Materials / Building Materials
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Building Materials
-- **Margin of Safety**: -55% — ABSENT ($515 > IV $233 at 15x for -23% growth)
+- **Margin of Safety**: -55% — ABSENT ($515 > IV $231 at 15x for -23% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Aligned — 16.1% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

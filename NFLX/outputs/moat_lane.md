@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NFLX
-*Generated: 2026-09-05 08:17 | Price: $78.25 | Mkt Cap: $326B*
+*Generated: 2026-09-06 08:36 | Price: $78.25 | Mkt Cap: $326B*
 
 ## Sector Context
 Communication Services / Entertainment

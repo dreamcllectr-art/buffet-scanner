@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: COP
-*Generated: 2026-09-05 08:15 | Price: $134.26 | Mkt Cap: $161B*
+*Generated: 2026-09-06 08:34 | Price: $134.26 | Mkt Cap: $161B*
 
 ## Sector Context
 Energy / Oil & Gas E&P
@@ -36,7 +36,7 @@ Energy / Oil & Gas E&P
 ## Mental Models Applied
 
 - **Circle of Competence**: Energy / Oil & Gas E&P
-- **Margin of Safety**: 39% — PRESENT (IV $187 vs $134 at 25x)
+- **Margin of Safety**: 41% — PRESENT (IV $189 vs $134 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Greedy — exercise caution

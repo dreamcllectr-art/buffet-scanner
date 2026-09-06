@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MCO
-*Generated: 2026-09-05 08:17 | Price: $493.55 | Mkt Cap: $85B*
+*Generated: 2026-09-06 08:36 | Price: $493.55 | Mkt Cap: $85B*
 
 ## Sector Context
 Financial Services / Financial Data & Stock Exchanges
@@ -36,7 +36,7 @@ Financial Services / Financial Data & Stock Exchanges
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Financial Data & Stock Exchanges
-- **Margin of Safety**: -22% — ABSENT ($494 > IV $386 at 25x for 25% growth)
+- **Margin of Safety**: -20% — ABSENT ($494 > IV $394 at 25x for 25% growth)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Aligned — 14.4% insider ownership
 - **Mr. Market**: Neutral

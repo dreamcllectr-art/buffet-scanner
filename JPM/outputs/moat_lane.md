@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JPM
-*Generated: 2026-09-05 08:16 | Price: $358.64 | Mkt Cap: $953B*
+*Generated: 2026-09-06 08:35 | Price: $358.64 | Mkt Cap: $953B*
 
 ## Sector Context
 Financial Services / Banks - Diversified
@@ -36,7 +36,7 @@ Financial Services / Banks - Diversified
 ## Mental Models Applied
 
 - **Circle of Competence**: Financial Services / Banks - Diversified
-- **Margin of Safety**: 61% — PRESENT (IV $578 vs $359 at 25x)
+- **Margin of Safety**: 63% — PRESENT (IV $584 vs $359 at 25x)
 - **Lollapalooza Effect**: YES — 3 forces aligning: strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
 - **Mr. Market**: Greedy — exercise caution

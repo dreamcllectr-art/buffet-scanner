@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ETN
-*Generated: 2026-09-05 08:16 | Price: $410.85 | Mkt Cap: $160B*
+*Generated: 2026-09-06 08:34 | Price: $410.85 | Mkt Cap: $160B*
 
 ## Sector Context
 Industrials / Specialty Industrial Machinery
@@ -36,7 +36,7 @@ Industrials / Specialty Industrial Machinery
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Specialty Industrial Machinery
-- **Margin of Safety**: -63% — ABSENT ($411 > IV $152 at 15x for -16% growth)
+- **Margin of Safety**: -64% — ABSENT ($411 > IV $147 at 15x for -16% growth)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.1% insider ownership
 - **Mr. Market**: Neutral

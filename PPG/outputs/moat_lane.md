@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PPG
-*Generated: 2026-09-06 08:36 | Price: $112.53 | Mkt Cap: $25B*
+*Generated: 2026-09-07 09:14 | Price: $112.53 | Mkt Cap: $25B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

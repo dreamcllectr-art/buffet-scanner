@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TDY
-*Generated: 2026-09-06 08:39 | Price: $610.65 | Mkt Cap: $28B*
+*Generated: 2026-09-07 09:16 | Price: $610.65 | Mkt Cap: $28B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments

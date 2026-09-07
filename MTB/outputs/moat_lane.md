@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MTB
-*Generated: 2026-09-06 08:36 | Price: $239.84 | Mkt Cap: $35B*
+*Generated: 2026-09-07 09:13 | Price: $239.84 | Mkt Cap: $35B*
 
 ## Sector Context
 Financial Services / Banks - Regional

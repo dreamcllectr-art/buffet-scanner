@@ -1,6 +1,6 @@
-# Leaderboard: September 6, 2026
+# Buffett/Munger Leaderboard: 2026-09-07
 
-The market shows selective enthusiasm for high-quality businesses, with a mix of greedy and fearful sentiment across top performers, indicating ample opportunity for the discerning value investor.
+Today's market presents a discerning landscape, with Mr. Market exhibiting both greedy and fearful sentiments across high-quality businesses, creating varied pockets of opportunity.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -88,8 +88,8 @@ The market shows selective enthusiasm for high-quality businesses, with a mix of
 | 82 | MTD | 6.9 | MODERATE | 0.19 | Watchlist |
 | 83 | MS | 6.9 | MODERATE | 0.19 | Watchlist |
 | 84 | NWS | 6.9 | MODERATE | 0.19 | Watchlist |
-| 85 | PH | 6.9 | MODERATE | 0.19 | Watchlist |
-| 86 | PAYX | 6.9 | MODERATE | 0.19 | Watchlist |
+| 85 | PAYX | 6.9 | MODERATE | 0.19 | Watchlist |
+| 86 | PH | 6.9 | MODERATE | 0.19 | Watchlist |
 | 87 | TROW | 6.9 | MODERATE | 0.19 | Watchlist |
 | 88 | TPR | 6.9 | MODERATE | 0.19 | Watchlist |
 | 89 | TPL | 6.9 | MODERATE | 0.19 | Watchlist |
@@ -169,8 +169,8 @@ The market shows selective enthusiasm for high-quality businesses, with a mix of
 | 163 | T | 6.2 | MODERATE | 0.12 | Watchlist |
 | 164 | BNY | 6.2 | MODERATE | 0.12 | Watchlist |
 | 165 | BF-B | 6.2 | MODERATE | 0.12 | Watchlist |
-| 166 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
-| 167 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 166 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
+| 167 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
 | 168 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
 | 169 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
 | 170 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
@@ -203,8 +203,8 @@ The market shows selective enthusiasm for high-quality businesses, with a mix of
 | 197 | CLX | 6.0 | LOW | 0.0 | Pass |
 | 198 | CMS | 6.0 | LOW | 0.0 | Pass |
 | 199 | DVA | 6.0 | LOW | 0.0 | Pass |
-| 200 | D | 6.0 | LOW | 0.0 | Pass |
-| 201 | DPZ | 6.0 | LOW | 0.0 | Pass |
+| 200 | DPZ | 6.0 | LOW | 0.0 | Pass |
+| 201 | D | 6.0 | LOW | 0.0 | Pass |
 | 202 | DUK | 6.0 | LOW | 0.0 | Pass |
 | 203 | ECL | 6.0 | LOW | 0.0 | Pass |
 | 204 | EIX | 6.0 | LOW | 0.0 | Pass |
@@ -234,8 +234,8 @@ The market shows selective enthusiasm for high-quality businesses, with a mix of
 | 228 | RF | 6.0 | LOW | 0.0 | Pass |
 | 229 | SBAC | 6.0 | LOW | 0.0 | Pass |
 | 230 | SPG | 6.0 | LOW | 0.0 | Pass |
-| 231 | SOLV | 6.0 | LOW | 0.0 | Pass |
-| 232 | SO | 6.0 | LOW | 0.0 | Pass |
+| 231 | SO | 6.0 | LOW | 0.0 | Pass |
+| 232 | SOLV | 6.0 | LOW | 0.0 | Pass |
 | 233 | TSCO | 6.0 | LOW | 0.0 | Pass |
 | 234 | TDG | 6.0 | LOW | 0.0 | Pass |
 | 235 | ULTA | 6.0 | LOW | 0.0 | Pass |
@@ -510,32 +510,24 @@ The market shows selective enthusiasm for high-quality businesses, with a mix of
 
 ## Top 5 Deep Dives
 
+---
 ### NVDA
-NVDA is an "Own Forever" due to its exceptional quality (51.3% ROIC, 75% gross margin), a formidable moat (75% gross margin), and deep value P/E of 14.9x, despite a material technology disruption risk (25% probability, -35% impact on FV).
+Technology Disruption, with a 25% probability and -35% impact on intrinsic value, represents a material inversion killer. Management/Governance Failure, at a 15% probability and -20% impact, is also a significant concern, although not deemed material. NVDA earns an "Own Forever" verdict due to its exceptional quality (51.3% average ROIC, 75% gross margin) and a powerful 9.5/10 moat, alongside a deeply attractive P/E of 14.9x, despite Mr. Market being greedy.
 
+---
 ### APP
-APP is an "Own Forever" as it demonstrates strong quality (26.2% ROIC, 88% gross margin), an outstanding moat (88% gross margin, 78% operating margin), and a fearful Mr. Market presenting a fair P/E of 15.3x near its 52-week low, with no material inversion killers identified.
+Technology Disruption (10% probability, -15% FV impact) and Debt Spiral (5% probability, -10% FV impact) are identified inversion killers, neither of which are deemed material. APP secures an "Own Forever" verdict, driven by its superb valuation (P/E 15.3x, near 52-week low) and a formidable 9.5/10 moat with 88% gross margin and 78% operating margin, indicating Mr. Market is currently fearful.
 
+---
 ### GOOGL
-GOOGL is an "Own Forever" owing to its superior quality (24.9% ROIC, monotonic earnings) and robust moat (61% gross margin, 34% operating margin), further bolstered by a significant 47% margin of safety, with no material inversion killers identified.
+Technology Disruption (10% probability, -15% FV impact) and Management/Governance Failure (15% probability, -20% FV impact) pose inversion risks, with neither reaching the material threshold. GOOGL is an "Own Forever" pick due to its outstanding quality (9.5/10 pillar score, 24.9% average ROIC, 61% gross margin) and a durable 9.5/10 moat, complemented by a substantial 47% margin of safety, despite Mr. Market being neutral.
 
+---
 ### GOOG
-GOOG is an "Own Forever" due to its exceptional quality (24.9% ROIC, 61% gross margin) and powerful moat, reinforced by a 47% margin of safety, despite a material management/governance risk from low insider ownership (0.5% insider ownership, 20% probability, -30% impact on FV).
-
-### ROL
-ROL is an "Own Forever" as it exhibits excellent quality (31.9% ROIC, 95% FCF/NI) and a durable moat (62% gross margin, 21% operating margin), offering a solid P/E of 17.0x despite a material technology disruption risk (20% probability, -20% impact on FV).
+Management/Governance Failure stands out as a material inversion killer, with a 20% probability and -30% impact on intrinsic value. Technology Disruption (10% probability, -15% FV impact) is a secondary, non-material concern. GOOG receives an "Own Forever" verdict based on its high quality (9.5/10 pillar score, 24.9% average ROIC, 61% gross margin) and robust 9.5/10 moat, further supported by a significant 47% margin of safety, with Mr. Market signaling neutral sentiment.
 
 ## Munger Inversion Alert
-
-Of the top 5 companies for which detailed inversion analysis is available:
-*   NVDA has one material inversion killer: Technology Disruption.
-*   APP has zero material inversion killers.
-*   GOOGL has zero material inversion killers.
-*   GOOG has one material inversion killer: Management / Governance Failure.
-*   ROL has one material inversion killer: Technology Disruption.
-
-None of the top 5 companies for which detailed inversion analysis is available exhibit two or more material inversion killers.
+Based on the provided detail reports for the top 4 companies, no names in the top 20 have 2 or more material inversion killers.
 
 ## Bottom Line
-
-APP stands out today as the single best risk-adjusted name, combining high quality, a strong moat, and a fearful Mr. Market offering a fair price with no material inversion killers.
+APP presents the best risk-adjusted opportunity today, driven by its strong fundamentals and Mr. Market's current fearful sentiment.

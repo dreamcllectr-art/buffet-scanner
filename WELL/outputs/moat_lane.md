@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: WELL
-*Generated: 2026-09-06 08:40 | Price: $236.17 | Mkt Cap: $170B*
+*Generated: 2026-09-07 09:17 | Price: $236.17 | Mkt Cap: $170B*
 
 ## Sector Context
 Real Estate / REIT - Healthcare Facilities

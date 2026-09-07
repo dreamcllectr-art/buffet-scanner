@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KKR
-*Generated: 2026-09-06 08:35 | Price: $107.73 | Mkt Cap: $99B*
+*Generated: 2026-09-07 09:13 | Price: $107.73 | Mkt Cap: $99B*
 
 ## Sector Context
 Financial Services / Asset Management

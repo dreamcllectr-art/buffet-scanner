@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FOX
-*Generated: 2026-09-06 08:35 | Price: $58.42 | Mkt Cap: $25B*
+*Generated: 2026-09-07 09:13 | Price: $58.42 | Mkt Cap: $25B*
 
 ## Sector Context
 Communication Services / Entertainment
@@ -21,7 +21,7 @@ Communication Services / Entertainment
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 4.8/10 | 30% | 1.4 | Avg ROIC: 11.7% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 34% (stable); FCF/NI: 109% (strong); Gross margin: 37% (below Communication Services norm) | - |
-| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 39.9% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: -49.2% (low) | - |
+| Management | 9.0/10 | 25% | 2.2 | Insider ownership: 39.9% (>10%); No insider transaction data; Restricted stock: -49.2% (low) | - |
 | Moat | 5.5/10 | 25% | 1.4 | Gross margin 37% — below Communication Services moderate cutoff 40%; Operating margin 25% — durable for Communication Services; Rev growth 28% — demand pull | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.2x — deep value; 52w range position: 60%; Owner earnings yield: 2.3% | - |
 | **TOTAL** | **7.1/10** | **100%** | **7.1** | | |

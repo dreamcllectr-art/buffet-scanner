@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: AXON
-*Generated: 2026-09-06 08:34 | Price: $515.67 | Mkt Cap: $42B*
+*Generated: 2026-09-07 09:12 | Price: $515.67 | Mkt Cap: $42B*
 
 ## Sector Context
 Industrials / Aerospace & Defense

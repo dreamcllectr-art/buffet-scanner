@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PFE
-*Generated: 2026-09-06 08:36 | Price: $28.45 | Mkt Cap: $162B*
+*Generated: 2026-09-07 09:14 | Price: $28.45 | Mkt Cap: $162B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - General
@@ -21,7 +21,7 @@ Healthcare / Drug Manufacturers - General
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 8.6% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 93% from prior peak; 5y price drawdown: 59% (severe cyclicality); FCF/NI: 137% (strong); Gross margin: 75% (pricing power for Healthcare) | ROIC declining |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.1% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.1% (minimal); No insider transaction data; Restricted stock: 0.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 75% vs sector strong cutoff 55% — strong pricing power; Operating margin 28% — durable for Healthcare | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.8x — deep value; Near 52w high (87% of range) — Mr. Market greedy; Owner earnings yield: 7.7% (>5%) | - |
 | **TOTAL** | **5.2/10** | **100%** | **5.2** | | |

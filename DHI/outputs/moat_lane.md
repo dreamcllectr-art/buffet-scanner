@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: DHI
-*Generated: 2026-09-07 09:12 | Price: $142.75 | Mkt Cap: $40B*
+*Generated: 2026-09-08 08:47 | Price: $142.75 | Mkt Cap: $40B*
 
 > ⚠ DATA: yfinance misclassified Blackrock Inc. (8.9% inst.) as insider
 

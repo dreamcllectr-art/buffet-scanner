@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: PGR
-*Generated: 2026-09-07 09:14 | Price: $218.95 | Mkt Cap: $127B*
+*Generated: 2026-09-08 08:51 | Price: $218.95 | Mkt Cap: $127B*
 
 ## Sector Context
 Financial Services / Insurance - Property & Casualty

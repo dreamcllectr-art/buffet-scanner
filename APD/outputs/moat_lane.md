@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: APD
-*Generated: 2026-09-07 09:12 | Price: $301.27 | Mkt Cap: $67B*
+*Generated: 2026-09-08 08:46 | Price: $301.27 | Mkt Cap: $67B*
 
 ## Sector Context
 Basic Materials / Specialty Chemicals

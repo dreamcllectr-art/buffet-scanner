@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: CRH
-*Generated: 2026-09-07 09:12 | Price: $94.26 | Mkt Cap: $63B*
+*Generated: 2026-09-08 08:47 | Price: $94.26 | Mkt Cap: $63B*
 
 ## Sector Context
 Basic Materials / Building Materials

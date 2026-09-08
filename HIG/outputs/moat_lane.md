@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: HIG
-*Generated: 2026-09-07 09:13 | Price: $138.37 | Mkt Cap: $37B*
+*Generated: 2026-09-08 08:47 | Price: $138.37 | Mkt Cap: $37B*
 
 ## Sector Context
 Financial Services / Insurance - Diversified

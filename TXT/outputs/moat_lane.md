@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TXT
-*Generated: 2026-09-07 09:16 | Price: $79.07 | Mkt Cap: $14B*
+*Generated: 2026-09-08 08:52 | Price: $79.07 | Mkt Cap: $14B*
 
 ## Sector Context
 Industrials / Aerospace & Defense
@@ -21,7 +21,7 @@ Industrials / Aerospace & Defense
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
 | Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 8.2% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 37% (stable); FCF/NI: 101% (strong); Gross margin: 18% (below Industrials norm) | - |
-| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 1.9% (low) | - |
+| Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 4.0/10 | 25% | 1.0 | Gross margin 18% — below Industrials moderate cutoff 22%; Operating margin 9% | - |
 | Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 10.9x — deep value; Near 52w low (4% of range) — Mr. Market fearful; Owner earnings yield: 3.3% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |

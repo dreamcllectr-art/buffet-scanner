@@ -1,6 +1,6 @@
-# Buffett/Munger Leaderboard: 2026-09-07
+# Buffett/Munger Moat Lane Leaderboard: 2026-09-08
 
-Today's market presents a discerning landscape, with Mr. Market exhibiting both greedy and fearful sentiments across high-quality businesses, creating varied pockets of opportunity.
+Today's market scores reveal widespread optimism among top-tier companies, with many trading at or near 52-week highs, though a few compelling opportunities exist amidst fearful sentiment.
 
 | # | Ticker | Score | Conviction | Alpha Adj | Verdict |
 |---|--------|-------|------------|-----------|--------|
@@ -88,8 +88,8 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 82 | MTD | 6.9 | MODERATE | 0.19 | Watchlist |
 | 83 | MS | 6.9 | MODERATE | 0.19 | Watchlist |
 | 84 | NWS | 6.9 | MODERATE | 0.19 | Watchlist |
-| 85 | PAYX | 6.9 | MODERATE | 0.19 | Watchlist |
-| 86 | PH | 6.9 | MODERATE | 0.19 | Watchlist |
+| 85 | PH | 6.9 | MODERATE | 0.19 | Watchlist |
+| 86 | PAYX | 6.9 | MODERATE | 0.19 | Watchlist |
 | 87 | TROW | 6.9 | MODERATE | 0.19 | Watchlist |
 | 88 | TPR | 6.9 | MODERATE | 0.19 | Watchlist |
 | 89 | TPL | 6.9 | MODERATE | 0.19 | Watchlist |
@@ -169,8 +169,8 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 163 | T | 6.2 | MODERATE | 0.12 | Watchlist |
 | 164 | BNY | 6.2 | MODERATE | 0.12 | Watchlist |
 | 165 | BF-B | 6.2 | MODERATE | 0.12 | Watchlist |
-| 166 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
-| 167 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
+| 166 | CVX | 6.2 | MODERATE | 0.12 | Watchlist |
+| 167 | CMG | 6.2 | MODERATE | 0.12 | Watchlist |
 | 168 | EOG | 6.2 | MODERATE | 0.12 | Watchlist |
 | 169 | FOXA | 6.2 | MODERATE | 0.12 | Watchlist |
 | 170 | LHX | 6.2 | MODERATE | 0.12 | Watchlist |
@@ -203,8 +203,8 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 197 | CLX | 6.0 | LOW | 0.0 | Pass |
 | 198 | CMS | 6.0 | LOW | 0.0 | Pass |
 | 199 | DVA | 6.0 | LOW | 0.0 | Pass |
-| 200 | DPZ | 6.0 | LOW | 0.0 | Pass |
-| 201 | D | 6.0 | LOW | 0.0 | Pass |
+| 200 | D | 6.0 | LOW | 0.0 | Pass |
+| 201 | DPZ | 6.0 | LOW | 0.0 | Pass |
 | 202 | DUK | 6.0 | LOW | 0.0 | Pass |
 | 203 | ECL | 6.0 | LOW | 0.0 | Pass |
 | 204 | EIX | 6.0 | LOW | 0.0 | Pass |
@@ -234,8 +234,8 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 228 | RF | 6.0 | LOW | 0.0 | Pass |
 | 229 | SBAC | 6.0 | LOW | 0.0 | Pass |
 | 230 | SPG | 6.0 | LOW | 0.0 | Pass |
-| 231 | SO | 6.0 | LOW | 0.0 | Pass |
-| 232 | SOLV | 6.0 | LOW | 0.0 | Pass |
+| 231 | SOLV | 6.0 | LOW | 0.0 | Pass |
+| 232 | SO | 6.0 | LOW | 0.0 | Pass |
 | 233 | TSCO | 6.0 | LOW | 0.0 | Pass |
 | 234 | TDG | 6.0 | LOW | 0.0 | Pass |
 | 235 | ULTA | 6.0 | LOW | 0.0 | Pass |
@@ -250,22 +250,22 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 244 | COF | 5.9 | LOW | 0.0 | Pass |
 | 245 | CHTR | 5.9 | LOW | 0.0 | Pass |
 | 246 | KVUE | 5.9 | LOW | 0.0 | Pass |
-| 247 | PCG | 5.9 | LOW | 0.0 | Pass |
-| 248 | REG | 5.9 | LOW | 0.0 | Pass |
-| 249 | HOOD | 5.9 | LOW | 0.0 | Pass |
-| 250 | SNPS | 5.9 | LOW | 0.0 | Pass |
-| 251 | WSM | 5.9 | LOW | 0.0 | Pass |
-| 252 | ABT | 5.8 | LOW | 0.0 | Pass |
-| 253 | AWK | 5.8 | LOW | 0.0 | Pass |
-| 254 | APA | 5.8 | LOW | 0.0 | Pass |
-| 255 | ADP | 5.8 | LOW | 0.0 | Pass |
-| 256 | CSCO | 5.8 | LOW | 0.0 | Pass |
-| 257 | ED | 5.8 | LOW | 0.0 | Pass |
-| 258 | DVN | 5.8 | LOW | 0.0 | Pass |
-| 259 | EME | 5.8 | LOW | 0.0 | Pass |
-| 260 | XOM | 5.8 | LOW | 0.0 | Pass |
-| 261 | BEN | 5.8 | LOW | 0.0 | Pass |
-| 262 | NEM | 5.8 | LOW | 0.0 | Pass |
+| 247 | REG | 5.9 | LOW | 0.0 | Pass |
+| 248 | HOOD | 5.9 | LOW | 0.0 | Pass |
+| 249 | SNPS | 5.9 | LOW | 0.0 | Pass |
+| 250 | WSM | 5.9 | LOW | 0.0 | Pass |
+| 251 | ABT | 5.8 | LOW | 0.0 | Pass |
+| 252 | AWK | 5.8 | LOW | 0.0 | Pass |
+| 253 | APA | 5.8 | LOW | 0.0 | Pass |
+| 254 | ADP | 5.8 | LOW | 0.0 | Pass |
+| 255 | CSCO | 5.8 | LOW | 0.0 | Pass |
+| 256 | ED | 5.8 | LOW | 0.0 | Pass |
+| 257 | DVN | 5.8 | LOW | 0.0 | Pass |
+| 258 | EME | 5.8 | LOW | 0.0 | Pass |
+| 259 | XOM | 5.8 | LOW | 0.0 | Pass |
+| 260 | BEN | 5.8 | LOW | 0.0 | Pass |
+| 261 | NEM | 5.8 | LOW | 0.0 | Pass |
+| 262 | PCG | 5.8 | LOW | 0.0 | Pass |
 | 263 | SPGI | 5.8 | LOW | 0.0 | Pass |
 | 264 | SJM | 5.8 | LOW | 0.0 | Pass |
 | 265 | STT | 5.8 | LOW | 0.0 | Pass |
@@ -405,22 +405,22 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 399 | TTWO | 4.8 | LOW | 0.0 | Pass |
 | 400 | TGT | 4.8 | LOW | 0.0 | Pass |
 | 401 | BKR | 4.7 | LOW | 0.0 | Pass |
-| 402 | CDW | 4.7 | LOW | 0.0 | Pass |
-| 403 | DLR | 4.7 | LOW | 0.0 | Pass |
-| 404 | EW | 4.7 | LOW | 0.0 | Pass |
-| 405 | IQV | 4.7 | LOW | 0.0 | Pass |
-| 406 | MPC | 4.7 | LOW | 0.0 | Pass |
-| 407 | MPWR | 4.7 | LOW | 0.0 | Pass |
-| 408 | OMC | 4.7 | LOW | 0.0 | Pass |
-| 409 | PKG | 4.7 | LOW | 0.0 | Pass |
-| 410 | PLD | 4.7 | LOW | 0.0 | Pass |
-| 411 | DGX | 4.7 | LOW | 0.0 | Pass |
-| 412 | SWK | 4.7 | LOW | 0.0 | Pass |
-| 413 | TER | 4.7 | LOW | 0.0 | Pass |
-| 414 | TXN | 4.7 | LOW | 0.0 | Pass |
-| 415 | CARR | 4.6 | LOW | 0.0 | Pass |
-| 416 | CI | 4.6 | LOW | 0.0 | Pass |
-| 417 | CTSH | 4.6 | LOW | 0.0 | Pass |
+| 402 | CARR | 4.7 | LOW | 0.0 | Pass |
+| 403 | CDW | 4.7 | LOW | 0.0 | Pass |
+| 404 | CTSH | 4.7 | LOW | 0.0 | Pass |
+| 405 | DLR | 4.7 | LOW | 0.0 | Pass |
+| 406 | EW | 4.7 | LOW | 0.0 | Pass |
+| 407 | IQV | 4.7 | LOW | 0.0 | Pass |
+| 408 | MPC | 4.7 | LOW | 0.0 | Pass |
+| 409 | MPWR | 4.7 | LOW | 0.0 | Pass |
+| 410 | OMC | 4.7 | LOW | 0.0 | Pass |
+| 411 | PKG | 4.7 | LOW | 0.0 | Pass |
+| 412 | PLD | 4.7 | LOW | 0.0 | Pass |
+| 413 | DGX | 4.7 | LOW | 0.0 | Pass |
+| 414 | SWK | 4.7 | LOW | 0.0 | Pass |
+| 415 | TER | 4.7 | LOW | 0.0 | Pass |
+| 416 | TXN | 4.7 | LOW | 0.0 | Pass |
+| 417 | CI | 4.6 | LOW | 0.0 | Pass |
 | 418 | EXPD | 4.6 | LOW | 0.0 | Pass |
 | 419 | FIS | 4.6 | LOW | 0.0 | Pass |
 | 420 | HII | 4.6 | LOW | 0.0 | Pass |
@@ -484,15 +484,15 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 | 478 | UNH | 3.8 | AVOID | -0.22 | Avoid |
 | 479 | VTR | 3.8 | AVOID | -0.22 | Avoid |
 | 480 | ADM | 3.7 | AVOID | -0.22 | Avoid |
-| 481 | CPT | 3.7 | AVOID | -0.22 | Avoid |
-| 482 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
-| 483 | DOW | 3.7 | AVOID | -0.22 | Avoid |
-| 484 | SBUX | 3.7 | AVOID | -0.22 | Avoid |
-| 485 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
-| 486 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
-| 487 | COIN | 3.6 | AVOID | -0.23 | Avoid |
-| 488 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
-| 489 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
+| 481 | CVNA | 3.7 | AVOID | -0.22 | Avoid |
+| 482 | DOW | 3.7 | AVOID | -0.22 | Avoid |
+| 483 | SBUX | 3.7 | AVOID | -0.22 | Avoid |
+| 484 | TSLA | 3.7 | AVOID | -0.22 | Avoid |
+| 485 | CBRE | 3.6 | AVOID | -0.23 | Avoid |
+| 486 | COIN | 3.6 | AVOID | -0.23 | Avoid |
+| 487 | HSIC | 3.6 | AVOID | -0.23 | Avoid |
+| 488 | MRVL | 3.6 | AVOID | -0.23 | Avoid |
+| 489 | CPT | 3.5 | AVOID | -0.24 | Avoid |
 | 490 | CRWD | 3.5 | AVOID | -0.24 | Avoid |
 | 491 | EQIX | 3.5 | AVOID | -0.24 | Avoid |
 | 492 | DOC | 3.5 | AVOID | -0.24 | Avoid |
@@ -510,24 +510,25 @@ Today's market presents a discerning landscape, with Mr. Market exhibiting both 
 
 ## Top 5 Deep Dives
 
----
-### NVDA
-Technology Disruption, with a 25% probability and -35% impact on intrinsic value, represents a material inversion killer. Management/Governance Failure, at a 15% probability and -20% impact, is also a significant concern, although not deemed material. NVDA earns an "Own Forever" verdict due to its exceptional quality (51.3% average ROIC, 75% gross margin) and a powerful 9.5/10 moat, alongside a deeply attractive P/E of 14.9x, despite Mr. Market being greedy.
+### NVDA (Score: 9.0)
+NVDA faces a material risk from technology disruption, with a 25% probability of a -35% impact on future value, as new competitive leaps in semiconductors could erode its leading position. Despite this, NVDA garners an "Own Forever" verdict due to its exceptional quality (51.3% Avg ROIC, 75% Gross Margin) and a near-perfect moat score of 9.5/10, driven by its 75% gross margin and 106% revenue growth. While Mr. Market is greedy with the stock near its 52-week high, the deep value P/E of 14.8x and a potent "Lollapalooza Effect" of four aligning forces reinforce high conviction.
 
----
-### APP
-Technology Disruption (10% probability, -15% FV impact) and Debt Spiral (5% probability, -10% FV impact) are identified inversion killers, neither of which are deemed material. APP secures an "Own Forever" verdict, driven by its superb valuation (P/E 15.3x, near 52-week low) and a formidable 9.5/10 moat with 88% gross margin and 78% operating margin, indicating Mr. Market is currently fearful.
+### APP (Score: 8.8)
+APP does not have any material inversion killers, with low disruption risks for its sector and robust insider ownership of 14.3% mitigating governance concerns. Its "Own Forever" verdict is based on a strong 8.8 score, featuring high quality (26.2% Avg ROIC, 88% Gross Margin) and a formidable moat (88% Gross Margin, 78% Operating Margin, 53% revenue growth). The current market presents a "fearful" Mr. Market (5% of 52w range) and a fair P/E of 15.3x, presenting a compelling valuation opportunity with a thin 1% margin of safety.
 
----
-### GOOGL
-Technology Disruption (10% probability, -15% FV impact) and Management/Governance Failure (15% probability, -20% FV impact) pose inversion risks, with neither reaching the material threshold. GOOGL is an "Own Forever" pick due to its outstanding quality (9.5/10 pillar score, 24.9% average ROIC, 61% gross margin) and a durable 9.5/10 moat, complemented by a substantial 47% margin of safety, despite Mr. Market being neutral.
+### GOOGL (Score: 8.7)
+GOOGL shows no material inversion killers, with technology disruption, debt spirals, and management issues deemed non-material threats. The stock is rated "Own Forever" due to its exceptional quality (9.5/10, with 24.9% Avg ROIC and 61% Gross Margin) and a strong moat (9.5/10, with 61% Gross Margin and 24% revenue growth). Despite a growth premium P/E of 22.8x, a substantial 47% margin of safety exists, supported by the Lollapalooza effect and neutral Mr. Market sentiment.
 
----
-### GOOG
-Management/Governance Failure stands out as a material inversion killer, with a 20% probability and -30% impact on intrinsic value. Technology Disruption (10% probability, -15% FV impact) is a secondary, non-material concern. GOOG receives an "Own Forever" verdict based on its high quality (9.5/10 pillar score, 24.9% average ROIC, 61% gross margin) and robust 9.5/10 moat, further supported by a significant 47% margin of safety, with Mr. Market signaling neutral sentiment.
+### GOOG (Score: 8.7)
+GOOG faces a material risk from management/governance failure, with a 20% probability of a -30% impact on future value, primarily due to low insider ownership of 0.5%. Nevertheless, it earns an "Own Forever" verdict with high quality (24.9% Avg ROIC, 61% Gross Margin) and a robust moat (61% Gross Margin, 34% Operating Margin, 24% revenue growth), mirroring GOOGL's core business strength. A large 47% margin of safety (IV $499 vs $335 at 25x) provides significant downside protection, while the stock trades at a growth premium P/E of 22.6x under a neutral Mr. Market.
+
+### ROL (Score: 8.6)
+Detailed reports for ROL are not available, thus specific inversion killers and rationale cannot be provided. It holds an "Own Forever" verdict based on its high overall score and high conviction.
 
 ## Munger Inversion Alert
-Based on the provided detail reports for the top 4 companies, no names in the top 20 have 2 or more material inversion killers.
+
+No names in the provided top 4 detailed reports (NVDA, APP, GOOGL, GOOG) have 2 or more *material* inversion killers identified. NVDA and GOOG each have one material killer (Technology Disruption for NVDA, Management/Governance Failure for GOOG), while APP and GOOGL have none.
 
 ## Bottom Line
-APP presents the best risk-adjusted opportunity today, driven by its strong fundamentals and Mr. Market's current fearful sentiment.
+
+APP represents today's single best risk-adjusted name, presenting a high-quality business with a formidable moat, no material inversion killers, and a fearful Mr. Market offering a fair valuation.

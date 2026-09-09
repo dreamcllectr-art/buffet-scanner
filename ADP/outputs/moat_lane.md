@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ADP
-*Generated: 2026-09-08 08:46 | Price: $277.62 | Mkt Cap: $110B*
+*Generated: 2026-09-09 08:52 | Price: $267.96 | Mkt Cap: $106B*
 
 ## Sector Context
 Technology / Software - Application
@@ -23,32 +23,32 @@ Technology / Software - Application
 | Quality | 6.5/10 | 30% | 1.9 | ROIC declining trend; Avg ROIC: 46.7% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 41% (moderate cyclicality); FCF/NI: 105% (strong); Gross margin: 49% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 49% — moderate moat for Technology; Operating margin 23% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.7x — growth premium; 52w range position: 81%; Owner earnings yield: 4.8%; Earnings yield < 7% — tight vs index | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 8.5/10 | 20% | 1.7 | P/E 20.0x — fair price; 52w range position: 72%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 5.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -33% — ABSENT ($278 > IV $186 at 17x for 10% growth)
-- **Lollapalooza Effect**: No (0 forces only: none)
+- **Margin of Safety**: -31% — ABSENT ($268 > IV $186 at 17x for 10% growth)
+- **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.2% insider ownership
 - **Mr. Market**: Neutral
 
 ## Lollapalooza Check
-No (0 forces only: none)
+No (1 forces only: attractive valuation)
 
 ---
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.13 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: VTRS
-*Generated: 2026-09-08 08:52 | Price: $16.88 | Mkt Cap: $19B*
+*Generated: 2026-09-09 08:58 | Price: $16.61 | Mkt Cap: $19B*
 
 ## Sector Context
 Healthcare / Drug Manufacturers - Specialty & Generic
@@ -23,7 +23,7 @@ Healthcare / Drug Manufacturers - Specialty & Generic
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -0.1% (4y); Earnings: 3/3 down-years (unpredictable); NI drawdown: 269% from prior peak; 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 1003% (strong); Gross margin: 40% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); No insider transaction data; Restricted stock: 0.6% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 40% — moderate moat for Healthcare; Operating margin 13% | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.3x — deep value; 52w range position: 83%; Owner earnings yield: 13.8% (>5%) | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.2x — deep value; 52w range position: 80%; Owner earnings yield: 14.0% (>5%) | - |
 | **TOTAL** | **4.6/10** | **100%** | **4.6** | | |
 
 ## Buffett Score: 4.6 / 10

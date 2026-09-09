@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: ECHO
-*Generated: 2026-09-08 08:47 | Price: $89.8 | Mkt Cap: $26B*
+*Generated: 2026-09-09 08:53 | Price: $93.42 | Mkt Cap: $27B*
 
 ## Sector Context
 Communication Services / Telecom Services
@@ -23,7 +23,7 @@ Communication Services / Telecom Services
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -10.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 685% from prior peak; 5y price drawdown: 68% (severe cyclicality); FCF/NI: 213% (strong); Gross margin: 30% (below Communication Services norm) | ROIC declining |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 13.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.6% of shares (SBC concern) | - |
 | Moat | 3.5/10 | 25% | 0.9 | Gross margin 30% — below Communication Services moderate cutoff 40%; Operating margin 14% — thin for Communication Services | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 5.7x — deep value; Near 52w low (30% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 6.0x — deep value; 52w range position: 34% | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -39,7 +39,7 @@ Communication Services / Telecom Services
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Aligned — 13.1% insider ownership
-- **Mr. Market**: Fearful — potential opportunity
+- **Mr. Market**: Neutral
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

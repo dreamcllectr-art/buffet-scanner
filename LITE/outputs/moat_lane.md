@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: LITE
-*Generated: 2026-09-08 08:48 | Price: $881.255 | Mkt Cap: $79B*
+*Generated: 2026-09-09 08:54 | Price: $978.535 | Mkt Cap: $88B*
 
 ## Sector Context
 Technology / Communication Equipment
@@ -23,11 +23,11 @@ Technology / Communication Equipment
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: -25.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 26876% from prior peak; 5y price drawdown: 66% (severe cyclicality); FCF/NI: -107% (weak conversion); Gross margin: 44% | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 7.0/10 | 25% | 1.8 | Gross margin 44% — moderate moat for Technology; Operating margin 28%; Rev growth 109% — demand pull | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 26.5x — growth premium; 52w range position: 78%; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | - |
-| **TOTAL** | **3.9/10** | **100%** | **3.9** | | |
+| Valuation Fit | 4.5/10 | 20% | 0.9 | P/E 29.4x — growth premium; Near 52w high (89% of range) — Mr. Market greedy; Owner earnings yield: 0.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| **TOTAL** | **3.6/10** | **100%** | **3.6** | | |
 
-## Buffett Score: 3.9 / 10
-## Alpha Adjustment: -0.21
+## Buffett Score: 3.6 / 10
+## Alpha Adjustment: -0.23
 ## Conviction: AVOID
 ## Verdict: Avoid
 
@@ -39,7 +39,7 @@ Technology / Communication Equipment
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: secular growth)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Greedy — exercise caution
 
 ## Lollapalooza Check
 No (1 forces only: secular growth)
@@ -48,7 +48,7 @@ No (1 forces only: secular growth)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: -0.21 applied to composite alpha score
+Buffett Premium: -0.23 applied to composite alpha score
 Conviction Gate: AVOID — Do not initiate position
 Half-life adjustment: N/A
 ```

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SYY
-*Generated: 2026-09-08 08:52 | Price: $80.05 | Mkt Cap: $38B*
+*Generated: 2026-09-09 08:58 | Price: $79.84 | Mkt Cap: $38B*
 
 ## Sector Context
 Consumer Defensive / Food Distribution
@@ -23,7 +23,7 @@ Consumer Defensive / Food Distribution
 | Quality | 4.7/10 | 30% | 1.4 | Avg ROIC: 16.6% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 27% (stable); FCF/NI: 106% (strong); Gross margin: 18% (thin by design for Food Distribution) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.2% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.3% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | ROA 8% / ROE 78% — scale moat (Food Distribution); Operating margin 5% — thin for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.9x — deep value; 52w range position: 50%; Owner earnings yield: 5.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.8x — deep value; 52w range position: 49%; Owner earnings yield: 5.0% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
 ## Buffett Score: 6.3 / 10

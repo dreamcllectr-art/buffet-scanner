@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: JKHY
-*Generated: 2026-09-08 08:48 | Price: $165.64 | Mkt Cap: $12B*
+*Generated: 2026-09-09 08:54 | Price: $159.83 | Mkt Cap: $11B*
 
 ## Sector Context
 Technology / Information Technology Services
@@ -20,10 +20,10 @@ Technology / Information Technology Services
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 38% (stable); FCF/NI: 82% (strong); Gross margin: 44% | - |
+| Quality | 8.5/10 | 30% | 2.5 | Avg ROIC: 22.0% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 82% (strong); Gross margin: 44% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.6% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.7% (low) | - |
 | Moat | 6.5/10 | 25% | 1.6 | Gross margin 44% — moderate moat for Technology; Operating margin 23% | - |
-| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 21.1x — growth premium; 52w range position: 62%; Owner earnings yield: 3.0%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 6.0/10 | 20% | 1.2 | P/E 20.4x — growth premium; 52w range position: 54%; Owner earnings yield: 3.1%; Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **6.4/10** | **100%** | **6.4** | | |
 
 ## Buffett Score: 6.4 / 10
@@ -36,7 +36,7 @@ Technology / Information Technology Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Information Technology Services
-- **Margin of Safety**: -37% — ABSENT ($166 > IV $105 at 15x for -10% growth)
+- **Margin of Safety**: -35% — ABSENT ($160 > IV $105 at 15x for -10% growth)
 - **Lollapalooza Effect**: No (1 forces only: high quality)
 - **Incentive-Caused Bias**: Weak alignment — only 0.6% insider ownership
 - **Mr. Market**: Neutral

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FICO
-*Generated: 2026-09-08 08:47 | Price: $932.26 | Mkt Cap: $20B*
+*Generated: 2026-09-09 08:53 | Price: $933.3 | Mkt Cap: $20B*
 
 ## Sector Context
 Technology / Software - Application
@@ -36,7 +36,7 @@ Technology / Software - Application
 ## Mental Models Applied
 
 - **Circle of Competence**: Technology / Software - Application
-- **Margin of Safety**: -8% — ABSENT ($932 > IV $862 at 25x for 25% growth)
+- **Margin of Safety**: -8% — ABSENT ($933 > IV $862 at 25x for 25% growth)
 - **Lollapalooza Effect**: YES — 4 forces aligning: high quality, strong moat, attractive valuation, secular growth
 - **Incentive-Caused Bias**: Weak alignment — only 3.0% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NCLH
-*Generated: 2026-09-08 08:48 | Price: $15.57 | Mkt Cap: $7B*
+*Generated: 2026-09-09 08:55 | Price: $15.39 | Mkt Cap: $7B*
 
 ## Sector Context
 Consumer Cyclical / Travel Services
@@ -23,7 +23,7 @@ Consumer Cyclical / Travel Services
 | Quality | 0.5/10 | 30% | 0.1 | Avg ROIC: 2.8% (4y); Earnings: 1 down-year in 3 transitions; NI drawdown: 54% from prior peak; 5y price drawdown: 64% (severe cyclicality); FCF/NI: -141% (weak conversion); Gross margin: 42% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.5% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.8% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 42% — moderate moat for Consumer Cyclical; Operating margin 14% — durable for Consumer Cyclical | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.2x — deep value; Near 52w low (8% of range) — Mr. Market fearful | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 9.1x — deep value; Near 52w low (7% of range) — Mr. Market fearful | - |
 | **TOTAL** | **5.0/10** | **100%** | **5.0** | | |
 
 ## Buffett Score: 5.0 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Travel Services
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Travel Services
-- **Margin of Safety**: 165% — PRESENT (IV $41 vs $16 at 25x)
+- **Margin of Safety**: 168% — PRESENT (IV $41 vs $15 at 25x)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.5% insider ownership
 - **Mr. Market**: Fearful — potential opportunity

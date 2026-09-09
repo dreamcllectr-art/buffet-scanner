@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: TRMB
-*Generated: 2026-09-08 08:52 | Price: $59.47 | Mkt Cap: $14B*
+*Generated: 2026-09-09 08:58 | Price: $58.78 | Mkt Cap: $14B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 0.0/10 | 30% | 0.0 | ROIC declining trend; Avg ROIC: 11.0% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 72% from prior peak; 5y price drawdown: 57% (severe cyclicality); FCF/NI: 93% (strong); Gross margin: 72% (pricing power for Technology) | ROIC declining |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.5% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 72% vs sector strong cutoff 60% — strong pricing power; Operating margin 15% — thin for Technology | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.4x — deep value; 52w range position: 32%; Owner earnings yield: 4.9%; Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.3x — deep value; Near 52w low (30% of range) — Mr. Market fearful; Owner earnings yield: 5.0% (>5%) | - |
 | **TOTAL** | **4.9/10** | **100%** | **4.9** | | |
 
 ## Buffett Score: 4.9 / 10
@@ -39,7 +39,7 @@ Technology / Scientific & Technical Instruments
 - **Margin of Safety**: Cannot calculate (no positive EPS)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.4% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: FTV
-*Generated: 2026-09-08 08:47 | Price: $56.94 | Mkt Cap: $17B*
+*Generated: 2026-09-09 08:53 | Price: $56.51 | Mkt Cap: $17B*
 
 ## Sector Context
 Technology / Scientific & Technical Instruments
@@ -23,7 +23,7 @@ Technology / Scientific & Technical Instruments
 | Quality | 2.5/10 | 30% | 0.8 | Avg ROIC: 4.7% (4y); Earnings: 2/3 down-years (unpredictable); NI drawdown: 33% from prior peak; 5y price drawdown: 32% (stable); FCF/NI: 172% (strong); Gross margin: 63% (pricing power for Technology) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.4% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 7.0% of shares (SBC concern) | - |
 | Moat | 8.0/10 | 25% | 2.0 | Gross margin 63% vs sector strong cutoff 60% — strong pricing power; Operating margin 19% | - |
-| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.5x — fair price; 52w range position: 57%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
+| Valuation Fit | 9.5/10 | 20% | 1.9 | P/E 17.4x — fair price; 52w range position: 53%; Owner earnings yield: 5.5% (>5%); Earnings yield < 7% — tight vs index | - |
 | **TOTAL** | **5.5/10** | **100%** | **5.5** | | |
 
 ## Buffett Score: 5.5 / 10

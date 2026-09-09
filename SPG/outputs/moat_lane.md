@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: SPG
-*Generated: 2026-09-08 08:51 | Price: $209.44 | Mkt Cap: $80B*
+*Generated: 2026-09-09 08:58 | Price: $211.88 | Mkt Cap: $80B*
 
 ## Sector Context
 Real Estate / REIT - Retail
@@ -20,10 +20,10 @@ Real Estate / REIT - Retail
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 6.6/10 | 30% | 2.0 | Avg ROIC: 11.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 46% (moderate cyclicality); FCF/NI: 120% (strong); Gross margin: 81% (pricing power for Real Estate) | - |
+| Quality | 7.1/10 | 30% | 2.1 | Avg ROIC: 11.1% (4y); Earnings: 3/3 up-years (monotonic); 5y price drawdown: 0% (stable); FCF/NI: 120% (strong); Gross margin: 81% (pricing power for Real Estate) | - |
 | Management | 5.5/10 | 25% | 1.4 | Insider ownership: 1.8% (low); Insider activity: 0B/0S last 6m; Restricted stock: 1.1% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 81% vs sector strong cutoff 55% — strong pricing power; Operating margin 46% — durable for Real Estate | - |
-| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.3x — expensive; 52w range position: 56%; Owner earnings yield: 3.3%; Earnings yield < 4% — worse than bonds | Expensive |
+| Valuation Fit | 3.5/10 | 20% | 0.7 | P/E 31.7x — expensive; 52w range position: 60%; Owner earnings yield: 3.2%; Earnings yield < 4% — worse than bonds | Expensive |
 | **TOTAL** | **6.0/10** | **100%** | **6.0** | | |
 
 ## Buffett Score: 6.0 / 10
@@ -36,7 +36,7 @@ Real Estate / REIT - Retail
 ## Mental Models Applied
 
 - **Circle of Competence**: Real Estate / REIT - Retail
-- **Margin of Safety**: 2% — thin (IV $213 at 15x)
+- **Margin of Safety**: 0% — thin (IV $213 at 15x)
 - **Lollapalooza Effect**: No (1 forces only: strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 1.8% insider ownership
 - **Mr. Market**: Neutral

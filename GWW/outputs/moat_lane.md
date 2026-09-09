@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: GWW
-*Generated: 2026-09-08 08:52 | Price: $1324.49 | Mkt Cap: $62B*
+*Generated: 2026-09-09 08:58 | Price: $1289.17 | Mkt Cap: $61B*
 
 > ⚠ DATA: yfinance misclassified Vanguard Capital Management LLC (6.1% inst.) as insider
 
@@ -25,7 +25,7 @@ Industrials / Industrial Distribution
 | Quality | 8.0/10 | 30% | 2.4 | Avg ROIC: 35.3% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 25% (stable); FCF/NI: 79%; Gross margin: 39% (pricing power for Industrials) | - |
 | Management | 3.5/10 | 25% | 0.9 | Insider ownership: 0.0% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 8.5% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 39% vs sector strong cutoff 35% — strong pricing power; Operating margin 16% — durable for Industrials | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.9x — growth premium; 52w range position: 81%; Owner earnings yield: 2.0%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.3x — growth premium; 52w range position: 75%; Owner earnings yield: 2.1%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **6.6/10** | **100%** | **6.6** | | |
 
 ## Buffett Score: 6.6 / 10
@@ -38,7 +38,7 @@ Industrials / Industrial Distribution
 ## Mental Models Applied
 
 - **Circle of Competence**: Industrials / Industrial Distribution
-- **Margin of Safety**: -26% — ABSENT ($1324 > IV $980 at 25x for 20% growth)
+- **Margin of Safety**: -24% — ABSENT ($1289 > IV $980 at 25x for 20% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Weak alignment — only 0.0% insider ownership
 - **Mr. Market**: Neutral

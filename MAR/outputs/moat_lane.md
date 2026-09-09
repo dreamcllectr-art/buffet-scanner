@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: MAR
-*Generated: 2026-09-08 08:48 | Price: $336.51 | Mkt Cap: $88B*
+*Generated: 2026-09-09 08:54 | Price: $328.79 | Mkt Cap: $86B*
 
 ## Sector Context
 Consumer Cyclical / Lodging
@@ -23,7 +23,7 @@ Consumer Cyclical / Lodging
 | Quality | 9.0/10 | 30% | 2.7 | Avg ROIC: 26.8% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 31% (stable); FCF/NI: 90% (strong); Gross margin: 79% (pricing power for Consumer Cyclical) | - |
 | Management | 8.5/10 | 25% | 2.1 | Insider ownership: 18.1% (>10%); Insider activity: 0B/0S last 6m; Restricted stock: 13.6% of shares (SBC concern) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 79% vs sector strong cutoff 45% — strong pricing power; Operating margin 65% — durable for Consumer Cyclical | - |
-| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.6x — growth premium; 52w range position: 52%; Owner earnings yield: 2.3%; Earnings yield < 4% — worse than bonds | - |
+| Valuation Fit | 5.5/10 | 20% | 1.1 | P/E 25.0x — growth premium; 52w range position: 47%; Owner earnings yield: 2.4%; Earnings yield < 4% — worse than bonds | - |
 | **TOTAL** | **8.2/10** | **100%** | **8.2** | | |
 
 ## Buffett Score: 8.2 / 10
@@ -36,7 +36,7 @@ Consumer Cyclical / Lodging
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Cyclical / Lodging
-- **Margin of Safety**: -57% — ABSENT ($337 > IV $145 at 15x for 4% growth)
+- **Margin of Safety**: -56% — ABSENT ($329 > IV $145 at 15x for 4% growth)
 - **Lollapalooza Effect**: No (2 forces only: high quality, strong moat)
 - **Incentive-Caused Bias**: Aligned — 18.1% insider ownership
 - **Mr. Market**: Neutral

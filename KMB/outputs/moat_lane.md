@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: KMB
-*Generated: 2026-09-08 08:48 | Price: $104.96 | Mkt Cap: $35B*
+*Generated: 2026-09-09 08:54 | Price: $102.93 | Mkt Cap: $34B*
 
 ## Sector Context
 Consumer Defensive / Household & Personal Products
@@ -23,7 +23,7 @@ Consumer Defensive / Household & Personal Products
 | Quality | 5.5/10 | 30% | 1.6 | Avg ROIC: 21.7% (4y); Earnings: 2/3 down-years (unpredictable); 5y price drawdown: 34% (stable); FCF/NI: 108% (strong); Gross margin: 38% | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.7% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.4% (low) | - |
 | Moat | 7.5/10 | 25% | 1.9 | Gross margin 38% — moderate moat for Consumer Defensive; Operating margin 19% — durable for Consumer Defensive | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 14.0x — deep value; 52w range position: 32%; Owner earnings yield: 2.7% | - |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 13.7x — deep value; Near 52w low (27% of range) — Mr. Market fearful; Owner earnings yield: 2.7% | - |
 | **TOTAL** | **6.5/10** | **100%** | **6.5** | | |
 
 ## Buffett Score: 6.5 / 10
@@ -36,10 +36,10 @@ Consumer Defensive / Household & Personal Products
 ## Mental Models Applied
 
 - **Circle of Competence**: Consumer Defensive / Household & Personal Products
-- **Margin of Safety**: -28% — ABSENT ($105 > IV $76 at 15x for -32% growth)
+- **Margin of Safety**: -26% — ABSENT ($103 > IV $76 at 15x for -32% growth)
 - **Lollapalooza Effect**: No (1 forces only: attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.7% insider ownership
-- **Mr. Market**: Neutral
+- **Mr. Market**: Fearful — potential opportunity
 
 ## Lollapalooza Check
 No (1 forces only: attractive valuation)

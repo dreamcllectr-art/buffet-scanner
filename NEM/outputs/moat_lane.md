@@ -1,5 +1,5 @@
 # Buffett/Munger Moat Lane: NEM
-*Generated: 2026-09-08 08:48 | Price: $128.09 | Mkt Cap: $135B*
+*Generated: 2026-09-09 08:55 | Price: $127.09 | Mkt Cap: $134B*
 
 ## Sector Context
 Basic Materials / Gold
@@ -20,23 +20,23 @@ Basic Materials / Gold
 
 | Pillar | Score | Weight | Weighted | Rationale | Inversion Flag |
 |--------|-------|--------|----------|-----------|----------------|
-| Quality | 2.0/10 | 30% | 0.6 | Avg ROIC: 7.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 62% (severe cyclicality); FCF/NI: -17% (weak conversion); Gross margin: 68% (pricing power for Basic Materials) | - |
+| Quality | 3.5/10 | 30% | 1.1 | Avg ROIC: 7.6% (4y); Earnings: 1 down-year in 3 transitions; 5y price drawdown: 0% (stable); FCF/NI: -17% (weak conversion); Gross margin: 68% (pricing power for Basic Materials) | - |
 | Management | 4.0/10 | 25% | 1.0 | Insider ownership: 0.3% (minimal); Insider activity: 0B/0S last 6m; Restricted stock: 0.2% (low) | - |
 | Moat | 9.0/10 | 25% | 2.2 | Gross margin 68% vs sector strong cutoff 30% — strong pricing power; Operating margin 52% — durable for Basic Materials | - |
-| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.7x — deep value; Near 52w high (88% of range) — Mr. Market greedy; Owner earnings yield: 6.5% (>5%) | - |
-| **TOTAL** | **5.8/10** | **100%** | **5.8** | | |
+| Valuation Fit | 10.0/10 | 20% | 2.0 | P/E 12.6x — deep value; Near 52w high (86% of range) — Mr. Market greedy; Owner earnings yield: 6.6% (>5%) | - |
+| **TOTAL** | **6.3/10** | **100%** | **6.3** | | |
 
-## Buffett Score: 5.8 / 10
-## Alpha Adjustment: +0.00
-## Conviction: LOW
-## Verdict: Pass
+## Buffett Score: 6.3 / 10
+## Alpha Adjustment: +0.13
+## Conviction: MODERATE
+## Verdict: Watchlist
 
 ---
 
 ## Mental Models Applied
 
 - **Circle of Competence**: Basic Materials / Gold
-- **Margin of Safety**: 24% — thin (IV $159 at 20x)
+- **Margin of Safety**: 25% — thin (IV $159 at 20x)
 - **Lollapalooza Effect**: No (2 forces only: strong moat, attractive valuation)
 - **Incentive-Caused Bias**: Weak alignment — only 0.3% insider ownership
 - **Mr. Market**: Greedy — exercise caution
@@ -48,7 +48,7 @@ No (2 forces only: strong moat, attractive valuation)
 
 ## Alpha Thesis Integration
 ```
-Buffett Premium: +0.00 applied to composite alpha score
-Conviction Gate: LOW — Do not initiate position
-Half-life adjustment: N/A
+Buffett Premium: +0.13 applied to composite alpha score
+Conviction Gate: MODERATE — Proceed
+Half-life adjustment: +20% decay if MODERATE
 ```
